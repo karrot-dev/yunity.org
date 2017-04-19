@@ -1,0 +1,55 @@
+home:
+  alias: '/blog'
+
+pages:
+  theme: twentyfifteen
+  process:
+    markdown: true
+    twig: false
+  markdown:
+    extra: true
+  dateformat:
+    default: 'd, Y'                          # The default date format Grav expects in the `date: ` field
+    short: 'Y-m-d'                    # Short date format
+    long: 'F jS \a\t g:ia'
+languages:
+  supported:
+    - en
+    - de
+    - es
+    - fr
+    - it
+    - nl
+    - el
+    - pl
+  http_accept_language: true
+  home_redirect:
+    include_lang: true
+    include_route: false
+  session_store_active: false
+
+cache:
+  enabled: false
+  check:
+    method: file
+  driver: auto
+  prefix: 'g'
+
+twig:
+  cache: true
+  debug: true
+  auto_reload: true
+  autoescape: false
+
+assets:
+  css_pipeline: false
+  css_minify: true
+  css_rewrite: true
+  js_pipeline: false
+  js_minify: true
+
+debugger:
+  enabled: false
+  twig: true
+  shutdown:
+    close_connection: true
