@@ -3,3 +3,4 @@ logs/*
 tmp/*
 vendor
 images/*
+node_modules

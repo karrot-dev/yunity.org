@@ -2,11 +2,16 @@
     <div class="menu-demo-menu-container">
         <ul id="menu-demo-menu" class="nav-menu">
             {% for page in pages.children %}
-                {% if page.visible %}
+                {% if page.visible and not page.header.menu_hide %}
                     {% set current_page = (page.active or page.activeChild) ? 'current' : '' %}
                         <li class="{{ current_page }}">
                             <a href="{{ page.url }}">
                                 {{ page.menu }}
+                                {% if page.header.menu_description %}
+                                    <div class="menu-item-description">
+                                      {{ page.header.menu_description }}
+                                    </div>
+                                {% endif %}
                             </a>
                         </li>
                     {% endif %}
@@ -23,4 +28,4 @@
                 {% endfor %}
             </ul>
         </div>
-    </nav>          
+    </nav>

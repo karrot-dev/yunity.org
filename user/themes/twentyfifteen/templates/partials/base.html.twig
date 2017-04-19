@@ -52,11 +52,13 @@
             </div>
         </div>
     {% endblock %}
-    <footer id="colophon" class="site-footer" role="contentinfo">
-        <div class="site-info">
-            <a href="http://getgrav.org/">{{ 'SITE.COPYRIGHT'|t("now"|date('Y')) }}</a>
-        </div>
-    </footer>
+    {% if false %}
+      <footer id="colophon" class="site-footer" role="contentinfo">
+          <div class="site-info">
+              <a href="http://getgrav.org/">{{ 'SITE.COPYRIGHT'|t("now"|date('Y')) }}</a>
+          </div>
+      </footer>
+    {% endif %}
 
 </div>
 

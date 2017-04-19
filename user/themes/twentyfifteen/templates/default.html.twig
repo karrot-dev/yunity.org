@@ -1,6 +1,12 @@
 {% extends 'partials/base.html.twig' %}
 {% block content %}
   <article class="post-2 page type-page status-publish hentry">
+    {% if false %}
+    <!-- have to add "has-post-thumbnail" to article class too -->
+    <div class="post-thumbnail">
+            {{ page.media.images|first.cropZoom(1038,437).html(page.title, page.title, 'attachment-post-thumbnail wp-post-image') }}
+    </div>
+    {% endif %}
     <header class="entry-header">
       <h1>{{ page.header.title }}</h1>
     </header>

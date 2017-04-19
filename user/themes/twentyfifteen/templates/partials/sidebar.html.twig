@@ -1,8 +1,12 @@
 <div id="sidebar" class="sidebar" >
     <header id="masthead" class="site-header" role="banner">
         <div class="site-branding">
-            <h1 class="site-title"><a href="{{ base_url_absolute }}">{{ 'SITE.TITLE'|t }}</a></h1>
-            <p class="site-description">{{ 'SITE.DESCRIPTION'|t }}</p>
+            <h1 class="site-title">
+              <a href="{{ base_url_absolute }}">
+                <img src="{{ url('theme://images/YunityPathLogo4.svg') }}" alt="yunity">
+              </a>
+            </h1>
+            <p>
             <button class="secondary-toggle">Menu and widgets</button>
         </div>
     </header>
@@ -29,7 +33,7 @@
                     <a href="{{ base_url_relative }}/random"><i class="fa fa-retweet"></i> I'm Feeling Lucky!</a>
                 </aside>
             {% endif %}
-            {% if config.plugins.archives.enabled %}
+            {% if config.plugins.archives.enabled and page.header.blog_url == 'heartbeat' %}
                 <aside class="widget widget_meta">
                     <h2 class="widget-title">{{ 'ARCHIVES'|t }}</h2>
                     {% include 'partials/archives.html.twig' %}

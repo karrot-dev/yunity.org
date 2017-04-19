@@ -1,210 +1,27 @@
 en:
   SITE:
-    TITLE: My Blog
-    DESCRIPTION: Blogging about stuff
-    COPYRIGHT: © Copyright %s Your Company
+    TITLE: yunity
+    DESCRIPTION: empty
+    COPYRIGHT:
   SUBSCRIBE: Subscribe
   MONTHS_OF_THE_YEAR: [January, February, March, April, May, June, July, August, September, October, November, December]
   DAYS_OF_THE_WEEK: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
   READ_MORE: Continue reading...
   RANDOM_ARTICLE: Random Article
   RELATED_POSTS: Related Posts
-  ARCHIVES: Archives
+  ARCHIVES: Archive
   POPULAR_TAGS: Popular Tags
   PUBLISHED_BY: Published by
   PREVIOUS: Previous
   NEXT: Next
   PAGE: Page
 
-el:
-  SITE:
-    TITLE: To blog μου
-    DESCRIPTION: Blogging για την ουσία
-    COPYRIGHT: © Δικαιώματα %s Η εταιρία σας
-  SUBSCRIBE: Εγγραφή
-  MONTHS_OF_THE_YEAR: [Ιανουάριος, Φεβρουάριος, Μάρτιος, Απρίλιος, Μάιος, Ιούνιος, Ιούλιος, Αύγουστος, Σεπτέμβριος, Οκτώβριος, Νοέμβριος, Δεκέμβριος]
-  DAYS_OF_THE_WEEK: [Δευτέρα, Τρλιτη, Τετάρτη, Πέμπτη, Παρασκευή, Σαββάτο, Κυριακή]
-
-es:
-  SITE:
-    TITLE: Mi Blog
-    DESCRIPTION: Blogeando sobre cosas
-    COPYRIGHT: © Copyright %s Tu Compañía
-  SUBSCRIBE: Suscribir
-  MONTHS_OF_THE_YEAR: [Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Augosto, Septiembre, Octubre, Noviembre, Diciembre]
-  DAYS_OF_THE_WEEK: [Lunes, Martes, Miércoles, Jueves, Viernes, Sábado, Domingo]
-
-cs:
-  SITE:
-    TITLE: Můj blog
-    DESCRIPTION: Blogování o všem možném
-    COPYRIGHT: © Copyright %s Moje společnost
-  SUBSCRIBE: Odebírat
-  MONTHS_OF_THE_YEAR: [Leden, Únor, Březen, Duben, Květen, Červen, Červenec, Srpen, Září, Říjen, Listopad, Prosinec]
-  DAYS_OF_THE_WEEK: [Pondělí, Úterý, Středa, Čtvrtek, Pátek, Sobota, Neděle]
 
 de:
   SITE:
-    TITLE: Mein Blog
-    DESCRIPTION: Blogging über dies und das
-    COPYRIGHT: © Copyright %s deine Firma
+    TITLE: yunity
+    DESCRIPTION:
+    COPYRIGHT:
   SUBSCRIBE: Abonnieren
   MONTHS_OF_THE_YEAR: [Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember]
   DAYS_OF_THE_WEEK: [Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag]
-
-it:
-  SITE:
-    TITLE: Il mio blog
-    DESCRIPTION: Blogging su questo e su quello
-    COPYRIGHT: Tutti i diritti riservati © %s Società
-  SUBSCRIBE: Abbonati
-  MONTHS_OF_THE_YEAR: [Gennaio, Febbraio, Marzo, Aprile, Maggio, Giugno, Luglio, Agosto, Settembre, Ottobre, Novembre, Dicembre]
-  DAYS_OF_THE_WEEK: [Lunedi, Martedi, Mercoledi, Giovedi, Venerdi, Sabato, Domenica]
-
-fi:
-  SITE:
-    TITLE: Minun blogini
-    DESCRIPTION: Bloggaan
-    COPYRIGHT: © Tekijänoikeus %s Oma Yritys
-  SUBSCRIBE: Tilaa
-  MONTHSOFTHE_YEAR: [Tammikuu, Helmikuu, Maaliskuu, Huhtikuu, Toukokuu, Kesäkuu, Heinäkuu, Elokuu, Syyskuu, Lokakuu, Marraskuu, Joulukuu]
-  DAYSOFTHE_WEEK: [Maanantai, Tiistai, Keskiviikko, Torstai, Perjantai, Lauantai, Sunnuntai]
-
-fr:
-  SITE:
-    TITLE: Mon blogue
-    DESCRIPTION: Un blogue sur tout et rien
-    COPYRIGHT: Tous droits réservés © %s Votre Entreprise
-  SUBSCRIBE: Abonnez-vous
-  MONTHS_OF_THE_YEAR: [Janvier, Février, Mars, Avril, Mai, Juin, Juillet, Août, Septembre, Octobre, Novembre, Décembre]
-  DAYS_OF_THE_WEEK: [Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche]
-  READ_MORE: Continuer la lecture...
-  RANDOM_ARTICLE: Article aléatoire
-  RELATED_POSTS: Posts en relation
-  ARCHIVES: Archives
-  POPULAR_TAGS: Tags populaires
-  PUBLISHED_BY: Publié par
-  PREVIOUS: Précédent
-  NEXT: Suivant
-  PAGE: Page
-
-nl:
-  SITE:
-      TITLE: Mijn Blog
-      DESCRIPTION: Bloggen over vanalles en nog wat
-      COPYRIGHT: Copyright © %s Uw Bedrijf
-  SUBSCRIBE: Abonneren
-  MONTHS_OF_THE_YEAR: [Januari, Februari, Maart, April, Mei, Juni, Juli, Augustus, September, Oktober, November, December]
-  DAYS_OF_THE_WEEK: [Maandag, Dinsdag, Woensdag, Donderdag, Vrijdag, Zaterdag, Zondag]
-
-nb:
-  SITE:
-    TITLE: Min Blogg
-    DESCRIPTION: Blog om ting og tang
-    COPYRIGHT: © Opphavsrett %s Ditt Selskap
-  SUBSCRIBE: Abonner
-  MONTHS_OF_THE_YEAR: [januar, februar, mars, april, mai, juni, juli, august, september, oktober, november, desember]
-  DAYS_OF_THE_WEEK: [mandag, tirsdag, onsdag, torsdag, fredag, lørdag, søndag]
-
-pl:
-  SITE:
-    TITLE: Mój blog
-    DESCRIPTION: Blog o wszystkim
-    COPYRIGHT: © Copyright %s Twoja firma
-  SUBSCRIBE: Subskrypcja
-  MONTHS_OF_THE_YEAR: [Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, Wrzesień, Październik, Listopad, Grudzień]
-  DAYS_OF_THE_WEEK: [Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota, Niedziela]
-  READ_MORE: Czytaj dalej
-  RANDOM_ARTICLE: Losowy artykuł
-  RELATED_POSTS: Powiązane artykuły
-  ARCHIVES: Archiwum
-  POPULAR_TAGS: Popularne tagi
-  SYNDICATE: Kanały RSS
-  PUBLISHED_BY: Opublikowany przez
-  PREVIOUS: Poprzedni
-  NEXT: Następny
-  PAGE: Strona
-
-pt:
-  SITE:
-    TITLE: O meu blog
-    DESCRIPTION: Blogando sobre coisas
-    COPYRIGHT: © Copyright %s Empresa
-  SUBSCRIBE: Subscrever
-  MONTHS_OF_THE_YEAR: [Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Dezembro]
-  DAYS_OF_THE_WEEK: [Segunda, Terça, Quarta, Quinta, Sexta, Sábado, Domingo]
-
-ro:
-  SITE:
-    TITLE: Blog-ul meu
-    DESCRIPTION: Blogging despre diferite lucruri
-    COPYRIGHT: © Copyright %s Compania ta
-  SUBSCRIBE: Abonează-te
-  TWEET: Tweet
-  SHARE: Distribuie
-  MONTHS_OF_THE_YEAR: [Ianuarie, Februarie, Martie, Aprilue, Mai, Iunie, Iulie, August, Septembrie, Octombrie, Noiembrie, Decembrie]
-  DAYS_OF_THE_WEEK: [Luni, Marti, Miercuri, Joi, Vineri, Sâmbătă, Duminică]
-
-ru:
-  SITE:
-    TITLE: Мой блог
-    DESCRIPTION: Блог о разном
-    COPYRIGHT: © Все права защищены %s Ваша компания
-  SUBSCRIBE: Подписаться
-  MONTHS_OF_THE_YEAR: [Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь]
-  DAYS_OF_THE_WEEK: [Понедельник, Вторник, Среда, Четверг, Пятница, Суббота, Воскресенье]
-
-zh-cn:
-  SITE:
-    TITLE: 我的博客
-    DESCRIPTION: 博客描述
-    COPYRIGHT: © 版权所有 %s 公司名称
-  SUBSCRIBE: 订阅
-  MONTHS_OF_THE_YEAR: [一月, 二月, 三月, 四月, 五月, 六月, 七月, 八月, 九月, 十月, 十一月, 十二月]
-  DAYS_OF_THE_WEEK: [周一, 周二, 周三, 周四, 周五, 周六, 周日]
-  READ_MORE: 继续阅读...
-  RANDOM_ARTICLE: 随机文章
-  RELATED_POSTS: 相关文章
-  ARCHIVES: 归档
-  POPULAR_TAGS: 热门标签
-  PUBLISHED_BY: 发布者
-  PREVIOUS: 上一篇
-  NEXT: 下一篇
-  PAGE: 页
-
-zh-hk:
-  SITE:
-    TITLE: 我的網誌
-    DESCRIPTION: 網誌描述
-    COPYRIGHT: © 版權所有 %s 公司名稱
-  SUBSCRIBE: 訂閱
-  MONTHS_OF_THE_YEAR: [一月, 二月, 三月, 四月, 五月, 六月, 七月, 八月, 九月, 十月, 十一月, 十二月]
-  DAYS_OF_THE_WEEK: [週一, 週二, 週三, 週四, 週五, 週六, 週日]
-  READ_MORE: 繼續閱讀...
-  RANDOM_ARTICLE: 隨機文章
-  RELATED_POSTS: 相關文章
-  ARCHIVES: 歸檔
-  POPULAR_TAGS: 最熱標籤
-  PUBLISHED_BY: 發布者
-  PREVIOUS: 上一篇
-  NEXT: 下一篇
-  PAGE: 頁
-
-zh-tw:
-  SITE:
-    TITLE: 我的網誌
-    DESCRIPTION: 網誌描述
-    COPYRIGHT: © 版權所有 %s 公司名稱
-  SUBSCRIBE: 訂閱
-  MONTHS_OF_THE_YEAR: [一月, 二月, 三月, 四月, 五月, 六月, 七月, 八月, 九月, 十月, 十一月, 十二月]
-  DAYS_OF_THE_WEEK: [週一, 週二, 週三, 週四, 週五, 週六, 週日]
-  READ_MORE: 繼續閱讀...
-  RANDOM_ARTICLE: 隨機文章
-  RELATED_POSTS: 相關文章
-  ARCHIVES: 歸檔
-  POPULAR_TAGS: 最熱標籤
-  PUBLISHED_BY: 發布者
-  PREVIOUS: 上一篇
-  NEXT: 下一篇
-  PAGE: 頁
-  
