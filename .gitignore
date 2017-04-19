@@ -2,3 +2,4 @@ cache/*
 logs/*
 tmp/*
 vendor
+images/*
