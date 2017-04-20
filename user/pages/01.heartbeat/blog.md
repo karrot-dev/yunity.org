@@ -2,7 +2,7 @@
 title: Heartbeat
 blog_url: heartbeat
 menu: Heartbeat
-menu_description: The heartbeat is a biweekly summary of what happens in yunity. It is an overview of our current actions and topics.
+menu_description: The heartbeat is a biweekly summary of what happens in yunity
 
 sitemap:
     changefreq: monthly
