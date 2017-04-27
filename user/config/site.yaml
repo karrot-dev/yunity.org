@@ -21,6 +21,19 @@ social:
     text: Youtube
 
 presets:
+  brown:
+    background_color : "#EDE6D2"
+    header_background_color : "#4A3520"
+    box_background_color : "#fff"
+    textcolor : "#333"
+    secondary_textcolor : "rgba( 51, 51, 51, 0.7)"
+    border_color : "rgba( 51, 51, 51, 0.1)"
+    border_focus_color : "rgba( 51, 51, 51, 0.3)"
+    sidebar_textcolor: "#bebebe"
+    sidebar_border_color: "rgba( 190, 190, 190, 0.1)"
+    sidebar_border_focus_color: "rgba( 190, 190, 190, 0.3)"
+    secondary_sidebar_textcolor: "rgba( 190, 190, 190, 0.7)"
+    meta_box_background_color: "#1b1b1b"
   dark:
     background_color : "#111111"
     header_background_color : "#202020"

@@ -1,2 +1,2 @@
 enabled: true
-current_preset: default
+current_preset: brown  # revert by setting to 'default'
