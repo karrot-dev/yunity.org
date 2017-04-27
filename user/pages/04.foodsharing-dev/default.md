@@ -13,7 +13,7 @@ menu_description: Maintaining and developing foodsharing.de
 * Gitlab group: [gitlab.com/foodsharing-dev](https://gitlab.com/foodsharing-dev)
 * Developer blog: [devblog.foodsharing.de](https://devblog.foodsharing.de)
 
-We also working on a new lightweight tool too:
+We are also working on a new lightweight tool:
 
 * Github organisation: [github.com/foodsharing-dev](https://github.com/foodsharing-dev)
 
