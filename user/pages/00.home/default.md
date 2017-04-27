@@ -7,4 +7,4 @@ yunity encourages relationships where people can share their time, skills and re
 
 Our vision is a society based on self-determination, trust and cooperation which allows people to live to their full potential and to preserve ecosystems for all living beings.
 
-We are a movement made up of subprojects. Look in the menu for details of these.
+We are a network made up of subprojects. Look in the menu for details of these.

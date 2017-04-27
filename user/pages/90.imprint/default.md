@@ -15,5 +15,5 @@ E-Mail: [mail@yunity.org](mailto:mail@yunity.org)
 > 91056 Erlangen<br>
 > GERMANY
 
-The website presents some topics of yunity, but does not speak for the yunity movement itself.
+The website presents some topics of yunity, but does not speak for the yunity network itself.
 
