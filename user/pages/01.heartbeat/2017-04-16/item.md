@@ -1,18 +1,11 @@
 ---
 title: Heartbeat 16th April 2017
-date: 13:34 15/04/2017
+date: '2017-04-17'
 continue_link: true
-author: Foo
-description: Feugiat interdum sed commodo ipsum consequat dolor nullam metus
-avatar: xtasha.jpg
 taxonomy:
     category: blog
-    tag: [journal]
+    tag: [heartbeat]
 ---
-
-A busy time with much activity.
-
-===
 
 ## Foodsaving Worldwide.
 

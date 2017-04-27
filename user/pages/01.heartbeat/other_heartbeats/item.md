@@ -3,7 +3,6 @@ title: Wanna be updated? Read the heartbeat!
 date: '2017-02-22'
 continue_link: true
 author: Janina
-description: Redirect to wiki blog
 taxonomy:
     category: blog
     tag: [hint]
