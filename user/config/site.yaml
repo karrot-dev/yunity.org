@@ -1,10 +1,10 @@
 title: yunity
-description: Free and responsive theme for GRAV. Port of Twenty Fifteen template by Wordpress.org.
+description: yunity is a network to promote sharing
 author:
-  name: Team Grav
-  email: 'joe@test.com'
+  name: yunity
+  email: 'mail@yunity.org'
 metadata:
-    description: 'TwentyFifteen is a free and responsive theme for **Grav**. Its a port of TwentyFifteen template by HTML5UP.'
+    description: 'yunity is a network to promote sharing'
 
 # Main Menu
 menu:
