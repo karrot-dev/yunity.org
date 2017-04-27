@@ -33,7 +33,7 @@ presets:
     sidebar_border_color: "rgba( 190, 190, 190, 0.1)"
     sidebar_border_focus_color: "rgba( 190, 190, 190, 0.3)"
     secondary_sidebar_textcolor: "rgba( 190, 190, 190, 0.7)"
-    meta_box_background_color: "#1b1b1b"
+    meta_box_background_color: "#f7f7f7"
   dark:
     background_color : "#111111"
     header_background_color : "#202020"
