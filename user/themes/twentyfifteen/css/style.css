@@ -1315,6 +1315,10 @@ img.aligncenter {
 	margin-bottom: 0;
 }
 
+.site-title img {
+	max-width: 50%;
+}
+
 .site-description {
 	display: none;
 	font-family: "Noto Sans", sans-serif;
@@ -4343,6 +4347,10 @@ p > video {
 		font-size: 22px;
 		font-size: 2.2rem;
 		line-height: 1.3636;
+	}
+
+	.site-title img {
+		max-width: 100%;
 	}
 
 	.site-description {
