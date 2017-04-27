@@ -8,9 +8,6 @@ metadata:
 
 # Main Menu
 menu:
-  - text: External link
-    description: "External link with description."
-    link: "#"
 
 social:
 
