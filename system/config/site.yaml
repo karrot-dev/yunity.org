@@ -25,7 +25,7 @@ routes:
 #  '/new/(.*)': '/blog/$1'                     # Regex any /new/my-page URL to /blog/my-page Route
 
 blog:
-  route: '/heartbeat'                            # Custom value added (accessible via system.blog.route)
+  route: '/blog'                            # Custom value added (accessible via system.blog.route)
 
 #menu:                                      # Sample Menu Example
 #    - text: Source
