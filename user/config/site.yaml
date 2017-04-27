@@ -10,6 +10,15 @@ metadata:
 menu:
 
 social:
+  github:
+    url: https://github.com/yunity
+    text: Github
+  facebook:
+    url: https://facebook.com/yunity.org
+    text: Facebook
+  youtube:
+    url: https://www.youtube.com/c/YunityOrgProject
+    text: Youtube
 
 presets:
   dark:
