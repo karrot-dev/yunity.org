@@ -45,7 +45,7 @@
                     {% include 'partials/taxonomylist.html.twig' with {'taxonomy':'tag'} %}
                 </aside>
             {% endif %}
-            {% if config.plugins.feed.enabled %}
+            {% if config.plugins.feed.enabled and page.header.blog_url == 'heartbeat' %}
                 <aside class="widget widget_meta">
                     <h2 class="widget-title">{{ 'SUBSCRIBE'|t }}</h2>
                     <ul>

@@ -17,7 +17,7 @@ content:
     pagination: true
 
 feed:
-    description: Sample Blog Description
+    description: yunity heartbeat
     limit: 10
 
 pagination: true
