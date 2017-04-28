@@ -6,6 +6,8 @@ menu: Contact & Imprint
 
 # Contact
 
+[Join our Slack chat!](https://slackin.yunity.org)
+
 E-Mail: [mail@yunity.org](mailto:mail@yunity.org)
 
 # Imprint
