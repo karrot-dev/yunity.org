@@ -9,6 +9,6 @@ menu_description: Making foodsaving into a global movement
 
 ![](luisa_fsww.jpg)
 
-* Public website: [foodsaving.today](https://foodsaving.today/en)
-* Wiki space: [yunity.atlassian.net/wiki/spaces/FSINT](https://yunity.atlassian.net/wiki/spaces/FSINT)
-* Public facebook group: [facebook.com/groups/foodsaving.worldwide](https://www.facebook.com/groups/foodsaving.worldwide/)
+* Public website: [foodsaving.today](https://foodsaving.today/en?target=_blank)
+* Wiki space: [yunity.atlassian.net/wiki/spaces/FSINT](https://yunity.atlassian.net/wiki/spaces/FSINT?target=_blank)
+* Public facebook group: [facebook.com/groups/foodsaving.worldwide](https://www.facebook.com/groups/foodsaving.worldwide/?target=_blank)

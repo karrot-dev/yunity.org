@@ -5,16 +5,16 @@ menu: foodsharing dev
 menu_description: Maintaining and developing foodsharing.de
 ---
 
-> We maintain and continue development of [foodsharing.de](https://foodsharing.de)
+> We maintain and continue development of [foodsharing.de](https://foodsharing.de?target=_blank)
 
 ![](fsdev.png)
 
-* Public website: [foodsaving.de](https://foodsharing.de/)
-* Gitlab group: [gitlab.com/foodsharing-dev](https://gitlab.com/foodsharing-dev)
-* Developer blog: [devblog.foodsharing.de](https://devblog.foodsharing.de)
+* Public website: [foodsharing.de](https://foodsharing.de/?target=_blank)
+* Gitlab group: [gitlab.com/foodsharing-dev](https://gitlab.com/foodsharing-dev?target=_blank)
+* Developer blog: [devblog.foodsharing.de](https://devblog.foodsharing.de?target=_blank)
 
 We are also working on a new lightweight tool:
 
-* Github organisation: [github.com/foodsharing-dev](https://github.com/foodsharing-dev)
+* Github organisation: [github.com/foodsharing-dev](https://github.com/foodsharing-dev?target=_blank)
 
 ![](fsteamchat.png)

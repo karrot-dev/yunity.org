@@ -11,5 +11,5 @@ menu_description: A place of sharing in favor of community change
 
 ![](b-wupp-haus-190116.jpg)
 
-* Public website: [wupphaus.yunity.org](https://wupphaus.yunity.org/)
-* Wiki space: [yunity.atlassian.net/wiki/spaces/BADUE](https://yunity.atlassian.net/wiki/spaces/BADUE)
+* Public website: [wupphaus.yunity.org](https://wupphaus.yunity.org/?target=_blank)
+* Wiki space: [yunity.atlassian.net/wiki/spaces/BADUE](https://yunity.atlassian.net/wiki/spaces/BADUE?target=_blank)

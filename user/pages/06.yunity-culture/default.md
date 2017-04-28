@@ -11,4 +11,4 @@ menu_description: Expect nothing, experience lots
 
 ![](lamasching_anmapi1.JPG)
 
-* Wiki space: [yunity.atlassian.net/wiki/spaces/YUCU](https://yunity.atlassian.net/wiki/spaces/YUCU)
+* Wiki space: [yunity.atlassian.net/wiki/spaces/YUCU](https://yunity.atlassian.net/wiki/spaces/YUCU?target=_blank)
