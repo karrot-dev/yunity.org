@@ -1,16 +1,12 @@
 ---
 title: "Lookin' for a logo"
-date: '2015-10-09'
+date: "2015-10-09"
 continue_link: true
 taxonomy:
     category: blog
     tag: [design, old blog]
 ---
     
-
-The yunity project needs a new set of clothes - a logo to be precise...
-
-===
 
 The yunity project needs a new set of clothes - a logo to be precise. Take a look below at a few of the designs we've come up with, and if interested check out [even more design ideas](https://drive.google.com/folderview?id=0B0EjUeNJTOISMDdlRk00T1VfOGM&usp=sharing)
 

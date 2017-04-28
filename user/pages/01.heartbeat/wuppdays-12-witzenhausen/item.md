@@ -1,17 +1,12 @@
 ---
-title: 'Wuppdays (#12) Witzenhausen'
-date: '2016-11-04'
+title: "Wuppdays (#12) Witzenhausen"
+date: "2016-11-04"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, openwuppdays, old blog]
 ---
     
-
-Welcome to the Wuppdays #12 in Witzenhausen. This time we're hosted by a Transition Town(TT) initiative. So it's a great place to network, learn from each other and support where we can.
-Do you want to join? We would like to have you here! But have a look into the following description to find out if these wuppdays and circumstances are interesting to you.
-
-===
 
 Welcome to the Wuppdays #12 in Witzenhausen. This time we're hosted by a **Transition Town** (TT) initiative. So it's a great place to network, learn and support each other where we can.
 Do you want to join? We would like to have you here! But have a look into the following description to find out if these particular WuppDays and circumstances are interesting to you.

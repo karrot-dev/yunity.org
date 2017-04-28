@@ -1,16 +1,12 @@
 ---
-title: Coding for Change
-date: '2016-09-22'
+title: "Coding for Change"
+date: "2016-09-22"
 continue_link: true
 taxonomy:
     category: blog
     tag: [development, old blog]
 ---
     
-
-A hackathon dedicated to prevent waste and to expand the movement of sharing!
-
-===
 
 A hackathon dedicated to prevent waste and to expand the movement of sharing!
 

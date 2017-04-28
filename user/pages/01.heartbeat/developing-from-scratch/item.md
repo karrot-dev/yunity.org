@@ -1,16 +1,12 @@
 ---
-title: Developing from scratch
-date: '2015-10-03'
+title: "Developing from scratch"
+date: "2015-10-03"
 continue_link: true
 taxonomy:
     category: blog
     tag: [development, old blog]
 ---
     
-
-The development team have been very busy! Researching, discussing and writing a bunch of code. This first development post gives an introduction of what's happened so far... to be continued.
-
-===
 
 Ciao techies!
 

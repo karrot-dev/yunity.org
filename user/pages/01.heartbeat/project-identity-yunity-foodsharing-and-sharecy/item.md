@@ -1,16 +1,12 @@
 ---
-title: 'Project identity - yunity, foodsharing and Sharecy'
-date: '2016-11-26'
+title: "Project identity - yunity, foodsharing and Sharecy"
+date: "2016-11-26"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-During this summer yunity faced moments of upheaval and change, especially due to the resignation of Raphael Fellmer, who decided to put his energy into founding a non-profit organization called Sharecy. But that didn't stop the people who were involved from doing what they were doing - yunity thrives!
-
-===
 
 During this summer yunity faced moments of upheaval and change, especially due to the resignation of Raphael Fellmer, who decided to put his energy into founding a non-profit organization called [Sharecy](http://http://sharecy.org/). But that didn't stop the people who were involved from doing what they were doing - yunity thrives: The coding at [foodsharing.de](http://foodsharing.de/) is restarted, we will be going to various places to encourage foodsaving and general sharing and the yunity community is still meeting and sharing happy times. 
 

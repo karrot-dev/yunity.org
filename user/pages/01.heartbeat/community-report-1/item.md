@@ -1,16 +1,12 @@
 ---
 title: "Community report #1"
-date: '2016-10-04'
+date: "2016-10-04"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-A community report is a paper to reflect on what was happening over the last weeks. And to be honest: nobody knows what exactly happened, but this community report tries to highlight some adventures and development.
-
-===
 
 **A community report** is a paper **to reflect** on what was happening over the last weeks. And to be honest: nobody knows what exactly happened, but at least this community report tries to highlight adventures and developments.
 

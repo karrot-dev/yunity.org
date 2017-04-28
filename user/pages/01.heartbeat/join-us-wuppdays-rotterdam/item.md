@@ -1,16 +1,12 @@
 ---
 title: "Join us at the WuppDays in Rotterdam (21/03-10/04)"
-date: '2016-02-23'
+date: "2016-02-23"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, openwuppdays, old blog]
 ---
     
-
-yunity - a project, platform and movement is coming to Rotterdam from 2016-03-21 to 2016-04-10. Visit us, join us and make change possible! We are as enthusiastically working as always, maybe even more, because the year 2016 will be full of yunity activity...
-
-===
 
 **yunity - a project, platform and movement is coming to Rotterdam from 2016-03-21 to 2016-04-10. Visit us, join us and make change possible!**
 

@@ -1,16 +1,12 @@
 ---
-title: 'WuppDays #2: Mainz'
-date: '2015-11-25'
+title: "WuppDays #2: Mainz"
+date: "2015-11-25"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-The second WuppDays began a little colder than the first, but that's what happens when you travel 500 Km North over the Alps from Malo to Mainz. Apples and plums replaced the kaki and pomegranates of Italy, and seeing the moisture of our breath confirmed we were definitely in Germany...
-
-===
 
 The second WuppDays began a little colder than the first, but that's what happens when you travel 500 Km North over the Alps from Malo to Mainz. Apples and plums replaced the kaki and pomegranates of Italy, and seeing the moisture of our breath confirmed we were definitely in Germany.
 

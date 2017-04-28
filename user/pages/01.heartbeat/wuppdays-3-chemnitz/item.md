@@ -1,16 +1,12 @@
 ---
-title: 'WuppDays #3: Chemnitz'
-date: '2015-12-16'
+title: "WuppDays #3: Chemnitz"
+date: "2015-12-16"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-One candle-lit dinner near the end of WuppDays #2 (Mainz), the subject of the where we should meet again was brought up. Just like that, some hard working yuniteers managed to find somewhere in Chemnitz (formerly Karl-Marx-Stadt from 1953 to 1990) and on 2015-11-27 a small team met up and began wupping...
-
-===
 
 One candle-lit dinner near the end of WuppDays #2 (Mainz), the subject of the where we should meet again was brought up. Just like that, some hard working yuniteers managed to find somewhere in Chemnitz (formerly Karl-Marx-Stadt from 1953 to 1990) and on 2015-11-27 a small team met up and began wupping. The Haus, 'HB6', that kindly offered to host us was vibrant in history and colour-scheme against a backdrop of gray, GDR utilitarianism: previously abandoned, later occupied by squatters and now lent to artists and learners to release their creativity.
 

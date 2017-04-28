@@ -1,16 +1,12 @@
 ---
-title: 'Wupping, Planning, Doing and Celebrating the #6 WuppDays'
-date: '2016-04-02'
+title: "Wupping, Planning, Doing and Celebrating the #6 WuppDays"
+date: "2016-04-02"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, openwuppdays, old blog]
 ---
     
-
-A lot has been happening since the last blog post! Many developers have been reaching out to yunity, looking for a positive, decisive project that they could contribute to. And now the WuppDays #6 have started in Rotterdam...
-
-===
 
 A lot has been happening since the last blog post! But perhaps you have been a witness of this, if you are following our more and more active [Facebook community](http://facebook.com/yunity.org)?
 

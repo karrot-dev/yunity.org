@@ -1,16 +1,12 @@
 ---
-title: 'Wanted: permanent WuppSpace'
-date: '2016-02-03'
+title: "Wanted: permanent WuppSpace"
+date: "2016-02-03"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wuppspace, old blog]
 ---
     
-
-For a while we’ve had the idea of a permanent space - a WuppSpace - where our work on the project can take place and the community finds a real home. Now the search has started… We imagine a lively community house with the yunity spirit, where we are able to efficiently work on the platform and realize saving and sharing of all imaginable resources such as skills, spaces, things....
-
-===
 
 The yunity team would like to find a permanent location - a ‘WuppSpace’, where the team can work on the project, live the culture of sharing and saving resources and skills, and where everyone can feel at home.
 

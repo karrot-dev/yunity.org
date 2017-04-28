@@ -1,16 +1,12 @@
 ---
 title: "Impressions from the Open WuppDays #1"
-date: '2016-02-02'
+date: "2016-02-02"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-yunity is an open project, made from the people for the people, and still is in the midst of being developed. More and more people are interested in it and want to contribute - and we want to give every one of them the opportunity to get in touch with us personally and to experience the warm welcome they deserve. That’s why we initiated the very first OpenWuppDays in Chemnitz. Full of anticipation we prepared this weekend to let everybody have deep insights in our project and the working groups Product, Design, Development, IT-Service, Legal, Structure, PR and Translation.
-
-===
 
 ![Chemnitz-yunity (12 of 55).jpg](56b2559c551e8657403297.jpg)
 

@@ -1,16 +1,12 @@
 ---
 title: "Introducing: yunity heartbeat"
-date: '2016-07-21'
+date: "2016-07-21"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-For a long time, we were wondering how we could most effectively work together, while giving ourselves the freedom of a Do-ocracy. Monika and Doug came up with the idea of Scrum of Scrums...
-
-===
 
 For a long time, we were wondering how we could most effectively work together, while giving ourselves the freedom of a [Do-ocracy](https://www.noisebridge.net/wiki/Do-ocracy). Monika and Doug came up with the idea of [Scrum of Scrums](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=32440687).
 

@@ -1,16 +1,12 @@
 ---
-title: 'TEDx Talk in Utrecht'
-date: '2016-02-15'
+title: "TEDx Talk in Utrecht"
+date: "2016-02-15"
 continue_link: true
 taxonomy:
     category: blog
     tag: [old blog]
 ---
     
-
-As some of you may have noticed, we advertised an ominous TEDx Talk in Utrecht for a while on the bottom of our landing page. It took place on January 27th and was held by Raphael Fellmer, co-founder of foodsharing.de as well as first believer in yunity.
-
-===
 
 As some of you may have noticed, we advertised an ominous TEDx Talk in Utrecht for a while on the bottom of our landing page. It took place on January 27th and was held by Raphael Fellmer, co-founder of foodsharing.de as well as first believer in yunity. Now the official clip was finally published on TEDx’s Youtube channel!
 

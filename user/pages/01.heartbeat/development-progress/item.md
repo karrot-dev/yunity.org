@@ -1,16 +1,12 @@
 ---
-title: Development Progress
-date: '2015-10-09'
+title: "Development Progress"
+date: "2015-10-09"
 continue_link: true
 taxonomy:
     category: blog
     tag: [development, old blog]
 ---
     
-
-Less than a week left! We can hardly believe it. Writing code, fixing-bugs, throwing that code away and making new code, documenting, serving, chatting with design, chatting with user needs, revising the data model...
-
-===
 
 Less than a week left! We can hardly believe it. Writing code, fixing-bugs, throwing that code away and making new code, documenting, serving, chatting with design, chatting with user needs, revising the data model... Sufficient to say we've been busy.
 

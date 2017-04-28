@@ -1,16 +1,12 @@
 ---
-title: 'WuppDays #7 Kirchheim near Stuttgart'
-date: '2016-06-14'
+title: "WuppDays #7 Kirchheim near Stuttgart"
+date: "2016-06-14"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-A mere month after the Rotterdam WuppDays, the Kircheim unter Teck WuppDays began. Read more about what we have been up to in Kirchheim!
-
-===
 
 A mere month after the Rotterdam WuppDays, the Kircheim unter Teck WuppDays began. After what seemed like an eternity of online meetings, slack chats, trello cards and wiki-documents everyone was very excited to meet once again in person. ‘Everyone’ included several new and very wonderful contributors who were able to contribute their enthusiasm and skills towards the project goals.
 

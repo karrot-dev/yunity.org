@@ -1,17 +1,12 @@
 ---
-title: 'WuppDays begins!'
-date: '2015-09-30'
+title: "WuppDays begins!"
+date: "2015-09-30"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-So far this WuppDays (15th of September to 20th of October) more than 30 people have gathered to lay the foundation for a new sharing platform in Malo, Italy!
-Beside all the wonderful people who came together physically, there are many more who helped to make this ambitious project a reality.
-
-===
 
 So WuppDays is 9 days in, let us tell you what we've been up to;
 

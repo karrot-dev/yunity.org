@@ -1,16 +1,12 @@
 ---
 title: "Invitation to next WuppDays"
-date: '2015-10-28'
+date: "2015-10-28"
 continue_link: true
 taxonomy:
     category: blog
     tag: [development, old blog]
 ---
     
-
-In the 3 weeks during the WuppDays we layed the foundation of yunity, a new platform to share and save food, items, skills and resources using AngularJS, Bootstrap, Django, Elastic, Postgres... and we need your help!
-
-===
 
 Ciao Dear techies!
 

@@ -1,16 +1,12 @@
 ---
-title: 'WuppDays #5: Nuremberg'
-date: '2016-02-16'
+title: "WuppDays #5: Nuremberg"
+date: "2016-02-16"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-These two weeks of wupping went by very quickly! The setup was once again very different but the spirit was productive as always! This time we were hosted by two of our own members who both live in Nuremberg: Manuele provided his flat as a wupping and sleeping place and Kirstin provided hers as an additional working space. Although both locations were not very big, there was more than enough room to fit us all and at times it was really cozy!
-
-===
 
 These two weeks of wupping went by very quickly! The setup was once again very different but the spirit was productive as always! This time we were hosted by two of our own members who both live in Nuremberg: Manuele provided his flat as a wupping and sleeping place and Kirstin provided hers as an additional working space. Although both locations were not very big, there was more than enough room to fit us all and at times it was really cozy!
 

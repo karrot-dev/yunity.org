@@ -1,16 +1,12 @@
 ---
-title: 'Progress on WuppDays #4'
-date: '2016-02-02'
+title: "Progress on WuppDays #4"
+date: "2016-02-02"
 continue_link: true
 taxonomy:
     category: blog
     tag: [wupping, old blog]
 ---
     
-
-WuppDays #4 has just finished. This time the yunity team met in Chemnitz in a colourful location, named Kompott. The focus was less on coding tasks and more about structural and organisational project tasks. Please have a look at what we are currently working on...
-
-===
 
 WuppDays #4 has just finished. This time the yunity team met in Chemnitz in a colourful location, named [Kompott](http://kompott.cc/). Kompott is a culture- and community project in a giant housing complex. We would like to thank all the lovely people from Kompott for their confidence and support. Many spaces were available for yunity to establish a temporary base for these WuppDays - we moved into several guestrooms, cooked our meals in the kitchens, and the comfortable Lesecafe (reading cafe) became our living, eating and wupping space. Our first [Open WuppDays](/blog/post/impressions-openwuppdays-1) took place in an even bigger location called Zukunft.
 
