@@ -108,3 +108,10 @@ presets:
     sidebar_border_focus_color: "rgba( 255, 255, 255, 0.3)"
     secondary_sidebar_textcolor: "rgba( 255, 255, 255, 0.7)"
     meta_box_background_color: "#f1f1f1"
+
+redirects:
+  '/yunity': '/'
+  '/(join-the-team|what_we_need)': '/imprint'
+  '/blog/feed.rss': '/heartbeat.rss'
+  '/blog/post/(.*)': '/heartbeat/$1'
+  '/transparency': 'https://yunity.atlassian.net/wiki/display/YUN/Transparency'
