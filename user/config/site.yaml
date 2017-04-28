@@ -16,15 +16,18 @@ menu:
     link: https://yunity.atlassian.net/wiki/
 
 social:
+  mail:
+    url: mailto:mail@yunity.org
+    text: E-Mail
   github:
     url: https://github.com/yunity
-    text: Github
+    text: yunity Github organization
   facebook:
     url: https://facebook.com/yunity.org
-    text: Facebook
+    text: yunity Facebook page
   youtube:
     url: https://www.youtube.com/c/YunityOrgProject
-    text: Youtube
+    text: yunity Youtube channel
 
 presets:
   brown:
