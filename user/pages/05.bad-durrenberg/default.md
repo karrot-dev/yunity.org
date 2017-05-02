@@ -5,6 +5,8 @@ menu: Wupphaus Bad Dürrenberg
 menu_description: A place of sharing in favor of community change
 ---
 
+# Wupphaus Bad Dürrenberg
+
 > A place of sharing in favor of community change
 
 ![](IMG_0277-2.jpg)

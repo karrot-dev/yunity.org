@@ -1,9 +1,11 @@
 ---
-title: foodsharing dev
+title: foodsharing.de development
 route: foodsharing-dev
-menu: foodsharing dev
+menu: foodsharing.de dev
 menu_description: Maintaining and developing foodsharing.de
 ---
+
+# foodsharing.de Development
 
 > We maintain and continue development of [foodsharing.de](https://foodsharing.de?target=_blank)
 

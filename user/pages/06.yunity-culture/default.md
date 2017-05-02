@@ -3,11 +3,12 @@ title: yunity Culture
 route: yunity-culture
 menu: yunity Culture
 menu_description: Expect nothing, experience lots
+image: welcomeyunity.jpg
 ---
 
-> The theory and lifestyle of unconditional sharing
+# yunity Culture
 
-![](welcomeyunity.jpg)
+> The theory and lifestyle of unconditional sharing
 
 ![](lamasching_anmapi1.JPG)
 

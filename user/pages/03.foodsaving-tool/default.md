@@ -5,6 +5,8 @@ menu: Foodsaving Tool
 menu_description: A new tool for emerging foodsaving communities
 ---
 
+# Foodsaving Tool
+
 > A modern website for organization of foodsaving groups worldwide
 
 ![](fsworld.png)
