@@ -1,7 +1,10 @@
 ---
 route: home
 menu_hide: true
+image: "header.png"
 ---
+
+# yunity
 
 > ... imagine sharing everything
 
