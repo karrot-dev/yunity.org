@@ -3,7 +3,7 @@ title: yunity Culture
 route: yunity-culture
 menu: yunity Culture
 menu_description: Expect nothing, experience lots
-image: welcomeyunity.jpg
+image: lamashen_smallwithpadding.png
 ---
 
 # yunity Culture

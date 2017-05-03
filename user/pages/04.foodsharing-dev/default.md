@@ -3,6 +3,7 @@ title: foodsharing.de development
 route: foodsharing-dev
 menu: foodsharing.de dev
 menu_description: Maintaining and developing foodsharing.de
+image: fork_smallwithpadding.png
 ---
 
 # foodsharing.de Development

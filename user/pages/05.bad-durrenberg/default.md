@@ -3,6 +3,7 @@ title: Wupphaus Bad Dürrenberg
 route: bad-durrenberg
 menu: Wupphaus Bad Dürrenberg
 menu_description: A place of sharing in favor of community change
+image: wupphouse_smallwithpadding.png
 ---
 
 # Wupphaus Bad Dürrenberg

@@ -3,6 +3,7 @@ title: Foodsaving Tool
 route: foodsaving-tool
 menu: Foodsaving Tool
 menu_description: A new tool for emerging foodsaving communities
+image: fstoollogo_smallwithpadding.png
 ---
 
 # Foodsaving Tool
