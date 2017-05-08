@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2016-11-13</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2016-11-13"
+date: "2016-11-13"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <div class="contentLayout2">
   <div class="columnLayout single" data-layout="single">
    <div class="cell normal" data-type="normal">
@@ -56,7 +66,7 @@
      <p>
       <span style="color: rgb(0,0,0);">
        Apart from holding
-       <a data-linked-resource-id="73400329" data-linked-resource-type="page" data-linked-resource-version="6" href="/wiki/display/BADUE/WuppHouse+meeting+Witzenhausen">
+       <a data-linked-resource-id="73400329" data-linked-resource-type="page" data-linked-resource-version="6" href="https://yunity.atlassian.net/wiki/display/BADUE/WuppHouse+meeting+Witzenhausen">
         meetings about the WuppHouse
        </a>
        , listening to
@@ -127,17 +137,17 @@
     <div class="innerCell">
      <p>
       The abandoned train station in Bad Dürrenberg will become our first WuppHouse! A lot of work still needs to be done, but we are thrilled to get it started and a bunch of us are already on site and working on setting up the basics. For more info on this amazing new development visit the specifically created new wikispace covering everything Bad Dürrenberg-related:
-      <a data-linked-resource-id="74776581" data-linked-resource-type="page" data-linked-resource-version="18" href="/wiki/pages/viewpage.action?pageId=74776581">
+      <a data-linked-resource-id="74776581" data-linked-resource-type="page" data-linked-resource-version="18" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=74776581">
        BADUE
       </a>
      </p>
      <p>
       There you can find e.g.
-      <a class="unresolved" href="#">
+      <a class="unresolved" href="https://yunity.atlassian.net#">
        immediate needs, worries and plannings
       </a>
       and what kind of
-      <a class="unresolved" href="#">
+      <a class="unresolved" href="https://yunity.atlassian.net#">
        materials are mostly lacking
       </a>
       at the moment.
@@ -164,7 +174,7 @@
        #wupphouse
       </a>
       , but you can also reach us via
-      <a class="external-link" href="mailto:mail@yunity.org" rel="nofollow">
+      <a class="external-link" href="https://yunity.atlassian.netmailto:mail@yunity.org" rel="nofollow">
        email
       </a>
       or by filling out the
@@ -447,7 +457,7 @@
      </h3>
      <p>
       please send anything that you have created for yunity and that you think suitable for a nice book/brochure to
-      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
        Philip Engelbutzeder
       </a>
      </p>

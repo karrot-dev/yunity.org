@@ -1,4 +1,14 @@
-<h1>yunity heartbeat, 2016-07-18 (Scrum of Scrums)</h1><div class="wiki-content">
+---
+title: "yunity heartbeat, 2016-07-18 (Scrum of Scrums)"
+date: "2016-07-18"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <div style="margin-left: 0.0px;">
   <p>
    <strong>
@@ -103,7 +113,7 @@
     back-end
    </span>
    and make deployed database persistent across changes (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -118,7 +128,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Write more unit and integration tests for the back-end (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -149,7 +159,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Fair-Share Point Mini Manual and Cooperations Manual redone as wikipages and linked as pdf-export (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -163,7 +173,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Finalizing the guidelines subpage, completing the second restructuration of the foodsharing wiki (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -177,19 +187,19 @@
     foodsharing.de
    </a>
    ambassadors (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="/wiki/display/~Tais">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="https://yunity.atlassian.net/wiki/display/~Tais">
     Tais Real
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="/wiki/display/~Kristijan+Miklobusec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="https://yunity.atlassian.net/wiki/display/~Kristijan+Miklobusec">
     Kristijan Miklobusec
    </a>
    )
@@ -205,7 +215,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    A Russian speaker is needed to make sense of a link provided by Russian Foodsavers! (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -214,7 +224,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    We need a setup to have the two upcoming MVPs tested and compared on userfriendliness and accessability (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227074" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Joachim Thome" href="/wiki/display/~Joachim+Thome">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227074" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Joachim Thome" href="https://yunity.atlassian.net/wiki/display/~Joachim+Thome">
     Joachim Thome
    </a>
    )
@@ -251,7 +261,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Big OctoberCMS upgrade, many simplifications for in-place editing and translating (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -266,13 +276,13 @@
  <p>
   <span style="color: rgb(0,0,0);">
    OctoberCMS: migrate current pages to the new Static Pages type for even easier translatability (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
    <br/>
    Groupware for Mails: identify best candidate and set it up together with me (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -300,7 +310,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Moved Slack calendar notifications from #general and #core-team to #announcements (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -310,7 +320,7 @@
     Starting Page for yuniteers
    </a>
    with a stream of yunity activity (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -352,7 +362,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Enabled CC0 logo below each wiki page (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -362,7 +372,7 @@
     License Information
    </a>
    (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -390,7 +400,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    German version of the event page (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -420,7 +430,7 @@
    www.peer-sharing.de
   </a>
   into our own list. (
-  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="/wiki/display/~Diogenes">
+  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="https://yunity.atlassian.net/wiki/display/~Diogenes">
    Robert Lipp
   </a>
   )
@@ -428,7 +438,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Adding the Buy Nothing facebook groups to our own list of gift economy groups. (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="/wiki/display/~Diogenes">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="https://yunity.atlassian.net/wiki/display/~Diogenes">
     Robert Lipp
    </a>
    )
@@ -438,7 +448,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Preparing the data analysis for the Social Media Survey. (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="/wiki/display/~Diogenes">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="https://yunity.atlassian.net/wiki/display/~Diogenes">
     Robert Lipp
    </a>
    )
@@ -453,7 +463,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    We still need someone reliably check for new applicants and write them a welcoming message directing them to the slack channel. (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="/wiki/display/~Diogenes">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227129" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Diogenes" href="https://yunity.atlassian.net/wiki/display/~Diogenes">
     Robert Lipp
    </a>
    )

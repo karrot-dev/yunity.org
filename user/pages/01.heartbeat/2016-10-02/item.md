@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2016-10-02</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2016-10-02"
+date: "2016-10-02"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <div style="margin-left: 0.0px;">
   <p>
    <strong>
@@ -30,7 +40,7 @@
     new logo incl. lettering
    </a>
    (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="31391745" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="fritz" href="/wiki/display/~fritz">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="31391745" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="fritz" href="https://yunity.atlassian.net/wiki/display/~fritz">
     fritz holscher
    </a>
    )
@@ -71,7 +81,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    reconnecting to foodsharing Warsaw and finding out about the growing foodsharing Poland (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -85,11 +95,11 @@
  <p>
   <span style="color: rgb(0,0,0);">
    defining and finalizing the scope and content of the media kit (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="/wiki/display/~Tais">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="https://yunity.atlassian.net/wiki/display/~Tais">
     Tais Real
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -98,7 +108,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    getting more detailed info on foodsharing Copenhagen, foodsharing Taiwan and - hopefully - foodsharing Russia (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -148,7 +158,7 @@
     discourse forum
    </a>
    for yunity (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    )
@@ -161,7 +171,7 @@
     subreddit
    </a>
    for yunity (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    )
@@ -183,7 +193,7 @@
     yunity.org
    </a>
    (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -212,7 +222,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Project page: moving to the new wordpress page, made by
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440366" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Chrisi" href="/wiki/display/~Chrisi">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440366" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Chrisi" href="https://yunity.atlassian.net/wiki/display/~Chrisi">
     Chrisi
    </a>
   </span>
@@ -255,23 +265,23 @@
     Planning the Hackathon in Berlin (
    </span>
    <span style="color: rgb(128,128,128);">
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="/wiki/display/~Tais">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="https://yunity.atlassian.net/wiki/display/~Tais">
      Tais Real
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="/wiki/display/~nicksellen">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="https://yunity.atlassian.net/wiki/display/~nicksellen">
      Nick Sellen
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
      Tilmann
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
      Philip Engelbutzeder
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     )
@@ -313,7 +323,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    finding out about the Polish gifting law, how it gives foodsharing Poland a hard time and ways to work around it. (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )

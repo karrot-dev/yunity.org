@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2016-10-30</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2016-10-30"
+date: "2016-10-30"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <div>
   <p>
    <strong>
@@ -42,7 +52,7 @@
     this blog entry
    </a>
    written by
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
     Matthias Larisch
    </a>
    . Also taken from that blog post are these already completed achievements:
@@ -94,7 +104,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Some days later
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
     Matthias Larisch
    </a>
    was motivated to move the w
@@ -131,7 +141,7 @@
   <p style="text-align: right;">
    <span style="color: rgb(0,0,0);">
     <span style="color: rgb(17,17,17);">
-     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
       Matthias Larisch
      </a>
      , foodsharing devblog
@@ -310,7 +320,7 @@
  </p>
  <p>
   <span style="color: rgb(0,0,0);">
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    put the
@@ -329,7 +339,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     getting in contact with people using #foodsharing on twitter (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     )
@@ -342,7 +352,7 @@
      material to get started
     </a>
     ' (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
      Janina Abels
     </a>
     )
@@ -355,11 +365,11 @@
      existing platforms
     </a>
     (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
      Janina Abels
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
      Tilmann
     </a>
     )
@@ -373,11 +383,11 @@
      OLIO
     </a>
     after they made offers on their app moneyfree (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="/wiki/display/~nicksellen">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="https://yunity.atlassian.net/wiki/display/~nicksellen">
      Nick Sellen
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
      Janina Abels
     </a>
     )
@@ -441,11 +451,11 @@
      matrix
     </strong>
     (via riot chat) incl. incoming and outgoing webhooks. (from matrix you can chat towards slack and other way around) (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
      Tilmann
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="55017502" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nitram" href="/wiki/display/~nitram">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="55017502" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nitram" href="https://yunity.atlassian.net/wiki/display/~nitram">
      Kaiser Mikato
     </a>
     )
@@ -455,7 +465,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     rocket.chat and slack integration (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     )
@@ -475,7 +485,7 @@
      importing slack data into rocket.chat
     </span>
     (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     )
@@ -484,11 +494,11 @@
   <li>
    <span style="color: rgb(0,0,0);">
     research for hrm programs etc. (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="/wiki/display/~nicksellen">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="https://yunity.atlassian.net/wiki/display/~nicksellen">
      Nick Sellen
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
      Tilmann
     </a>
     )
@@ -532,11 +542,11 @@
     detailed plan of how to restructure the wiki
    </a>
    using spaces to make it more accessible (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -551,7 +561,7 @@
     WuppHouse
    </a>
    wikispaces (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -568,7 +578,7 @@
     writing and thinking
    </a>
    about decision making theory, autonomy etc. (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="/wiki/display/~dmhwebb">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="https://yunity.atlassian.net/wiki/display/~dmhwebb">
     Douglas Webb
    </a>
    )
@@ -579,11 +589,11 @@
     WuppDays Witzenhausen
    </a>
    (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="54198301" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="birke" href="/wiki/display/~birke">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="54198301" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="birke" href="https://yunity.atlassian.net/wiki/display/~birke">
     Hans-Christian Eick
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    )
@@ -594,31 +604,31 @@
     an article
    </a>
    written by
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
     Philip Engelbutzeder
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="/wiki/display/~Tais">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227353" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Tais" href="https://yunity.atlassian.net/wiki/display/~Tais">
     Tais Real
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
     Matthias Larisch
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -629,11 +639,11 @@
     #community-guidelines
    </a>
    and how to handle destructive behaviors (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="/wiki/display/~nicksellen">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="https://yunity.atlassian.net/wiki/display/~nicksellen">
     Nick Sellen
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    )
@@ -675,15 +685,15 @@
      conference call with Bernd
     </a>
     from Gemeinschaftsstifter (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="/wiki/display/~Bodhi">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="https://yunity.atlassian.net/wiki/display/~Bodhi">
      Bodhi Neiser
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
      Matthias Larisch
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="/wiki/display/~Arno">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="https://yunity.atlassian.net/wiki/display/~Arno">
      Arno Döpper
     </a>
     )
@@ -696,19 +706,19 @@
      Freiraum in Berlin Weissensee
     </a>
     (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
      Philip Engelbutzeder
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553694" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="syrt" href="/wiki/display/~syrt">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553694" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="syrt" href="https://yunity.atlassian.net/wiki/display/~syrt">
      Axel Kalitzki
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995188" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="piersonkatia" href="/wiki/display/~piersonkatia">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995188" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="piersonkatia" href="https://yunity.atlassian.net/wiki/display/~piersonkatia">
      Katia
     </a>
     , ...)
@@ -724,7 +734,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     analyzing Mietshäusersyndikat principle and formal paper (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="/wiki/display/~Bodhi">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="https://yunity.atlassian.net/wiki/display/~Bodhi">
      Bodhi Neiser
     </a>
     )
@@ -784,7 +794,7 @@
      gitlab
     </a>
     (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65241092" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fenja.jacobs" href="/wiki/display/~fenja.jacobs">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65241092" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fenja.jacobs" href="https://yunity.atlassian.net/wiki/display/~fenja.jacobs">
      Fenja Jacobs
     </a>
     )
@@ -796,11 +806,11 @@
      foodsharing devblog translation instructions
     </a>
     (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
      Tilmann
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
      Janina Abels
     </a>
     )
@@ -832,11 +842,11 @@
     transifex
    </a>
    (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    )
@@ -878,7 +888,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     contact with nomadbase (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
      Philip Engelbutzeder
     </a>
     )
@@ -887,15 +897,15 @@
   <li>
    <span style="color: rgb(0,0,0);">
     workshop in Bern about yunity with (Felix,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995188" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="piersonkatia" href="/wiki/display/~piersonkatia">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995188" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="piersonkatia" href="https://yunity.atlassian.net/wiki/display/~piersonkatia">
      Katia
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="31391745" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="fritz" href="/wiki/display/~fritz">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="31391745" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="fritz" href="https://yunity.atlassian.net/wiki/display/~fritz">
      fritz holscher
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="/wiki/display/~Arno">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="https://yunity.atlassian.net/wiki/display/~Arno">
      Arno Döpper
     </a>
     )
@@ -913,13 +923,13 @@
      and glocal yunity dreaming sessions (
     </span>
     <span style="color: rgb(0,0,0);">
-     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
       Philip Engelbutzeder
      </a>
      ,
     </span>
     <span style="color: rgb(0,0,0);">
-     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
       Paul Free
      </a>
      )
@@ -933,15 +943,15 @@
      reddit/yunity
     </a>
     (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="/wiki/display/~Arno">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="https://yunity.atlassian.net/wiki/display/~Arno">
      Arno Döpper
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
      Tilmann
     </a>
     )
@@ -950,7 +960,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     Key Note at the Stipendiaten machen Programm: Wirtschaftsmacht Europa ? (Studienstiftung des deutschen Volkes) - Thema: Selbstbestimmung, Vertrauen und Kollaboration als Grundpfeiler des europäischen Wirtschaftsmacht aus dem Blickwinkel der Gift Economy (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
      Philip Engelbutzeder
     </a>
     )
@@ -967,7 +977,7 @@
    <span style="color: rgb(255,102,0);">
     <span style="color: rgb(0,0,0);">
      do we want to paper print? (by
-     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995188" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="piersonkatia" href="/wiki/display/~piersonkatia">
+     <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995188" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="piersonkatia" href="https://yunity.atlassian.net/wiki/display/~piersonkatia">
       Katia
      </a>
      )
@@ -999,19 +1009,19 @@
   <li>
    <span style="color: rgb(0,0,0);">
     reflecting on communication culture (especially within Slack) (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="/wiki/display/~nicksellen">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="https://yunity.atlassian.net/wiki/display/~nicksellen">
      Nick Sellen
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
      Philip Engelbutzeder
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     ,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="55017502" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nitram" href="/wiki/display/~nitram">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="55017502" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nitram" href="https://yunity.atlassian.net/wiki/display/~nitram">
      Kaiser Mikato
     </a>
     )
@@ -1031,31 +1041,31 @@
     </a>
    </span>
    (
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="/wiki/display/~dmhwebb">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="https://yunity.atlassian.net/wiki/display/~dmhwebb">
     Douglas Webb
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="12222465" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="inflector" href="/wiki/display/~inflector">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="12222465" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="inflector" href="https://yunity.atlassian.net/wiki/display/~inflector">
     Zed Redstone
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="30572615" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="Selina" href="/wiki/display/~Selina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="30572615" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="Selina" href="https://yunity.atlassian.net/wiki/display/~Selina">
     Selina Camile
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="/wiki/display/~rose+earthling">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="https://yunity.atlassian.net/wiki/display/~rose+earthling">
     Lara Earthling
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="54198301" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="birke" href="/wiki/display/~birke">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="54198301" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="birke" href="https://yunity.atlassian.net/wiki/display/~birke">
     Hans-Christian Eick
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="/wiki/display/~Bodhi">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="https://yunity.atlassian.net/wiki/display/~Bodhi">
     Bodhi Neiser
    </a>
    ....)
@@ -1085,7 +1095,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     looking for a WuppSpace in Austria, close to Vienna (
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440366" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Chrisi" href="/wiki/display/~Chrisi">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440366" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Chrisi" href="https://yunity.atlassian.net/wiki/display/~Chrisi">
      Chrisi
     </a>
     )

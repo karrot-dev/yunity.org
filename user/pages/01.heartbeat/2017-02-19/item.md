@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2017-02-19</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2017-02-19"
+date: "2017-02-19"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <p>
   <strong>
    The yunity heartbeat
@@ -32,11 +42,11 @@
     </strong>
    </strong>
    After a lot of research, trial &amp; error and learning about the difficulties that come with timezones, daylight saving time and a hopefully globally distributed user base,
-   <a href="/wiki/display/YUN/2017/02/20/yunity+heartbeat+2017-02-19">
+   <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/02/20/yunity+heartbeat+2017-02-19">
     Tilmann
    </a>
    finally succeeded in implementing the recurring pick-up dates! That means, that people can now enter pick-ups that will repeat e.g. every week, like requested multiple times. Apart from that
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="36470828" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="donpiano" href="/wiki/display/~donpiano">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="36470828" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="donpiano" href="https://yunity.atlassian.net/wiki/display/~donpiano">
     Lars Wolf
    </a>
    put quite some effort in finalizing the multi view and making it mobile friendly, so now our users always see the store list and the overview map on the side on bigger screens. Look at these screenshots:
@@ -55,11 +65,11 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Apart from that various small changes were made,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="81264687" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="chandi" href="/wiki/display/~chandi">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="81264687" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="chandi" href="https://yunity.atlassian.net/wiki/display/~chandi">
     Andreas Langecker
    </a>
    also is enthusiastically contributing again and a long and fruitful dev meeting was held on the 18th. Have a look at the outcomes
-   <a data-linked-resource-id="89180786" data-linked-resource-type="page" data-linked-resource-version="5" href="/wiki/display/FSINT/2017-02-18+Dev+meeting">
+   <a data-linked-resource-id="89180786" data-linked-resource-type="page" data-linked-resource-version="5" href="https://yunity.atlassian.net/wiki/display/FSINT/2017-02-18+Dev+meeting">
     here
    </a>
    !
@@ -70,7 +80,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     We call for collaboration with foodsaving groups! Contact us on
-    <a class="external-link" href="mailto:foodsaving@yunity.org" rel="nofollow">
+    <a class="external-link" href="https://yunity.atlassian.netmailto:foodsaving@yunity.org" rel="nofollow">
      foodsaving@yunity.org
     </a>
     !
@@ -151,11 +161,11 @@
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
    <img class="confluence-embedded-image confluence-thumbnail image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89209143/grown-up-1637302_640.jpg?version=1&amp;modificationDate=1487619754083&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89209143" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="grown-up-1637302_640.jpg" data-linked-resource-id="89209152" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="150" src="https://yunity.atlassian.net/wiki/download/thumbnails/89209143/grown-up-1637302_640.jpg?width=225&amp;height=150" srcset="/wiki/download/thumbnails/89209143/grown-up-1637302_640.jpg?width=450&amp;height=300 2x, /wiki/download/thumbnails/89209143/grown-up-1637302_640.jpg?width=225&amp;height=150 1x"/>
   </span>
-  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440715" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fr4nk0nf1r3" href="/wiki/display/~fr4nk0nf1r3">
+  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440715" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fr4nk0nf1r3" href="https://yunity.atlassian.net/wiki/display/~fr4nk0nf1r3">
    fr4nk 0nf1r3
   </a>
   is working on getting the
-  <a data-linked-resource-id="88664092" data-linked-resource-type="page" data-linked-resource-version="5" href="/wiki/display/YUCU/Permaculture">
+  <a data-linked-resource-id="88664092" data-linked-resource-type="page" data-linked-resource-version="5" href="https://yunity.atlassian.net/wiki/display/YUCU/Permaculture">
    permaculture project
   </a>
   started. After finding suitable land for setting up a greenhouse and some beds for growing edible plants in Wurzen, he is thinking about ways to build up humus to fertilize the soils again. Earthworms seem to be the best way to do this. Since he thinks that making such projects in a group is more fun, he got into PR a bit and visited some events in his hometown to talk about yunity. Between herbal tea and sports, he would like to do a lot of reading on plants and also technologies that give a certain benefit to ecosystems instead of harming them.
@@ -180,7 +190,7 @@
  </h3>
  <ul>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227074" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Joachim Thome" href="/wiki/display/~Joachim+Thome">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227074" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Joachim Thome" href="https://yunity.atlassian.net/wiki/display/~Joachim+Thome">
     Joachim Thome
    </a>
    is pushing Unai from Bilbao to take all his courage and approach a store. This is the most important step to really get going. You can do it, Unai!
@@ -203,11 +213,11 @@
    , making it livlier and more interesting to other foodsaving and -sharing enthusiasts.
   </li>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="/wiki/display/~Kristijan+Miklobusec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="https://yunity.atlassian.net/wiki/display/~Kristijan+Miklobusec">
     Kristijan Miklobusec
    </a>
    's
-   <a data-linked-resource-id="89124714" data-linked-resource-type="page" data-linked-resource-version="1" href="/wiki/display/FSINT/Foodsharing+Brunch">
+   <a data-linked-resource-id="89124714" data-linked-resource-type="page" data-linked-resource-version="1" href="https://yunity.atlassian.net/wiki/display/FSINT/Foodsharing+Brunch">
     article about the foodsharing brunch in Mainz
    </a>
    , which is successfully held every week since two years already, points out the importance of community building, as well as providing the concrete example of how to achieve this.
@@ -234,11 +244,11 @@
  </h3>
  <ul>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65241092" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fenja.jacobs" href="/wiki/display/~fenja.jacobs">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65241092" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fenja.jacobs" href="https://yunity.atlassian.net/wiki/display/~fenja.jacobs">
     Fenja Jacobs
    </a>
    translated and
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
     Matthias Larisch
    </a>
    proofread the
@@ -249,19 +259,19 @@
   </li>
   <li>
    As mentioned in the foodsaving worldwide section,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    and
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="11436121" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Anne-Sophie" href="/wiki/display/~Anne-Sophie">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="11436121" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Anne-Sophie" href="https://yunity.atlassian.net/wiki/display/~Anne-Sophie">
     Anne-Sophie Roo
    </a>
    translated
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="/wiki/display/~Kristijan+Miklobusec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="https://yunity.atlassian.net/wiki/display/~Kristijan+Miklobusec">
     Kristijan Miklobusec
    </a>
    's article about the foodsharing brunch in Mainz. Have a look at it
-   <a data-linked-resource-id="89124714" data-linked-resource-type="page" data-linked-resource-version="1" href="/wiki/display/FSINT/Foodsharing+Brunch">
+   <a data-linked-resource-id="89124714" data-linked-resource-type="page" data-linked-resource-version="1" href="https://yunity.atlassian.net/wiki/display/FSINT/Foodsharing+Brunch">
     here
    </a>
    .
@@ -282,7 +292,7 @@
   </li>
   <li>
    Setting up a software supporting translation work. (zanata is already in use, but not connected to the webpage. contact:
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    )
@@ -353,11 +363,11 @@
  </h3>
  <ul>
   <li>
-   <a data-linked-resource-id="86016142" data-linked-resource-type="page" data-linked-resource-version="2" href="/wiki/display/BADUE/Electricity">
+   <a data-linked-resource-id="86016142" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/BADUE/Electricity">
     Electricity
    </a>
    : How can we get it through sharing, even when Reik moves out of his flat? So far we only were shown
-   <a data-linked-resource-id="89172360" data-linked-resource-type="page" data-linked-resource-version="7" href="/wiki/display/BADUE/Stromanschluss%3A+2017-02-16+Besuch+von+SEG+LiPro">
+   <a data-linked-resource-id="89172360" data-linked-resource-type="page" data-linked-resource-version="7" href="https://yunity.atlassian.net/wiki/display/BADUE/Stromanschluss%3A+2017-02-16+Besuch+von+SEG+LiPro">
     solutions, which require exchange
    </a>
    .
@@ -450,13 +460,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
        yunity heartbeat 2017-04-30
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~laurina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~laurina
 ">
        Laurina
       </a>
@@ -465,7 +475,7 @@
       May 02, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -475,13 +485,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
        yunity heartbeat 2017-04-16
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~tiltec
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~tiltec
 ">
        Tilmann
       </a>
@@ -490,7 +500,7 @@
       Apr 16, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -500,13 +510,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
        yunity heartbeat 2017-04-02
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -515,7 +525,7 @@
       Apr 03, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -525,13 +535,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
        yunity heartbeat 2017-03-19
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -540,7 +550,7 @@
       Mar 20, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -550,13 +560,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
        yunity heartbeat 2017-03-05
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -565,7 +575,7 @@
       Mar 07, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>

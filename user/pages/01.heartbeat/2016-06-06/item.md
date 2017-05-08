@@ -1,4 +1,14 @@
-<h1>Scrum of Scrums, 2016-06-06</h1><div class="wiki-content">
+---
+title: Scrum of Scrums, 2016-06-06
+date: '2016-06-06'
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <div style="margin-left: 0.0px;">
   <p>
    <em>

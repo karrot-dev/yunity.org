@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2016-11-27</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2016-11-27"
+date: "2016-11-27"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <div class="contentLayout2">
   <div class="columnLayout single" data-layout="single">
    <div class="cell normal" data-type="normal">
@@ -27,11 +37,11 @@
     <div class="innerCell">
      <p>
       As we already told you in
-      <a data-linked-resource-id="74776612" data-linked-resource-type="blogpost" data-linked-resource-version="2" href="/wiki/display/YUN/2016/11/16/yunity+heartbeat+2016-11-13">
+      <a data-linked-resource-id="74776612" data-linked-resource-type="blogpost" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/YUN/2016/11/16/yunity+heartbeat+2016-11-13">
        the last heartbeat
       </a>
       , we found
-      <a data-linked-resource-id="74776581" data-linked-resource-type="page" data-linked-resource-version="18" href="/wiki/pages/viewpage.action?pageId=74776581">
+      <a data-linked-resource-id="74776581" data-linked-resource-type="page" data-linked-resource-version="18" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=74776581">
        a house
       </a>
       !
@@ -89,7 +99,7 @@
      </p>
      <p>
       Also, we are planning an event and
-      <a data-linked-resource-id="77299730" data-linked-resource-type="page" data-linked-resource-version="94" href="/wiki/pages/viewpage.action?pageId=77299730">
+      <a data-linked-resource-id="77299730" data-linked-resource-type="page" data-linked-resource-version="94" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=77299730">
        a survey
       </a>
       to include the local community of Bad Dürrenberg even more into what we are doing. We want to create something beneficial to everyone living there after all, and we don't want to be isolated in our building but truly be part of the city!
@@ -101,7 +111,7 @@
       </span>
       <br/>
       In the meantime enjoy some
-      <a data-linked-resource-id="75890740" data-linked-resource-type="page" data-linked-resource-version="2" href="/wiki/display/BADUE/Impressions+from+the+site">
+      <a data-linked-resource-id="75890740" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/BADUE/Impressions+from+the+site">
        impressions from the site
       </a>
       and you'll see that we really need you! ^^
@@ -140,7 +150,7 @@
       <li>
        <span style="color: rgb(0,0,0);">
         Haifa, Ankara and Barcelona were added to our detailed collection of
-        <a data-linked-resource-id="55607369" data-linked-resource-type="page" data-linked-resource-version="40" href="/wiki/display/FSINT/Existing+initiatives">
+        <a data-linked-resource-id="55607369" data-linked-resource-type="page" data-linked-resource-version="40" href="https://yunity.atlassian.net/wiki/display/FSINT/Existing+initiatives">
          existing initatives
         </a>
         <br class="_mce_tagged_br"/>
@@ -159,7 +169,7 @@
      </h3>
      <ul>
       <li>
-       <a href="/wiki/display/YUN/2016/11/28/yunity+heartbeat+2016-11-27">
+       <a href="https://yunity.atlassian.net/wiki/display/YUN/2016/11/28/yunity+heartbeat+2016-11-27">
         Tilmann
        </a>
        <span style="color: rgb(0,0,0);">
@@ -381,7 +391,7 @@
       <li>
        <span style="color: rgb(0,0,0);">
         Transcription of Raphael's TEDx Talk has finally been reviewed and approved in Amara, thanks to
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="67665964" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="brunaccisara" href="/wiki/display/~brunaccisara">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="67665964" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="brunaccisara" href="https://yunity.atlassian.net/wiki/display/~brunaccisara">
          Sara Brunacci
         </a>
         .
@@ -397,7 +407,7 @@
       <li>
        <span style="color: rgb(0,0,0);">
         Translation of Raphael's TEDx Talk in various languages (Italian by
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="67665964" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="brunaccisara" href="/wiki/display/~brunaccisara">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="67665964" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="brunaccisara" href="https://yunity.atlassian.net/wiki/display/~brunaccisara">
          Sara Brunacci
         </a>
         )
@@ -478,7 +488,7 @@
         facebook
        </a>
        , thanks to new admins taking action. A lot of positive feedback, mostly due to
-       <a data-linked-resource-id="74776581" data-linked-resource-type="page" data-linked-resource-version="18" href="/wiki/pages/viewpage.action?pageId=74776581">
+       <a data-linked-resource-id="74776581" data-linked-resource-type="page" data-linked-resource-version="18" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=74776581">
         WuppHouse progress.
        </a>
       </li>
@@ -488,7 +498,7 @@
          Rundfunk Meissner
         </a>
         radio interview about yunity with
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
          Philip Engelbutzeder
         </a>
         .
@@ -547,7 +557,7 @@
       <li>
        <span style="color: rgb(0,0,0);">
         Enhancing the
-        <a data-linked-resource-id="5177510" data-linked-resource-type="page" data-linked-resource-version="12" href="/wiki/display/YUN/Facebook+posting+guidelines">
+        <a data-linked-resource-id="5177510" data-linked-resource-type="page" data-linked-resource-version="12" href="https://yunity.atlassian.net/wiki/display/YUN/Facebook+posting+guidelines">
          Facebook posting guidelines
         </a>
        </span>
@@ -612,13 +622,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
            yunity heartbeat 2017-04-30
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~laurina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~laurina
 ">
            Laurina
           </a>
@@ -627,7 +637,7 @@
           May 02, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -637,13 +647,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
            yunity heartbeat 2017-04-16
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~tiltec
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~tiltec
 ">
            Tilmann
           </a>
@@ -652,7 +662,7 @@
           Apr 16, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -662,13 +672,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
            yunity heartbeat 2017-04-02
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~Janina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
            Janina Abels
           </a>
@@ -677,7 +687,7 @@
           Apr 03, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -687,13 +697,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
            yunity heartbeat 2017-03-19
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~Janina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
            Janina Abels
           </a>
@@ -702,7 +712,7 @@
           Mar 20, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -712,13 +722,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
            yunity heartbeat 2017-03-05
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~Janina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
            Janina Abels
           </a>
@@ -727,7 +737,7 @@
           Mar 07, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -752,7 +762,7 @@
       </li>
       <li>
        You find the template for the next heartbeat
-       <a data-linked-resource-id="77299920" data-linked-resource-type="page" data-linked-resource-version="42" href="/wiki/display/ARCHIVE/yunity+heartbeat+2016-12-11">
+       <a data-linked-resource-id="77299920" data-linked-resource-type="page" data-linked-resource-version="42" href="https://yunity.atlassian.net/wiki/display/ARCHIVE/yunity+heartbeat+2016-12-11">
         here
        </a>
        .

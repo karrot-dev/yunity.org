@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2016-12-25</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2016-12-25"
+date: "2016-12-25"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <div class="contentLayout2">
   <div class="columnLayout single" data-layout="single">
    <div class="cell normal" data-type="normal">
@@ -87,11 +97,11 @@
     <div class="innerCell">
      <p>
       Recently a lot of yuniteers started to find a passion for video making and editing and began documenting the exciting WuppHaus project and the lifestyles behind it. After the launch of
-      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="30572615" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="Selina" href="/wiki/display/~Selina">
+      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="30572615" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="Selina" href="https://yunity.atlassian.net/wiki/display/~Selina">
        Selina Camile
       </a>
       and
-      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="/wiki/display/~rose+earthling">
+      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="https://yunity.atlassian.net/wiki/display/~rose+earthling">
        Lara Earthling
       </a>
       's channel
@@ -99,7 +109,7 @@
        Gedankengänge und Gefühlswelten
       </a>
       , and
-      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
        Philip Engelbutzeder
       </a>
       's videos about
@@ -111,7 +121,7 @@
        teatime in the WuppHaus
       </a>
       , now
-      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
        Paul Free
       </a>
       also started experimenting with film and created a montage of existing as well as new material, music, interviews and pictures. You will see that it is the outcome of a learning process, but if you are interested in the project and the people, you will enjoy it anyways...
@@ -459,7 +469,7 @@
      <p>
       <span style="color: rgb(0,0,0);">
        The reason why I put all of this under "help needed" is because I feel that since I,
-       <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+       <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
         Matthias Larisch
        </a>
        , am focusing on the WuppHaus now and thus currently not contributing code myself, nothing happens on these goals and I would really appreciate more contributions on that level, e.g. more than introducing new, untested, simple features
@@ -495,7 +505,7 @@
       <li>
        <span style="color: rgb(0,0,0);">
         planning of WuppDays XXL in Berlin in late April 2017.
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
          Philip Engelbutzeder
         </a>
         is already in contact with someone offering a great location for lots of people to come by over the course of three weeks. Stay tuned for more specifics or join us in the planning in
@@ -553,7 +563,7 @@
       <li>
        <span style="color: rgb(0,0,0);">
         Researching and documenting open source software alternatives for collective work.
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
          Paul Free
         </a>
        </span>
@@ -635,11 +645,11 @@
          Zanata
         </a>
         by
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
          Paul Free
         </a>
         and
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
          Janina Abels
         </a>
         .
@@ -655,7 +665,7 @@
      <p>
       <span style="color: rgb(0,0,0);">
        Who added all these subs? We know that
-       <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="67665964" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="brunaccisara" href="/wiki/display/~brunaccisara">
+       <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="67665964" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="brunaccisara" href="https://yunity.atlassian.net/wiki/display/~brunaccisara">
         Sara Brunacci
        </a>
        made the Italian ones, but the others are still mysterious...
@@ -697,11 +707,11 @@
       <li>
        <span style="color: rgb(0,0,0);">
         A beautiful new poem in German by
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
          Philip Engelbutzeder
         </a>
         was added to
-        <a data-linked-resource-id="15303038" data-linked-resource-type="page" data-linked-resource-version="6" href="/wiki/display/YUCU/yunity+Poems">
+        <a data-linked-resource-id="15303038" data-linked-resource-type="page" data-linked-resource-version="6" href="https://yunity.atlassian.net/wiki/display/YUCU/yunity+Poems">
          yunity Poems
         </a>
         .
@@ -711,15 +721,15 @@
       <li>
        <span style="color: rgb(0,0,0);">
         Launch of the
-        <a data-linked-resource-id="75890790" data-linked-resource-type="page" data-linked-resource-version="14" href="/wiki/display/YUCU/yunity+book+club">
+        <a data-linked-resource-id="75890790" data-linked-resource-type="page" data-linked-resource-version="14" href="https://yunity.atlassian.net/wiki/display/YUCU/yunity+book+club">
          yunity book club
         </a>
         by
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554187" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="Cille" href="/wiki/display/~Cille">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554187" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="Cille" href="https://yunity.atlassian.net/wiki/display/~Cille">
          Cille
         </a>
         and
-        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="/wiki/display/~dmhwebb">
+        <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="https://yunity.atlassian.net/wiki/display/~dmhwebb">
          Douglas Webb
         </a>
         .
@@ -828,7 +838,7 @@
      <p>
       <span style="color: rgb(0,0,0);">
        Has anyone experience with creating Wikipedia articles? Get in touch with
-       <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="/wiki/display/~Arno">
+       <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="https://yunity.atlassian.net/wiki/display/~Arno">
         Arno Döpper
        </a>
        <span class="confluence-embedded-file-wrapper">
@@ -896,13 +906,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
            yunity heartbeat 2017-04-30
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~laurina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~laurina
 ">
            Laurina
           </a>
@@ -911,7 +921,7 @@
           May 02, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -921,13 +931,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
            yunity heartbeat 2017-04-16
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~tiltec
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~tiltec
 ">
            Tilmann
           </a>
@@ -936,7 +946,7 @@
           Apr 16, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -946,13 +956,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
            yunity heartbeat 2017-04-02
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~Janina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
            Janina Abels
           </a>
@@ -961,7 +971,7 @@
           Apr 03, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -971,13 +981,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
            yunity heartbeat 2017-03-19
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~Janina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
            Janina Abels
           </a>
@@ -986,7 +996,7 @@
           Mar 20, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -996,13 +1006,13 @@
           <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
            Blog:
           </span>
-          <a href="/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
+          <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
            yunity heartbeat 2017-03-05
           </a>
           created by
          </span>
          <div class="blog-item-creator">
-          <a class="url fn" href="    /wiki/display/~Janina
+          <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
            Janina Abels
           </a>
@@ -1011,7 +1021,7 @@
           Mar 07, 2017
          </div>
          <div class="blog-item-space">
-          <a href="/wiki/spaces/YUN">
+          <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
            yunity
           </a>
          </div>
@@ -1036,7 +1046,7 @@
       </li>
       <li>
        You find the template for the next heartbeat
-       <a data-linked-resource-id="32440687" data-linked-resource-type="page" data-linked-resource-version="15" href="/wiki/display/YUN/heartbeat">
+       <a data-linked-resource-id="32440687" data-linked-resource-type="page" data-linked-resource-version="15" href="https://yunity.atlassian.net/wiki/display/YUN/heartbeat">
         here
        </a>
        .

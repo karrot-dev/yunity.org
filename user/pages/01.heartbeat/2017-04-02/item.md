@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2017-04-02</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2017-04-02"
+date: "2017-04-02"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <p>
   <strong>
    The yunity heartbeat
@@ -16,26 +26,26 @@
  <p>
   <span style="color: rgb(0,0,0);">
    After the
-   <a data-linked-resource-id="89718373" data-linked-resource-type="page" data-linked-resource-version="17" href="/wiki/display/YUCU/2017-03-12to19+Harzgerode">
+   <a data-linked-resource-id="89718373" data-linked-resource-type="page" data-linked-resource-version="17" href="https://yunity.atlassian.net/wiki/display/YUCU/2017-03-12to19+Harzgerode">
     <span class="confluence-link">
      wh-y-unity meetings
     </span>
    </a>
    took place from March 12 to 19, it was finally time for the Wurzen plannings to start! The people mainly involved in this initial phase of concrete planning are
   </span>
-  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
    Matthias Larisch
   </a>
   ,
-  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="/wiki/display/~Bodhi">
+  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="https://yunity.atlassian.net/wiki/display/~Bodhi">
    Bodhi Neiser
   </a>
   ,
-  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="/wiki/display/~dmhwebb">
+  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917517" data-linked-resource-type="userinfo" data-linked-resource-version="8" data-username="dmhwebb" href="https://yunity.atlassian.net/wiki/display/~dmhwebb">
    Douglas Webb
   </a>
   and
-  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440715" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fr4nk0nf1r3" href="/wiki/display/~fr4nk0nf1r3">
+  <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440715" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fr4nk0nf1r3" href="https://yunity.atlassian.net/wiki/display/~fr4nk0nf1r3">
    fr4nk 0nf1r3
   </a>
   <span style="color: rgb(0,0,0);">
@@ -77,7 +87,7 @@
   <span style="color: rgb(0,0,0);">
    More detailed minutes from the meetings, which commenced on March 21st can be found
   </span>
-  <a data-linked-resource-id="88368715" data-linked-resource-type="page" data-linked-resource-version="11" href="/wiki/pages/viewpage.action?pageId=88368715">
+  <a data-linked-resource-id="88368715" data-linked-resource-type="page" data-linked-resource-version="11" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=88368715">
    here
   </a>
   .
@@ -182,20 +192,20 @@
   <li>
    <span style="color: rgb(0,0,0);">
     <span style="color: rgb(153,204,0);">
-     <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+     <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
       Joachim Thome
      </a>
      <span style="color: rgb(0,0,0);">
       and
-      <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
        Janina Abels
       </a>
       arrived in Bilbao and started working on
-      <a data-linked-resource-id="90091413" data-linked-resource-type="page" data-linked-resource-version="29" href="/wiki/display/FSINT/Kickstarting+foodsharing+Bilbao">
+      <a data-linked-resource-id="90091413" data-linked-resource-type="page" data-linked-resource-version="29" href="https://yunity.atlassian.net/wiki/display/FSINT/Kickstarting+foodsharing+Bilbao">
        kickstarting foodsharing
       </a>
       there together with
-      <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
        Unai Gaztelu
       </a>
       . Updates are reported daily
@@ -212,13 +222,13 @@
   <li>
    <span style="color: rgb(0,0,0);">
     <span style="color: rgb(153,204,0);">
-     <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+     <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
       Nick Sellen
      </a>
      <span style="color: rgb(0,0,0);">
       is carrying the torch for the foodsaving tool team, while
      </span>
-     <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+     <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
       Tilmann
      </a>
      <span style="color: rgb(0,0,0);">
@@ -243,7 +253,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     <span style="color: rgb(153,204,0);">
-     <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+     <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
       Nick Sellen
      </a>
      <span style="color: rgb(0,0,0);">
@@ -264,7 +274,7 @@
      <span style="color: rgb(0,0,0);">
       Isabella from Malo recently contacted us with some questions on how to use the foodsaving tool. We had no idea that the cooperations built for
      </span>
-     <a data-linked-resource-id="5177416" data-linked-resource-type="page" data-linked-resource-version="2" href="/wiki/display/YUN/WuppDays+%231%2C+Malo%2C+2015-09-20+to+2015-10-16">
+     <a data-linked-resource-id="5177416" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/YUN/WuppDays+%231%2C+Malo%2C+2015-09-20+to+2015-10-16">
       the very first WuppDays in October 2016
      </a>
      <span style="color: rgb(0,0,0);">
@@ -281,7 +291,7 @@
     <span style="color: rgb(153,204,0);">
      <span style="color: rgb(0,0,0);">
       Another update reached our ears from
-      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995076" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="stefanintaipei" href="/wiki/display/~stefanintaipei">
+      <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="65995076" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="stefanintaipei" href="https://yunity.atlassian.net/wiki/display/~stefanintaipei">
        Stefan Simon
       </a>
       , who was the driving force behind foodsharing Taiwan: Even though he is back in Europe for now, the Taiwanese initiative goes on and he even gives interviews via Skype to curious journalists! He plans on going back in summer, and then the project will probably expand again.
@@ -303,7 +313,7 @@
   <li>
    <span style="color: rgb(0,0,0);">
     You are part of a foodsaving or -sharing initiative? You happen to know a lot about any aspect of the subject, like a specific platform, project or kind of approach? Maybe you even feel like writing inspiring blog posts..?
-    <a class="external-link" href="mailto:mail@yunity.org" rel="nofollow">
+    <a class="external-link" href="https://yunity.atlassian.netmailto:mail@yunity.org" rel="nofollow">
      Please contact us
     </a>
     , so that we can make
@@ -343,7 +353,7 @@
    <span style="color: rgb(0,0,0);">
     There now is a
    </span>
-   <a data-linked-resource-id="89960433" data-linked-resource-type="page" data-linked-resource-version="3" href="/wiki/display/FSDE/Foodsharing">
+   <a data-linked-resource-id="89960433" data-linked-resource-type="page" data-linked-resource-version="3" href="https://yunity.atlassian.net/wiki/display/FSDE/Foodsharing">
     specific space on the wiki
    </a>
    <span style="color: rgb(0,0,0);">
@@ -358,13 +368,13 @@
    <span style="color: rgb(0,0,0);">
     Two online meetings have already been held, one on
    </span>
-   <a data-linked-resource-id="89960481" data-linked-resource-type="page" data-linked-resource-version="3" href="/wiki/display/FSDE/2017-03-11+Meeting+notes">
+   <a data-linked-resource-id="89960481" data-linked-resource-type="page" data-linked-resource-version="3" href="https://yunity.atlassian.net/wiki/display/FSDE/2017-03-11+Meeting+notes">
     2017-03-11
    </a>
    <span style="color: rgb(0,0,0);">
     and one on
    </span>
-   <a data-linked-resource-id="89971876" data-linked-resource-type="page" data-linked-resource-version="2" href="/wiki/display/FSDE/2017-03-23+Meeting+notes">
+   <a data-linked-resource-id="89971876" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/FSDE/2017-03-23+Meeting+notes">
     2017-03-23
    </a>
    .
@@ -392,7 +402,7 @@
   </li>
   <li>
    <span style="color: rgb(0,0,0);">
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="89964988" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="lorenzsieben" href="/wiki/display/~lorenzsieben">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="89964988" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="lorenzsieben" href="https://yunity.atlassian.net/wiki/display/~lorenzsieben">
      Lorenz Sieben
     </a>
     expressed interest to implement Doctrine ORM for the backend. He would like to investigate the codebase a bit more first, then discuss proposals to integrate an ORM. Lorenz is a little unsure of his time commitment though
@@ -422,7 +432,7 @@
    <span style="color: rgb(0,0,0);">
     Makka Cosa wrote a nice song called 'Sharing Kultur', that is inspired by yunity and foodsharing. He recorded it for us and it is now
    </span>
-   <a data-linked-resource-id="30572732" data-linked-resource-type="page" data-linked-resource-version="11" href="/wiki/display/YUCU/yunity+Songs">
+   <a data-linked-resource-id="30572732" data-linked-resource-type="page" data-linked-resource-version="11" href="https://yunity.atlassian.net/wiki/display/YUCU/yunity+Songs">
     accessible on the wiki
    </a>
    .
@@ -446,7 +456,7 @@
    </span>
   </li>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    <span style="color: rgb(0,0,0);">
@@ -480,7 +490,7 @@
    <span style="color: rgb(0,0,0);">
     Also every other cultural aspect, that you see as relevant to yunity can be elaborated on! Do you have any ideas?
    </span>
-   <a class="external-link" href="mailto:mail@yunity.org" rel="nofollow">
+   <a class="external-link" href="https://yunity.atlassian.netmailto:mail@yunity.org" rel="nofollow">
     Let us know!
    </a>
   </li>
@@ -547,13 +557,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
        yunity heartbeat 2017-04-30
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~laurina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~laurina
 ">
        Laurina
       </a>
@@ -562,7 +572,7 @@
       May 02, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -572,13 +582,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
        yunity heartbeat 2017-04-16
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~tiltec
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~tiltec
 ">
        Tilmann
       </a>
@@ -587,7 +597,7 @@
       Apr 16, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -597,13 +607,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
        yunity heartbeat 2017-04-02
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -612,7 +622,7 @@
       Apr 03, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -622,13 +632,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
        yunity heartbeat 2017-03-19
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -637,7 +647,7 @@
       Mar 20, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -647,13 +657,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
        yunity heartbeat 2017-03-05
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -662,7 +672,7 @@
       Mar 07, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>

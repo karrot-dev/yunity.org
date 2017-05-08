@@ -44,3 +44,39 @@ for u in urls:
     with open(os.path.join('old_heartbeats', date, 'source.html'), 'w+') as f:
         f.write('<h1>{}</h1>'.format(title))
         f.write(html)
+        
+        
+#%%
+import os
+from bs4 import BeautifulSoup
+
+#os.chdir('user/pages/01.heartbeat')
+for d in os.listdir():
+    if d == 'blog.md':
+        continue
+    if 'item.md' in os.listdir(d):
+        continue
+    
+    print(d)
+    with open(os.path.join(d, 'source.html')) as f:
+        soup = BeautifulSoup(f, 'html.parser')
+        header = """---
+title: "{}"
+date: "{}"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+""".format(soup.h1.extract(), d)
+
+        for url in soup.find_all('a'):
+            if not url['href'].startswith('http'):
+                url['href'] = 'https://yunity.atlassian.net' + url['href']
+
+        with open(os.path.join(d, 'item.md'), 'w+') as dest:
+            dest.write(header)
+            dest.write(soup.prettify())
+            

@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2017-01-22</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2017-01-22"
+date: "2017-01-22"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <p>
   <strong>
    The yunity heartbeat
@@ -46,7 +56,7 @@
     Sebastian Striegel
    </a>
    , who is a member of the parliament of Sachsen-Anhalt for the green party (Landtagsabgeordneter der Grünen) came visiting the WuppHaus and expressed big interest in our way of living, our vision and mission and granted us his support. We still get more offers from people who'd like to help out with their skills, be it from befriended architects or
-   <a data-linked-resource-id="88490388" data-linked-resource-type="page" data-linked-resource-version="3" href="/wiki/pages/viewpage.action?pageId=88490388">
+   <a data-linked-resource-id="88490388" data-linked-resource-type="page" data-linked-resource-version="3" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=88490388">
     a wood expert, who came by
    </a>
    to assess the quality of the beams in the house and tell us how to handle our
@@ -66,7 +76,7 @@
     an informative article about the outcome of the first big WuppHaus plenum
    </a>
    , in which yuniteers and local contributors gathered to talk about the future of the train station.
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    is already planning the next get-together with other local initiatives and collects info on who to invite and what to do. And as if that wasn't enough, we now even found the confidence to
@@ -109,7 +119,7 @@
  </p>
  <p>
   Since the first visit on January 5th a lot has happened and the plannings are already pretty concrete! A
-  <a data-linked-resource-id="88347590" data-linked-resource-type="page" data-linked-resource-version="9" href="/wiki/display/WW/WuppHaus+Wurzen+Home">
+  <a data-linked-resource-id="88347590" data-linked-resource-type="page" data-linked-resource-version="9" href="https://yunity.atlassian.net/wiki/display/WW/WuppHaus+Wurzen+Home">
    whole new space on the wiki
   </a>
   has been created to give room to all the new information and planning for this second WuppHaus project. This time the houses are actually in a state that can be best described as ready-to-move-in! But therefore this time they are not for free...
@@ -120,7 +130,7 @@
    buy
   </em>
   the houses, a lot more accounting and bureaucracy are to be handled. We already have a rough
-  <a data-linked-resource-id="88145934" data-linked-resource-type="page" data-linked-resource-version="12" href="/wiki/display/WW/Financial+planning">
+  <a data-linked-resource-id="88145934" data-linked-resource-type="page" data-linked-resource-version="12" href="https://yunity.atlassian.net/wiki/display/WW/Financial+planning">
    financial plan
   </a>
   , as well as
@@ -131,35 +141,35 @@
  </p>
  <p>
   Still, the planning is in full swing! There have been already a lot of meetings on various concrete topics (see the  - mostly German - minutes
-  <a data-linked-resource-id="88368715" data-linked-resource-type="page" data-linked-resource-version="11" href="/wiki/pages/viewpage.action?pageId=88368715">
+  <a data-linked-resource-id="88368715" data-linked-resource-type="page" data-linked-resource-version="11" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=88368715">
    here
   </a>
   ), like distribution of
-  <a data-linked-resource-id="88492950" data-linked-resource-type="page" data-linked-resource-version="5" href="/wiki/display/WW/Room+ideas+and+whishes">
+  <a data-linked-resource-id="88492950" data-linked-resource-type="page" data-linked-resource-version="5" href="https://yunity.atlassian.net/wiki/display/WW/Room+ideas+and+whishes">
    the imagined rooms
   </a>
   based on the
-  <a data-linked-resource-id="88471557" data-linked-resource-type="page" data-linked-resource-version="2" href="/wiki/pages/viewpage.action?pageId=88471557">
+  <a data-linked-resource-id="88471557" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=88471557">
    nicely drawn layout plans
   </a>
   ,
-  <a data-linked-resource-id="88368209" data-linked-resource-type="page" data-linked-resource-version="10" href="/wiki/pages/viewpage.action?pageId=88368209">
+  <a data-linked-resource-id="88368209" data-linked-resource-type="page" data-linked-resource-version="10" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=88368209">
    ideas on how to deal with the omnipresent issue of money
   </a>
   ,
-  <a data-linked-resource-id="88493070" data-linked-resource-type="page" data-linked-resource-version="6" href="/wiki/pages/viewpage.action?pageId=88493070">
+  <a data-linked-resource-id="88493070" data-linked-resource-type="page" data-linked-resource-version="6" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=88493070">
    how to handle conflicts
   </a>
   and much more. Of course there are
-  <a data-linked-resource-id="88472364" data-linked-resource-type="page" data-linked-resource-version="2" href="/wiki/display/WW/Pictures">
+  <a data-linked-resource-id="88472364" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/WW/Pictures">
    pictures
   </a>
   ,
-  <a data-linked-resource-id="88454295" data-linked-resource-type="page" data-linked-resource-version="10" href="/wiki/pages/viewpage.action?pageId=88454295">
+  <a data-linked-resource-id="88454295" data-linked-resource-type="page" data-linked-resource-version="10" href="https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=88454295">
    a short concept has been articulated in German
   </a>
   and if you want to participate,
-  <a data-linked-resource-id="88347638" data-linked-resource-type="page" data-linked-resource-version="2" href="/wiki/display/WW/Call+to+participate">
+  <a data-linked-resource-id="88347638" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/WW/Call+to+participate">
    you're invited
   </a>
   to do so!
@@ -184,21 +194,21 @@
  </h3>
  <ul>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="/wiki/display/~Bodhi">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227125" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Bodhi" href="https://yunity.atlassian.net/wiki/display/~Bodhi">
     Bodhi Neiser
    </a>
    and
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="/wiki/display/~Philip">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2162705" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Philip" href="https://yunity.atlassian.net/wiki/display/~Philip">
     Philip Engelbutzeder
    </a>
    visited the potential location for a big event in Berlin in summer. The working title used to be 'WuppDays XXL', but it is probably going to be renamed soon.
   </li>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    secured a location for
-   <a data-linked-resource-id="88372531" data-linked-resource-type="page" data-linked-resource-version="9" href="/wiki/display/YUN/WuppDays+%2314%2C+Barcelona">
+   <a data-linked-resource-id="88372531" data-linked-resource-type="page" data-linked-resource-version="9" href="https://yunity.atlassian.net/wiki/display/YUN/WuppDays+%2314%2C+Barcelona">
     WuppDays #14 in Barcelona
    </a>
    , which are about to start! Are you in the area? You can still decide to come by!
@@ -224,7 +234,7 @@
   </li>
   <li>
    <span style="color: rgb(0,0,0);">
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
      Paul Free
     </a>
     took over the organization of the big event in Berlin in summer and is looking for people to help him.
@@ -243,7 +253,7 @@
  <ul>
   <li>
    As stated above, the Berlin event is going to be huge! So help is needed at every corner: Planning, organizing, promoting, securing food, etc. etc. If you want to get involved, please contact
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="/wiki/display/~Paul+Free">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
     Paul Free
    </a>
    , join
@@ -251,7 +261,7 @@
     #wuppdays_xxl_berlin
    </a>
    on Slack or simply
-   <a class="external-link" href="mailto:mail@yunity.org" rel="nofollow">
+   <a class="external-link" href="https://yunity.atlassian.netmailto:mail@yunity.org" rel="nofollow">
     write us an email
    </a>
    .
@@ -288,7 +298,7 @@
    on Slack.
   </li>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    started restructuring the confluence wiki, to make it more accessible and easier to use. The main work now is to review the existing content and to then move and redesign the pages accordingly. She'll try to keep the phase of confusion as short as possible, but if you don't find what you're looking for in the meantime, please use the search bar in the top right...
@@ -303,11 +313,11 @@
   </li>
   <li>
    The onboarding process is still in the midst of being redesigned, but the talking about it alone already led to more motivation to take this seriously, so that e.g.
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    started writing welcoming messages to the new people who join Slack again and
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="/wiki/display/~Arno">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="6553696" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Arno" href="https://yunity.atlassian.net/wiki/display/~Arno">
     Arno Döpper
    </a>
    does the same on
@@ -325,7 +335,7 @@
  <ul>
   <li>
    We keep having issues with the use of our communication tools. While on the one hand people complain about e.g. our Slack being messy and hard to keep on top of, there are on the other hand often situations in which people work on very similar things without connecting, because they simply don't know that the other person is doing something related. There are
-   <a data-linked-resource-id="6553608" data-linked-resource-type="page" data-linked-resource-version="18" href="/wiki/display/YUN/Community+Channels">
+   <a data-linked-resource-id="6553608" data-linked-resource-type="page" data-linked-resource-version="18" href="https://yunity.atlassian.net/wiki/display/YUN/Community+Channels">
     <em>
      so many
     </em>
@@ -354,13 +364,13 @@
  </h3>
  <ul>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227074" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Joachim Thome" href="/wiki/display/~Joachim+Thome">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227074" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Joachim Thome" href="https://yunity.atlassian.net/wiki/display/~Joachim+Thome">
     Joachim Thome
    </a>
    held already two online meetings with people from Bilbao, who are enthusiastic about starting a foodsaving initiative. More calls are to come.
   </li>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="/wiki/display/~Kristijan+Miklobusec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="https://yunity.atlassian.net/wiki/display/~Kristijan+Miklobusec">
     Kristijan Miklobusec
    </a>
    shared a nice long guide about the importance of community building and the positive experiences of foodsharing Mainz, who hold a brunch for their members every week. It still needs to be translated and put onto the wiki, though.
@@ -381,7 +391,7 @@
   </li>
   <li>
    We received an email from a Czech girl, who thinks about starting foodsharing in her home country. Since
-   <a data-linked-resource-id="88456436" data-linked-resource-type="page" data-linked-resource-version="1" href="/wiki/display/FSINT/Quick+research+on+Czech+foodsaving+initiatives">
+   <a data-linked-resource-id="88456436" data-linked-resource-type="page" data-linked-resource-version="1" href="https://yunity.atlassian.net/wiki/display/FSINT/Quick+research+on+Czech+foodsaving+initiatives">
     there are already people working against food waste in Czech Republic
    </a>
    , our aim was to connect them with each other. Since she now joined our Slack, we hope to intensify the cooperation!
@@ -413,11 +423,11 @@
  </h3>
  <ul>
   <li>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="/wiki/display/~rose+earthling">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="https://yunity.atlassian.net/wiki/display/~rose+earthling">
     Lara Earthling
    </a>
    started a
-   <a data-linked-resource-id="88373558" data-linked-resource-type="page" data-linked-resource-version="3" href="/wiki/display/YUCU/Health+and+Care">
+   <a data-linked-resource-id="88373558" data-linked-resource-type="page" data-linked-resource-version="3" href="https://yunity.atlassian.net/wiki/display/YUCU/Health+and+Care">
     section on the wiki
    </a>
    and a
@@ -435,14 +445,14 @@
  <ul>
   <li>
    Knowledge of wild herbs and their medical properties is collected
-   <a data-linked-resource-id="35061868" data-linked-resource-type="page" data-linked-resource-version="6" href="/wiki/display/YUCU/Wild+herbs">
+   <a data-linked-resource-id="35061868" data-linked-resource-type="page" data-linked-resource-version="6" href="https://yunity.atlassian.net/wiki/display/YUCU/Wild+herbs">
     here
    </a>
    .
   </li>
   <li>
    The research on existing health care systems is going to be documented
-   <a data-linked-resource-id="88373660" data-linked-resource-type="page" data-linked-resource-version="6" href="/wiki/display/YUCU/Research+Health+System">
+   <a data-linked-resource-id="88373660" data-linked-resource-type="page" data-linked-resource-version="6" href="https://yunity.atlassian.net/wiki/display/YUCU/Research+Health+System">
     here
    </a>
    .
@@ -457,11 +467,11 @@
   <li>
    <p>
     Do you know anything about alternative methods of healing or how a health network following the values of sharing can be established? Please let us know! In case you don't know how to contact us, just
-    <a class="external-link" href="mailto:mail@yunity.org" rel="nofollow">
+    <a class="external-link" href="https://yunity.atlassian.netmailto:mail@yunity.org" rel="nofollow">
      write us a mail
     </a>
     and we'll forward it to
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="/wiki/display/~rose+earthling">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="62554274" data-linked-resource-type="userinfo" data-linked-resource-version="4" data-username="rose earthling" href="https://yunity.atlassian.net/wiki/display/~rose+earthling">
      Lara Earthling
     </a>
     .
@@ -530,13 +540,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/05/02/yunity+heartbeat+2017-04-30">
        yunity heartbeat 2017-04-30
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~laurina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~laurina
 ">
        Laurina
       </a>
@@ -545,7 +555,7 @@
       May 02, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -555,13 +565,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16">
        yunity heartbeat 2017-04-16
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~tiltec
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~tiltec
 ">
        Tilmann
       </a>
@@ -570,7 +580,7 @@
       Apr 16, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -580,13 +590,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/04/03/yunity+heartbeat+2017-04-02">
        yunity heartbeat 2017-04-02
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -595,7 +605,7 @@
       Apr 03, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -605,13 +615,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/20/yunity+heartbeat+2017-03-19">
        yunity heartbeat 2017-03-19
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -620,7 +630,7 @@
       Mar 20, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>
@@ -630,13 +640,13 @@
       <span class="icon aui-icon aui-icon-small aui-iconfont-page-blogpost" title="Blog">
        Blog:
       </span>
-      <a href="/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
+      <a href="https://yunity.atlassian.net/wiki/display/YUN/2017/03/07/yunity+heartbeat+2017-03-05">
        yunity heartbeat 2017-03-05
       </a>
       created by
      </span>
      <div class="blog-item-creator">
-      <a class="url fn" href="    /wiki/display/~Janina
+      <a class="url fn" href="https://yunity.atlassian.net    /wiki/display/~Janina
 ">
        Janina Abels
       </a>
@@ -645,7 +655,7 @@
       Mar 07, 2017
      </div>
      <div class="blog-item-space">
-      <a href="/wiki/spaces/YUN">
+      <a href="https://yunity.atlassian.net/wiki/spaces/YUN">
        yunity
       </a>
      </div>

@@ -1,4 +1,14 @@
-<h1>yunity heartbeat 2017-04-30</h1><div class="wiki-content">
+---
+title: "yunity heartbeat 2017-04-30"
+date: "2017-04-30"
+continue_link: true
+taxonomy:
+    category: blog
+    tag: [heartbeat]
+published: false
+---
+
+<div class="wiki-content">
  <p>
   <strong>
    The yunity heartbeat
@@ -64,7 +74,7 @@
   </li>
   <li>
    <span style="color: rgb(0,0,0);">
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
      Janina Abels
     </a>
     recently stumbled upon this
@@ -79,7 +89,7 @@
   </li>
   <li>
    <span style="color: rgb(0,0,0);">
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
      Janina Abels
     </a>
     is also in contact with a motivated guy named Angel from Valencia, who is wondering why there is a foodsharing Valencia facebook group, but no activity. Maybe he can be coached - just like Unai was - and enabled to reactivate the foodsharing project of Valencia. And maybe that will be a reason to revisit this beautiful city, Janina and Tilmann just came by in February...
@@ -91,11 +101,11 @@
   <li>
    <span style="color: rgb(0,0,0);">
     The last piece of intel from the Spain research is, that there apparently is a foodsharing group in León. Alvaro Saiz Ruiz - the man behind Nevera Solidaria, who
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
      Janina Abels
     </a>
     and
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="88808557" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Mettodo" href="/wiki/display/~Mettodo">
+    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="88808557" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Mettodo" href="https://yunity.atlassian.net/wiki/display/~Mettodo">
      Unai Gaztelu
     </a>
     visited in Galdako - said so, but we have not been in contact with them so far. We found
@@ -200,11 +210,11 @@
     the recent developments at the Easter hackathon
    </a>
    in Berlin.
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="/wiki/display/~matthias">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="2981927" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="matthias" href="https://yunity.atlassian.net/wiki/display/~matthias">
     Matthias Larisch
    </a>
    and Raphel Wintrich came to
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="/wiki/display/~nicksellen">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="https://yunity.atlassian.net/wiki/display/~nicksellen">
     Nick Sellen
    </a>
    's place and the three of them were coding together productively, writing more than 120 messages in #foodsharing-dev on Slack and inspired some enthusiastic feedback:
@@ -243,7 +253,7 @@
  <p>
   <span style="color: rgb(0,0,0);">
    Since the beginning of 2017 Harzgerode has been a place for yuniteers to go to. The former children's clinic in the Harz mountains in central Germany is situated in the forest, but still offers a great food situation for dumpster divers. There are intact windows and clean rooms, running water, electricity and internet, as well as a lot of space and the benevolent support of
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="75890724" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="bernd" href="/wiki/display/~bernd">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="75890724" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="bernd" href="https://yunity.atlassian.net/wiki/display/~bernd">
     Bernd Rühl
    </a>
    . At first it was mainly some people looking for shelter and comfort, being exhausted from the harsh winter in Bad Dürrenberg. Then the wh-y-unity meetings were held in the former clinic and now more and more yuniteers go where more and more yuniteers go - we know that dynamic...
@@ -281,7 +291,7 @@
     the last heartbeat
    </a>
    ,
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="/wiki/display/~nicksellen">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="917513" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="nicksellen" href="https://yunity.atlassian.net/wiki/display/~nicksellen">
     Nick Sellen
    </a>
    started working on a new and pretty minimal website for
@@ -291,11 +301,11 @@
    .
    <strong>
    </strong>
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="/wiki/display/~tiltec">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227118" data-linked-resource-type="userinfo" data-linked-resource-version="3" data-username="tiltec" href="https://yunity.atlassian.net/wiki/display/~tiltec">
     Tilmann
    </a>
    and
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="/wiki/display/~Janina">
+   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
     Janina Abels
    </a>
    are supporting him in this endeavor and now what's mostly missing is feedback from other yuniteers if we want to exchange the good old
