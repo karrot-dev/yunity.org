@@ -10,6 +10,8 @@ image: wupphouse_smallwithpadding.png
 
 > A place of sharing in favor of community change
 
+** This project is currently on hold. [Contact](../imprint) us for more information. **
+
 ![](IMG_0277-2.jpg)
 
 ![](b-wupp-haus-190116.jpg)
