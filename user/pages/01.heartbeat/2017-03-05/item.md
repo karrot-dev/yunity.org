@@ -345,17 +345,6 @@ published: false
  <ul>
   <li>
    <span style="color: rgb(0,0,0);">
-    You need to have a wiki account and editor rights. Ask us in
-    <a class="external-link" href="https://yunity.slack.com/messages/confluence/" rel="nofollow">
-     <span style="color: rgb(0,0,0);">
-      #confluence
-     </span>
-    </a>
-    on Slack if you need help with that.
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
     Talk to us in
     <a class="external-link" href="https://yunity.slack.com/messages/heartbeat/" rel="nofollow">
      <span style="color: rgb(0,0,0);">

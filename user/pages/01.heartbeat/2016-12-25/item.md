@@ -1038,13 +1038,6 @@ published: false
      </h4>
      <ul>
       <li>
-       You need to have a wiki account and editor rights. Ask us in
-       <a class="external-link" href="https://yunity.slack.com/messages/confluence/" rel="nofollow">
-        #confluence
-       </a>
-       on Slack if you need help with that.
-      </li>
-      <li>
        You find the template for the next heartbeat
        <a data-linked-resource-id="32440687" data-linked-resource-type="page" data-linked-resource-version="15" href="https://yunity.atlassian.net/wiki/display/YUN/heartbeat">
         here

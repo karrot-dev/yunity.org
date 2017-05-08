@@ -383,13 +383,6 @@ published: false
   How to contribute?
  </h4>
  <p>
-  You need to have a wiki account and editor rights. Ask us in
-  <a class="external-link" href="https://yunity.slack.com/messages/confluence/" rel="nofollow">
-   #confluence
-  </a>
-  on Slack if you need help with that.
- </p>
- <p>
   Talk to us in
   <a class="external-link" href="https://yunity.slack.com/messages/heartbeat/" rel="nofollow">
    #heartbeat
