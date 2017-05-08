@@ -5,7 +5,7 @@ continue_link: true
 taxonomy:
     category: blog
     tag: [heartbeat]
-published: false
+published: true
 ---
 
 ## Foodsaving Worldwide.
