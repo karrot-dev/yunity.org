@@ -13,7 +13,7 @@ metadata:
 # Main Menu
 menu:
   - text: yunity Wiki
-    link: https://yunity.atlassian.net/wiki/
+    link: https://yunity.atlassian.net/wiki
 
 social:
   mail:

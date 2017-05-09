@@ -1,9 +1,16 @@
 ---
 title: foodsharing.de development
 route: foodsharing-dev
+metadata:
+    'og:site_name': yunity
+    'og:title': foodsharing.de development
+    'og:type': website
+    'og:url': 'https://yunity.org/foodsharing-dev'
+    'og:image': 'https://yunity.org/user/pages/04.foodsharing-dev/fork_smallwithpadding.png'
+    'og:description': 'We maintain and continue development of the German foodsharing platform, that enables people to save food from stores and share it unconditionally'
 menu: foodsharing.de dev
 menu_description: Maintaining and developing foodsharing.de
-image: fork_smallwithpadding.png
+image: 'fork_smallwithpadding.png'
 ---
 
 # foodsharing.de Development

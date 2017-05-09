@@ -1,6 +1,13 @@
 ---
 title: Heartbeat
 blog_url: heartbeat
+metadata:
+    'og:site_name': yunity
+    'og:title': Heartbeat
+    'og:type': website
+    'og:url': 'https://yunity.org/heartbeat'
+    'og:image': 'https://yunity.org/user/themes/twentyfifteen/images/yunity-orange.svg'
+    'og:description': 'The biweekly summary of what happens inside the yunity network'
 menu: Heartbeat
 menu_description: The heartbeat is a biweekly summary of what happens in yunity
 
