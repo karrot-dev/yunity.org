@@ -115,10 +115,10 @@ published: true
  </p>
  <p>
   <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89891776/IMG_20170314_074325.jpg?version=1&amp;modificationDate=1490042812276&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89891776" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="IMG_20170314_074325.jpg" data-linked-resource-id="89891792" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/89891776/IMG_20170314_074325.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/89891776/IMG_20170314_074325.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/89891776/IMG_20170314_074325.jpg?width=333&amp;height=250 1x"/>
+   <img class="confluence-embedded-image" height="250" src="2017-03-19/IMG_20170314_074325.jpg"/>
   </span>
   <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89891776/IMG_20170314_205151.jpg?version=1&amp;modificationDate=1490042812505&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89891776" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="IMG_20170314_205151.jpg" data-linked-resource-id="89891796" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/89891776/IMG_20170314_205151.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/89891776/IMG_20170314_205151.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/89891776/IMG_20170314_205151.jpg?width=333&amp;height=250 1x"/>
+   <img class="confluence-embedded-image" height="250" src="2017-03-19/IMG_20170314_205151.jpg"/>
   </span>
  </p>
  <p>
@@ -291,7 +291,7 @@ published: true
  </ul>
  <p>
   <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89891776/WP_20170319_16_14_05_Pro.jpg?version=1&amp;modificationDate=1490057044379&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89891776" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="WP_20170319_16_14_05_Pro.jpg" data-linked-resource-id="89893354" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="400" src="https://yunity.atlassian.net/wiki/download/thumbnails/89891776/WP_20170319_16_14_05_Pro.jpg?width=710&amp;height=400" srcset="/wiki/download/thumbnails/89891776/WP_20170319_16_14_05_Pro.jpg?width=1420&amp;height=800 2x, /wiki/download/thumbnails/89891776/WP_20170319_16_14_05_Pro.jpg?width=710&amp;height=400 1x"/>
+   <img class="confluence-embedded-image" height="400" src="2017-03-19/WP_20170319_16_14_05_Pro.jpg"/>
   </span>
  </p>
  <p>
@@ -325,7 +325,7 @@ published: true
   <span style="color: rgb(0,0,0);">
    So many new contributors! Since we gained a lot of womanpower during the last weeks (and some guys joined as well...
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-471977012/6452/5e8112714c018bce620a16d9f8f24f2d7d5cd59c/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/-471977012/6452/5e8112714c018bce620a16d9f8f24f2d7d5cd59c/_/images/icons/emoticons/wink.png"/>
+    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
    </span>
    ), we are now in a phase where everybody works to find their place in the project and figures out how to work together most productively and pleasantly. More words are written in #foodsaving-tool on Slack than code is committed on github, but that is completely fine and necessary for people to turn into an actual team. The mood in the chat is great and now we even had our very first gif posted in the channel, because tomi was so thrilled by the discussion about admin privileges:
   </span>
@@ -343,7 +343,7 @@ published: true
    - who is on a bike trip since November last year - just reached the southern coast of Spain and didn't have much time, electricity or wifi during the last week, so his capacities to act as a team leader were limited. In the coming days he's going to cross the Straight of Gibraltar - probably by boat, this time...^^ - and who knows how much time, electricity and wifi he'll find in Morocco. This is the perfect moment for the new contributors to self-organize and bring the project forward as they see fit, by relying on peer-reviews and open communication. Go foodsaving-tool team!
   </span>
   <span class="confluence-embedded-file-wrapper">
-   <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-471977012/6452/5e8112714c018bce620a16d9f8f24f2d7d5cd59c/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/-471977012/6452/5e8112714c018bce620a16d9f8f24f2d7d5cd59c/_/images/icons/emoticons/biggrin.png"/>
+   <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
   </span>
  </p>
  <p>
@@ -428,7 +428,7 @@ published: true
     Do you happen to have contacts in Bilbao? Please let us know!
    </span>
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-471977012/6452/5e8112714c018bce620a16d9f8f24f2d7d5cd59c/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/-471977012/6452/5e8112714c018bce620a16d9f8f24f2d7d5cd59c/_/images/icons/emoticons/smile.png"/>
+    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
    </span>
   </li>
  </ul>

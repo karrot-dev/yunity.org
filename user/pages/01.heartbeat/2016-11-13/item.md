@@ -82,7 +82,7 @@ published: true
     <div class="innerCell">
      <p>
       <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/74776612/ttwitzenhausen.jpg?version=1&amp;modificationDate=1479251199981&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="74776612" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="ttwitzenhausen.jpg" data-linked-resource-id="74776613" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="400" src="https://yunity.atlassian.net/wiki/download/thumbnails/74776612/ttwitzenhausen.jpg?width=535&amp;height=400" srcset="/wiki/download/thumbnails/74776612/ttwitzenhausen.jpg?width=960&amp;height=717 2x, /wiki/download/thumbnails/74776612/ttwitzenhausen.jpg?width=535&amp;height=400 1x"/>
+       <img class="confluence-embedded-image" height="400" src="2016-11-13/ttwitzenhausen.jpg"/>
       </span>
      </p>
     </div>
@@ -111,7 +111,7 @@ published: true
        for the first time we have got a key in our hands!
       </strong>
       <span class="confluence-embedded-file-wrapper">
-       <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1331632152/6451/7f2ab25c174dc8b3e0138189378c08d206a035a1/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/-1331632152/6451/7f2ab25c174dc8b3e0138189378c08d206a035a1/_/images/icons/emoticons/biggrin.png"/>
+       <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
       </span>
      </p>
     </div>
@@ -125,7 +125,7 @@ published: true
      </p>
      <p>
       <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/74776612/WuppHouse_Colored.jpg?version=1&amp;modificationDate=1479251259857&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="74776612" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="WuppHouse_Colored.jpg" data-linked-resource-id="74776614" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="400" src="https://yunity.atlassian.net/wiki/download/thumbnails/74776612/WuppHouse_Colored.jpg?width=533&amp;height=400" srcset="/wiki/download/thumbnails/74776612/WuppHouse_Colored.jpg?width=1066&amp;height=800 2x, /wiki/download/thumbnails/74776612/WuppHouse_Colored.jpg?width=533&amp;height=400 1x"/>
+       <img class="confluence-embedded-image" height="400" src="2016-11-13/WuppHouse_Colored.jpg"/>
       </span>
      </p>
      <p>
@@ -211,7 +211,7 @@ published: true
     <div class="innerCell">
      <p>
       <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image confluence-thumbnail" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/74776612/badue_luisa_colored.jpg?version=1&amp;modificationDate=1479251289399&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="74776612" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="badue_luisa_colored.jpg" data-linked-resource-id="74776615" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="150" src="https://yunity.atlassian.net/wiki/download/thumbnails/74776612/badue_luisa_colored.jpg?width=105&amp;height=150" srcset="/wiki/download/thumbnails/74776612/badue_luisa_colored.jpg?width=210&amp;height=300 2x, /wiki/download/thumbnails/74776612/badue_luisa_colored.jpg?width=105&amp;height=150 1x"/>
+       <img class="confluence-embedded-image confluence-thumbnail" height="150" src="2016-11-13/badue_luisa_colored.jpg"/>
       </span>
      </p>
     </div>

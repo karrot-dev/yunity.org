@@ -30,7 +30,7 @@ published: true
   </a>
   , following the plan to turn them into a big WuppHaus, a big discussion started.
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/88887229/house-money-capitalism-fortune-12619.jpg?version=1&amp;modificationDate=1486420139238&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="88887229" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="house-money-capitalism-fortune-12619.jpg" data-linked-resource-id="88887262" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/88887229/house-money-capitalism-fortune-12619.jpg?width=377&amp;height=250" srcset="/wiki/download/thumbnails/88887229/house-money-capitalism-fortune-12619.jpg?width=754&amp;height=500 2x, /wiki/download/thumbnails/88887229/house-money-capitalism-fortune-12619.jpg?width=377&amp;height=250 1x"/>
+   <img class="confluence-embedded-image image-right" height="250" src="2017-02-05/house-money-capitalism-fortune-12619.jpg"/>
   </span>
   Depending on who you ask, you will get different answeres as to what is the gist of the debate, how grave or serious it actually is and who stands on which side.
   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
@@ -81,7 +81,7 @@ published: true
   <span style="color: rgb(51,51,51);">
    Few yuniteers are left in Bad Dürrenberg, but that doesn't mean that nothing goes forward in the train station. The locals are as engaged as ever, and now get more and
    <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/88887229/Fotografie_Abgabe_WS16-17_neu-9_1.png?version=1&amp;modificationDate=1486420139733&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="88887229" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="Fotografie_Abgabe_WS16-17_neu-9_1.png" data-linked-resource-id="88887267" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/88887229/Fotografie_Abgabe_WS16-17_neu-9_1.png?width=166&amp;height=250" srcset="/wiki/download/thumbnails/88887229/Fotografie_Abgabe_WS16-17_neu-9_1.png?width=332&amp;height=500 2x, /wiki/download/thumbnails/88887229/Fotografie_Abgabe_WS16-17_neu-9_1.png?width=166&amp;height=250 1x"/>
+    <img class="confluence-embedded-image image-right" height="250" src="2017-02-05/Fotografie_Abgabe_WS16-17_neu-9_1.png"/>
    </span>
    more integrated in yunity online communication as well, thanks to
    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
@@ -95,7 +95,7 @@ published: true
    </a>
    even made it to a gallery, thanks Michi!
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/708565373/6452/8afe5ead844f0e54811644803fbbe44093a68efd/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/708565373/6452/8afe5ead844f0e54811644803fbbe44093a68efd/_/images/icons/emoticons/biggrin.png"/>
+    <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
    </span>
   </span>
  </p>
@@ -211,7 +211,7 @@ published: true
  <p>
   <span style="color: rgb(51,51,51);">
    <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/88887229/BarcaGroupPic.JPG?version=1&amp;modificationDate=1486420140027&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="88887229" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="BarcaGroupPic.JPG" data-linked-resource-id="88887275" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/88887229/BarcaGroupPic.JPG?width=334&amp;height=250" srcset="/wiki/download/thumbnails/88887229/BarcaGroupPic.JPG?width=668&amp;height=500 2x, /wiki/download/thumbnails/88887229/BarcaGroupPic.JPG?width=334&amp;height=250 1x"/>
+    <img class="confluence-embedded-image image-right" height="250" src="2017-02-05/BarcaGroupPic.JPG"/>
    </span>
   </span>
  </p>
@@ -264,7 +264,7 @@ published: true
  <p>
   All in all these days do not feel very wuppy, but that's probably due to the winter, the controversies and the general relaxed manner of Spain...
   <span class="confluence-embedded-file-wrapper">
-   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/824337564/6452/9304a2c0babe07e294c974fb3ce58f8959341071/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/824337564/6452/9304a2c0babe07e294c974fb3ce58f8959341071/_/images/icons/emoticons/wink.png"/>
+   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
   </span>
  </p>
  <p>

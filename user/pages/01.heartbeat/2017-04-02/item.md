@@ -75,10 +75,10 @@ published: true
  <p>
   <span style="color: rgb(0,0,0);">
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90114596/wurzen_street.jpg?version=1&amp;modificationDate=1491242339107&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90114596" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="wurzen_street.jpg" data-linked-resource-id="90114608" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/90114596/wurzen_street.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/90114596/wurzen_street.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/90114596/wurzen_street.jpg?width=333&amp;height=250 1x"/>
+    <img class="confluence-embedded-image" height="250" src="2017-04-02/wurzen_street.jpg"/>
    </span>
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90114596/wurzen_garden.jpg?version=1&amp;modificationDate=1491242339355&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90114596" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="wurzen_garden.jpg" data-linked-resource-id="90114612" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/90114596/wurzen_garden.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/90114596/wurzen_garden.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/90114596/wurzen_garden.jpg?width=333&amp;height=250 1x"/>
+    <img class="confluence-embedded-image" height="250" src="2017-04-02/wurzen_garden.jpg"/>
    </span>
    <br/>
   </span>
@@ -114,10 +114,10 @@ published: true
  <p>
   <span style="color: rgb(0,0,0);">
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90114596/badufreemarket1.png?version=1&amp;modificationDate=1491242339546&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90114596" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="badufreemarket1.png" data-linked-resource-id="90114620" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/90114596/badufreemarket1.png?width=348&amp;height=250" srcset="/wiki/download/thumbnails/90114596/badufreemarket1.png?width=696&amp;height=500 2x, /wiki/download/thumbnails/90114596/badufreemarket1.png?width=348&amp;height=250 1x"/>
+    <img class="confluence-embedded-image" height="250" src="2017-04-02/badufreemarket1.png"/>
    </span>
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90114596/badufreemarket2.jpg?version=1&amp;modificationDate=1491242339725&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90114596" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="badufreemarket2.jpg" data-linked-resource-id="90114627" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/90114596/badufreemarket2.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/90114596/badufreemarket2.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/90114596/badufreemarket2.jpg?width=333&amp;height=250 1x"/>
+    <img class="confluence-embedded-image" height="250" src="2017-04-02/badufreemarket2.jpg"/>
    </span>
   </span>
  </p>
@@ -125,7 +125,7 @@ published: true
   <span style="color: rgb(0,0,0);">
    The WuppHaus is in an interesting phase at the moment. There are questions around money use turning more towards its favour as less yunity people are involved and some locals, especially Mandy and Mike are getting serious about the building. People want to support each other in their wishes and dreams, and - as always - communication is key.
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/_/images/icons/emoticons/wink.png"/>
+    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
    </span>
   </span>
   <br/>
@@ -150,7 +150,7 @@ published: true
   <span style="color: rgb(0,0,0);">
    <span style="color: rgb(0,0,0);">
     <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-     <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90114596/berlinfreemarketinvite.jpg?version=1&amp;modificationDate=1491242339909&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90114596" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="berlinfreemarketinvite.jpg" data-linked-resource-id="90114634" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/90114596/berlinfreemarketinvite.jpg?width=298&amp;height=250" srcset="/wiki/download/thumbnails/90114596/berlinfreemarketinvite.jpg?width=596&amp;height=500 2x, /wiki/download/thumbnails/90114596/berlinfreemarketinvite.jpg?width=298&amp;height=250 1x"/>
+     <img class="confluence-embedded-image" height="250" src="2017-04-02/berlinfreemarketinvite.jpg"/>
     </span>
    </span>
    <br/>
@@ -214,7 +214,7 @@ published: true
       on the wiki page linked, so stay tuned!
      </span>
      <span class="confluence-embedded-file-wrapper">
-      <img class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/1000.1147.0/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/1000.1147.0/_/images/icons/emoticons/smile.png"/>
+      <img class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
      </span>
     </span>
    </span>
@@ -281,7 +281,7 @@ published: true
       were still working! And now she's even using our software, isn't that a great development?
      </span>
      <span class="confluence-embedded-file-wrapper">
-      <img class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/1000.1147.0/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/1000.1147.0/_/images/icons/emoticons/biggrin.png"/>
+      <img class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
      </span>
     </span>
    </span>
@@ -296,7 +296,7 @@ published: true
       </a>
       , who was the driving force behind foodsharing Taiwan: Even though he is back in Europe for now, the Taiwanese initiative goes on and he even gives interviews via Skype to curious journalists! He plans on going back in summer, and then the project will probably expand again.
       <span class="confluence-embedded-file-wrapper">
-       <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/_/images/icons/emoticons/smile.png"/>
+       <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
       </span>
      </span>
      <br/>
@@ -323,7 +323,7 @@ published: true
     the great resource we want it to be!
    </span>
    <span class="confluence-embedded-file-wrapper">
-    <img class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/1000.1147.0/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/420843527/6452/694f8d4ebc604be7718829c0defaf18b1732bf32/1000.1147.0/_/images/icons/emoticons/smile.png"/>
+    <img class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
    </span>
   </li>
  </ul>

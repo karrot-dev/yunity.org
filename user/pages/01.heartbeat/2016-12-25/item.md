@@ -126,7 +126,7 @@ published: true
       </a>
       also started experimenting with film and created a montage of existing as well as new material, music, interviews and pictures. You will see that it is the outcome of a learning process, but if you are interested in the project and the people, you will enjoy it anyways...
       <span class="confluence-embedded-file-wrapper">
-       <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/wink.png"/>
+       <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
       </span>
      </p>
      <p>
@@ -145,7 +145,7 @@ published: true
      <hr/>
      <p>
       <span class="confluence-embedded-file-wrapper image-right-wrapper">
-       <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/84181028/image2016-12-25_19-24-11.png?version=1&amp;modificationDate=1482695972849&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="84181028" data-linked-resource-container-version="1" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="image2016-12-25_19-24-11.png" data-linked-resource-id="84181029" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" src="https://yunity.atlassian.net/wiki/download/attachments/84181028/image2016-12-25_19-24-11.png?version=1&amp;modificationDate=1482695972849&amp;cacheVersion=1&amp;api=v2"/>
+       <img class="confluence-embedded-image image-right" src="2016-12-25/image2016-12-25_19-24-11.png"/>
       </span>
      </p>
      <h2 id="yunityheartbeat2016-12-25-FoodsavingTool.">
@@ -188,12 +188,12 @@ published: true
      </p>
      <p>
       <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/84181028/image2016-12-25_19-15-24.png?version=1&amp;modificationDate=1482696002889&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="84181028" data-linked-resource-container-version="1" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="image2016-12-25_19-15-24.png" data-linked-resource-id="84181030" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/84181028/image2016-12-25_19-15-24.png?width=385&amp;height=250" srcset="/wiki/download/thumbnails/84181028/image2016-12-25_19-15-24.png?width=770&amp;height=500 2x, /wiki/download/thumbnails/84181028/image2016-12-25_19-15-24.png?width=385&amp;height=250 1x"/>
+       <img class="confluence-embedded-image" height="250" src="2016-12-25/image2016-12-25_19-15-24.png"/>
       </span>
      </p>
      <p>
       <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/84181028/image2016-12-25_19-18-22.png?version=1&amp;modificationDate=1482696003279&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="84181028" data-linked-resource-container-version="1" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="image2016-12-25_19-18-22.png" data-linked-resource-id="84181031" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/84181028/image2016-12-25_19-18-22.png?width=408&amp;height=250" srcset="/wiki/download/thumbnails/84181028/image2016-12-25_19-18-22.png?width=803&amp;height=491 2x, /wiki/download/thumbnails/84181028/image2016-12-25_19-18-22.png?width=408&amp;height=250 1x"/>
+       <img class="confluence-embedded-image" height="250" src="2016-12-25/image2016-12-25_19-18-22.png"/>
       </span>
      </p>
     </div>
@@ -475,7 +475,7 @@ published: true
        , am focusing on the WuppHaus now and thus currently not contributing code myself, nothing happens on these goals and I would really appreciate more contributions on that level, e.g. more than introducing new, untested, simple features
       </span>
       <span class="confluence-embedded-file-wrapper">
-       <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png"/>
+       <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
       </span>
      </p>
      <p>
@@ -672,7 +672,7 @@ published: true
        <br/>
        Thank you, anonymous Youtube user, for gifting subtitles to us!
        <span class="confluence-embedded-file-wrapper">
-        <img alt="(heart)" class="confluence-embedded-image emoticon emoticon-heart confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/heart.png" src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/heart.png"/>
+        <img alt="(heart)" class="confluence-embedded-image emoticon emoticon-heart confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/heart.png"/>
        </span>
        <br/>
        If you were to give us subs in any language for all the
@@ -681,7 +681,7 @@ published: true
        </a>
        , we'd be forever grateful!
        <span class="confluence-embedded-file-wrapper">
-        <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/wink.png"/>
+        <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
        </span>
       </span>
      </p>
@@ -765,7 +765,7 @@ published: true
       <span style="color: rgb(0,0,0);">
        You have an opinion on lamâsching? You wrote a poem or recorded a song? Please share! We'd happily collect your thoughts on everything yunity related on the wiki!
        <span class="confluence-embedded-file-wrapper">
-        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png"/>
+        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
        </span>
       </span>
      </p>
@@ -804,7 +804,7 @@ published: true
       <span style="color: rgb(0,0,0);">
        The challenge will be to get people to fill out the survey
        <span class="confluence-embedded-file-wrapper">
-        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png"/>
+        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
        </span>
        <br/>
       </span>
@@ -842,7 +842,7 @@ published: true
         Arno Döpper
        </a>
        <span class="confluence-embedded-file-wrapper">
-        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/915579768/6452/c6057086dac76c7bc5c2e6cc1f233ea52246246e/_/images/icons/emoticons/smile.png"/>
+        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
        </span>
        <br/>
       </span>

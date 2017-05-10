@@ -79,4 +79,55 @@ published: false
         with open(os.path.join(d, 'item.md'), 'w+') as dest:
             dest.write(header)
             dest.write(soup.prettify())
+
+#%%            
+import os
+from bs4 import BeautifulSoup
+import subprocess
+
+#os.chdir('user/pages/01.heartbeat')
+for d in os.listdir():
+    if d == 'blog.md':
+        continue
+    with open(os.path.join(d, 'item.md')) as f:
+        print(d)
+        chunks = f.read().split("---", maxsplit=2)
+        [_, header, body] = chunks
+
+        if 'class="wiki-content"' not in body:
+            continue
+        soup = BeautifulSoup(body, 'html.parser')
+        
+        for img in soup.find_all('img'):
+            src = img.get('data-image-src')
+            if not src:
+                print('skipping', img)
+                continue
+                
+            if not src.startswith('https://yunity.atlassian.net'):
+                print('other source', img)
+                continue
             
+            filename = src.split('/')[-1].split('?')[0]
+            
+            if 'emoticons/' in src:
+                img['src'] = '/user/themes/twentyfifteen/images/emoticons/' + filename
+            else:
+                if filename not in os.listdir(d):
+                    print('downloading', src)
+                    subprocess.run(['wget', src, '-O', filename], cwd=d)
+                else:
+                    print('already exists', filename)
+                img['src'] = d+'/'+filename
+                
+            del img['srcset']
+            for k in [_ for _ in img.attrs.keys() if _.startswith('data-')]:
+                del img[k]
+            
+        with open(os.path.join(d, 'item.md.tmp'), 'w+') as dst:
+            dst.write('---')
+            dst.write(header)
+            dst.write('---\n\n')
+            dst.write(soup.prettify())
+            
+        os.rename(os.path.join(d, 'item.md.tmp'), os.path.join(d, 'item.md'))

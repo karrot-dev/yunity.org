@@ -26,12 +26,12 @@ published: true
  <p>
   Apart from normal WuppHaus developments, this time we had internal WuppDays in Badue! Over Christmas and New Year's a lot of yuniteers gathered in the cold but friendly train station, which - by the way - now has a fully equipped kitchen, a comfy sleeping room with mattresses, a heatable living room with matching sofas and a compost toilet with detailed explanations...
   <span class="confluence-embedded-file-wrapper">
-   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png"/>
+   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
   </span>
  </p>
  <p>
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/IMG_20170104_201350.jpg?version=1&amp;modificationDate=1483960987380&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="86966423" data-linked-resource-container-version="3" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="IMG_20170104_201350.jpg" data-linked-resource-id="86966424" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/IMG_20170104_201350.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/86966423/IMG_20170104_201350.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/86966423/IMG_20170104_201350.jpg?width=333&amp;height=250 1x"/>
+   <img class="confluence-embedded-image image-right" height="250" src="2017-01-08/00.IMG_20170104_201350.jpg"/>
   </span>
  </p>
  <p>
@@ -108,7 +108,7 @@ published: true
  </ul>
  <p>
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/IMG_20170104_173400.jpg?version=1&amp;modificationDate=1483960987773&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="86966423" data-linked-resource-container-version="3" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="IMG_20170104_173400.jpg" data-linked-resource-id="86966425" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/IMG_20170104_173400.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/86966423/IMG_20170104_173400.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/86966423/IMG_20170104_173400.jpg?width=333&amp;height=250 1x"/>
+   <img class="confluence-embedded-image image-right" height="250" src="2017-01-08/IMG_20170104_173400.jpg"/>
   </span>
   Just to make it clear: We don't plan on abandoning the train station in Bad Dürrenberg! It's actually the contrary, because since we are so many people with different skills, interests and dreams, we think we now can do more than one project at once! Spain would be only temporary anyways - and as part of the
   <a data-linked-resource-id="50069515" data-linked-resource-type="page" data-linked-resource-version="17" href="https://yunity.atlassian.net/wiki/display/TOUR/Foodsaving+Tours">
@@ -116,7 +116,7 @@ published: true
   </a>
   it's not even new... - and it could replenish the energy of the people wupping in the first ever acquired WuppHaus with all the nice sunshine and Mediterranean flair it would provide. Wurzen is just as far from Leipzig as Badue is, just on the east instead of the west and could thus serve as a base for the people working on rebuilding the train station, too. Berlin WuppDays are always great opportunities to recruit people who are not too far away to also lend a hand in Badue...
   <span class="confluence-embedded-file-wrapper">
-   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png"/>
+   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
   </span>
  </p>
  <p>
@@ -138,7 +138,7 @@ published: true
   </a>
   arrived in Barcelona some days ago and the idea of having a Hackathon there or - more probable - in Valencia has been discussed weeks ago already. Now with the cold weather and warm spirit in Bad Dürrenberg a lot of people expressed motivation to flee the German winter for some weeks to go to Spain together. It would be to either set up a foodsaving and -sharing project or to connect to an existing one or preferably both. And a bit of holiday, too...
   <span class="confluence-embedded-file-wrapper">
-   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png"/>
+   <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
   </span>
   <br/>
   So far nothing is fix, but we are working on finding a location for a bunch of yunity folks to stay at starting end of January.
@@ -227,7 +227,7 @@ published: true
    </span>
   </span>
   <span class="confluence-embedded-file-wrapper">
-   <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/smile.png"/>
+   <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
   </span>
  </p>
  <p>
@@ -265,7 +265,7 @@ published: true
    <span style="color: rgb(0,0,0);">
     Password reset: you can now get a new temporary password if you forgot yours. It will be sent to your verified mail address (
     <span class="confluence-embedded-file-wrapper">
-     <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/github.png?version=1&amp;modificationDate=1483960988100&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="86966423" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="github.png" data-linked-resource-id="86966426" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" src="https://yunity.atlassian.net/wiki/download/attachments/86966423/github.png?version=1&amp;modificationDate=1483960988100&amp;cacheVersion=1&amp;api=v2"/>
+     <img class="confluence-embedded-image" src="2017-01-08/github.png"/>
     </span>
     <a class="external-link" href="https://github.com/yunity/foodsaving-frontend/pull/253" rel="nofollow">
      GitHub
@@ -288,7 +288,7 @@ published: true
    <span style="color: rgb(0,0,0);">
     Groups can be protected via password. If someone wants to enter a protected group, they have to prove their secret knowledge first
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png"/>
+     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
     </span>
    </span>
   </li>
@@ -298,7 +298,7 @@ published: true
     <a class="external-link" href="https://github.com/yunity/foodsaving-frontend/pull/251" rel="nofollow">
      <span style="color: rgb(0,0,0);">
       <span class="confluence-embedded-file-wrapper">
-       <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/github.png?version=1&amp;modificationDate=1483960988100&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="86966423" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="github.png" data-linked-resource-id="86966426" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" src="https://yunity.atlassian.net/wiki/download/attachments/86966423/github.png?version=1&amp;modificationDate=1483960988100&amp;cacheVersion=1&amp;api=v2"/>
+       <img class="confluence-embedded-image" src="2017-01-08/github.png"/>
       </span>
      </span>
      GitHub
@@ -312,7 +312,7 @@ published: true
     Show a (big) loading bar when the page is exchanging data with the server (
     <span>
      <span class="confluence-embedded-file-wrapper">
-      <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/github.png?version=1&amp;modificationDate=1483960988100&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="86966423" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="github.png" data-linked-resource-id="86966426" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" src="https://yunity.atlassian.net/wiki/download/attachments/86966423/github.png?version=1&amp;modificationDate=1483960988100&amp;cacheVersion=1&amp;api=v2"/>
+      <img class="confluence-embedded-image" src="2017-01-08/github.png"/>
      </span>
     </span>
     <a class="external-link" href="https://github.com/yunity/foodsaving-frontend/pull/254" rel="nofollow">
@@ -359,10 +359,10 @@ published: true
            </tr>
            <tr>
             <td class="gallery-image" style="width: 770px">
-             <img border="0" class="confluence-embedded-image" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/pass-change.png" data-linked-resource-container-id="86966423" data-linked-resource-default-alias="pass-change.png" data-linked-resource-id="86966433" height="114" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/pass-change.png" width="425"/>
+             <img border="0" class="confluence-embedded-image" height="114" src="2017-01-08/pass-change.png" width="425"/>
             </td>
             <td class="gallery-image" style="width: 770px">
-             <img border="0" class="confluence-embedded-image" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/public_desc.png" data-linked-resource-container-id="86966423" data-linked-resource-default-alias="public_desc.png" data-linked-resource-id="86966434" height="166" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/public_desc.png" width="596"/>
+             <img border="0" class="confluence-embedded-image" height="166" src="2017-01-08/public_desc.png" width="596"/>
             </td>
            </tr>
            <tr>
@@ -377,10 +377,10 @@ published: true
            </tr>
            <tr>
             <td class="gallery-image" style="width: 770px">
-             <img border="0" class="confluence-embedded-image" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/group-pass.png" data-linked-resource-container-id="86966423" data-linked-resource-default-alias="group-pass.png" data-linked-resource-id="86966435" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/group-pass.png" width="560"/>
+             <img border="0" class="confluence-embedded-image" height="250" src="2017-01-08/group-pass.png" width="560"/>
             </td>
             <td class="gallery-image" style="width: 770px">
-             <img border="0" class="confluence-embedded-image" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/reset.png" data-linked-resource-container-id="86966423" data-linked-resource-default-alias="reset.png" data-linked-resource-id="86966436" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/reset.png" width="299"/>
+             <img border="0" class="confluence-embedded-image" height="250" src="2017-01-08/reset.png" width="299"/>
             </td>
            </tr>
            <tr>
@@ -395,7 +395,7 @@ published: true
            </tr>
            <tr>
             <td class="gallery-image" style="width: 770px">
-             <img border="0" class="confluence-embedded-image" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/verify.png" data-linked-resource-container-id="86966423" data-linked-resource-default-alias="verify.png" data-linked-resource-id="86966437" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/verify.png" width="770"/>
+             <img border="0" class="confluence-embedded-image" height="250" src="2017-01-08/verify.png" width="770"/>
             </td>
             <td>
             </td>
@@ -503,7 +503,7 @@ published: true
     </a>
     , it's not necessary to understand any programming language to help us
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/smile.png"/>
+     <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
     </span>
     .
    </span>
@@ -539,7 +539,7 @@ published: true
  </h3>
  <p>
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image confluence-thumbnail image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/86966423/taigaad.png?version=1&amp;modificationDate=1483960988425&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="86966423" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="taigaad.png" data-linked-resource-id="86966427" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/86966423/taigaad.png?width=220&amp;height=250" srcset="/wiki/download/thumbnails/86966423/taigaad.png?width=220&amp;height=250 2x, /wiki/download/thumbnails/86966423/taigaad.png?width=220&amp;height=250 1x"/>
+   <img class="confluence-embedded-image confluence-thumbnail image-right" height="250" src="2017-01-08/taigaad.png"/>
   </span>
  </p>
  <p>
@@ -587,7 +587,7 @@ published: true
    </a>
    language and we still don't know to which extent we want to keep it or what to change it to, but hey... it's all learning by doing, isn't it?
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png"/>
+    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
    </span>
    <br/>
   </span>
@@ -693,7 +693,7 @@ published: true
   <li>
    More people feeling responsible in this regard make it easier to not let anybody fall through the cracks... (Also for holiday replacements and the likes...
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/_/images/icons/emoticons/wink.png"/>
+    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
    </span>
    )
    <br/>
@@ -788,7 +788,7 @@ published: true
     </a>
     , which videos can be subbed...
     <span class="confluence-embedded-file-wrapper">
-     <img class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/1000.801.1/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1378227644/6452/572f9a88fa50acdab7964d309868c4dfa037697a/1000.801.1/_/images/icons/emoticons/wink.png"/>
+     <img class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
     </span>
    </span>
   </li>

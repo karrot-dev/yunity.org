@@ -54,7 +54,7 @@ published: true
    <span style="color: rgb(0,0,0);">
     Did you know that on April 29th there was World Disco Soup Day? Well the foodsharing groups in Maastricht and Copenhagen did, and so they did what was due: Hosting disco soup events!
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1091825189/6452/aa9b3b4c74c134e2b8d84fe1278dd07576b293d2/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/-1091825189/6452/aa9b3b4c74c134e2b8d84fe1278dd07576b293d2/_/images/icons/emoticons/biggrin.png"/>
+     <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
     </span>
     <br/>
    </span>
@@ -83,7 +83,7 @@ published: true
     </a>
     . Unable to tell how old it is, she added Luis Tamayo on facebook and is now hoping to hear the whole story from him. It hopefully is one, that is still ongoing!
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1091825189/6452/aa9b3b4c74c134e2b8d84fe1278dd07576b293d2/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/-1091825189/6452/aa9b3b4c74c134e2b8d84fe1278dd07576b293d2/_/images/icons/emoticons/wink.png"/>
+     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
     </span>
    </span>
   </li>
@@ -94,7 +94,7 @@ published: true
     </a>
     is also in contact with a motivated guy named Angel from Valencia, who is wondering why there is a foodsharing Valencia facebook group, but no activity. Maybe he can be coached - just like Unai was - and enabled to reactivate the foodsharing project of Valencia. And maybe that will be a reason to revisit this beautiful city, Janina and Tilmann just came by in February...
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1091825189/6452/aa9b3b4c74c134e2b8d84fe1278dd07576b293d2/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/-1091825189/6452/aa9b3b4c74c134e2b8d84fe1278dd07576b293d2/_/images/icons/emoticons/wink.png"/>
+     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
     </span>
    </span>
   </li>
@@ -224,7 +224,7 @@ published: true
   <span style="color: rgb(0,0,0);">
    <span class="confluence-embedded-file-wrapper">
     <span class="confluence-embedded-file-wrapper">
-     <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90604078/petertonnies_wow.png?version=1&amp;modificationDate=1493730670451&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90604078" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="petertonnies_wow.png" data-linked-resource-id="90604088" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" src="https://yunity.atlassian.net/wiki/download/attachments/90604078/petertonnies_wow.png?version=1&amp;modificationDate=1493730670451&amp;cacheVersion=1&amp;api=v2"/>
+     <img class="confluence-embedded-image" src="2017-04-30/petertonnies_wow.png"/>
     </span>
    </span>
   </span>
@@ -233,7 +233,7 @@ published: true
   <span style="color: rgb(0,0,0);">
    <span class="confluence-embedded-file-wrapper">
     <span class="confluence-embedded-file-wrapper">
-     <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90604078/unicorned_wow.png?version=1&amp;modificationDate=1493730670791&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90604078" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="unicorned_wow.png" data-linked-resource-id="90604092" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" src="https://yunity.atlassian.net/wiki/download/attachments/90604078/unicorned_wow.png?version=1&amp;modificationDate=1493730670791&amp;cacheVersion=1&amp;api=v2"/>
+     <img class="confluence-embedded-image" src="2017-04-30/unicorned_wow.png"/>
     </span>
    </span>
    <br/>
@@ -341,12 +341,12 @@ published: true
  <p>
   <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90604078/newyunityorg_white.png?version=1&amp;modificationDate=1493730670972&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90604078" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="newyunityorg_white.png" data-linked-resource-id="90604100" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/90604078/newyunityorg_white.png?width=424&amp;height=250" srcset="/wiki/download/thumbnails/90604078/newyunityorg_white.png?width=848&amp;height=500 2x, /wiki/download/thumbnails/90604078/newyunityorg_white.png?width=424&amp;height=250 1x"/>
+    <img class="confluence-embedded-image" height="250" src="2017-04-30/newyunityorg_white.png"/>
    </span>
   </span>
   <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-    <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/90604078/newyunityorg_brown.png?version=1&amp;modificationDate=1493730671230&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="90604078" data-linked-resource-container-version="3" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="newyunityorg_brown.png" data-linked-resource-id="90604107" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/90604078/newyunityorg_brown.png?width=423&amp;height=250" srcset="/wiki/download/thumbnails/90604078/newyunityorg_brown.png?width=846&amp;height=500 2x, /wiki/download/thumbnails/90604078/newyunityorg_brown.png?width=423&amp;height=250 1x"/>
+    <img class="confluence-embedded-image" height="250" src="2017-04-30/newyunityorg_brown.png"/>
    </span>
   </span>
  </p>

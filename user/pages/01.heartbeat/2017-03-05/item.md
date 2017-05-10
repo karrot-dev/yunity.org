@@ -69,7 +69,7 @@ published: true
     Nextcloud
    </a>
    <span class="confluence-embedded-file-wrapper">
-    <img class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/2055247333/6452/fc91a50a1428acede3068fdabe2ff601f19e2083/1000.1002.3/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/2055247333/6452/fc91a50a1428acede3068fdabe2ff601f19e2083/1000.1002.3/_/images/icons/emoticons/wink.png"/>
+    <img class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
    </span>
    . Even though we are just getting started, there's already a lot of knowledge in our project to learn from, and hopefully this will increase manifold in the next months!
   </span>
@@ -137,16 +137,16 @@ published: true
    <strong>
     <strong>
      <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="Landing page" class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89567450/Screen%20Shot%202017-03-06%20at%2010.13.49.png?version=1&amp;modificationDate=1488844532524&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89567450" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="Screen Shot 2017-03-06 at 10.13.49.png" data-linked-resource-id="89567477" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.13.49.png?width=181&amp;height=250" srcset="/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.13.49.png?width=362&amp;height=500 2x, /wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.13.49.png?width=181&amp;height=250 1x" title="Landing page"/>
+      <img alt="Landing page" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.13.49.png" title="Landing page"/>
      </span>
      <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="Group overview map" class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89567450/Screen%20Shot%202017-03-06%20at%2010.13.45.png?version=1&amp;modificationDate=1488844532948&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89567450" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="Screen Shot 2017-03-06 at 10.13.45.png" data-linked-resource-id="89567481" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.13.45.png?width=181&amp;height=250" srcset="/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.13.45.png?width=362&amp;height=500 2x, /wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.13.45.png?width=181&amp;height=250 1x" title="Group overview map"/>
+      <img alt="Group overview map" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.13.45.png" title="Group overview map"/>
      </span>
      <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="Pickup Management" class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89567450/Screen%20Shot%202017-03-06%20at%2010.23.29.png?version=1&amp;modificationDate=1488844533156&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89567450" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="Screen Shot 2017-03-06 at 10.23.29.png" data-linked-resource-id="89567489" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.23.29.png?width=181&amp;height=250" srcset="/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.23.29.png?width=362&amp;height=500 2x, /wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.23.29.png?width=181&amp;height=250 1x" title="Pickup Management"/>
+      <img alt="Pickup Management" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.23.29.png" title="Pickup Management"/>
      </span>
      <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="History" class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89567450/Screen%20Shot%202017-03-06%20at%2010.25.07.png?version=1&amp;modificationDate=1488844533430&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89567450" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="Screen Shot 2017-03-06 at 10.25.07.png" data-linked-resource-id="89567496" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.25.07.png?width=181&amp;height=250" srcset="/wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.25.07.png?width=362&amp;height=500 2x, /wiki/download/thumbnails/89567450/Screen%20Shot%202017-03-06%20at%2010.25.07.png?width=181&amp;height=250 1x" title="History"/>
+      <img alt="History" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.25.07.png" title="History"/>
      </span>
      <br/>
     </strong>
@@ -186,7 +186,7 @@ published: true
     </a>
     is as active as ever! They are doing lots of great actions and they tell about it in English as well!
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/2055247333/6452/fc91a50a1428acede3068fdabe2ff601f19e2083/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/2055247333/6452/fc91a50a1428acede3068fdabe2ff601f19e2083/_/images/icons/emoticons/wink.png"/>
+     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
     </span>
    </span>
   </li>
@@ -257,7 +257,7 @@ published: true
    </a>
    was created to give a home to the personal statements and meeting notes from smaller groups, which already took place in different locations. Feel free to ask yourself why you are with yunity, what you want to achieve with yunity and what that name actually means to you and then share what you come up with!
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/2055247333/6452/fc91a50a1428acede3068fdabe2ff601f19e2083/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/2055247333/6452/fc91a50a1428acede3068fdabe2ff601f19e2083/_/images/icons/emoticons/smile.png"/>
+    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
    </span>
    <br/>
   </span>

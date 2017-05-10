@@ -30,7 +30,7 @@ published: true
  </p>
  <p>
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/88516264/sebastianstriegel.JPG?version=1&amp;modificationDate=1485184398238&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="88516264" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="sebastianstriegel.JPG" data-linked-resource-id="88516277" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/88516264/sebastianstriegel.JPG?width=333&amp;height=250" srcset="/wiki/download/thumbnails/88516264/sebastianstriegel.JPG?width=666&amp;height=500 2x, /wiki/download/thumbnails/88516264/sebastianstriegel.JPG?width=333&amp;height=250 1x"/>
+   <img class="confluence-embedded-image image-right" height="250" src="2017-01-22/sebastianstriegel.JPG"/>
   </span>
  </p>
  <p>
@@ -45,7 +45,7 @@ published: true
    </a>
    and we get requests from various people who'd like to document our try to live the change we want to see in the world in the form of film or photo. So there's always more to be expected!
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/wink.png"/>
+    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
    </span>
   </span>
  </p>
@@ -89,7 +89,7 @@ published: true
    </a>
    to join us in the WuppHaus! Let's see where that leads...
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/smile.png"/>
+    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
    </span>
   </span>
  </p>
@@ -114,7 +114,7 @@ published: true
  </p>
  <p>
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/88516264/IMG_0597.jpg?version=1&amp;modificationDate=1485184398664&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="88516264" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="IMG_0597.jpg" data-linked-resource-id="88516282" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/88516264/IMG_0597.jpg?width=333&amp;height=250" srcset="/wiki/download/thumbnails/88516264/IMG_0597.jpg?width=666&amp;height=500 2x, /wiki/download/thumbnails/88516264/IMG_0597.jpg?width=333&amp;height=250 1x"/>
+   <img class="confluence-embedded-image image-right" height="250" src="2017-01-22/IMG_0597.jpg"/>
   </span>
  </p>
  <p>
@@ -213,7 +213,7 @@ published: true
    </a>
    , which are about to start! Are you in the area? You can still decide to come by!
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/biggrin.png"/>
+    <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
    </span>
   </li>
  </ul>
@@ -303,7 +303,7 @@ published: true
    </a>
    started restructuring the confluence wiki, to make it more accessible and easier to use. The main work now is to review the existing content and to then move and redesign the pages accordingly. She'll try to keep the phase of confusion as short as possible, but if you don't find what you're looking for in the meantime, please use the search bar in the top right...
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/wink.png"/>
+    <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
    </span>
    <br/>
    The new layout will contain separate spaces for the different big subtopics in yunity - like it already is the case e.g. for foodsaving worldwide, WuppHaus Badue and Culture - but stringently implemented and with uniform layout.
@@ -396,7 +396,7 @@ published: true
    </a>
    , our aim was to connect them with each other. Since she now joined our Slack, we hope to intensify the cooperation!
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/-1799780244/6452/18a131a1313f9419e17b00411c0cf7a769a21a5f/_/images/icons/emoticons/smile.png"/>
+    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
    </span>
   </li>
   <li>

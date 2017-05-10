@@ -159,7 +159,7 @@ published: true
  </p>
  <p>
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image confluence-thumbnail image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/89209143/grown-up-1637302_640.jpg?version=1&amp;modificationDate=1487619754083&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="89209143" data-linked-resource-container-version="2" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="grown-up-1637302_640.jpg" data-linked-resource-id="89209152" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="150" src="https://yunity.atlassian.net/wiki/download/thumbnails/89209143/grown-up-1637302_640.jpg?width=225&amp;height=150" srcset="/wiki/download/thumbnails/89209143/grown-up-1637302_640.jpg?width=450&amp;height=300 2x, /wiki/download/thumbnails/89209143/grown-up-1637302_640.jpg?width=225&amp;height=150 1x"/>
+   <img class="confluence-embedded-image confluence-thumbnail image-right" height="150" src="2017-02-19/grown-up-1637302_640.jpg"/>
   </span>
   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="32440715" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="fr4nk0nf1r3" href="https://yunity.atlassian.net/wiki/display/~fr4nk0nf1r3">
    fr4nk 0nf1r3
@@ -198,7 +198,7 @@ published: true
   <li>
    Update: Unai did it! Congratulations!
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1679748731/6452/febef92cda97b3c2befe5b8103c40d6a8fa7e60d/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/-1679748731/6452/febef92cda97b3c2befe5b8103c40d6a8fa7e60d/_/images/icons/emoticons/biggrin.png"/>
+    <img alt="(big grin)" class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
    </span>
    Contacts to stores and local collaborators are being made, flyers are being prepared and the next online meetin is already in planning.
   </li>

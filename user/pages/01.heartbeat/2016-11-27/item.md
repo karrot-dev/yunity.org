@@ -94,7 +94,7 @@ published: true
       </a>
       , with a big picture and all!
       <span class="confluence-embedded-file-wrapper">
-       <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/smile.png"/>
+       <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
       </span>
      </p>
      <p>
@@ -107,7 +107,7 @@ published: true
      <p>
       Still, there is a lot of love and work needed to make this dream come true and help is needed on every front! So if you'd like to lend a hand please do so, and rather sooner than later...
       <span class="confluence-embedded-file-wrapper">
-       <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/wink.png"/>
+       <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
       </span>
       <br/>
       In the meantime enjoy some
@@ -122,7 +122,7 @@ published: true
     <div class="innerCell">
      <p>
       <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/77299936/docks_window.JPG?version=1&amp;modificationDate=1480359485832&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="77299936" data-linked-resource-container-version="1" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="docks_window.JPG" data-linked-resource-id="77299937" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="400" src="https://yunity.atlassian.net/wiki/download/thumbnails/77299936/docks_window.JPG?width=600&amp;height=400" srcset="/wiki/download/thumbnails/77299936/docks_window.JPG?width=1200&amp;height=800 2x, /wiki/download/thumbnails/77299936/docks_window.JPG?width=600&amp;height=400 1x"/>
+       <img class="confluence-embedded-image" height="400" src="2016-11-27/docks_window.JPG"/>
       </span>
      </p>
     </div>
@@ -205,7 +205,7 @@ published: true
         </a>
         . We'll probably attend!
         <span class="confluence-embedded-file-wrapper">
-         <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/smile.png"/>
+         <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
         </span>
        </span>
       </li>
@@ -220,7 +220,7 @@ published: true
        <span style="color: rgb(0,0,0);">
         Aaaaalways looking for more info on existing initiatives, platforms and enthusiastic individuals! Don't be shy, approach us if you know something!
         <span class="confluence-embedded-file-wrapper">
-         <img class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/1000.536.1/_/images/icons/emoticons/biggrin.png" src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/1000.536.1/_/images/icons/emoticons/biggrin.png"/>
+         <img class="confluence-embedded-image emoticon emoticon-laugh confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/biggrin.png"/>
         </span>
        </span>
       </li>
@@ -305,7 +305,7 @@ published: true
      <h3 id="yunityheartbeat2016-11-27-">
       <span style="color: rgb(128,128,128);">
        <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-        <img class="confluence-embedded-image" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/77299936/image2016-11-28%2019:13:9.png?version=1&amp;modificationDate=1480359515056&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="77299936" data-linked-resource-container-version="1" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="image2016-11-28 19:13:9.png" data-linked-resource-id="77299938" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/77299936/image2016-11-28%2019:13:9.png?width=676&amp;height=250" srcset="/wiki/download/thumbnails/77299936/image2016-11-28%2019:13:9.png?width=1096&amp;height=405 2x, /wiki/download/thumbnails/77299936/image2016-11-28%2019:13:9.png?width=676&amp;height=250 1x"/>
+        <img class="confluence-embedded-image" height="250" src="2016-11-27/image2016-11-28%2019:13:9.png"/>
        </span>
        <br/>
       </span>
@@ -428,7 +428,7 @@ published: true
         </a>
         , would be nice to have not only in English...
         <span class="confluence-embedded-file-wrapper">
-         <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/1019382118/6451/ff643a3edd67cd06cf9429fe8aff81d1c07bc876/_/images/icons/emoticons/smile.png"/>
+         <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
         </span>
         <strong>
          <br class="_mce_tagged_br"/>

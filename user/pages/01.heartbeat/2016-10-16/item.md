@@ -27,7 +27,7 @@ published: true
  </h2>
  <p>
   <span class="confluence-embedded-file-wrapper image-right-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image image-right" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/66846912/IMAG2966.jpg?version=1&amp;modificationDate=1476740620297&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="66846912" data-linked-resource-container-version="4" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="IMAG2966.jpg" data-linked-resource-id="66846922" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/66846912/IMAG2966.jpg?width=443&amp;height=249" srcset="/wiki/download/thumbnails/66846912/IMAG2966.jpg?width=886&amp;height=498 2x, /wiki/download/thumbnails/66846912/IMAG2966.jpg?width=443&amp;height=249 1x" width="443"/>
+   <img class="confluence-embedded-image image-right" height="250" src="2016-10-16/IMAG2966.jpg" width="443"/>
   </span>
  </p>
  <p>
@@ -715,7 +715,7 @@ published: true
     , and she really loves feedback on it
    </span>
    <span class="confluence-embedded-file-wrapper">
-    <img alt="(Lächeln)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-1408836000/6447/d896085db166e385ab4bc7cb5333a1125f67142a/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/-1408836000/6447/d896085db166e385ab4bc7cb5333a1125f67142a/_/images/icons/emoticons/smile.png"/>
+    <img alt="(Lächeln)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
    </span>
    <br/>
    <span style="color: rgb(0,0,0);">
@@ -1075,7 +1075,7 @@ published: true
  </p>
  <p>
   <span class="confluence-embedded-file-wrapper image-center-wrapper confluence-embedded-manual-size">
-   <img class="confluence-embedded-image image-center" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/66846912/14715622_1145263808901104_257314803153432851_o.jpg?version=1&amp;modificationDate=1476741245362&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="66846912" data-linked-resource-container-version="4" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="14715622_1145263808901104_257314803153432851_o.jpg" data-linked-resource-id="66846923" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="250" src="https://yunity.atlassian.net/wiki/download/thumbnails/66846912/14715622_1145263808901104_257314803153432851_o.jpg?width=443&amp;height=250" srcset="/wiki/download/thumbnails/66846912/14715622_1145263808901104_257314803153432851_o.jpg?width=886&amp;height=500 2x, /wiki/download/thumbnails/66846912/14715622_1145263808901104_257314803153432851_o.jpg?width=443&amp;height=250 1x"/>
+   <img class="confluence-embedded-image image-center" height="250" src="2016-10-16/14715622_1145263808901104_257314803153432851_o.jpg"/>
   </span>
  </p>
  <p>

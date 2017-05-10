@@ -61,7 +61,7 @@ published: true
     <div class="innerCell">
      <p>
       <span class="confluence-embedded-file-wrapper image-center-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image image-center" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/81264715/fstool161211.jpg?version=1&amp;modificationDate=1481546088184&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="81264715" data-linked-resource-container-version="4" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="fstool161211.jpg" data-linked-resource-id="81264716" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="400" src="https://yunity.atlassian.net/wiki/download/thumbnails/81264715/fstool161211.jpg?width=711&amp;height=400" srcset="/wiki/download/thumbnails/81264715/fstool161211.jpg?width=1201&amp;height=675 2x, /wiki/download/thumbnails/81264715/fstool161211.jpg?width=711&amp;height=400 1x"/>
+       <img class="confluence-embedded-image image-center" height="400" src="2016-12-11/fstool161211.jpg"/>
       </span>
      </p>
     </div>
@@ -87,7 +87,7 @@ published: true
       </a>
       ! The mails will be received and read for sure, but we won't send out answers, since you can always come to our Slack if you want to have a chat...
       <span class="confluence-embedded-file-wrapper">
-       <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png"/>
+       <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
       </span>
      </p>
      <p>
@@ -136,7 +136,7 @@ published: true
     <div class="innerCell">
      <p>
       <span class="confluence-embedded-file-wrapper image-center-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image image-center" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/81264715/outdoorbreakfast.jpg?version=1&amp;modificationDate=1481546118363&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="81264715" data-linked-resource-container-version="4" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="outdoorbreakfast.jpg" data-linked-resource-id="81264717" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="400" src="https://yunity.atlassian.net/wiki/download/thumbnails/81264715/outdoorbreakfast.jpg?width=711&amp;height=400" srcset="/wiki/download/thumbnails/81264715/outdoorbreakfast.jpg?width=1422&amp;height=800 2x, /wiki/download/thumbnails/81264715/outdoorbreakfast.jpg?width=711&amp;height=400 1x"/>
+       <img class="confluence-embedded-image image-center" height="400" src="2016-12-11/outdoorbreakfast.jpg"/>
       </span>
      </p>
     </div>
@@ -199,7 +199,7 @@ published: true
        </a>
        charmingly show you the building and explain what already happened. It's in German but also full of visual impressions...
        <span class="confluence-embedded-file-wrapper">
-        <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png"/>
+        <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
        </span>
       </li>
       <li>
@@ -258,7 +258,7 @@ published: true
     <div class="innerCell">
      <p>
       <span class="confluence-embedded-file-wrapper image-center-wrapper confluence-embedded-manual-size">
-       <img class="confluence-embedded-image image-center" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/81264715/bodhimatthias_bath1.jpg?version=1&amp;modificationDate=1481546178390&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="81264715" data-linked-resource-container-version="4" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="bodhimatthias_bath1.jpg" data-linked-resource-id="81264718" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="400" src="https://yunity.atlassian.net/wiki/download/thumbnails/81264715/bodhimatthias_bath1.jpg?width=533&amp;height=400" srcset="/wiki/download/thumbnails/81264715/bodhimatthias_bath1.jpg?width=1066&amp;height=800 2x, /wiki/download/thumbnails/81264715/bodhimatthias_bath1.jpg?width=533&amp;height=400 1x"/>
+       <img class="confluence-embedded-image image-center" height="400" src="2016-12-11/bodhimatthias_bath1.jpg"/>
       </span>
      </p>
     </div>
@@ -275,7 +275,7 @@ published: true
        </a>
        north of Leipzig soon, and that they need people to populate the building. But this is just a side note for now...
        <span class="confluence-embedded-file-wrapper">
-        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/smile.png"/>
+        <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
        </span>
        )
       </p>
@@ -331,7 +331,7 @@ published: true
         </a>
         spread the word even in Scotland and raised the possibility that "perhaps we'll get a fleet of charitable architects".
         <span class="confluence-embedded-file-wrapper">
-         <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png"/>
+         <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
         </span>
        </li>
        <li>
@@ -513,7 +513,7 @@ published: true
          </em>
          find something to do for you, no worries!
          <span class="confluence-embedded-file-wrapper">
-          <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/1706903270/6452/ced864aa0a955b6ef92865c7d3ca599c4c790649/_/images/icons/emoticons/wink.png"/>
+          <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
          </span>
          <br/>
          We just don't push anything here at the moment because priorities lie in different areas for now. But if you want to translate, just tell us in
@@ -555,7 +555,7 @@ published: true
         has provided a nice logo for the foodsaving tool, which is more bright and playful as the first one:
         <br/>
         <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-         <img class="confluence-embedded-image confluence-thumbnail" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/81264715/fstoollogo_chandisys.jpg?version=1&amp;modificationDate=1481546207961&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="81264715" data-linked-resource-container-version="4" data-linked-resource-content-type="image/jpeg" data-linked-resource-default-alias="fstoollogo_chandisys.jpg" data-linked-resource-id="81264719" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="150" src="https://yunity.atlassian.net/wiki/download/thumbnails/81264715/fstoollogo_chandisys.jpg?width=161&amp;height=150" srcset="/wiki/download/thumbnails/81264715/fstoollogo_chandisys.jpg?width=322&amp;height=300 2x, /wiki/download/thumbnails/81264715/fstoollogo_chandisys.jpg?width=161&amp;height=150 1x"/>
+         <img class="confluence-embedded-image confluence-thumbnail" height="150" src="2016-12-11/fstoollogo_chandisys.jpg"/>
         </span>
         <br class="_mce_tagged_br"/>
        </span>

@@ -257,14 +257,14 @@ published: true
   <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
     <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-     <img class="confluence-embedded-image confluence-thumbnail" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/71761938/save-carrot.png?version=1&amp;modificationDate=1477925762462&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="71761938" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="save-carrot.png" data-linked-resource-id="71761939" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="150" src="https://yunity.atlassian.net/wiki/download/thumbnails/71761938/save-carrot.png?width=108&amp;height=150" srcset="/wiki/download/thumbnails/71761938/save-carrot.png?width=216&amp;height=300 2x, /wiki/download/thumbnails/71761938/save-carrot.png?width=108&amp;height=150 1x"/>
+     <img class="confluence-embedded-image confluence-thumbnail" height="150" src="2016-10-30/save-carrot.png"/>
     </span>
    </span>
   </span>
   <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
    <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
     <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-     <img class="confluence-embedded-image confluence-thumbnail" data-base-url="https://yunity.atlassian.net/wiki" data-image-src="https://yunity.atlassian.net/wiki/download/attachments/71761938/fist-the-carrot.png?version=1&amp;modificationDate=1477925762998&amp;cacheVersion=1&amp;api=v2" data-linked-resource-container-id="71761938" data-linked-resource-container-version="2" data-linked-resource-content-type="image/png" data-linked-resource-default-alias="fist-the-carrot.png" data-linked-resource-id="71761940" data-linked-resource-type="attachment" data-linked-resource-version="1" data-unresolved-comment-count="0" height="150" src="https://yunity.atlassian.net/wiki/download/thumbnails/71761938/fist-the-carrot.png?width=170&amp;height=150" srcset="/wiki/download/thumbnails/71761938/fist-the-carrot.png?width=340&amp;height=300 2x, /wiki/download/thumbnails/71761938/fist-the-carrot.png?width=170&amp;height=150 1x"/>
+     <img class="confluence-embedded-image confluence-thumbnail" height="150" src="2016-10-30/fist-the-carrot.png"/>
     </span>
    </span>
   </span>
@@ -312,7 +312,7 @@ published: true
    ! (Hence the shortened title of this paragraph...
    <span class="confluence-embedded-file-wrapper">
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-705042133/6447/63284c861170530db9b4c8001df5e6777c89815a/_/images/icons/emoticons/wink.png" src="https://yunity.atlassian.net/wiki/s/-705042133/6447/63284c861170530db9b4c8001df5e6777c89815a/_/images/icons/emoticons/wink.png"/>
+     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
     </span>
    </span>
    )
@@ -831,7 +831,7 @@ published: true
    (everybody can just work on an issue...
    <span class="confluence-embedded-file-wrapper">
     <span class="confluence-embedded-file-wrapper">
-     <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" data-image-src="https://yunity.atlassian.net/wiki/s/-786372947/6447/203c3decc339c304a74825a259bc1ed08d500c07/_/images/icons/emoticons/smile.png" src="https://yunity.atlassian.net/wiki/s/-786372947/6447/203c3decc339c304a74825a259bc1ed08d500c07/_/images/icons/emoticons/smile.png"/>
+     <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
     </span>
    </span>
    )
