@@ -5,8 +5,9 @@ author:
   email: 'mail@yunity.org'
 metadata:
     description: 'yunity is a network to promote sharing'
-    'google-site-verification': "_dUQOeFhILl8sUN_GNwE2c77mGNjUT18-sVXEM4IrdE"
-    'google-site-verification': "rB23XMnlaJwFuPV_e4t5RbElc2p3jprWSkd2jvTIUso"
+    'google-site-verification':
+      - "_dUQOeFhILl8sUN_GNwE2c77mGNjUT18-sVXEM4IrdE"
+      - "rB23XMnlaJwFuPV_e4t5RbElc2p3jprWSkd2jvTIUso"
     'og:title': yunity
     'og:type': website
     'og:url': 'https://yunity.org'
