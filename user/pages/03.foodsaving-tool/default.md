@@ -20,7 +20,8 @@ image: 'fstoollogo_smallwithpadding.png'
 ![](fsworld.png)
 
 * Public website: [foodsaving.world](https://foodsaving.world/?target=_blank)
-* Development website:
+* Blog: [blog.foodsaving.world](https://blog.foodsaving.world/?target=_blank)
+* Test website:
 [dev.foodsaving.world](https://dev.foodsaving.world/?target=_blank)
 * Frontend code: [github.com/yunity/foodsaving-frontend](https://github.com/yunity/foodsaving-frontend?target=_blank)
 * Backend code: [github.com/yunity/foodsaving-backend](https://github.com/yunity/foodsaving-backend?target=_blank)
