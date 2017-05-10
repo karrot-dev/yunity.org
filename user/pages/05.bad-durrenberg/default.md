@@ -5,7 +5,7 @@ metadata:
     'og:site_name': yunity
     'og:title': Wupphaus Bad Dürrenberg
     'og:type': website
-    'og:url': 'https://yunity.org/bad-durrenberg'
+    'og:url': 'https://yunity.org/en/bad-durrenberg'
     'og:image': 'https://yunity.org/user/pages/05.bad-durrenberg/wupphouse_smallwithpadding.png'
     'og:description': 'An old train station, that becomes the home of sharing culture'
 menu: Wupphaus Bad Dürrenberg

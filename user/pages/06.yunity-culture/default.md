@@ -5,7 +5,7 @@ metadata:
     'og:site_name': yunity
     'og:title': yunity Culture
     'og:type': website
-    'og:url': 'https://yunity.org/yunity-culture'
+    'og:url': 'https://yunity.org/en/yunity-culture'
     'og:image': 'https://yunity.org/user/pages/06.yunity-culture/lamashen_smallwithpadding.png'
     'og:description': 'Expect nothing, experience lots - The theory and lifestyle of unconditional sharing'
 menu: yunity Culture

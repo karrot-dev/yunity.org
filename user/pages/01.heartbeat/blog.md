@@ -5,7 +5,7 @@ metadata:
     'og:site_name': yunity
     'og:title': Heartbeat
     'og:type': website
-    'og:url': 'https://yunity.org/heartbeat'
+    'og:url': 'https://yunity.org/en/heartbeat'
     'og:image': 'https://yunity.org/user/themes/twentyfifteen/images/yunity-orange.svg'
     'og:description': 'The biweekly summary of what happens inside the yunity network'
 menu: Heartbeat
