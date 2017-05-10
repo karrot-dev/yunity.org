@@ -3,13 +3,14 @@ Website for yunity.org, based on the [Grav](https://getgrav.org/) CMS.
 # Requirements
 
 - PHP 5.5.9 or higher. Check the [required modules list](https://learn.getgrav.org/basics/requirements#php-requirements)
+- [Composer](https://getcomposer.org/download/)
 
 # QuickStart
 
 ```
 git clone https://github.com/yunity/yunity.org
 cd yunity.org
-bin/grav install
+composer install
 php -S localhost:8000 system/router.php
 ```
 
