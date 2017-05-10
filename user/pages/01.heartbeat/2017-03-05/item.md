@@ -8,351 +8,69 @@ taxonomy:
 published: true
 ---
 
-<div class="wiki-content">
- <p>
-  <strong>
-   The yunity heartbeat
-  </strong>
-  - what has each team done, what are they doing and what do they need help with.
- </p>
- <hr/>
- <h1 id="yunityheartbeat2017-03-05-FoodsavingTool.">
-  <span style="color: rgb(0,0,0);">
-   <strong>
-    Foodsaving Tool.
-   </strong>
-  </span>
- </h1>
- <p>
-  <span style="color: rgb(0,0,0);">
-   <strong>
-    <strong>
-     <a class="external-link" href="https://foodsaving.world/" rel="nofollow">
-      Visit on foodsaving.world
-     </a>
-    </strong>
-   </strong>
-  </span>
- </p>
- <p>
-  <span style="color: rgb(0,0,0);">
-   <strong>
-    <strong>
-     <br/>
-    </strong>
-   </strong>
-   We are
-   <strong>
-   </strong>
-   happy to receive much attention from teams of the
-   <a class="external-link" href="http://railsgirlssummerofcode.org" rel="nofollow">
-    Rails Girls Summer of Code
-   </a>
-   . It's an amazing project to get more women into
-   <em>
-    open source
-   </em>
-   projects. It was heartily recommended to us (thanks Thea Amanda!). Despite the name, which is referencing the Ruby on Rails web framework, it's actually open for all kinds of programming languages, as long as the projects are
-   <em>
-    open source
-   </em>
-   and have a welcoming culture. So far, 5 teams have expressed interest in
-   <a class="external-link" href="https://teams.railsgirlssummerofcode.org/projects/129-foodsaving-and-foodsharing" rel="nofollow">
-    our application
-   </a>
-   , which puts us in the third topmost position, just behind the well-known projects
-   <a class="external-link" href="https://teams.railsgirlssummerofcode.org/projects/167-scikit-image" rel="nofollow">
-    scikit-image
-   </a>
-   and
-   <a class="external-link" href="https://teams.railsgirlssummerofcode.org/projects/150-nextcloud" rel="nofollow">
-    Nextcloud
-   </a>
-   <span class="confluence-embedded-file-wrapper">
-    <img class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
-   </span>
-   . Even though we are just getting started, there's already a lot of knowledge in our project to learn from, and hopefully this will increase manifold in the next months!
-  </span>
- </p>
- <p>
-  <span style="color: rgb(0,0,0);">
-   New features and developments:
-   <br/>
-  </span>
- </p>
- <ul>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Landing page with a map of all groups, new title font (Cabin Sketch)
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    User action history for groups
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Store management page with overview of all pickup date settings, incl. editing of pickup dates and series
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Updated languages: German, Esperanto, Spanish, French, Italian, Russian
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    We do daily off-site backups now!
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Store editing with markdown preview
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Store create now uses the same form as store editing, incl. nice address input
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Minimum group &amp; store name length (5 resp. 3 characters)
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Group names have to be unique, and store names have to be unique within their group
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Changes to group and store name will do immediate updates throughout the page
-   </span>
-  </li>
- </ul>
- <p>
-  <span style="color: rgb(0,0,0);">
-   <strong>
-    <strong>
-     <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="Landing page" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.13.49.png" title="Landing page"/>
-     </span>
-     <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="Group overview map" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.13.45.png" title="Group overview map"/>
-     </span>
-     <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="Pickup Management" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.23.29.png" title="Pickup Management"/>
-     </span>
-     <span class="confluence-embedded-file-wrapper confluence-embedded-manual-size">
-      <img alt="History" class="confluence-embedded-image" height="250" src="2017-03-05/Screen%20Shot%202017-03-06%20at%2010.25.07.png" title="History"/>
-     </span>
-     <br/>
-    </strong>
-   </strong>
-  </span>
- </p>
- <p>
-  <span style="color: rgb(0,0,0);">
-   <strong>
-    <strong>
-     <br/>
-    </strong>
-   </strong>
-  </span>
- </p>
- <hr/>
- <h1 id="yunityheartbeat2017-03-05-FoodsavingWorldwide.">
-  <span style="color: rgb(0,0,0);">
-   <strong>
-    Foodsaving Worldwide.
-   </strong>
-  </span>
- </h1>
- <ul>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    <a class="external-link" href="https://www.facebook.com/FoodsharingPolska/" rel="nofollow">
-     Foodsharing Poland
-    </a>
-    held a big meeting in Torun, Poland, to connect the emerging foodsharing communities of the different Polish cities.
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    <a class="external-link" href="https://www.facebook.com/FoodsharingCopenhagen/" rel="nofollow">
-     Foodsharing Copenhagen
-    </a>
-    is as active as ever! They are doing lots of great actions and they tell about it in English as well!
-    <span class="confluence-embedded-file-wrapper">
-     <img alt="(wink)" class="confluence-embedded-image emoticon emoticon-wink confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/wink.png"/>
-    </span>
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227074" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Joachim Thome" href="https://yunity.atlassian.net/wiki/display/~Joachim+Thome">
-     Joachim Thome
-    </a>
-    already held the 8th online meeting with Unai from Bilbao and now the preparations and plannings lead to more concrete ideas of going down there to help him really get started with foodsharing Bilbao! Any experienced foodsavers and/or -sharers who want to join in? Write us a mail!
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="7897368" data-linked-resource-type="userinfo" data-linked-resource-version="1" data-username="Kristijan Miklobusec" href="https://yunity.atlassian.net/wiki/display/~Kristijan+Miklobusec">
-     Kristijan Miklobusec
-    </a>
-    shared the inspiring annual report of foodsharing Mainz,
-    <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="4227489" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Janina" href="https://yunity.atlassian.net/wiki/display/~Janina">
-     Janina Abels
-    </a>
-    translated it and
-    <a data-linked-resource-id="89331714" data-linked-resource-type="page" data-linked-resource-version="8" href="https://yunity.atlassian.net/wiki/display/FSINT/Annual+report">
-     now it's on our wiki
-    </a>
-    , so that everyone can see what foodsharing communities can make possible!
-   </span>
-  </li>
- </ul>
- <p>
-  <span style="color: rgb(0,0,0);">
-   <br/>
-  </span>
- </p>
- <hr/>
- <h1 id="yunityheartbeat2017-03-05-Wh-y-unity.">
-  <strong>
-   <span style="color: rgb(0,0,0);">
-    Wh-y-unity.
-   </span>
-  </strong>
- </h1>
- <p>
-  <span style="color: rgb(0,0,0);">
-   Since
-   <a class="confluence-userlink user-mention" data-base-url="https://yunity.atlassian.net/wiki" data-linked-resource-id="5177885" data-linked-resource-type="userinfo" data-linked-resource-version="2" data-username="Paul Free" href="https://yunity.atlassian.net/wiki/display/~Paul+Free">
-    Paul Free
-   </a>
-   put emphasis on the
-   <em>
-    why
-   </em>
-   from the very beginning and
-   <a class="external-link" href="https://yunity.slack.com/messages/wh-y-unity/" rel="nofollow">
-    the dedicated Slack
-   </a>
-   channel is also called why-y-unity, this seems to have become the name of the topic. The deeper question of why we do what we do in yunity, which has been raised again due to
-   <a data-linked-resource-id="88863618" data-linked-resource-type="page" data-linked-resource-version="2" href="https://yunity.atlassian.net/wiki/display/~Janina/The+Wurzen+issue">
-    the Wurzen issue
-   </a>
-   , is treated now inidivually by people. Bigger gatherings of many people are still preferred by some to initiate a creative group process, but so far the scheduling turned out to be quite difficult.
-  </span>
- </p>
- <p>
-  <span style="color: rgb(0,0,0);">
-   In the meantime
-   <a class="unresolved" href="https://yunity.atlassian.net#">
-    a new section on the wiki
-   </a>
-   was created to give a home to the personal statements and meeting notes from smaller groups, which already took place in different locations. Feel free to ask yourself why you are with yunity, what you want to achieve with yunity and what that name actually means to you and then share what you come up with!
-   <span class="confluence-embedded-file-wrapper">
-    <img alt="(smile)" class="confluence-embedded-image emoticon emoticon-smile confluence-external-resource" src="/user/themes/twentyfifteen/images/emoticons/smile.png"/>
-   </span>
-   <br/>
-  </span>
- </p>
- <p>
-  <br/>
- </p>
- <hr/>
- <h1 id="yunityheartbeat2017-03-05-WuppHausBadDürrenberg.">
-  <strong>
-   <span style="color: rgb(0,0,0);">
-    WuppHaus Bad Dürrenberg.
-   </span>
-  </strong>
- </h1>
- <ul>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    The winter was hard and draining, so we will take a break from this project until spring.
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Even though we received lots of attention and support, the Badue locals mostly are not very proactive yet
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    The house will not be open for the next weeks, but we still have the keys and as soon as the sun will make the plants grow again we'll be back!
-   </span>
-  </li>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Nothing is lost, what has been achieved is still there, but for now we need to press pause.
-   </span>
-  </li>
- </ul>
- <p>
-  <span style="color: rgb(0,0,0);">
-   <br/>
-  </span>
- </p>
- <hr/>
- <p>
-  <span style="color: rgb(0,0,0);">
-   <br/>
-  </span>
- </p>
- <h1 id="yunityheartbeat2017-03-05-Abouttheheartbeat.">
-  <span style="color: rgb(0,0,0);">
-   About the heartbeat.
-  </span>
- </h1>
- <p>
-  <span style="color: rgb(0,0,0);">
-   The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
-  </span>
- </p>
- <h3 id="yunityheartbeat2017-03-05-Whenandhowdoesithappen?">
-  <span style="color: rgb(0,0,0);">
-   When and how does it happen?
-  </span>
- </h3>
- <p>
-  <span style="color: rgb(0,0,0);">
-   Every other weekend we collect information on a wiki page and publish it on Sunday or the following Monday as a wiki blog article.
-  </span>
- </p>
- <p>
-  <span style="color: rgb(0,0,0);">
-   Afterwards we add a nice abstract and share it on
-   <a class="external-link" href="https://www.facebook.com/yunity.org/" rel="nofollow">
-    <span style="color: rgb(0,0,0);">
-     facebook
-    </span>
-   </a>
-   .
-  </span>
- </p>
- <h3 id="yunityheartbeat2017-03-05-Howtocontribute?">
-  <span style="color: rgb(0,0,0);">
-   How to contribute?
-  </span>
- </h3>
- <ul>
-  <li>
-   <span style="color: rgb(0,0,0);">
-    Talk to us in
-    <a class="external-link" href="https://yunity.slack.com/messages/heartbeat/" rel="nofollow">
-     <span style="color: rgb(0,0,0);">
-      #heartbeat
-     </span>
-    </a>
-    on Slack about the content, the layout or any other heartbeat related issues and ideas!
-   </span>
-  </li>
- </ul>
-</div>
+The yunity heartbeat - what has each team done, what are they doing and what do they need help with.
+
+* * *
+
+## Foodsaving Tool.
+
+[Visit on foodsaving.world](https://foodsaving.world/)
+
+We are happy to receive much attention from teams of the [Rails Girls Summer of Code](http://railsgirlssummerofcode.org) . It's an amazing project to get more women into _open source_ projects. It was heartily recommended to us (thanks Thea Amanda!). Despite the name, which is referencing the Ruby on Rails web framework, it's actually open for all kinds of programming languages, as long as the projects are _open source_ and have a welcoming culture. So far, 5 teams have expressed interest in [our application](https://teams.railsgirlssummerofcode.org/projects/129-foodsaving-and-foodsharing) , which puts us in the third topmost position, just behind the well-known projects [scikit-image](https://teams.railsgirlssummerofcode.org/projects/167-scikit-image) and [Nextcloud](https://teams.railsgirlssummerofcode.org/projects/150-nextcloud) ![](/user/themes/twentyfifteen/images/emoticons/wink.png) . Even though we are just getting started, there's already a lot of knowledge in our project to learn from, and hopefully this will increase manifold in the next months!
+
+New features and developments:
+
+*   Landing page with a map of all groups, new title font (Cabin Sketch)
+*   User action history for groups
+*   Store management page with overview of all pickup date settings, incl. editing of pickup dates and series
+*   Updated languages: German, Esperanto, Spanish, French, Italian, Russian
+*   We do daily off-site backups now!
+*   Store editing with markdown preview
+*   Store create now uses the same form as store editing, incl. nice address input
+*   Minimum group & store name length (5 resp. 3 characters)
+*   Group names have to be unique, and store names have to be unique within their group
+*   Changes to group and store name will do immediate updates throughout the page
+
+![](2017-03-05/Screen%20Shot%202017-03-06%20at%2010.13.49.png "Landing page") ![](2017-03-05/Screen%20Shot%202017-03-06%20at%2010.13.45.png "Group overview map") ![](2017-03-05/Screen%20Shot%202017-03-06%20at%2010.23.29.png "Pickup Management") ![](2017-03-05/Screen%20Shot%202017-03-06%20at%2010.25.07.png "History")
+
+* * *
+
+## Foodsaving Worldwide.
+
+*   [Foodsharing Poland](https://www.facebook.com/FoodsharingPolska/) held a big meeting in Torun, Poland, to connect the emerging foodsharing communities of the different Polish cities.
+*   [Foodsharing Copenhagen](https://www.facebook.com/FoodsharingCopenhagen/) is as active as ever! They are doing lots of great actions and they tell about it in English as well! ![](/user/themes/twentyfifteen/images/emoticons/wink.png)
+*   [Joachim Thome](https://yunity.atlassian.net/wiki/display/~Joachim+Thome) already held the 8th online meeting with Unai from Bilbao and now the preparations and plannings lead to more concrete ideas of going down there to help him really get started with foodsharing Bilbao! Any experienced foodsavers and/or -sharers who want to join in? Write us a mail!
+*   [Kristijan Miklobusec](https://yunity.atlassian.net/wiki/display/~Kristijan+Miklobusec) shared the inspiring annual report of foodsharing Mainz, [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) translated it and [now it's on our wiki](https://yunity.atlassian.net/wiki/display/FSINT/Annual+report) , so that everyone can see what foodsharing communities can make possible!
+
+* * *
+
+## Wh-y-unity.
+
+Since [Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) put emphasis on the _why_ from the very beginning and [the dedicated Slack](https://yunity.slack.com/messages/wh-y-unity/) channel is also called why-y-unity, this seems to have become the name of the topic. The deeper question of why we do what we do in yunity, which has been raised again due to [the Wurzen issue](https://yunity.atlassian.net/wiki/display/~Janina/The+Wurzen+issue) , is treated now inidivually by people. Bigger gatherings of many people are still preferred by some to initiate a creative group process, but so far the scheduling turned out to be quite difficult.
+
+In the meantime [a new section on the wiki](https://yunity.atlassian.net#) was created to give a home to the personal statements and meeting notes from smaller groups, which already took place in different locations. Feel free to ask yourself why you are with yunity, what you want to achieve with yunity and what that name actually means to you and then share what you come up with! ![](/user/themes/twentyfifteen/images/emoticons/smile.png)
+
+* * *
+
+## WuppHaus Bad Dürrenberg.
+
+*   The winter was hard and draining, so we will take a break from this project until spring.
+*   Even though we received lots of attention and support, the Badue locals mostly are not very proactive yet
+*   The house will not be open for the next weeks, but we still have the keys and as soon as the sun will make the plants grow again we'll be back!
+*   Nothing is lost, what has been achieved is still there, but for now we need to press pause.
+
+* * *
+
+## About the heartbeat.
+
+The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+#### When and how does it happen?
+
+Every other weekend we collect information on a wiki page and publish it on Sunday or the following Monday as a wiki blog article.
+
+Afterwards we add a nice abstract and share it on [facebook](https://www.facebook.com/yunity.org/) .
+
+#### How to contribute?
+
+*   Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on Slack about the content, the layout or any other heartbeat related issues and ideas!
