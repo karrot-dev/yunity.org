@@ -12,15 +12,15 @@ menu: Heartbeat
 menu_description: The heartbeat is a biweekly summary of what happens in yunity
 
 sitemap:
-    changefreq: monthly
-    priority: 1.03
+    changefreq: weekly
+    priority: 1.1
 
 content:
     items: @self.children
     order:
         by: date
         dir: desc
-    limit: 5
+    limit: 10
     pagination: true
 
 feed:
