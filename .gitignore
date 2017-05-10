@@ -1,5 +1,6 @@
 cache/*
 logs/*
+user/data/*
 tmp/*
 vendor
 images/*
