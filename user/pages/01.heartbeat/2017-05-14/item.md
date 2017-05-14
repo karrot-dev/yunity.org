@@ -25,6 +25,17 @@ The third part of the series from Gothenburg was published. This time Bruno talk
 
 ### [foodsaving.world](https://foodsaving.world)
 
+- Draft of a [crash course into the foodsaving tool](https://github.com/yunity/foodsaving-docs/blob/master/foodsaving-tool-intro/README.md)
+- Group and store locations can now be set via a [simple click on the map](https://github.com/yunity/foodsaving-frontend/pull/441) - thanks to [Lars](https://github.com/D0nPiano)  
+Best practice: first enter the address in the text field above the map, then select an entry. If necessary, adjust the location either via clicking or dragging the marker and edit the address (but do not select an entry this time).
+- The button to go back to the store page is now [an arrow](https://github.com/yunity/foodsaving-frontend/pull/481) - thanks to [Jérôme](https://github.com/jeromechrist)!
+- Code refactoring
+  - Layouts are now [fully-fledged components)(https://github.com/yunity/foodsaving-frontend/pull/473)
+  - Upgraded to [Webpack 2](https://github.com/yunity/foodsaving-frontend/pull/491)
+  - PickupList code is [now more angular-ish](https://github.com/yunity/foodsaving-frontend/pull/420)
+  - Our `*.styl` files are now [checked by a linter](https://github.com/yunity/foodsaving-frontend/pull/493) - but without complaining about mistakes (yet)
+
+
 ### [foodsharing.de](https://foodsharing.de)
 
 ## Harzgerode
