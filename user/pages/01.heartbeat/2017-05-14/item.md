@@ -7,8 +7,6 @@ taxonomy:
     tag: [heartbeat]
 ---
 
-# yunity heartbeat 2017-05-14
-
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
 ## Foodsaving Worldwide
