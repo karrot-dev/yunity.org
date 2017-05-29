@@ -65,6 +65,22 @@ Due to current relevance we published the call for participation in foodsaving o
 
 ### [foodsaving.world](https://foodsaving.world)
 
+Wonderful news: Team NK42 was chosen at the [Rails Girls Summer of Code 2017](https://railsgirlsummerofcode.org/blog/2017-05-22-teams-2017) to work on foodsaving.world from July to September. Congratulations to Marie and Ines!
+
+Besides that, there has been some progress in the last two weeks. Here's a brief overview:
+
+- Group history page gained extensive filtering capabilities ([details](https://github.com/yunity/foodsaving-frontend/pull/449)) ![](fstool.historyfilter.png)
+- Added an option to browse back into group history. Before, it showed only the 50 most recent entries, now you can click a "load more" button at the end of the list. ([details](https://github.com/yunity/foodsaving-frontend/pull/494))
+- Look up details of group history entries via the **i** icon, if available. For example, you can see who has changed the group description or the time of a pickup date. ([details](https://github.com/yunity/foodsaving-frontend/pull/494))
+- Solved a problem in the backend to record only changed values to store history. Before, all values were recorded, making the store history details less helpful. ([details](https://github.com/yunity/foodsaving-backend/pull/298))
+- The frontend now gives direct feedback if a group name (or a store name inside a group) is already taken. ([details](https://github.com/yunity/foodsaving-backend/pull/495))
+- The website now remembers the loaded group ([details](https://github.com/yunity/foodsaving-frontend/pull/471)) and shows it when logged in ([details](https://github.com/yunity/foodsaving-frontend/pull/497))
+- The backend gained the option to save chosen language, making it possible to persist the language choice across different devices (web browser and mobile phone). ([details](https://github.com/yunity/foodsaving-backend/pull/299))
+- Code refactoring
+  - Make the logout directive into a controller function ([details](https://github.com/yunity/foodsaving-frontend/pull/482))
+  - Newly introduced the `SessionUser` service to keep data of the logged-in user. Deprecates `Authentication.data` and prevents repeated calls to `Authentication.update()` ([details](https://github.com/yunity/foodsaving-frontend/pull/499))
+
+
 ## About the heartbeat.
 
 The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
