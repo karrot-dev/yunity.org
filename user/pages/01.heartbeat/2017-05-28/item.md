@@ -46,6 +46,7 @@ As an example, to show you how I feel in regards to this project/money:
 - I will give another 8000 euros as a lending (0% interest) with a fixed time of 3 months because I literally need that money to survive the upcoming 12 months. I want to keep a buffer that always allows me to have an "exit plan" - when everything fails, money can still help you survive these days.
 Please either publically here or privately to me in private message disclose how much money you would like to contribute either as donation or as a lending (with what conditions) that could be on our bank account by 02.06.2017.
 I will personally step out of the projekt Wurzen and communicate the lack of money towards Mr. Sauer when there is not 45k€ confirmed by the 28.05, (this sunday). Don't take this as a threat but as a "I will not be doing this alone".
+![Doug in the yard](dougintheyard.jpg)
 
 ### Dargelütz
 
@@ -58,6 +59,10 @@ I will personally step out of the projekt Wurzen and communicate the lack of mon
 ## Foodsaving Worldwide
 
 ### News from foodsaving groups 
+
+- On May 18-19 the [REFRESH Food Waste 2017 conference](http://eu-refresh.org/conference2017) was held in Berlin. It was an event that brought together people from various backgrounds to develop strategies to minimize food waste. [Janina](https://yunity.atlassian.net/wiki/spaces/~Janina) took part on behalf of foodsharing.de and helped out in the disco soup event on the 18th. It was an interesting evening and she mostly enjoyed getting to know the other volunteers from [The Real Junk Food Project Berlin](https://realjunkfoodberlin.wordpress.com/about/) and [Feedback](http://feedbackglobal.org/), while having real contact on eye-level with the more business-minded participants proved difficult. We _do_ have a different perspective after all...
+- Especially Feedback has already achieved quite a lot and offers resources to other motivated people, like this [guide to holding a 'Feeding the 5000' event](http://feedbackglobal.org/wp-content/uploads/2016/12/F5K-The-Introductory-Toolkit-1.pdf) or [this one](http://feedbackglobal.org/wp-content/uploads/2016/12/F5K-Disco-Chop-Small-Scale-Event-Toolkit.pdf) that helps you organize a normal, small disco soup evening.
+-
 
 ### [foodsaving.today](https://foodsaving.today)
 
