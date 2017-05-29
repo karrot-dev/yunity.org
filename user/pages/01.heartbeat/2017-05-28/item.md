@@ -62,29 +62,12 @@ I will personally step out of the projekt Wurzen and communicate the lack of mon
 
 - On May 18-19 the [REFRESH Food Waste 2017 conference](http://eu-refresh.org/conference2017) was held in Berlin. It was an event that brought together people from various backgrounds to develop strategies to minimize food waste. [Janina](https://yunity.atlassian.net/wiki/spaces/~Janina) took part on behalf of foodsharing.de and helped out in the disco soup event on the 18th. It was an interesting evening and she mostly enjoyed getting to know the other volunteers from [The Real Junk Food Project Berlin](https://realjunkfoodberlin.wordpress.com/about/) and [Feedback](http://feedbackglobal.org/), while having real contact on eye-level with the more business-minded participants proved difficult. We _do_ have a different perspective after all...
 - Especially Feedback has already achieved quite a lot and offers resources to other motivated people, like this [guide to holding a 'Feeding the 5000' event](http://feedbackglobal.org/wp-content/uploads/2016/12/F5K-The-Introductory-Toolkit-1.pdf) or [this one](http://feedbackglobal.org/wp-content/uploads/2016/12/F5K-Disco-Chop-Small-Scale-Event-Toolkit.pdf) that helps you organize a normal, small disco soup evening.
--
 
 ### [foodsaving.today](https://foodsaving.today)
 
-Due to current relevance we published the call for participation in foodsaving on big commercial music festivals in Germany on foodsaving.today. This is an official [foodsharig.de]() document, that you can read as reference, take as inspiration for your own saving and sharing endeavors on festivals or celebrate as the first contribution to our interational blog page, that comes from good 'ol Germany... ;) To read the whole thing just [click here](https://foodsaving.today/en/blog/2017/05/14/foodsharingde-festival-call)!
+Due to current relevance we published the call for participation in foodsaving on big commercial music festivals in Germany on foodsaving.today. This is an official [foodsharig.de](https://www.foodsharing.de) document, that you can read as reference, take as inspiration for your own saving and sharing endeavors on festivals or celebrate as the first contribution to our interational blog page, that comes from good 'ol Germany... ;) To read the whole thing just [click here](https://foodsaving.today/en/blog/2017/05/14/foodsharingde-festival-call)!
 
 ### [foodsaving.world](https://foodsaving.world)
-
-Wonderful news: Team NK42 was chosen at the [Rails Girls Summer of Code 2017](https://railsgirlssummerofcode.org/blog/2017-05-22-teams-2017) to work on foodsaving.world from July to September. Congratulations to Marie and Ines!
-
-Besides that, there has been some progress in the last two weeks. Here's a brief overview:
-
-- Group history page gained extensive filtering capabilities ([details](https://github.com/yunity/foodsaving-frontend/pull/449)) ![](fstool.historyfilter.png)
-- Added an option to browse back into group history. Before, it showed only the 50 most recent entries, now you can click a "load more" button at the end of the list. ([details](https://github.com/yunity/foodsaving-frontend/pull/494))
-- Look up details of group history entries via the **i** icon, if available. For example, you can see who has changed the group description or the time of a pickup date. ([details](https://github.com/yunity/foodsaving-frontend/pull/494))
-- Solved a problem in the backend to record only changed values to store history. Before, all values were recorded, making the store history details less helpful. ([details](https://github.com/yunity/foodsaving-backend/pull/298))
-- The frontend now gives direct feedback if a group name (or a store name inside a group) is already taken. ([details](https://github.com/yunity/foodsaving-backend/pull/495))
-- The website now remembers the loaded group ([details](https://github.com/yunity/foodsaving-frontend/pull/471)) and shows it when logged in ([details](https://github.com/yunity/foodsaving-frontend/pull/497))
-- The backend gained the option to save chosen language, making it possible to persist the language choice across different devices (web browser and mobile phone). ([details](https://github.com/yunity/foodsaving-backend/pull/299))
-- Code refactoring
-  - Make the logout directive into a controller function ([details](https://github.com/yunity/foodsaving-frontend/pull/482))
-  - Newly introduced the `SessionUser` service to keep data of the logged-in user. Deprecates `Authentication.data` and prevents repeated calls to `Authentication.update()` ([details](https://github.com/yunity/foodsaving-frontend/pull/499))
-
 
 ## About the heartbeat.
 
