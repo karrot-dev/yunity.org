@@ -65,7 +65,7 @@ Due to current relevance we published the call for participation in foodsaving o
 
 ### [foodsaving.world](https://foodsaving.world)
 
-Wonderful news: Team NK42 was chosen at the [Rails Girls Summer of Code 2017](https://railsgirlsummerofcode.org/blog/2017-05-22-teams-2017) to work on foodsaving.world from July to September. Congratulations to Marie and Ines!
+Wonderful news: Team NK42 was chosen at the [Rails Girls Summer of Code 2017](https://railsgirlssummerofcode.org/blog/2017-05-22-teams-2017) to work on foodsaving.world from July to September. Congratulations to Marie and Ines!
 
 Besides that, there has been some progress in the last two weeks. Here's a brief overview:
 
