@@ -48,6 +48,25 @@ With the Hurricane and Southside festivals taking place in two weeks in the Nort
 
 ### [foodsaving.world](https://foodsaving.world)
 
+In our [Slack chat](https://slackin.yunity.org), we started to gather priorities for upcoming feature development. The following points were mentioned:
+- comment field for the pickups ([more info & feedback on this](https://github.com/yunity/foodsaving-frontend/issues/158))
+- e-mail notifications ([more info & feedback on this](https://github.com/yunity/foodsaving-frontend/issues/257))
+- social features: messaging and forum ([more info & feedback on this](https://github.com/yunity/foodsaving-frontend/issues/520))
+- optional hierarchy system, that allows for rights distribution ([more info & feedback on this](https://github.com/yunity/foodsaving-frontend/issues/356))
+
+![](fstool-wishes.png)
+
+The following features have been implemented during the last two weeks:
+
+- On the store page, the *create pickup* button has been replaced with a *manage pickup dates* button, increasing the accessibility of the page ([details](https://github.com/yunity/foodsaving-frontend/pull/512)) ![](fstool-managebutton.png)
+- A history tab has been added to the Store page, showing all activity related to the selected store ([details](https://github.com/yunity/foodsaving-frontend/pull/516))
+- The user profile pictures in the history tab now show the user's initials on top of the random picture ([details](https://github.com/yunity/foodsaving-frontend/pull/513))
+- The date selector for creating and editing pickups now only allows clicking on today or days in the future ([details](https://github.com/yunity/foodsaving-frontend/pull/517))
+- After verifying a changed mail address, now the new address gets shown in the frontend ([details](https://github.com/yunity/foodsaving-frontend/pull/510))
+- Code refactoring: As usual, a significant portion of our time went into making the code more uniform, better to understand and hence easier to contribute to
+  - migrate to the `SessionUser` service, which also provides a  `isLoggendIn` helper function ([details](https://github.com/yunity/foodsaving-frontend/pull/511))
+  - change `*.styl` files to uniform code style ([details](https://github.com/yunity/foodsaving-frontend/pull/514))
+
 ## About the heartbeat.
 
 The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
