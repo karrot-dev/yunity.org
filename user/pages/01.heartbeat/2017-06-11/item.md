@@ -9,6 +9,19 @@ taxonomy:
 
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
+## Multisharing platforms
+
+### Online
+
+Thanks to the new energy brought in by Bruno and the enthusiastic movement in Gothenburg, we're talking about building online multisharing services again. On June 4th we held a call to discuss the basic concept and share ideas on how to proceed. Some of the questions raised were the following:
+* app or website?
+* one central service provided by us or individual local instances?
+* 
+
+### Offline
+
+The offline version of a multisharing platform currently in use is the flake. The flake is an installation, that gives space for people to offer and look for things, skills, spaces, ideas and whatever you can imagine. It's like a small, local, offline version of the full-fledged yunity platform... ;) So it is a way for people to connect and share whatever they like in their direct environment. This year the flake will travel to various festivals and maybe even city centers. Over this journey the concept will be improved so that people can make use of it as easily and conveniently as possible.
+
 ## Festivals
 
 During the summer lots of festivals take place and provide us with great opportunities to network, learn and save resources in a fun and social environment!
