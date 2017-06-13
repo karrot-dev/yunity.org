@@ -64,7 +64,7 @@ The following features have been implemented during the last two weeks:
 - The date selector for creating and editing pickups now only allows clicking on today or days in the future ([details](https://github.com/yunity/foodsaving-frontend/pull/517))
 - After verifying a changed mail address, now the new address gets shown in the frontend ([details](https://github.com/yunity/foodsaving-frontend/pull/510))
 - Code refactoring: As usual, a significant portion of our time went into making the code more uniform, better to understand and hence easier to contribute to
-  - migrate to the `SessionUser` service, which also provides a  `isLoggendIn` helper function ([details](https://github.com/yunity/foodsaving-frontend/pull/511))
+  - migrate to the `SessionUser` service, which also provides a  `isLoggedIn` helper function ([details](https://github.com/yunity/foodsaving-frontend/pull/511))
   - change `*.styl` files to uniform code style ([details](https://github.com/yunity/foodsaving-frontend/pull/514))
 
 ## About the heartbeat.
