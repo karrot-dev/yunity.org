@@ -55,7 +55,7 @@ With the Hurricane and Southside festivals taking place in two weeks in the Nort
 
 ### Hackathon plannings
 
-We have been planning an event focused on the development of [foodsaving.world](https://foodsaving.world) and foodsharing.de. It currently seems that we will meet in Berlin mid of July, with a follow-up event in the Harz mountains shortly afterwards. If you are interesting in coding with us at these locations, please join us in #hackathon on [Slack](https://slackin.yunity.org).
+We have been planning an event focused on the development of [foodsaving.world](https://foodsaving.world) and foodsharing.de. It currently seems that we will meet in Berlin mid of July, with a follow-up event in the Harz mountains shortly afterwards. If you are interested in coding with us at these locations, please join us in #hackathon on [Slack](https://slackin.yunity.org).
 
 ### [foodsaving.today](https://foodsaving.today)
 
