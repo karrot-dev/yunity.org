@@ -63,7 +63,7 @@ See [our writeup](https://devblog.foodsharing.de/2017/04/18/easter-foodsharing-h
 
 ## [foodsaving.world](https://foodsaving.world)
 
-A new website to help foodsaving communities schedule food pickups. Currently being used by [a team in Gothenburg](https://foodsaving.today/en/blog/2017/04/27/foodsharing-gothenburg-part3).
+A new website to help foodsaving communities worldwide schedule food pickups. Currently being used by [a team in Gothenburg](https://foodsaving.today/en/blog/2017/04/27/foodsharing-gothenburg-part3), translated into 8+ languages.
 
 It's a python + django-rest-framework API backend with an AngularJS frontend built using [Angular Material](https://material.angularjs.org/).
 
