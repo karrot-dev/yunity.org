@@ -115,6 +115,22 @@ We are organizing accommodation provided by friends and participants in the city
 
 If you have or need accommodation, please mention it on the [attendance sheet](https://docs.google.com/spreadsheets/d/1U4pX26XDpg-p9S8ZRl_k-tibgC57sftnumT3iSA4D1I/edit#gid=0) - if you are staying somewhere please bring sleeping gear if possible to make it easier for your host.
 
+### I am not a developer, can I still come?
+
+For a productive hackathon we try and keep a majority developer crowd.
+
+Of course successful projects also need product people, design people, PR people, etc.
+So, there is no hard rule here. If in doubt get in touch with one of the projects to see if they
+can use your help!
+
+At co-up we will have 3 seperate rooms available as well as a common space,
+so we can ensure there is productive space for developers to work.
+
+Also, see the _Additionally..._ section above, where Philip will be co-ordinating non-dev workshops and meetings.
+
+Also also, we really value help in organizing the hackathon, sourcing and preparing food, and arranging accommodation.
+If you want to get involved in that then talk to Janina or Laurina in the _#hackathon_ channel in [slack](https://slackin.yunity.org/).
+
 ### Is there a schedule?
 
 No.
