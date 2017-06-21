@@ -1,7 +1,7 @@
 ---
 route: home
 menu_hide: true
-image: "header.png"
+image: "header.jpg"
 ---
 
 # yunity
