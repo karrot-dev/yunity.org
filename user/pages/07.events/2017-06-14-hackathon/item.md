@@ -14,6 +14,10 @@ last October at [co-up](http://co-up.de) (thanks co-up!) and it was a great succ
 
 It's time for the next one!
 
+### Why?
+
+We want to take an active part in changing society - dedicated to preventing waste and expanding the movement of sharing resources.
+
 ### When?
 
 - 14th July (evening) _please arrive_ **by 8pm** _for our welcome session_
@@ -41,7 +45,9 @@ These are all projects built by grassroots communities and run on a shoestring b
 
 (If you have a project that you think fits in with these and would like to join our hackathon, please pester someone in the _#hackathon_ channel in [slack](https://slackin.yunity.org/)).
 
-## [foodsharing.de](https://foodsharing.de)
+---
+
+#### [foodsharing.de](https://foodsharing.de)
 
 Helps over 150 thousand people to save and share food.
 
@@ -61,19 +67,23 @@ See [our writeup](https://devblog.foodsharing.de/2017/04/18/easter-foodsharing-h
 
 **Get involved**: join _#foodsharing-dev_ channel in [slack](https://slackin.yunity.org/).
 
-## [foodsaving.world](https://foodsaving.world)
+---
+
+#### [foodsaving.world](https://foodsaving.world)
 
 A new website to help foodsaving communities worldwide schedule food pickups. Currently being used by [a team in Gothenburg](https://foodsaving.today/en/blog/2017/04/27/foodsharing-gothenburg-part3), translated into 8+ languages.
 
 It's a python + django-rest-framework API backend with an AngularJS frontend built using [Angular Material](https://material.angularjs.org/).
 
-Part of [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/129-foodsaving-and-foodsharing).
+This summer it's in the [Rails Girls Summer of Code](https://teams.railsgirlssummerofcode.org/projects/129-foodsaving-and-foodsharing) programme.
 
 **Code**: [github.com/yunity/foodsaving-frontend](https://github.com/yunity/foodsaving-frontend/) and [github.com/yunity/foodsaving-backend](https://github.com/yunity/foodsaving-backend/)
 
 **Get involved**: join _#foodsaving-tool_ channel in [slack](https://slackin.yunity.org/).
 
-## [trustroots.org](https://trustroots.org)
+---
+
+#### [trustroots.org](https://trustroots.org)
 
 Travellers' community for sharing, hosting and getting people together.
 
@@ -83,10 +93,34 @@ A nodejs backend and AngularJS frontend.
 
 **Get involved**: [developers.trustroots.org](http://developers.trustroots.org/)
 
-## Additionally...
+---
+
+#### Additionally...
 
 There will be non-dev workshops and meetings around the idea of sharing to find possibilities of support and start mutual activities, especially foodsharing, permakultur, urban gardening and tempelhof commons.
 
-**Contact**: Philip Engelbutzeder [butze7@gmail.com](mailto:butze7@gmail.com)
+**Contact**: Philip Engelbutzeder [butze-7@web.de](mailto:butze-7@web.de)
+
+---
+
+### Will there be food?
+
+Yes! Saved food will be provided and prepared for free!
+
+Add any preferences on the [attendance sheet](https://docs.google.com/spreadsheets/d/1U4pX26XDpg-p9S8ZRl_k-tibgC57sftnumT3iSA4D1I/edit#gid=0).
+
+### Where will I sleep?
+
+We are organizing accommodation provided by friends and participants in the city.
+
+If you have or need accommodation, please mention it on the [attendance sheet](https://docs.google.com/spreadsheets/d/1U4pX26XDpg-p9S8ZRl_k-tibgC57sftnumT3iSA4D1I/edit#gid=0) - if you are staying somewhere please bring sleeping gear if possible to make it easier for your host.
+
+### Is there a schedule?
+
+No.
+
+Other than our opening session on **Friday at 8pm**, we leave each project to decide how to organise themselves.
+
+There will likely be a closing session, and a cleaning party too, although as yet unplanned.
 
 Hope to see you there!
