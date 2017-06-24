@@ -109,6 +109,17 @@ Yes! Saved food will be provided and prepared for free!
 
 Add any preferences on the [attendance sheet](https://docs.google.com/spreadsheets/d/1U4pX26XDpg-p9S8ZRl_k-tibgC57sftnumT3iSA4D1I/edit#gid=0).
 
+### Will there be drinks?
+
+Yes! Drinks are generously sponsored by [Outlandish](https://outlandish.com):
+
+> The members of Outlandish want to unleash technology’s potential to make the world a fairer, better place. If you want to do that, we want to work with you.
+> Outlandish is made up of around 20 collaborators and co-owners who love humour, quality code, and apps that challenge the status quo.
+
+We can [support co-up](http://co-up.de/support-us.html) by getting the drinks through them, they inform us that:
+
+> We have not only beer, but Club Mate (or MioMio since CM is currently sold out because of summer festivals), Fritz soft drinks, as well as sparkling & still water
+
 ### Where will I sleep?
 
 We are organizing accommodation provided by friends and participants in the city.
