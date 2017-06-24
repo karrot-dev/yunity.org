@@ -10,6 +10,9 @@ metadata:
     'og:description': 'The biweekly summary of what happens inside the yunity network'
 menu: Heartbeat
 menu_description: The heartbeat is a biweekly summary of what happens in yunity
+routes:
+  aliases:
+    - '/blog'
 
 sitemap:
     changefreq: weekly
