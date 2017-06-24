@@ -1,7 +1,11 @@
 ---
+title: yunity
 route: home
 menu_hide: true
 image: "header.jpg"
+metadata:
+  'og:type': 'website'
+  description: 'yunity is a network to promote sharing'
 ---
 
 # yunity

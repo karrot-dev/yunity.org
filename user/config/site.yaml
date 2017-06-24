@@ -3,12 +3,6 @@ description: yunity is a network to promote sharing
 author:
   name: yunity
   email: 'mail@yunity.org'
-metadata:
-    description: 'yunity is a network to promote sharing'
-    'og:title': yunity
-    'og:type': website
-    'og:url': 'https://yunity.org/en'
-    'og:image': 'https://yunity.org/user/themes/twentyfifteen/images/yunity-orange.svg'
 
 # Main Menu
 menu:
