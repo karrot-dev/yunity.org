@@ -53,6 +53,18 @@ Tilmann finally pulled the plug on the old yunity.org website and migrated the e
 
 Matthias, Doug and Laurina are discussing a paragraph of the buying contract which is not 100% clear. We are bound to renovate the building within 5 years, otherwise the current owner has the right to buy it back from us. Matthias is about to get a clarification on what they mean with *renovation*.
 
+## Foodsharing Festival registrations are open
+
+From August 18th to 20th the [foodsharing festival](http://www.foodsharing-festival.org/) will take place in Berlin. Registrations are [open](http://www.foodsharing-festival.org/)!
+
+![](foodsharing_festival.jpg)
+
+## Dargeluetz House Summercamp
+
+In Dargeluetz there will be a Summercamp starting from July 29th. The week before (starting July 22nd) there is a meeting of the Schenkerbewegung and interested people. Whoever is interested in helping to prepare or participating, visit: http://dargeluetz.weebly.com/veranstaltungen.html
+
+If people of the yunity team want to visit before or afterwards feel invited and contact Joachim via Slack (@amazing_joachim)
+
 ---
 
 ## About the heartbeat.
