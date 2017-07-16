@@ -14,6 +14,7 @@ image: 'wupphouse_smallwithpadding.png'
 > Living equality, self-determination and acceptability
 
 ![](dougintheyard.jpg)
+
 ![](wurzenfront.jpg)
 
 * Wiki space: [yunity.atlassian.net/wiki/spaces/WW](https://yunity.atlassian.net/wiki/display/WW/WuppHaus+Wurzen+Home)
