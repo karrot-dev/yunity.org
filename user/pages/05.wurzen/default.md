@@ -19,4 +19,4 @@ image: 'wupphouse_smallwithpadding.png'
 
 * Wiki space: [yunity.atlassian.net/wiki/spaces/WW](https://yunity.atlassian.net/wiki/display/WW/WuppHaus+Wurzen+Home)
 
-![](wurzenstaircase.JPG)
+![](wurzenstaircase.jpg)
