@@ -5,13 +5,13 @@ metadata:
     'og:image': 'https://yunity.org/user/pages/04.foodsharing-dev/fork_smallwithpadding.png'
     description: 'We want to realize our vision of a responsible, sustainable and open way of living'
 menu: Kanthäuser Wurzen
-menu_description: Living equality, self-determination and acceptance
+menu_description: Living equality, self-determination and acceptability
 image: 'wupphouse_smallwithpadding.png'
 ---
 
 # Kanthäuser Wurzen
 
-> Living equality, self-determination and acceptance
+> Living equality, self-determination and acceptability
 
 ![](dougintheyard.jpg)
 ![](wurzenfront.jpg)
