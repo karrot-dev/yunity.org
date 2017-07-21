@@ -15,6 +15,8 @@ We are [Marie & Ines](https://twitter.com/nk42) and we work on Foodsaving backen
 
 The Hackathon was incredebly helpful for that. Tilmann explained the overall code structure and testing while Nick did a lot of code reading with us ("reading together” might sound strange, but it’s actually a great thing!). And then there were all these great people sharing food, cooking, hugging (even if they just know you for about 10 seconds) or working on their own projects. We had a great weekend! Thank you all!!!
 
+![Team NK42 with Nick](/user/pages/01.heartbeat/2017-07-23/DSC02962.JPG)
+
 ### foodsharing.de light
 
 ### foodsaving tool
