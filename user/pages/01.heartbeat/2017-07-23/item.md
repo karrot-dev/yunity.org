@@ -15,11 +15,21 @@ taxonomy:
 
 ### [foodsaving.world](https://foodsaving.world)
 
-We are [Marie & Ines](https://twitter.com/nk42) and we work on Foodsaving backend during our [RailsGirls Summer of Code](https://railsgirlssummerofcode.org/). We started two weeks ago and the first thing we noticed was: we have to learn much more technical stuff (about APIs, Django shell, serializers, base models and at least 42 other things) to become good, productive contributors. And we are going to become that!
+> We are [Marie & Ines](https://twitter.com/nk42) and we work on Foodsaving backend during our [RailsGirls Summer of Code](https://railsgirlssummerofcode.org/). We started two weeks ago and the first thing we noticed was: we have to learn much more technical stuff (about APIs, Django shell, serializers, base models and at least 42 other things) to become good, productive contributors. And we are going to become that!
 
-The Hackathon was incredebly helpful for that. Tilmann explained the overall code structure and testing while Nick did a lot of code reading with us ("reading together” might sound strange, but it’s actually a great thing!). And then there were all these great people sharing food, cooking, hugging (even if they just know you for about 10 seconds) or working on their own projects. We had a great weekend! Thank you all!!!
+> The Hackathon was incredebly helpful for that. Tilmann explained the overall code structure and testing while Nick did a lot of code reading with us ("reading together” might sound strange, but it’s actually a great thing!). And then there were all these great people sharing food, cooking, hugging (even if they just know you for about 10 seconds) or working on their own projects. We had a great weekend! Thank you all!!!
 
 ![Team NK42 with Nick](/user/pages/01.heartbeat/2017-07-23/DSC02962.JPG)
+
+Tilmann worked on a feature that allows members of a group on foodsaving.world to invite other people via e-mail. It should be released by the next heartbeat.
+
+Changes during the last two weeks (also from before the hackathon):
+
+- New pick-up date list design to highlight the pick-up the user signed up for and the ones that are open
+![](fstool-pickuplist.png)
+- Joining a group is now done via a page that lists all groups that the user is not part of, then the user sees the group's info page and an click "join"
+- Design improvements to make the experience on small displays better
+
 
 ### trustroots.org
 
