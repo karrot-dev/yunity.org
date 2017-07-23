@@ -41,7 +41,7 @@ Code changes during the last two weeks (also from before the hackathon):
 _(edited by Tilmann)_
 
 
-### trustroots.org
+### [trustroots.org](http://trustroots.org)
 
 > Our main focus was to work on a mobile app for Trustroots: basically to have something simple to install onto your phone so that we can properly get started with mobile apps and improve on them in future. We experimented with several ways to do this and learned a lot! We are running last tests and expect to publish something for everyone soon.
 >
