@@ -11,7 +11,7 @@ image: 'wupphouse_smallwithpadding.png'
 
 # Kanthäuser Wurzen
 
-> Living equality, self-determination and acceptability
+> Living with equality, self-determination and acceptability
 
 ![](dougintheyard.jpg)
 
