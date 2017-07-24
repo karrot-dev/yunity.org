@@ -67,9 +67,9 @@ _(by Mikael from Trustroots)_
 
 ## Kanthäuser Wurzen
 
-As written in [the last issue](../2017-07-09), we finally bought the houses in Wurzen! The roof is not completely waterproof yet, so immediate measures are taken by some pioneers, who took on the task of climing the roof and applying bitumen.
+As written in [the last issue](../2017-07-09), we finally bought the houses in Wurzen! The roof is not completely waterproof yet, so immediate measures are taken by some pioneers, who took on the task of climbing the roof and applying bitumen.
 
-![](roofrepair.jpg)
+![Doug climbing the roof like a pro](roofrepair.jpg)
 
 The houses are not in a terrible state (compared to Bad Dürrenberg it's a safe haven...), but there's still a lot to do. The pipes and wires need to be checked and probably repaired, the heating doesn't work, the rooms are mostly empty and on top of that we found out, that there's the toxic GDR insecticide Holytox 59 in the wood of the roof.
 
@@ -87,7 +87,11 @@ For more details read the [minutes from the daily meetings](https://yunity.atlas
 
 The artificial wetlands are in the process of being constructed now! The participants are few but energetic and progress is made every day! According to Bodhi the work is a lot of fun and especially riding the excavator definitely is a highlight for many! ^^
 
-Still, more hands are very welcome to safely complete this project before the [undjetzt?! conference](http://www.undjetzt-konferenz.de/) will start. So if you want to come by and help out you'll be greeted by smiles, hugs and thankful faces! Simply contact the [Gemeinschaftsstifter](http://gemeinschaftsstifter.de/kontakt/) for more detailed information.
+![Anna enjoying the excavator](excavator_anna.jpg)
+
+Still, more hands are very welcome to safely complete this project before the [undjetzt?! conference](http://www.undjetzt-konferenz.de/) will start. So if you want to come by and help out you'll be greeted by smiles, hugs and thankful faces! Simply contact the [Gemeinschaftsstifter](http://gemeinschaftsstifter.de/kontakt/) in English or German for more detailed information.
+
+![Join us in Harzgerode!](hz_onbalcony.jpg)
 
 ---
 
