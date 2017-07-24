@@ -73,12 +73,12 @@ As written in [the last issue](../2017-07-09), we finally bought the houses in W
 
 The houses are not in a terrible state (compared to Bad Dürrenberg it's a safe haven...), but there's still a lot to do. The pipes and wires need to be checked and probably repaired, the heating doesn't work, the rooms are mostly empty and on top of that we found out, that there's the toxic GDR insecticide Holytox 59 in the wood of the roof.
 
-On the other hand, we have running water and internet is ordered... ;) We already collected some unused furniture from Leipzig (thanks to ebay Kleinanzeigen's gift feature) and mood and motivation are high!
+On the other hand, we have running water and internet is ordered... ;) We already collected some unused furniture from Leipzig (thanks to ebay Kleinanzeigen's gift feature) and mood and motivation are high! And on top of that we are tackling the _important_ tasks, like finding a [logical room numbering schema](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=92290744) and discussing which platform to use for organizing our tasks (the confluence wiki? Github? The wooden pin board already in use?).
 
 Just to give you a more personal impression of the state of things in Wurzen, this is was Nick wrote in [#wupphouse_wurzen](https://yunity.slack.com/messages/C3RS56Z38/) on [Slack](https://slackin.yunity.org) after being there in the super early days:
 
 > I left Wurzen yesterday and am back in Berlin for a bit now. When I was cycling down I was wondering why I was going there, 2 days cycling for a few days without electricity, etc.. and my skills are not so relevant for construction/roof kind of stuff. And seemed there was a lot of stuff to be doing here in Berlin too.
-> 
+>
 > But after having been there I realise it was totally worth it, it felt exciting to be there, new possiblities, seeing something come from nothing (ok, not nothing, just something less). The resourcefulness of the group amazed me as it usually does with you people - each problem that came up was solved somewhat organically, and almost without any costs we made a little home there.
 
 For more details read the [minutes from the daily meetings](https://yunity.atlassian.net/wiki/display/WW/After+moving+in%3A+Meeting+Minutes), where we try to collect every bit of info with regards to the construction works, the social setup, the general feelings of the participants, our needs, ideas and plans.
