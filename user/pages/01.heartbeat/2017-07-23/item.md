@@ -13,6 +13,10 @@ taxonomy:
 
 From July 14 to 16 we spent two and a half productive days at [coup](http://co-up.de/), ate saved food and worked on our projects. Read more details below!
 
+![Chris at work](DSC02957.JPG)
+
+![Food!](DSC02972.JPG)
+
 ### foodsharing.de light
 
 We (mostly Matthias, with a bit of consulting by Tilmann and Nick) rebuilt foodsharing-api backend on the hackathon and are now using Django REST Framework (Python), same as foodsaving.world. By this, it is easier for us to collaborate more with foodsaving.world.
@@ -27,11 +31,11 @@ _(edited by Tilmann)_
 >
 > The Hackathon was incredibly helpful for that. Tilmann explained the overall code structure and testing while Nick did a lot of code reading with us ("reading together” might sound strange, but it’s actually a great thing!). And then there were all these great people sharing food, cooking, hugging (even if they just know you for about 10 seconds) or working on their own projects. We had a great weekend! Thank you all!!!
 
-![Team NK42 with Nick](/user/pages/01.heartbeat/2017-07-23/DSC02962.JPG)
+![Team NK42 with Nick](DSC02962.JPG)
 
 We had discussions about the backend database model, the relationship to foodsharing.de and foodsharing.de light, upcoming features and how we figure out what features we want to have at all.
 
-Tilmann worked on a feature that allows members of a group on foodsaving.world to invite other people via e-mail. It should be released by the next heartbeat.
+Tilmann worked on a feature that allows members of a group on foodsaving.world to invite other people via email. It should be released by the next heartbeat.
 
 Code changes during the last two weeks (also from before the hackathon):
 
@@ -57,6 +61,7 @@ _(by Mikael from Trustroots)_
 
 ## News from foodsaving groups
 
+- Bruno from Gothenburg visited Berlin! He, his girlfriend Madde and Laurina spent a nice evening at Janina's place, where some BBQ, lots of talking and serious networking took place! ;) Before that Janina took the two Swedes to a typical pick-up at a small bakery in a metro station. Madde took some pictures and said to write something about this experience. We're looking forward to reading that! :)
 - We got an email from Ecuador! Chalo says there is big interest in starting a foodsaving group, and that he'd love to build on our experiences to do so. Funnily enough, while doing foodsharing on the Feel festival Tilmann and Janina discovered that Fausto - a foodsaver from Munich, who has Ecuadorian roots - is friends with Chalo and already plans going back to South America in the near future. This connection will definitely help us strengthening the bond to the Ecuadorian foodsaving community!
 - Another mail reached us, this time from Colombia! Daniela also thinks that saving food is a great idea and she was mainly looking for agruments and tips on how to convince store owners to cooperate. We linked her to the guide we wrote about [how to build and maintein cooperations with stores](https://yunity.atlassian.net/wiki/display/FSINT/How+to+build+and+maintain+cooperations+with+stores) and encouraged Chalo to also get in contact, since Ecuador and Colombia are neighboring countried and their circumstances and challenges could be similar. Apart from that networking is _always_ good... ;)
 
@@ -70,8 +75,26 @@ The houses are not in a terrible state (compared to Bad Dürrenberg it's a safe 
 
 On the other hand, we have running water and internet is ordered... ;) We already collected some unused furniture from Leipzig (thanks to ebay Kleinanzeigen's gift feature) and mood and motivation are high!
 
-For more details read the [minutes from the daily meetings](https://yunity.atlassian.net/wiki/display/WW/After+moving+in%3A+Meeting+Minutes), where we collect every bit of info with regards to the construction works, the social setup, the general feelings of the participants, our needs, ideas and plans.
+For more details read the [minutes from the daily meetings](https://yunity.atlassian.net/wiki/display/WW/After+moving+in%3A+Meeting+Minutes), where we try to collect every bit of info with regards to the construction works, the social setup, the general feelings of the participants, our needs, ideas and plans.
 
 ## Work camp in Harzgerode
 
-## Summer camp in Dargelütz
+The artificial wetlands are in the process of being constructed now! The participants are few but energetic and progress is made every day! According to Bodhi the work is a lot of fun and especially riding the excavator definitely is a highlight for many! ^^
+
+Still, more hands are very welcome to safely complete this project before the [undjetzt?! conference](http://www.undjetzt-konferenz.de/) will start. So if you want to come by and help out you'll be greeted by smiles, hugs and thankful faces! Simply contact the [Gemeinschaftsstifter](http://gemeinschaftsstifter.de/kontakt/) for more detailed information.
+
+---
+
+## About the heartbeat.
+
+The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### When and how does it happen?
+
+Every other weekend we collect information on a wiki page and publish it on Sunday or the following Monday as a wiki blog article.
+
+Afterwards we add a nice abstract and share it on [facebook](https://www.facebook.com/yunity.org/).
+
+### How to contribute?
+
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) about the content, the layout or any other heartbeat related issues and ideas!
