@@ -14,3 +14,7 @@ Since we want to play an active role in the city of Wurzen it is of utmost impor
 This is the invitation we distribute prior to the event:
 
 ![](wurzen_kaffekuchen.png)
+
+And we hope we'll be able to offer some cake as nice as this one... ;)
+
+![](cake.jpg)
