@@ -29,6 +29,8 @@ Dave, Nick, Ana, Ines, Marie, and Daniel were at Soundcloud for a retrospective 
 
 ![](rgsoc-retro-group.jpg?resize=800)
 
+![](rgsoc-retro-board.jpg?resize=800)
+
 There was a lot of consensus on the speed at which Ines and Marie are progressing:
 
 ![](rgsoc-retro-progress.jpg?resize=800)
