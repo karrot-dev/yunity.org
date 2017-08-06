@@ -9,13 +9,30 @@ taxonomy:
 
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
-## [foodsharing.de](https://foodsharing.de)
+## [foodsharing.de light](https://foodsharing.de)
+
+We merged the first contributions from a new contributor, a skilled programmer called [Jannis](https://github.com/derhuerst/), who joined us at the hackathon. He's [improved the metadata](https://github.com/foodsharing-dev/foodsharing-light/commits?author=derhuerst) of the site.
+
+He also started work on solving some tricky issues on the nodejs chat server which the existing and light versions of the site both need to conncet to - this is the last remaining issue before we can publish the light version of the site further!
+
+Tilmann is working on improving the display of chat messages when the content gets too wide, and ensuring we are correctly escaping and autolinking the content.
+
+Martin [continues to work](https://github.com/foodsharing-dev/foodsharing-light/commits/quasar-beta) on upgrading us to the latest version of Quasar, thanks!
 
 ## [foodsaving.world](https://foodsaving.world)
 
 Ines and Marie from RGSoC are [working to finalize](https://github.com/yunity/foodsaving-backend/issues/253#issuecomment-318612543) the [pick-up feedback feature](https://github.com/yunity/foodsaving-frontend/issues/159) on the back-end, while Lars already created [an user interface draft](https://github.com/yunity/foodsaving-frontend/pull/581).
 
 ![](https://user-images.githubusercontent.com/16825880/28800453-f57d0428-764c-11e7-8923-2c1a1affd7f0.png)
+
+Dave, Nick, Ana, Ines, Marie, and Daniel were at Soundcloud for a retrospective of the last month:
+
+![](rgsoc-retro-group.jpg?resize=800)
+
+There was a lot of consensus on the speed at which Ines and Marie are progressing:
+
+![](rgsoc-retro-progress.jpg?resize=800)
+
 
 In an activity surge, Nick made much progress on [his back-end implementation](https://github.com/yunity/foodsaving-backend/pull/333) of the _Conversations_ feature, awaiting review now. Whilst working on that, he also had the idea to improve the test infrastructure, namely [watching files for changes and running only affected test](https://github.com/yunity/foodsaving-backend/pull/334). All that to boost our test coverage further up, even it's [already on 98%](https://codecov.io/gh/yunity/foodsaving-backend)!
 
