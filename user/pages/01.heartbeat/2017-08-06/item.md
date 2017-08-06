@@ -48,7 +48,7 @@ An [article about Foodsharing Maastricht](https://foodsaving.today/en/blog/2017/
 
 The buildings on Kantstraße go steadily forward... There are some holes in the old bitumen roof which were not sealed with one coat of bitumen paint, another layer will be added when the necessary equipment is in place. 
 
-A first event was held to meet the neighbors over cake and coffee and although not many came it was nice and/or informative to meet up. Connections were also made to local initiatives such as [Mehr Generationen Haus](https://www.mehrgenerationenhaeuser.de/), [Netzwerk für Demokratische Kultur](http://www.ndk-wurzen.de/), local Kleingärten (allotments) and another local housing project. 
+A first event was held to meet the neighbors over cake and coffee and although not many came it was nice and/or informative to meet up. Connections were also made to local initiatives such as [Mehr Generationen Haus](http://www.zuversichtverein.de/), [Netzwerk für Demokratische Kultur](http://www.ndk-wurzen.de/), local Kleingärten (allotments) and another local housing project. 
 
 Janina, Laurina, Doug and Matthias formally associated a project group in order to coordinate without having a boss or privatizing the resource, documents in public soon. There are 5 new house plants and people seem pretty happy.
 
