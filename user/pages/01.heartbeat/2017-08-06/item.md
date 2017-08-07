@@ -88,7 +88,40 @@ The _undjetzt?! Konferenz_ will run form the 18th - 25th August, and already peo
 
 In September, the hosts of the UJ conference will offer Founding Weekends to found the future community that build up a coop held ecovillage. They are looking for ambitious and responsible people who would like to settle there and start great projects around healthy and sustainable way of life, renewable energies, permaculture, electric mobility in rural areas. It will be a place for young and old people, couples and families. In middle term there will be a school, kindergarten, a mall for the wohle bunch of community made products and many more.
 
----
+### News from Dargeluetz
+
+We had a very productive and a very stressful July. Productive because we now have the brickpress from Austria here and an additional person, Wolfgang, joined the community last month who is super helpful.
+
+Stressful because there is a lot of work to do but only few of the people that lived here longterm for now are capable and willing to do work.
+The people that have lived here over the last 2 years have let the buildings rot away and did not manage to keep the place in a clean state or even keep a proper communication towards the heads of the organization.
+Instead it was a dominant mentality of “ignorance is bliss” which ruled here and got clearer to me observing the people here over the past months.
+That leads to the next issue. At the moment I am clarifying as project leader who actually wants to stay in the project to contribute and who might want to check out either other projects or just find themselves a standard flat.
+
+Since I am addressing this issue in my well known sensitive manner :-P i got a lot of emotional resistance from most of the longterm inhabitants, which was quite annoying. 
+
+But now that the heads of the organization are informed and involved in the communication process things start to clear up and the actual community building process can start(yay!)
+
+Which brings me to:
+A building week/workshop is in the planning for end of September. There we will build a clay dome and a Biomeiler!
+The Biomeiler combines heating, gasproduction and composting in one system. We will also build a showerloop and a wall heating with that.
+Event will soon apear on the webpage.
+http://dargeluetz.weebly.com/veranstaltungen.html
+If your german sucks contact me directly by the email address below.
+
+And we are recruiting new members! So if you are interested in actively supporting a highly idealistic project to build a commons based economy come join us :-)
+Contact me via:  joachimthome69@gmail.com  
+
+Near us , in Blievenstorf, another project of a friend is finally in a state to be restarted. After he had three years of being blocked by his relatives the open eco lab Blievenstorf will now steadily move towards hosting open source hardware projects.
+We are in contact and will see what kind of machines we want to build together in the upcoming years.
+https://blog.opensourceecology.de/de/2015/02/ose-germany-technologie-basisstation-blievenstorf/
+
+I also want to invite all yuniteers to come by to hang out here in the north.
+Programming will also soon be possible in larger groups. We are working on a communal sleeping and a communal office room.
+
+Be up to date via the blog:
+http://dargeluetz.weebly.com/blog
+And see you soon :-)
+
 
 ## About the heartbeat.
 
