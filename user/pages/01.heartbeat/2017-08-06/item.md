@@ -78,13 +78,13 @@ Janina, Laurina, Doug and Matthias formally associated a project group in order 
 
 Harzgerode has been a hive of activity these past weeks, and this shows no sign of slowing down.
 
-## Work Camp
+### Work Camp
 The Work Camp was a roaring success. A team of yuniteers, volunteers, engineers, and people with dirty ears came together with shovels and spades, and built what will now be the community’s own in-house water treatment basin.
 
-## [undjetzt?! Konferenz](http://www.undjetzt-konferenz.de/)
+### [undjetzt?! Konferenz](http://www.undjetzt-konferenz.de/)
 The _undjetzt?! Konferenz_ will run form the 18th - 25th August, and already people have begun to descend on the grounds of former Heilstätte Harzgerode. Preparation for the festivities are well underway decorating the stages, building the venues, and stockpiling the food that are going to help make this event in the green German heart of the Harz mountains a golden pilgrimage. The team have an ambitious list of things they would like to have in place before the conference begins, so do feel welcome to head to Harzgerode early. Helping hands are always appreciated.
 
-## Invitation to found an ecovillage coop
+### Invitation to found an ecovillage coop
 
 In September, the hosts of the UJ conference will offer Founding Weekends to found the future community that build up a coop held ecovillage. They are looking for ambitious and responsible people who would like to settle there and start great projects around healthy and sustainable way of life, renewable energies, permaculture, electric mobility in rural areas. It will be a place for young and old people, couples and families. In middle term there will be a school, kindergarten, a mall for the wohle bunch of community made products and many more.
 
