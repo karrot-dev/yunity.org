@@ -106,7 +106,7 @@ _Joachim reports from [Schenker Dargeluetz](http://dargeluetz.weebly.com/):_
 > We had a very productive and a very stressful July. Productive because we now have the brickpress from Austria here and an additional person, Wolfgang, joined the community last month who is super helpful.
 >
 > Stressful because there is a lot of work to do but only few of the people that lived here longterm for now are capable and willing to do work.
-> The people that have lived here over the last 2 years have let the buildings rot away and did not manage to keep the place in a > clean state or even keep a proper communication towards the heads of the organization.
+> The people that have lived here over the last 2 years have let the buildings rot away and did not manage to keep the place in a clean state or even keep a proper communication towards the heads of the organization.
 > Instead it was a dominant mentality of “ignorance is bliss” which ruled here and got clearer to me observing the people here over the past months.
 > That leads to the next issue. At the moment I am clarifying as project leader who actually wants to stay in the project to contribute and who might want to check out either other projects or just find themselves a standard flat.
 >
