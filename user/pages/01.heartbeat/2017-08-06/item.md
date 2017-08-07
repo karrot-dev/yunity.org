@@ -23,7 +23,7 @@ _(by Nick)_
 
 ## [foodsaving.world](https://foodsaving.world)
 
-Ines and Marie from RGSoC are [working to finalize](https://github.com/yunity/foodsaving-backend/issues/253#issuecomment-318612543) the [pick-up feedback feature](https://github.com/yunity/foodsaving-frontend/issues/159) on the back-end, while Lars already created [an user interface draft](https://github.com/yunity/foodsaving-frontend/pull/581).
+Ines and Marie from RGSoC are [working to finalize](https://github.com/yunity/foodsaving-backend/issues/253#issuecomment-318612543) the [pick-up feedback feature](https://github.com/yunity/foodsaving-frontend/issues/159) on the back-end, while Lars already created [a user interface draft](https://github.com/yunity/foodsaving-frontend/pull/581).
 
 ![](https://user-images.githubusercontent.com/16825880/28800453-f57d0428-764c-11e7-8923-2c1a1affd7f0.png)
 
@@ -38,7 +38,7 @@ There was a lot of consensus on the speed at which Ines and Marie are progressin
 ![](rgsoc-retro-progress.jpg?resize=800)
 
 
-In an activity surge, Nick made much progress on [his back-end implementation](https://github.com/yunity/foodsaving-backend/pull/333) of the _Conversations_ feature, awaiting review now. Whilst working on that, he also had the idea to improve the test infrastructure, namely [watching files for changes and running only affected test](https://github.com/yunity/foodsaving-backend/pull/334). All that to boost our test coverage further up, even it's [already on 98%](https://codecov.io/gh/yunity/foodsaving-backend)!
+In an activity surge, Nick made much progress on [his back-end implementation](https://github.com/yunity/foodsaving-backend/pull/333) of the _Conversations_ feature, awaiting review now. Whilst working on that, he also had the idea to improve the test infrastructure, namely [watching files for changes and running only affected test](https://github.com/yunity/foodsaving-backend/pull/334). All that to boost our test coverage further up, even it's [already at 98%](https://codecov.io/gh/yunity/foodsaving-backend)!
 
 ### Further changes and improvements
 
@@ -52,7 +52,7 @@ In an activity surge, Nick made much progress on [his back-end implementation](h
 - "Home" button added to all pages that links to the landing page
 - Store list gets now sorted by name
 - Bug fix: store map was sometimes not visible when the store didn't have an address
-- Refresh data from the server when clicking on stores and the group. If two users were modifying data, it could lead to outdated values before. 
+- Refresh data from the server when clicking on stores and the group. If two users were modifying data, it could lead to outdated values before.
 - Fix "blank page" bug when user is logged out or URL is invalid. It redirects to the login page now.
 - The backend development setup should be easier now thanks to [the Dockerfile](https://github.com/yunity/foodsaving-backend/pull/331) created by Ines, Marie and their coaches.
 - `Django-channels` for doing _websockets_ were added in preparation of the _Conversations_ feature
@@ -73,7 +73,7 @@ The buildings on Kantstraße go steadily forward... There are some holes in the 
 
 ![](wurzen-sun.jpg?resize=500)
 
-A first event was held to meet the neighbors over cake and coffee and although not many came it was nice and/or informative to meet up. Connections were also made to local initiatives such as [Mehr Generationen Haus](http://www.zuversichtverein.de/), [Netzwerk für Demokratische Kultur](http://www.ndk-wurzen.de/), local Kleingärten (allotments) and another local housing project. 
+A first event was held to meet the neighbors over cake and coffee and although not many came it was nice and/or informative to meet up. Connections were also made to local initiatives such as [Mehr Generationen Haus](http://www.zuversichtverein.de/), [Netzwerk für Demokratische Kultur](http://www.ndk-wurzen.de/), local Kleingärten (allotments) and another local housing project.
 
 Janina, Laurina, Doug and Matthias formally associated a project group in order to coordinate without having a boss or privatizing the resource, documents in public soon. There are 5 new house plants and people seem pretty happy.
 
@@ -89,13 +89,13 @@ Harzgerode has been a hive of activity these past weeks, and this shows no sign 
 The Work Camp was a roaring success. A team of yuniteers, volunteers, engineers, and people with dirty ears came together with shovels and spades, and built what will now be the community’s own in-house water treatment basin.
 
 ### [undjetzt?! Konferenz](http://www.undjetzt-konferenz.de/)
-The _undjetzt?! Konferenz_ will run form the 18th - 25th August, and already people have begun to descend on the grounds of former Heilstätte Harzgerode. Preparation for the festivities are well underway decorating the stages, building the venues, and stockpiling the food that are going to help make this event in the green German heart of the Harz mountains a golden pilgrimage. The team have an ambitious list of things they would like to have in place before the conference begins, so do feel welcome to head to Harzgerode early. Helping hands are always appreciated.
+The _undjetzt?! Konferenz_ will run from the 18th - 25th August, and already people have begun to descend on the grounds of former Heilstätte Harzgerode. Preparation for the festivities are well underway decorating the stages, building the venues, and stockpiling the food that are going to help make this event in the green German heart of the Harz mountains a golden pilgrimage. The team have an ambitious list of things they would like to have in place before the conference begins, so do feel welcome to head to Harzgerode early. Helping hands are always appreciated.
 
 _(by Adam)_
 
 ### Invitation to found an ecovillage coop
 
-In September, the hosts of the UJ conference will offer Founding Weekends to found the future community that build up a coop held ecovillage. They are looking for ambitious and responsible people who would like to settle there and start great projects around healthy and sustainable way of life, renewable energies, permaculture, electric mobility in rural areas. It will be a place for young and old people, couples and families. In middle term there will be a school, kindergarten, a mall for the wohle bunch of community made products and many more.
+In September, the hosts of the UJ conference will offer Founding Weekends to found the future community that build up a coop held ecovillage. They are looking for ambitious and responsible people who would like to settle there and start great projects around healthy and sustainable ways of living, renewable energies, permaculture, electric mobility in rural areas. It will be a place for young and old people, couples and families. In middle term there will be a school, kindergarten, a mall for the wohle bunch of community made products and much more.
 
 _(by Bernd)_
 
@@ -104,16 +104,16 @@ _(by Bernd)_
 _Joachim reports from [Schenker Dargeluetz](http://dargeluetz.weebly.com/):_
 
 > We had a very productive and a very stressful July. Productive because we now have the brickpress from Austria here and an additional person, Wolfgang, joined the community last month who is super helpful.
-> 
+>
 > Stressful because there is a lot of work to do but only few of the people that lived here longterm for now are capable and willing to do work.
 > The people that have lived here over the last 2 years have let the buildings rot away and did not manage to keep the place in a > clean state or even keep a proper communication towards the heads of the organization.
 > Instead it was a dominant mentality of “ignorance is bliss” which ruled here and got clearer to me observing the people here over the past months.
 > That leads to the next issue. At the moment I am clarifying as project leader who actually wants to stay in the project to contribute and who might want to check out either other projects or just find themselves a standard flat.
 >
-> Since I am addressing this issue in my well known sensitive manner :-P I got a lot of emotional resistance from most of the longterm inhabitants, which was quite annoying. 
-> 
+> Since I am addressing this issue in my well known sensitive manner :-P I got a lot of emotional resistance from most of the longterm inhabitants, which was quite annoying.
+>
 > But now that the heads of the organization are informed and involved in the communication process things start to clear up and the actual community building process can start(yay!)
-> 
+>
 > Which brings me to:
 > A building week/workshop is in the planning for end of September. There we will build a clay dome and a Biomeiler!
 > The Biomeiler combines heating, gasproduction and composting in one system. We will also build a showerloop and a wall heating with that.
