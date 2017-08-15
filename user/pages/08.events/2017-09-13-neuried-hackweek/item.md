@@ -36,18 +36,18 @@ Some considerations on how life will be during that week.
 
 ### ... sleep?
 
-- Would you mind to sleep in the same room with others? That will mean people coming in late at night or talking together in the morning.
+- Would you mind sleeping in the same room with others? That will mean people coming in late at night and/or talking together in the morning.
 - Are you comfortable with sleeping in a tent? That's usually the best way to have a really quiet time.
 
 ### ... get along with neighbors and parents?
 
 - Are you willing stop others from talking loudly outside late at night (i.e. after midnight)?
-- Are you aware when others are bothered by rooms or places being dirty or unorderly?
+- Are you aware of others being bothered by rooms or places that are dirty or unorderly?
 
 
 ### ... get there?
 
-The place is pretty much in the middle of nowhere, so it might be a challenge to get there without own car.
+The place is pretty much in the middle of nowhere, so it might be a challenge to get there without an own car.
 
 **By train/bus**: From Munich, there is some public transport to get here. Use the travel planner http://efa.mvv-muenchen.de with these destinations, sorted by distance to goal:
 
@@ -58,8 +58,9 @@ The place is pretty much in the middle of nowhere, so it might be a challenge to
 
 **By Hitchhiking**: from A9, get off in Allershausen and then to Neuried.
 From A8, get off in Odelzhausen, to Markt Indersdorf, then to Neuried.
+But be aware of the fact that Neuried is so tiny that maybe even the locals might not know it. So be sure to know where you want to go!
 
-For those coming with their car, there are roughly three parking lots for visitors
+For those coming with their car, there are roughly three parking lots for visitors.
 
 
 ## I want to participate!
