@@ -16,5 +16,3 @@ This is the invitation we distribute prior to the event:
 ![](wurzen_kaffekuchen.png)
 
 And we hope we'll be able to offer some cake as nice as this one... ;)
-
-![](cake.jpg)
