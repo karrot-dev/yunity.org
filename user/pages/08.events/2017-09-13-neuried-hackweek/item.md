@@ -25,6 +25,8 @@ If you have another idea what you would like to do with us, please get in contac
 
 The **Foodsaving worldwide summer camp & hackweek** will take place from _2017-09-13 to 2017-09-20_ in [_Neuried, Markt Indersdorf_](https://goo.gl/maps/Wn8j7sND18J2)
 
+![](garden1.jpg)
+
 ## So how will we...
 
 Some considerations on how life will be during that week.
