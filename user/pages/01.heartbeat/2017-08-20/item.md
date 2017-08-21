@@ -12,20 +12,35 @@ taxonomy:
 ## [foodsaving.world](https://foodsaving.world)
 
 We won the [Taiwanese g0v grant](https://grants.g0v.tw/)!
+
 Specifically the 2017 Autumn g0v Civic Tech Prototype Grant, which will support the necessary steps for foodsharing Taiwan to really start using the foodsaving tool. Thanks to Stefan, who wrote a [long and detailed application](https://goo.gl/DykQfV), where he explained the need for foodsaving and the advantages of having a platform to do so, we will now receive 500.000 TWD. After taxes (which will be huge since Stefan is a foreigner) we will use the money to finance local things for Taiwan first of course, like printing flyers and paying travel costs for meetings and presentations. What's left afterwards will be distributed between the active contributors to the foodsaving tool using a time tracking system.
-For more info visit our new wiki page concerning [funding and sponsoring](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/92879471/Funding+Sponsorships)
+
+For more info visit our new wiki page concerning [funding and sponsoring](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/92879471/Funding+Sponsorships).
 
 ![](g0vcivictechprototypegrant.png)
 
 The rails girls make progress!
+
 Marie and Ines still spend every day learning about code using our precious foodsaving tool as example. They post daily logs to their RGSoC team page, so [check it out](https://teams.railsgirlssummerofcode.org/teams/632) for more details!
 
 _(by Janina)_
 
 ## foodsharing festival
 
-Report from the delegate's meeting
-(tbw)
+From August 18th to 20th the big annual foodsharing festival took place in Berlin!
+
+Before the event officially began, there was already the newfound delegate's meeting on Friday. Janina took part on behalf of international groups and found the day to be surprisingly productive:
+* approx. 30 delegates from cities all over Germany, as well as some from Austria and Switzerland came together to discuss hot foodsharing topics
+* we were supported by a professional moderator, who made sure we didn't get lost in too specific talks and concentrated more on collecting topics for the whole community to further work on
+* in the end we identified the most pressing issues and even found people being willing to take responsibility to further pursue them
+
+![](delegates.jpg)
+
+The hottest topic definitely was the uncertainty and fear the restructuration of foodsharing.de's organizational setup brought with it. Should every local group register an association now? If not, what actually happens? What are the benefits and disadvantages of either way? Can't we just carry on like we did before..? Questions like these show the turmoil foodsharing.de as a whole is in at the moment and - of course - we couldn't completely answer them. There are different opinions and lines of reasoning and the process of the restructuration just started. But that it _did_ start is undeniable.
+
+Other, more concrete topics were the lack of communication between the cities and regions, the outdated wiki, the ambiguous quiz, the fact that foodsharing.de still is only available in German and - last but definitely not least - the problems with the online platform itself.
+
+But as I said before, people signed up to tackle these things, solutions are being discussed and refined and there is momentum again in the supraregional organization of foodsharing.de
 
 ## Wurzen
 
