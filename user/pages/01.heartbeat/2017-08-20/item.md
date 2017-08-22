@@ -42,6 +42,8 @@ Other, more concrete topics were the lack of communication between the cities an
 
 But as I said before, people signed up to tackle these things, solutions are being discussed and refined and there is momentum again in the supraregional organization of foodsharing.de
 
+_(by Janina)_
+
 ## Wurzen
 
 We had our forst decsion making process and using score voting we finally chose a name for the project: Kanthaus will be the official name from now on (maybe not too surprising, because it has been the inofficial one all along... ;))
@@ -49,6 +51,8 @@ We had our forst decsion making process and using score voting we finally chose 
 Apart from that Laurina applied for a first funding, is still researching more opportunities and got in contact with the mayor's office! On September 5th there will be an official meeting with the mayor of Wurzen, we're very excited!
 
 Matthias finally found an electrician, who is not busy until November, and on August 22nd electricity in the Kanthaus will be activated, yay!
+
+_(by Janina)_
 
 ---
 
