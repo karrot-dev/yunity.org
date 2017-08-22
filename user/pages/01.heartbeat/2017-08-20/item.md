@@ -1,6 +1,6 @@
 ---
-title: "yunity heartbeat 2017-08-06"
-date: "2017-08-06"
+title: "yunity heartbeat 2017-08-20"
+date: "2017-08-20"
 continue_link: true
 taxonomy:
     category: blog
@@ -46,7 +46,7 @@ _(by Janina)_
 
 ## Wurzen
 
-We had our forst decsion making process and using score voting we finally chose a name for the project: Kanthaus will be the official name from now on (maybe not too surprising, because it has been the inofficial one all along... ;))
+We had our first decsion making process and using score voting we finally chose a name for the project: Kanthaus will be the official name from now on (maybe not too surprising, because it has been the inofficial one all along... ;))
 
 Apart from that Laurina applied for a first funding, is still researching more opportunities and got in contact with the mayor's office! On September 5th there will be an official meeting with the mayor of Wurzen, we're very excited!
 
