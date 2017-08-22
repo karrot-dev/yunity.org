@@ -1,21 +1,28 @@
 ---
 title: "Foodsaving worldwide summer camp & hackweek"
-date: "2017-09-13"
+date: "2017-08-22"
 continue_link: false
 taxonomy:
     category: events
 published: true
 ---
 
-To further fuel the progress on [foodsaving.world](https://foodsaving.world) and the foodsaving worldwide network, Tilmann invites coders and foodsaving activists to a lovely place in the Bavarian countryside.
+Our last [hackathon in July](../2017-06-14-hackathon) was enjoyed by everyone. You can read a retrospective about it in [this heartbeat](/heartbeat/2017-07-23).
+
+To further fuel progress on [foodsaving.world](https://foodsaving.world) and the foodsaving worldwide network, we plan a summer camp & hackweek in the mid of September.
 
 ## Why?
 
-We will
+Set up a temporary productive working environment for coders and foodsaving activists in a lovely place in Bavarian countryside.
+
+We will:
 
 - improve existing functionality on foodsaving.world
-- think about and plan new features
-- discuss ways to increase the foodsaving network together with foodsharing.de
+- plan new features
+- discuss ways to increase the foodsaving worldwide network together with foodsharing.de
+- improve communication inside and outside of the foodsaving.world team
+
+If you want to know more about foodsaving.world and foodsaving worldwide, this [wiki overview article](https://yunity.atlassian.net/wiki/spaces/FSINT/overview) and [this recent blog post](https://blog.foodsaving.world/2017/08/13/some-answers.html) might be helpful.
 
 Besides that, expect to have a great time in beautiful nature together with lovely people!
 
@@ -23,13 +30,18 @@ If you have another idea what you would like to do with us, please get in contac
 
 ## When and where?
 
-The **Foodsaving worldwide summer camp & hackweek** will take place from _2017-09-13 to 2017-09-20_ in [_Neuried, Markt Indersdorf_](https://goo.gl/maps/Wn8j7sND18J2)
+The **Foodsaving worldwide summer camp & hackweek** will take place from _2017-09-13 to 2017-09-24_ in [_Neuried, Markt Indersdorf_](https://goo.gl/maps/Wn8j7sND18J2)
 
 ![](garden1.jpg)
 
+## What is the schedule?
+
+There is no fixed schedule, but expect a focused work period for 6 hours per day (except for the first and the last day).
+
+
 ## So how will we...
 
-Some considerations on how life will be during that week.
+Some thoughts on how life will be during that week. Some of it might only be relevant if we will be a lot of people though.
 
 ### ... eat?
 
@@ -38,7 +50,7 @@ Some considerations on how life will be during that week.
 
 ### ... sleep?
 
-- Would you mind sleeping in the same room with others? That will mean people coming in late at night and/or talking together in the morning.
+- Would you mind sleeping in the same room with others? That might mean people coming in late at night and/or talking together in the morning.
 - Are you comfortable with sleeping in a tent? That's usually the best way to have a really quiet time.
 
 ### ... get along with neighbors and parents?
@@ -49,14 +61,14 @@ Some considerations on how life will be during that week.
 
 ### ... get there?
 
-The place is pretty much in the middle of nowhere, so it might be a challenge to get there without an own car.
+[The place](https://goo.gl/maps/Wn8j7sND18J2) is pretty much in the middle of nowhere, so it might be a challenge to get there without an own car.
 
 **By train/bus**: From Munich, there is some public transport to get here. Use the travel planner http://efa.mvv-muenchen.de with these destinations, sorted by distance to goal:
 
-    Neuried (Indersdorf), Neuried
-    Ainhofen (Obb), Ainhofen
-    Lanzenried (Kr DAH), Lanzenried
-    Hilgertshausen, Post
+- Neuried (Indersdorf), Neuried
+- Ainhofen (Obb), Ainhofen
+- Lanzenried (Kr DAH), Lanzenried
+- Hilgertshausen, Post
 
 **By Hitchhiking**: from A9, get off in Allershausen and then to Neuried.
 From A8, get off in Odelzhausen, to Markt Indersdorf, then to Neuried.
@@ -67,4 +79,4 @@ For those coming with their car, there are roughly three parking lots for visito
 
 ## I want to participate!
 
-If you are interested, please send a mail to [Tilmann Becker](mailto:tilmann.becker@gmail.com) or directly join the #hackweek channel on [yunity Slack](https://slackin.yunity.org)
+If you are interested, please send a mail to [Tilmann](mailto:tilmann.becker@gmail.com) or directly join the #hackweek channel on [yunity Slack](https://slackin.yunity.org). Inside the channel, you will find an attendance sheet where you can enter yourself.
