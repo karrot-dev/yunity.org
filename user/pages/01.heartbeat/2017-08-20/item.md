@@ -11,9 +11,9 @@ taxonomy:
 
 ## [foodsaving.world](https://foodsaving.world)
 
-We won the [Taiwanese g0v grant](https://grants.g0v.tw/)!
+Foodsharing Taiwan won the [g0v grant](https://grants.g0v.tw/) and will use the money that they'll receive partially to support foodsaving.world development!
 
-Specifically the 2017 Autumn g0v Civic Tech Prototype Grant, which will support the necessary steps for foodsharing Taiwan to really start using the foodsaving tool. Thanks to Stefan, who wrote a [long and detailed application](https://goo.gl/DykQfV), where he explained the need for foodsaving and the advantages of having a platform to do so, we will now receive 500.000 TWD. After taxes (which will be huge since Stefan is a foreigner) we will use the money to finance local things for Taiwan first of course, like printing flyers and paying travel costs for meetings and presentations. What's left afterwards will be distributed between the active contributors to the foodsaving tool using a time tracking system.
+It is the 2017 Autumn g0v Civic Tech Prototype Grant pecifically, which will support the necessary steps for foodsharing Taiwan to really start using the foodsaving tool. Thanks to Stefan, who wrote a [long and detailed application](https://goo.gl/DykQfV), where he explained the need for foodsaving and the advantages of having a platform to do so, foodsharing Taiwan will now receive 500.000 TWD. After taxes (which will be huge since Stefan is a foreigner) the money will be used to finance local things for Taiwan first of course, like printing flyers and paying travel costs for meetings and presentations. What's left afterwards will be distributed between active contributors to the foodsaving tool using a time tracking system.
 
 For more info visit our new wiki page concerning [funding and sponsoring](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/92879471/Funding+Sponsorships).
 
