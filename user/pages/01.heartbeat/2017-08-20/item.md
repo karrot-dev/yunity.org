@@ -50,7 +50,7 @@ We had our first decsion making process and using score voting we finally chose 
 
 Apart from that Laurina wrote a first application for funding, is still researching more opportunities and got in contact with the mayor's office. On September 5th there will be an official meeting with the mayor of Wurzen, we're very excited!
 
-Matthias finally found an electrician, who is not busy until November, and on August 22nd electricity in the Kanthaus will be activated, yay!
+At last, Matthias found an electrician, who is not busy until November, and on August 22nd we have an appointment. This means that we are finally on our way towards a standard electrical connection in the Kanthaus.
 
 _(by Janina)_
 
