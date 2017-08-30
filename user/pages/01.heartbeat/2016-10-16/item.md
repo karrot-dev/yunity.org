@@ -10,8 +10,6 @@ published: true
 
 The yunity heartbeat - what people in yunity have done, what they are doing and what they need help with.
 
-* * *
-
 ### Hackathon
 
 ![](2016-10-16/IMAG2966.jpg)
@@ -31,9 +29,9 @@ On 2016-10-07, [Robert Lipp](https://yunity.atlassian.net/wiki/display/~Diogenes
 A recent development within yunity: we are starting again with the development of foodsharing.de.
 
 > Foodsharing was originally written almost exclusively by the lovely Raphael Wintrich. He put the best part of two years of hard work and dedication into building the site. Most people would run out of motivation before completing it. [...]
-> 
+>
 > There are probably many theories why development has slowed, the only one that makes sense to me is that _this stuff is hard_ , over time I hope to learn exactly why. For now the task is breathe life into the development again.
-> 
+>
 > ~ [Nick Sellen](https://yunity.atlassian.net/wiki/display/~nicksellen) on [the first post of the new foodsharing devblog](https://devblog.foodsharing.de/2016/10/10/introducing.html)
 
 During the hackathon, we had a meeting on [upcoming and long-term tasks,](https://yunity.atlassian.net/wiki/display/YUN/2016-10-08+foodsharing.de+upcoming+and+long-term+tasks) which also included a discussion on open-sourcing the code. We will review this in the beginning of November. If you are interested in it, join [#foodsharing-chat](https://yunity.slack.com/messages/foodsharing-chat/) on our Slack.
@@ -44,9 +42,8 @@ The latest changes to the website are documented on [this page in the foodsharin
 
 #### Challenges/help needed
 
-many things - are you knowledgeable about PHP? Then you are more welcome to join us!
+Many things - are you knowledgeable about PHP? Then you are more welcome to join us!
 
-* * *
 
 ### Design Team.
 
@@ -62,7 +59,6 @@ Discussion on the [Design Guidelines proposal](https://yunity.atlassian.net/wiki
 
 [Design for Foodsaving Tours](https://yunity.atlassian.net/wiki/display/YUN/Design+for+Foodsaving+Tours)
 
-* * *
 
 ### Foodsaving Tool.
 
@@ -84,7 +80,6 @@ We are kickstarting the frontend in AngularJS - look at our [Github issues](http
 
 Most of us still have to get familiar with AngularJS and figure out the best code architecture.
 
-* * *
 
 ### Foodsharing/-saving International.
 
@@ -106,7 +101,6 @@ Two brainstorming meetings at the hackathon were organized by [Tais Real](https:
 
 A syscon on the [appropriate name for FSINT and the slack channel fs-international](https://business.konsensieren.eu/en/konsensierung/wyg3c9utr/anzeigen) has been started, the proposal phase is running until 2016-10-19 and the voting phase will start shortly afterwards.
 
-* * *
 
 ### IT-Service.
 
@@ -120,7 +114,6 @@ Updated the [events page on yunity.org](https://project.yunity.org/events) ( [Ti
 
 Setting up a [Grafana](https://yunity.atlassian.net/wiki/display/YUN/Grafana) / [InfluxDB](https://yunity.atlassian.net/wiki/display/YUN/InfluxDB) analytics setup to get nicer statistics for yunity and [foodsharing.de](http://foodsharing.de) servers. It's a really powerful tool, which might also help us in getting more insight how we can improve our software. ( [Matthias Larisch](https://yunity.atlassian.net/wiki/display/~matthias) )
 
-* * *
 
 ### Structure.
 
@@ -136,7 +129,6 @@ Follow new applications in the [Who-am-I section](http://yunity.trydiscourse.com
 
 Collecting ideas how to [improve the yunity wiki accessibility](https://yunity.atlassian.net/wiki/display/IDEAS/Improve+yunity+wiki+accessibility) . [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) created a proposal for a new [FSINT landing page](https://yunity.atlassian.net/wiki/display/%7EJanina/FSINT+landing+page) , and she really loves feedback on it ![](/user/themes/twentyfifteen/images/emoticons/smile.png) There's also a [ Slack channel #improve_wiki ](https://yunity.slack.com/messages/improve_wiki/) where you can participate in the process.
 
-* * *
 
 ### Connections.
 
@@ -144,13 +136,12 @@ Collecting ideas how to [improve the yunity wiki accessibility](https://yunity.a
 
 [Nick Sellen](https://yunity.atlassian.net/wiki/display/~nicksellen) , [Matthias Larisch](https://yunity.atlassian.net/wiki/display/~matthias) and [Tilmann](https://yunity.atlassian.net/wiki/display/~tiltec) had a short informal meeting with [Raphael Fellmer](https://yunity.atlassian.net/wiki/display/~Raphael) and [Martin Schott](https://yunity.atlassian.net/wiki/display/~der.phobos) from [sharecy](http://sharecy.org/) . Read a short summary on [Collaboration possibilities](https://yunity.atlassian.net/wiki/display/YUN/Collaboration+possibilities) .
 
-[Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) made a lot's of new connections during the freemarket in Berlin. Interviews with around 40 incl. gathering their contacts.
+[Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) made a lot of new connections during the freemarket in Berlin. Interviews with around 40 incl. gathering their contacts.
 
 #### Challenges/help needed
 
-...networking can be exausting. ( [Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) l)
+...networking can be exhausting. ( [Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) )
 
-* * *
 
 ### [Tour](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=61898757) .
 
@@ -158,19 +149,17 @@ A [really extensive report](http://yunity.trydiscourse.com/t/marseille-informati
 
 Some people plan to visit [Valencia (Spain) in January 2016](http://yunity.trydiscourse.com/t/valencia-jan-feb-2017/110) and spread foodsharing and -saving.
 
-* * *
 
 ### Translation.
 
 #### Done
 
-Some ideas for [Grammar conventions](https://yunity.atlassian.net/wiki/display/YUN/Spelling+Conventions+and+Recurring+Terms#SpellingConventionsandRecurringTerms-Grammarconventions) (in which order adjective should appear), contributed by [Hans-Christian Eick](https://yunity.atlassian.net/wiki/display/~birke) .
+Some ideas for [Grammar conventions](https://yunity.atlassian.net/wiki/display/YUN/Spelling+Conventions+and+Recurring+Terms#SpellingConventionsandRecurringTerms-Grammarconventions) (in which order adjectives should appear), contributed by [Hans-Christian Eick](https://yunity.atlassian.net/wiki/display/~birke) .
 
-A [video guide how to translate](https://slack-files.com/T0B6WCFM5-F2PEEN0LB-a1b8f64dc8) the [foodsharing dev blog](http://devblog.foodsharing.de/) , with an additional [written guide](https://yunity.slack.com/archives/translation/p1476461620000060) on Slack ( [Matthias Larisch](https://yunity.atlassian.net/wiki/display/~matthias) , [Tilmann](https://yunity.atlassian.net/wiki/display/~tiltec) )
+A [video guide how to translate](https://slack-files.com/T0B6WCFM5-F2PEEN0LB-a1b8f64dc8) the [foodsharing dev blog](http://devblog.foodsharing.de/), with an additional [written guide](https://yunity.slack.com/archives/translation/p1476461620000060) on Slack ( [Matthias Larisch](https://yunity.atlassian.net/wiki/display/~matthias) , [Tilmann](https://yunity.atlassian.net/wiki/display/~tiltec) )
 
 Full German [foodsharing dev blog](https://devblog.foodsharing.de/index.de.html) ( [Fenja Jacobs](https://yunity.atlassian.net/wiki/display/~fenja.jacobs) , [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) )
 
-* * *
 
 ### WuppDays.
 
@@ -182,7 +171,6 @@ The [WuppDays#12 Witzenhausen](https://yunity.atlassian.net/wiki/display/YUN/Wup
 
 [Pre-planning of December WuppDays](https://yunity.slack.com/archives/wuppdays/p1476696681000002) in Kirchheim by [Philip Engelbutzeder](https://yunity.atlassian.net/wiki/display/~Philip)
 
-* * *
 
 ### Culture.
 
@@ -190,12 +178,11 @@ The [Lamâsching Availability](https://yunity.atlassian.net/wiki/pages/viewpage.
 
 Slight ongoing controversy about the [Sadomâsching Culture](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=60424204) , introduced by [Bodhi Neiser](https://yunity.atlassian.net/wiki/display/~Bodhi) and [Kaiser Mikato](https://yunity.atlassian.net/wiki/display/~nitram) . There are worries if this should be something that is publicly visible on the yunity wiki. There has been a proposal from [Douglas Webb](https://yunity.atlassian.net/wiki/display/~dmhwebb) to make it only visible to members of yunity (wiki-editors), but so far no decision making process was started.
 
-* * *
 
 ### Glocal yunity.
 
 #### (what is this? - ask [Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) !) Done
 
-"not organized" a freemarket in Berlin. Made lots of local connections, including people interested in glocal foodsharing in Spain.
+"Not organized" a freemarket in Berlin. Made lots of local connections, including people interested in glocal foodsharing in Spain.
 
 ![](2016-10-16/14715622_1145263808901104_257314803153432851_o.jpg)
