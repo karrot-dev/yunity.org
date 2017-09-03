@@ -29,10 +29,6 @@ Since the last changelog in [Heartbeat 2017-08-06](2017-08-06), a lot of things 
 - Kristijan published his thoughts on [a legal entity for foodsaving.world](https://github.com/yunity/foodsaving-frontend/issues/606) and a [data privacy statement](https://github.com/yunity/foodsaving-frontend/issues/607), partly inspired by the struggles that foodsharing.de has nowadays
 - The discussion on [store teams](https://github.com/yunity/foodsaving-frontend/issues/360) was fueled by a comment from Stefan who wished to manage his foodsavers with one group per store. Much of the conversation can be found in the #foodsaving-tool Slack channel.
 
-## Networking
-
-We exchanged some mails with Ethan Welty from [fallingfruits.org](https://fallingfruit.org/) and found out that we can definitely help each other out: He is interested in our frontend framework research and he was very pleased to see the amazing [database of sharecity](http://sharecity.ie/research/sharecity100-database/). We were intrigued when he told us about the [Boulder Food Rescue Robot](https://robot.boulderfoodrescue.org/), which is a software pretty similar to our foodsaving tool karrott.
-
 #### Coding progress
 
 - New: Ines and Marie implemented [user feedback for pick-ups](https://github.com/yunity/foodsaving-backend/pull/342)
@@ -49,6 +45,10 @@ We exchanged some mails with Ethan Welty from [fallingfruits.org](https://fallin
 ![](https://user-images.githubusercontent.com/16825880/29294325-2b659872-814f-11e7-8f9d-f4f65aacf7dd.png)
 
 _by Tilmann_
+
+### Networking
+
+We exchanged some mails with Ethan Welty from [fallingfruits.org](https://fallingfruit.org/) and found out that we can definitely help each other out: He is interested in our frontend framework research and he was very pleased to see the amazing [database of sharecity](http://sharecity.ie/research/sharecity100-database/). We were intrigued when he told us about the [Boulder Food Rescue Robot](https://robot.boulderfoodrescue.org/), which is a software pretty similar to our foodsaving tool karrott.
 
 ## Wurzen
 More furniture, more structure, more visitors: Slowly but steadily we take control of the Kanthaus. We find creative solutions to everyday problems and make the houses ours:
