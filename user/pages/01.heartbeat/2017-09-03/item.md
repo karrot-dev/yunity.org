@@ -13,7 +13,7 @@ taxonomy:
 
 ### Rails Girls Success
 
-https://blog.foodsaving.world/2017/09/01/railsgirls-fairy-tale.html
+The RailsGirls are getting more and more experienced sailing over the ocean of code! Read everything about their first big adventure in [their very own fairy tale](https://blog.foodsaving.world/2017/09/01/railsgirls-fairy-tale.html).
 
 ### Latest development activity
 
@@ -29,6 +29,9 @@ Since the last changelog in [Heartbeat 2017-08-06](2017-08-06), a lot of things 
 - Kristijan published his thoughts on [a legal entity for foodsaving.world](https://github.com/yunity/foodsaving-frontend/issues/606) and a [data privacy statement](https://github.com/yunity/foodsaving-frontend/issues/607), partly inspired by the struggles that foodsharing.de has nowadays
 - The discussion on [store teams](https://github.com/yunity/foodsaving-frontend/issues/360) was fueled by a comment from Stefan who wished to manage his foodsavers with one group per store. Much of the conversation can be found in the #foodsaving-tool Slack channel.
 
+## Networking
+
+We exchanged some mails with Ethan Welty from [fallingfruits.org](https://fallingfruit.org/) and found out that we can definitely help each other out: He is interested in our frontend framework research and he was very pleased to see the amazing [database of sharecity](http://sharecity.ie/research/sharecity100-database/). We were intrigued when he told us about the [Boulder Food Rescue Robot](https://robot.boulderfoodrescue.org/), which is a software pretty similar to our foodsaving tool karrott.
 
 #### Coding progress
 
@@ -38,7 +41,7 @@ Since the last changelog in [Heartbeat 2017-08-06](2017-08-06), a lot of things 
 - New: [Push notification infrastructure](https://github.com/yunity/foodsaving-backend/pull/356), using Google FCM
 - @azzang, a new contributor, created a [common front-end service to determine the screen size](https://github.com/yunity/foodsaving-frontend/pull/599)
 - Nick is looking for solutions on how to implement [a rules and permissions system](https://github.com/yunity/foodsaving-backend/issues/353) in Django.
-- Back-end refactoring and code cleanup, code coverage now reaches 99%! 
+- Back-end refactoring and code cleanup, code coverage now reaches 99%!
 - On Kristijan's request, Nick provided a graphic schema overview of the foodsaving tool database:
 ![](https://user-images.githubusercontent.com/31616/29941736-7018ec8c-8e8b-11e7-943c-09ff1448b7a4.png)
 - New: [Conversations](https://github.com/yunity/foodsaving-backend/pull/333) backend, including [significant changes to the deployment](https://github.com/yunity/foodsaving-backend/pull/340)
@@ -48,6 +51,19 @@ Since the last changelog in [Heartbeat 2017-08-06](2017-08-06), a lot of things 
 _by Tilmann_
 
 ## Wurzen
+More furniture, more structure, more visitors: Slowly but steadily we take control of the Kanthaus. We find creative solutions to everyday problems and make the houses ours:
+- Laurina and Anna trimmed the grass in the garden using a sickle.
+- Matthias installed a solarpowered printer. Okay, it only works in brightest sunlight, but we _can_ print pages if the timeing is right!
+- Janina and Laurina became foodsharing ambassadors for the district 'Muldentalkreis' and are starting to build cooperations now.
+- Adam found a pretty nice dumpster diving spot to survive in the meantime... ;)
+- Mona built a small but cozy healing space in the 22.
+- Matthias bought a nice gas cooke, because we are running out of camping gas and it will apparently still take a while until we get the normal gas connection for the house. Also, using camping gas cookers for a longer period of time is just _really_ annoying and we'll still be able to make use of the nice one even after we can use the normal stoves. E.g. for bis garden parties next summer! :)
+- Adam found a new friend while he was busking in the city center: A nice lady who picked him up and gave him food. She came by again and took Adam and Wolfi to church, where they were able to save a nice amount of sandwiches.
+- We maintained cleanliness and even improved it in some parts.
+
+ADD PICS!
+
+_by Janina_
 
 
 ---
