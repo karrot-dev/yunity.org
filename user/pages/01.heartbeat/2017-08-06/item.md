@@ -15,6 +15,8 @@ We merged the first contributions from a new contributor, a skilled programmer c
 
 He also started work on solving some tricky issues on the nodejs chat server which the existing and light versions of the site both need to conncet to - this is the last remaining issue before we can publish the light version of the site further!
 
+===
+
 Tilmann is working on improving the display of chat messages when the content gets too wide, and ensuring we are correctly escaping and autolinking the content.
 
 Martin [continues to work](https://github.com/foodsharing-dev/foodsharing-light/commits/quasar-beta) on upgrading us to the latest version of Quasar, thanks!
