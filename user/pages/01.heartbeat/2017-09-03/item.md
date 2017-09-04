@@ -50,6 +50,22 @@ _by Tilmann_
 
 We exchanged some mails with Ethan Welty from [fallingfruits.org](https://fallingfruit.org/) and found out that we can definitely help each other out: He is interested in our frontend framework research and he was very pleased to see the amazing [database of sharecity](http://sharecity.ie/research/sharecity100-database/). We were intrigued when he told us about the [Boulder Food Rescue Robot](https://robot.boulderfoodrescue.org/), which is a software pretty similar to our foodsaving tool karrott.
 
+_by Janina_
+
+## [Foodsharing.de](https://foodsharing.de) development
+
+We had two phone calls, involving Nick, Raphael, Matthias and Tilmann, discussing topics like direction of foodsharing.de development, the Prototype fund, open sourcing and foodsharing light. There was consensus to make the foodsharing.de code open source as fast as possible, although Matthias wanted to wait for a bit more time. Raphael wants to progress with migrationg foodsharing.de code into the Laravel framework, but it's unclear if it can be done in small steps or if it would involve a major rewrite. The question came up how the existing front-end should be handled, which is currently written in a mix of PHP strings and client-side scripts. One solution could include moving all development efforts into foodsharing light (which would be a complete rewrite), but we didn't decide yet if that fulfills all requirements and wishes.
+
+Some coding progress:
+
+foodsharing.de now supports multiple chat sessions per user. This is needed if you use foodsharing.de and [foodsharing light](https://beta.light.foodsharing.de) at the same time. Before this improvement, only one of the pages would receive chat messages in realtime, while the other would need a full page reload. Nick worked hard to implement better session handling, which touches our Node.JS chat server and the PHP back-end.
+
+Raphael fixed the usage of special characters in share point names, especially the " character caused rendering problems.
+
+Matthias updated the deployment of both foodsharing.de and foodsharing light on 2017-08-28, which was encountered by some problems that could luckily be fixed quickly. Still, it shows that we need a better deployment procedure for foodsharing.de code.
+
+_by Tilmann_
+
 ## Wurzen
 More furniture, more structure, more visitors: Slowly but steadily we take control of the Kanthaus. We find creative solutions to everyday problems and make the houses ours:
 - Laurina and Anna trimmed the grass in the garden using a sickle.
