@@ -19,6 +19,8 @@ The RailsGirls are getting more and more experienced sailing over the ocean of c
 
 Since the last changelog in [Heartbeat 2017-08-06](2017-08-06), a lot of things happened! I'm going to highlight relevant discussions and changes.
 
+===
+
 #### Discussions
 
 - Kristijan clarified that the ["terms before you can join a group"](https://github.com/yunity/foodsaving-frontend/issues/324) should be marked explicitly as user-provided, see also the discussion in ["minimal admin roles"](https://github.com/yunity/foodsaving-backend/issues/350)
@@ -99,6 +101,7 @@ Interested to know how to build a compost-base bioenergy system à la [Jean Pain
 There also is a new blog post by Joachim. He shares how a wet summer makes claywork difficult and how one can still prevail when putting in some brains. [Enjoy the (German) post](http://dargeluetz.weebly.com/blog/wenn-das-wasser-nicht-aus-der-werkstatt-will)!
 
 _by Janina_
+
 ---
 
 ## About the heartbeat.
