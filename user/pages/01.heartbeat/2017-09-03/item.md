@@ -57,14 +57,22 @@ More furniture, more structure, more visitors: Slowly but steadily we take contr
 - Janina and Laurina became foodsharing ambassadors for the district 'Muldentalkreis' and are starting to build cooperations now.
 - Adam found a pretty nice dumpster diving spot to survive in the meantime... ;)
 - Mona built a small but cozy healing space in the 22.
-- Matthias bought a nice gas cooke, because we are running out of camping gas and it will apparently still take a while until we get the normal gas connection for the house. Also, using camping gas cookers for a longer period of time is just _really_ annoying and we'll still be able to make use of the nice one even after we can use the normal stoves. E.g. for bis garden parties next summer! :)
-- Adam found a new friend while he was busking in the city center: A nice lady who picked him up and gave him food. She came by again and took Adam and Wolfi to church, where they were able to save a nice amount of sandwiches.
-- We maintained cleanliness and even improved it in some parts.
+- Matthias bought a nice gas cooker, because we are running out of camping gas and it will apparently still take a while until we get the normal gas connection for the house. Also, using camping gas cookers for a longer period of time is just _really_ annoying and we'll still be able to make use of the nice one even after we can use the normal stoves. E.g. for big garden parties next summer! :)
+- Adam found a new friend while he was busking in the city center: A lovely lady who picked him up and gave him food. She came by again and took Adam and Wolfi to church, where they were able to save a pretty big amount of sandwiches.
 
-ADD PICS!
+![](commonsleeping.jpg)
+
+![](trimmedgrass.jpg)
 
 _by Janina_
 
+## Harzgerode
+The [undjetzt conference](http://www.undjetzt-konferenz.de/) is over and was a big success! More than hundred people came together for a week full of workshops and communal spirit. There was a trampolin, concerts at night and great vegan food (some of it saved). This year's conference saw many workshops of people, who are related to yunity: Luisa and Rosina talked about the benefits of sharing over exchanging, Laurina made people think about how to make decisions, Lara led people through the wonderful world of wild herbs, Janina shared what happens in the international field of foodsaving initiatives and Butze and Lauritz came by with the [Flake](http://flake.world/).
+
+After the conference ended Bernd and the Gemeinschaftsstifter started their community building process. To use his words:
+> A powerful prelude to the founding month full of information, interaction and intense work on various topics, which are now being continued by 33 co-founders!
+
+![](hz_gemeinschaftsinitialtreffen.jpg)
 
 ---
 
