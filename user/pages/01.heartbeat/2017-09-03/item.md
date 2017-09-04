@@ -69,11 +69,20 @@ _by Janina_
 ## Harzgerode
 The [undjetzt conference](http://www.undjetzt-konferenz.de/) is over and was a big success! More than hundred people came together for a week full of workshops and communal spirit. There was a trampolin, concerts at night and great vegan food (some of it saved). This year's conference saw many workshops of people, who are related to yunity: Luisa and Rosina talked about the benefits of sharing over exchanging, Laurina made people think about how to make decisions, Lara led people through the wonderful world of wild herbs, Janina shared what happens in the international field of foodsaving initiatives and Butze and Lauritz came by with the [Flake](http://flake.world/).
 
-After the conference ended Bernd and the Gemeinschaftsstifter started their community building process. To use his words:
+After the conference ended Bernd and the [Gemeinschaftsstifter](https://www.gemeinschaftsstifter.info/) started the first round of their community building process. To use his words:
 > A powerful prelude to the founding month full of information, interaction and intense work on various topics, which are now being continued by 33 co-founders!
 
 ![](hz_gemeinschaftsinitialtreffen.jpg)
 
+The community that is forming now is part of the Gemeinschaftsstifter and if you have any questions please contact them directly via email to harz@gemeinschaftsstifter.info
+
+_by Janina_ 
+
+## Dargelütz
+Interested to know how to build a compost-base bioenergy system à la [Jean Pain](https://en.wikipedia.org/wiki/Jean_Pain)? Then you should mark the end of September in your calendar, as there is [a free workshop on exactly this](http://dargeluetz.weebly.com/biomeilerworkshop.html) in Dargelütz!
+There also is a new blog post by Joachim. He shares how a wet summer makes claywork difficult and how one can still prevail when putting in some brains. [Enjoy the (German) post](http://dargeluetz.weebly.com/blog/wenn-das-wasser-nicht-aus-der-werkstatt-will)!
+
+_by Janina_
 ---
 
 ## About the heartbeat.
