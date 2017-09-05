@@ -6,6 +6,7 @@ metadata:
     description: 'An old train station, that becomes the home of sharing culture'
 menu: Wupphaus Bad Dürrenberg
 menu_description: A place of sharing in favor of community change
+menu_hide: true
 image: 'wupphouse_smallwithpadding.png'
 
 ---
@@ -14,11 +15,11 @@ image: 'wupphouse_smallwithpadding.png'
 
 > A place of sharing in favor of community change
 
-** This project is currently on hold. [Contact](../imprint) us for more information. **
+** This project is currently on hold. [If you are interested to continue it, have a look on the Gemeinschaftsstifter website](https://www.gemeinschaftsstifter.info/badduerrenberg/) for more information. **
 
 ![](IMG_0277-2.jpg)
 
 ![](b-wupp-haus-190116.jpg)
 
-* Public website: [wupphaus.yunity.org](https://wupphaus.yunity.org/?target=_blank)
-* Wiki space: [yunity.atlassian.net/wiki/spaces/BADUE](https://yunity.atlassian.net/wiki/spaces/BADUE?target=_blank)
+* Former public website: [wupphaus.yunity.org](https://wupphaus.yunity.org/?target=_blank)
+* Former wiki space: [yunity.atlassian.net/wiki/spaces/BADUE](https://yunity.atlassian.net/wiki/spaces/BADUE?target=_blank)
