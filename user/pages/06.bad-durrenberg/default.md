@@ -6,16 +6,16 @@ metadata:
     description: 'An old train station, that becomes the home of sharing culture'
 menu: Wupphaus Bad Dürrenberg
 menu_description: A place of sharing in favor of community change
-menu_hide: true
+menu_hide: false
 image: 'wupphouse_smallwithpadding.png'
 
 ---
 
-# Wupphaus Bad Dürrenberg
+# Train station Bad Dürrenberg
 
-> A place of sharing in favor of community change
+> A place for community with lots of potential.
 
-** This project is currently on hold. [If you are interested to continue it, have a look on the Gemeinschaftsstifter website](https://www.gemeinschaftsstifter.info/badduerrenberg/) for more information. **
+** This project is on hold. [If you are interested to start something new here, have a look on the Gemeinschaftsstifter website](https://www.gemeinschaftsstifter.info/badduerrenberg/) for more information. **
 
 ![](IMG_0277-2.jpg)
 
