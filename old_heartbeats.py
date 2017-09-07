@@ -131,3 +131,37 @@ for d in os.listdir():
             dst.write(soup.prettify())
             
         os.rename(os.path.join(d, 'item.md.tmp'), os.path.join(d, 'item.md'))
+        
+#%%            
+import os
+from bs4 import BeautifulSoup
+import subprocess
+import tempfile
+
+#os.chdir('user/pages/01.heartbeat')
+for d in os.listdir():
+    if d == 'blog.md':
+        continue
+    with open(os.path.join(d, 'item.md')) as f:
+        print(d)
+        chunks = f.read().split("---", maxsplit=2)
+        [_, header, body] = chunks
+
+        if 'class="wiki-content"' not in body:
+            continue
+        with tempfile.NamedTemporaryFile('w+') as tmp:
+            tmp.write(body)
+            tmp.flush()
+            cleanjs = subprocess.run(['node', '/home/tic/Development/yunity.org/clean.js', tmp.name], cwd=d, stdout=subprocess.PIPE)
+            markdown = cleanjs.stdout.decode()
+            print(markdown)
+            if len(markdown) < 10:
+                break
+        
+            with open(os.path.join(d, 'item.md.tmp'), 'w+') as dst:
+                dst.write('---')
+                dst.write(header)
+                dst.write('---\n\n')
+                dst.write(markdown)
+                
+            os.rename(os.path.join(d, 'item.md.tmp'), os.path.join(d, 'item.md'))
