@@ -2,7 +2,7 @@
 title: Foodsaving Worldwide
 route: foodsaving-worldwide
 metadata:
-    'og:image': 'https://yunity.org/user/pages/02.foodsaving-worldwide/cherrygirl_smallwithpadding.png'
+    'og:image': 'https://yunity.org/user/pages/20.foodsaving-worldwide/cherrygirl_smallwithpadding.png'
     description: 'We reach out to people, that are actively saving food and aim to create a tightly-knit global movement of foodsavers'
 menu: Foodsaving Worldwide
 menu_description: Making foodsaving into a global movement

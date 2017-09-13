@@ -2,7 +2,7 @@
 title: Wupphaus Bad Dürrenberg
 route: bad-durrenberg
 metadata:
-    'og:image': 'https://yunity.org/user/pages/05.bad-durrenberg/wupphouse_smallwithpadding.png'
+    'og:image': 'https://yunity.org/user/pages/60.bad-durrenberg/wupphouse_smallwithpadding.png'
     description: 'An old train station, that becomes the home of sharing culture'
 menu: Wupphaus Bad Dürrenberg
 menu_description: A place of sharing in favor of community change
