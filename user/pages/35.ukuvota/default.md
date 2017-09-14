@@ -14,4 +14,4 @@ image: 'logo.png'
 
 ![](ukuvota-screenshot.png)
 
-* Code: [https://gitlab.com/yunity/ukuvota](https://gitlab.com/yunity/ukuvota?target=_blank)
+* Code: [https://gitlab.com/ukuvota](https://gitlab.com/ukuvota?target=_blank)
