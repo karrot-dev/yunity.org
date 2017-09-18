@@ -29,9 +29,9 @@ Having Clara with us in Neuried opened up a lot of talks about the future of foo
 * Nick presented his idea to get the beta tester group active again, and to make coders who propose changes more responsible for their contributions, so that Matthias will not be the one having to find and fix the problems that new contributions cause sometimes. The idea is that the original contributor talks to the beta tester and that these two together try fixing potential bugs without directly bugging Matthias. <br> This would lead to more general progress, because Matthias would be less hesitant to accept changes.
 * Open sourcing is discussed in-depth and might probably be done sooner than it was planned...
 
-### [Ukuvota](https://ukuvota.gitlab.io/)
-yunity.org has a new subproject listed! It is the score voting app  Ukuvota (the name is Zulu vor 'voting') and if you want to contribute, feel free to have a look at the [gitlab repo](https://gitlab.com/ukuvota). The main contributor Wolfi is all alone so far... :)
-The first version just got deployed and is now [ready for testing](https://ukuvota.firebaseapp.com/)! Please report any bugs you might encounter. (Be aware of the fact that, all data is public, do not add confidential data)
+### [Ukuvota](https://ukuvota.world/)
+yunity.org has a new subproject listed! It is the score voting app  Ukuvota (the name is Zulu for 'voting') and if you want to contribute, feel free to have a look at the [gitlab repo](https://gitlab.com/ukuvota). The main contributor Wolfi is all alone so far... :)
+The first version just got deployed and is now [ready for testing](https://ukuvota.world/)! Please report any bugs you might encounter. (Be aware of the fact that, all data is public, do not add confidential data)
 
 ## [foodsaving.today](https://foodsaving.today)
 Peter wrote a nice summary of how [foodsharing Switzerland](https://foodsaving.today/en/blog/2017/09/15/foodsharing-switzerland-status-quo) works and what they are up to. It was initially posted on foodsharing.de, now got translated and made accessible on foodsaving.today as well.
