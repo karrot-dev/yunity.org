@@ -33,6 +33,8 @@ Having Clara with us in Neuried opened up a lot of talks about the future of foo
 yunity.org has a new subproject listed! It is the score voting app  Ukuvota (the name is Zulu for 'voting') and if you want to contribute, feel free to have a look at the [gitlab repo](https://gitlab.com/ukuvota). The main contributor Wolfi is all alone so far... :)
 The first version just got deployed and is now [ready for testing](https://ukuvota.world/)! Please report any bugs you might encounter. (Be aware of the fact that, all data is public, do not add confidential data)
 
+![](ukuvota.png)
+
 ## [foodsaving.today](https://foodsaving.today)
 Peter wrote a nice summary of how [foodsharing Switzerland](https://foodsaving.today/en/blog/2017/09/15/foodsharing-switzerland-status-quo) works and what they are up to. It was initially posted on foodsharing.de, now got translated and made accessible on foodsaving.today as well.
 
