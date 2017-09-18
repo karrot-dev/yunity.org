@@ -19,5 +19,3 @@ image: 'kanthausIcon_small.png'
 
 * Public website: [kanthaus.online](https://kanthaus.online/)
 * Wiki space: [yunity.atlassian.net/wiki/spaces/WW](https://yunity.atlassian.net/wiki/display/WW/WuppHaus+Wurzen+Home)
-
-![](wurzenstaircase.jpg)
