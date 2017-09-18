@@ -31,6 +31,7 @@ Having Clara with us in Neuried opened up a lot of talks about the future of foo
 
 ### [Ukuvota](https://ukuvota.world/)
 yunity.org has a new subproject listed! It is the score voting app  Ukuvota (the name is Zulu for 'voting') and if you want to contribute, feel free to have a look at the [gitlab repo](https://gitlab.com/ukuvota). The main contributor Wolfi is all alone so far... :)
+
 The first version just got deployed and is now [ready for testing](https://ukuvota.world/)! Please report any bugs you might encounter. (Be aware of the fact that, all data is public, do not add confidential data)
 
 ![](ukuvota.png)
@@ -41,16 +42,20 @@ Peter wrote a nice summary of how [foodsharing Switzerland](https://foodsaving.t
 ## Dargeluetz
 Ever heard of 'WuppDays'? No? Well, they used to be a thing a while ago and it seems we'll bring them back!
 Joachim, Janina and Lisa are thinking of gathering people in Dargeluetz in November to:
+
 **Hold a meetup of communities**
 * network between existing and potential communities
 * open a space for communities to present themselves
 * make it easier for people who want to join a community to find the right one
+
 **Build foodsharing Parchim/Dargeluetz**
 * talk to stores and convince them to start cooperations
 * carry out pick-ups and gain experience
+
 **Discuss and plan the future of [the Flake](http://flake.world/)**
 * plan how to make the most of the time at this year's ccc
 * reflect on the experiences gained during the summer
+
 **Work on your own useful projects, that benefit society**
 * take advantage of the productive atmosphere and get things done
 * enjoy the communal spirit and the energy in a group of like-minded people
