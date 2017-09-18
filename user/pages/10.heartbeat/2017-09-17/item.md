@@ -53,4 +53,10 @@ Joachim, Janina and Lisa are thinking of gathering people in Dargeluetz in Novem
 * take advantage of the productive atmosphere and get things done
 * enjoy the communal spirit and the energy in a group of like-minded people
 
-## Wurzen
+![](zdargelutzFront.jpg)
+
+## Kanthaus
+The Kanthaus project is moving forward as we speak:
+* Thanks to Wolfi, we now have a [Kanthaus website](https://kanthaus.online/en/). You can read all our important documents there, like the [Community Constitution](https://kanthaus.online/en/docs/constitution/), the [Collective Agreements](https://kanthaus.online/en/docs/collectiveagreements/), the [Information for Visitors](https://kanthaus.online/en/docs/visiting/), as well as all the minutes from our weekly Coordination Meetings; [these](https://kanthaus.online/en/meetings/2017-09-18_come/) are the most recent ones. (Janina started translating the page to German, but didn't cover the important documents so far. Sorry...^^)
+* On September 7th we had an appointment with the mayor, who turns out to be super supportive of our ideas! He already came back to us with the hint of some funding we could apply for, is open to us holding semi-public events as we see fit and thinks positive of having FSPs in public places. This seems to be the beginning of a wonderful friendship! ^_^
+* Foodsharing Wurzen started and we already were able to find three cooperating businesses! On September 25th we will hold an official kickoff meeting, where we invite other interested people to help them become foodsavers.
