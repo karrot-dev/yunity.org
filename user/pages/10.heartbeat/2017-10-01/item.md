@@ -22,3 +22,10 @@ The [Hackweek](../2017-09-17) is over and we are back to working together in a r
 ## Kanthaus Wurzen
 
 ## WuppDays Dargeluetz Planning
+
+## Harzgerode
+
+Stuff is happening again! The 3 "getting to know each other" meeting are over and the community is beeing founded. 
+There was a very concrete and motivating meeing about how "could" move in right away and under what basic conditions.
+It seemd to be sort-of-consesus that things like paying rent (and money in genera) and using spaces would be solved solidarily. The group that meet generate enough monthly and one-time fundung to pay for the upkeep if the place and pay for the heating system (which is already ordered, apparently). A possible scenario could be for the yunity-isch people here could be: make one or two very improvised clay ovens in the Inspektorenhaus before winter, sleep there and have a community room that can be wood-heated (at least a bit ;)  And use community rooms in Ost for working and hanging out, spending time with the other people, etc. In long term (from next spring) concentrate on making the Oberarzthaus nice and usable, do some immidate things now to not support further decay.
+[Bodhis perspective] other yunityisch-people interested in Harzgerode in the next weeks/months/years?: Wulfi, Anna (Oldenburg), Steffen, Lise
