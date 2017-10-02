@@ -17,18 +17,24 @@ The [Hackweek](../2017-09-17) is over and we are back to working together in a r
 
 ## Karrot
 
-After the end of the Hackweek, progress on the new VueJS-based frontend slowed down. Still, Nick, Lars and Tilmann have been working on the [_Megalist_] (https://github.com/yunity/karrot-frontend/issues/619 tasks. Tests were added, the state management was improved, group conversations were enabled and the pick-up list got a nice fancy design.
+After the end of the Hackweek, progress on the new VueJS-based frontend slowed down. Still, Nick, Lars and Tilmann have been working on the [_Megalist_](https://github.com/yunity/karrot-frontend/issues/619) tasks. Tests were added, the state management was improved, group conversations were enabled and the pick-up list got a nice fancy design.
 
 ![](karrot-pickups.png)
 
-Back-end wise, Ines and Marie have been improving the pick-up feedback model. They also wrote a nice introductory report for new back-end developers, to be published soon in [our blog](blog.foodsaving.world).
+Backend-wise, Ines and Marie have been improving the pick-up feedback model. They also wrote a nice introductory report for new backend developers, to be published soon in [our blog](blog.foodsaving.world).
 
 The Rails Girls Summer of Code (RGSoC) is now finished. A great __thank you__ to Ines and Marie for their motivated work! We hope that they stay close to the foodsaving worldwide project. Also, we will probably apply again at the next RGSoC(-like) event.
 
+_by Tilmann_
+
 ## Foodsharing.de development
-In a [new blog post](https://devblog.foodsharing.de/2017/09/19/a-plan.html) Nick explains in more detail how he imagines the foodsharing.de development to work from now on.
+In a [new blog post](https://devblog.foodsharing.de/2017/09/19/a-plan.html) Nick explains in more detail how he imagines the foodsharing.de development to work from now on. Kristijan and Peter had a long call with Nick, in which he empowered them to become more active and just recently another new contributor showed up and said the magic words the main devs always love to hear in context of a feature request: "I need a feature and I need it desperately enough to code it myself, can anyone give me dev access to Gitlab?"
+
+Also the repo becomes more and more tidy: pull requests get accepted and old branches are deleted. Progress is tangible and Nick thinks of a new release accompanied by yet another blog post. Stay tuned!
 
 ## Kanthaus Wurzen
+With Bodhi we have our second volunteer at Kanthaus! <br>
+Since this seems to become a more frequent event, Doug is already thinking of somehow automating or optimizing the task of knowing when somebody becomes eligible for volunteerism. He put an [issue](https://gitlab.com/kanthaus/kanthaus-private/issues/10) in the private Kanthaus repo on Gitlab - the space, where we now collect and manage the tasks of the house. This system may seem a little complicated for the less techie ones, but all the technophiles love it. We just need to tidy it up a little and get more clarity about what counts as private and what should be public. When that is done, the public repo will automatically be converted to [kanthaus.online](https://kanthaus.online) - our homepage - so that transparency and readability for everyone will be guaranteed!
 
 ## WuppDays Dargeluetz Planning
 
