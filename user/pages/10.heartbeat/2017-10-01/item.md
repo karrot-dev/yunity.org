@@ -37,6 +37,9 @@ With Bodhi we have our second volunteer at Kanthaus! <br>
 Since this seems to become a more frequent event, Doug is already thinking of somehow automating or optimizing the task of knowing when somebody becomes eligible for volunteerism. He put an [issue](https://gitlab.com/kanthaus/kanthaus-private/issues/10) in the private Kanthaus repo on Gitlab - the space, where we now collect and manage the tasks of the house. This system may seem a little complicated for the less techie ones, but all the technophiles love it. We just need to tidy it up a little and get more clarity about what counts as private and what should be public. When that is done, the public repo will automatically be converted to [kanthaus.online](https://kanthaus.online) - our homepage - so that transparency and readability for everyone will be guaranteed!
 
 ## WuppDays Dargeluetz Planning
+We held a [poll](https://poll.disroot.org/IGx3pHz1cN3hSWs8) to determine the best time for the upcoming WuppDays in Dargeluetz and the results showed a clear bias towards the last half of November, specifically the last week. Plannings will go on with this timeframe in mind.
+
+ _by Janina_
 
 ## Harzgerode
 Stuff is happening again! The three ["getting to know each other" meetings](https://www.gemeinschaftsstifter.info/gemeinschafts-initialtreffen/) are over and the community is being founded.
