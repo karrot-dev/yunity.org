@@ -36,6 +36,12 @@ Also the repo becomes more and more tidy: pull requests get accepted and old bra
 With Bodhi we have our second volunteer at Kanthaus! <br>
 Since this seems to become a more frequent event, Doug is already thinking of somehow automating or optimizing the task of knowing when somebody becomes eligible for volunteerism. He put an [issue](https://gitlab.com/kanthaus/kanthaus-private/issues/10) in the private Kanthaus repo on Gitlab - the space, where we now collect and manage the tasks of the house. This system may seem a little complicated for the less techie ones, but all the technophiles love it. We just need to tidy it up a little and get more clarity about what counts as private and what should be public. When that is done, the public repo will automatically be converted to [kanthaus.online](https://kanthaus.online) - our homepage - so that transparency and readability for everyone will be guaranteed!
 
+## Ukuvota
+After the hackweek ended, development on Ukuvota also slowed down. Still, there are some new features and ideas:
+- translations to German are 90% complete
+- integrated discussion pads for the proposal phase are in progress
+- there are new plans to integrate an append only database to improve security
+
 ## WuppDays Dargeluetz Planning
 We held a [poll](https://poll.disroot.org/IGx3pHz1cN3hSWs8) to determine the best time for the upcoming WuppDays in Dargeluetz and the results showed a clear bias towards the last half of November, specifically the last week. Plannings will go on with this timeframe in mind.
 
