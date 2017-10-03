@@ -32,12 +32,16 @@ In a [new blog post](https://devblog.foodsharing.de/2017/09/19/a-plan.html) Nick
 
 Also the repo becomes more and more tidy: pull requests get accepted and old branches are deleted. Progress is tangible and Nick thinks of a new release accompanied by yet another blog post. Stay tuned!
 
+![](fsbuilds.png)
+
 ## Kanthaus Wurzen
 With Bodhi we have our second volunteer at Kanthaus! <br>
 Since this seems to become a more frequent event, Doug is already thinking of somehow automating or optimizing the task of knowing when somebody becomes eligible for volunteerism. He put an [issue](https://gitlab.com/kanthaus/kanthaus-private/issues/10) in the private Kanthaus repo on Gitlab - the space, where we now collect and manage the tasks of the house. This system may seem a little complicated for the less techie ones, but all the technophiles love it. We just need to tidy it up a little and get more clarity about what counts as private and what should be public. When that is done, the public repo will automatically be converted to [kanthaus.online](https://kanthaus.online) - our homepage - so that transparency and readability for everyone will be guaranteed!
 
+![](005.jpg)
+
 ## Ukuvota
-After the hackweek ended, development on Ukuvota also slowed down. Still, there are some new features and ideas:
+After the Hackweek ended, development on Ukuvota also slowed down. Still, there are some new features and ideas:
 - translations to German are 90% complete
 - integrated discussion pads for the proposal phase are in progress
 - there are new plans to integrate an append only database to improve security
@@ -49,6 +53,8 @@ We held a [poll](https://poll.disroot.org/IGx3pHz1cN3hSWs8) to determine the bes
 
 ## Harzgerode
 Stuff is happening again! The three ["getting to know each other" meetings](https://www.gemeinschaftsstifter.info/gemeinschafts-initialtreffen/) are over and the community is being founded.
+
+![](hzground.jpg)
 
 There was a very concrete and motivating meeing about who "could" move in right away and under what basic conditions. It seemed to be sort-of-consensus that things like paying rent (and money in general) and using spaces would be solved solidarily. The group that met generates enough monthly and one-time funding to pay for the upkeep of the place and the heating system (which apparently is already ordered). A possible scenario for the yunity-ish people here could be: make one or two very improvised clay ovens in the Inspektorenhaus before winter, sleep there and have a community room that can be heated with wood (at least a bit ;)  And use community rooms in Ost for working and hanging out, spending time with the other people of the community, etc. In the long term (from next spring on) concentrate on making the Oberarzthaus nice and usable, do some immediate things now to prevent further decay.
 
