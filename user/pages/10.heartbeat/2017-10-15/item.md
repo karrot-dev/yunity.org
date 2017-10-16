@@ -55,6 +55,8 @@ New features already integrated are:
 - There is a QR code provided for the sharable link to a vote.
 - An extensive [manual](https://staging.ukuvota.world/#/manual) with lots of background information on voting systems got included directly on the page.
 
+_by Janina_
+
 ## Kanthaus
 Max and Mona both became volunteers and plan on staying for a while! :D <br>
 We had a structural engineer over, who provided tons of useful info on what there is still to do on the very substance of the buildings. Doug continued to think about refining the process for residents to change status in the house and made an [informative flow chart](https://user-images.githubusercontent.com/17573771/31617483-a2272784-b28f-11e7-9ed6-e1731eac503e.png) (It already includes the idea of a prescribed reapplication of members after six months, although this was not formally accepted yet). Mona started the topic of creating a more clear code of conduct, that will allow us to actively prevent people from behaving in a way that is racist, sexist, homophobic and generally anti-egalitarian. And since we still don't have any other power supply in the buildings than some old solar panels, I'm especially excited to present to you our new and fancy **bike-driven electricity generator**:
@@ -65,3 +67,5 @@ As Matthias describes it, it works as follows:
 > A good operating point is ~40-55W charging a 12 V lead acid battery system. Putting in a bit less the mechanical power, we were also able to achieve 70W powering a 250W light bulb (0,7A @ 100V) - meaning that the motor is turning a bit too fast to work in maximum efficiency at 12V.
 
 But of course, he's still working on improving it! ;)
+
+_by Janina_
