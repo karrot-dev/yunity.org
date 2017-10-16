@@ -31,7 +31,9 @@ _by Janina_
 
 I decided to jump into more of the UI parts recently, and implemented most of the pickup management UI, and some of the store/profile editing features. It's quite fiddly to manage all the recurring pickup stuff, but I found the Vuex state management really helped me to get the logic right (or so I hope..). Being able to have a more declarative approach to state means once the state logic is implemented correctly, the rest just falls into place.
 
-Tilmann got much deeper into [database locking and concurrency](https://github.com/yunity/karrot-backend/issues/409) issues, and is a good example of what I love about our approach to development - interest and willingness to take the time to explore the topics properly, even if ultimately we just accept the occasion concurency-related error and postpone any changes until it's a real problem. Conventional startup logic would suggest not to waste time on this, but this kind of project is not a startup, and different logic applies.
+![](pickup-management.png)
+
+Tilmann got much deeper into [database locking and concurrency](https://github.com/yunity/karrot-backend/issues/409) issues, and is a good example of what I love about our approach to development - interest and willingness to take the time to explore the topics properly, even if ultimately we just accept the occasional concurency-related error and postpone any changes until it's a real problem. Conventional startup logic would suggest not to waste time on this, but this kind of project is not a startup, and different logic applies.
 
 _by Nick_
 
@@ -39,7 +41,7 @@ _by Nick_
 
 We are nearing our first release since we started our new, more structured approach (each merge request has an entry in the changelog now), and Nick and Matthias will be drinking some beer to celebrate when that happens. The surge of activity from a few weeks ago has slowed, but is still a steady stream.
 
-We discussed with the board about finding someone to implement a new homepage design and added a [blog post](https://devblog.foodsharing.de/2017/10/15/we-need-your-help.html) about that, so please help us find someone! (html/php/css/js coder with a bit of time)...
+We discussed with the board about finding someone to implement some new homepage content/design and added a [blog post](https://devblog.foodsharing.de/2017/10/15/we-need-your-help.html) about that, so please help us find someone! (html/php/css/js coder with a bit of time)...
 
 _by Nick_
 
