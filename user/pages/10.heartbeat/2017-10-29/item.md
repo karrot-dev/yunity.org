@@ -53,6 +53,13 @@ This weekend until Tuesday 31st the Germany-wide foodsharing festival season 201
 
 _by Janina_
 
+## Solidarity economy Wuppdays + Community meet-up
+At the end of November there will be two events back-to-back at Dargelütz, an intentional community in the Northeast of Germany. The first event is a Wuppdays on the theme of Solidarity Economy. A 'Wuppdays' is something like running an interactive conference on top of a camp: events are organized by the people who go there, accommodation and food are collectively arranged. The theme, Solidarity Economy, is a broad term to describe ways of working together and sharing resources which serve everyones interests as far as possible. Check out (this page)[http://dargeluetz.weebly.com/yunity-wuppdays.html] for more details!
+
+The second event is a meeting about communities. It's an opportunity for people already in communities to present them and communicate information, experience or needs. It's also an opportunity for people interesting in joining/starting communities to get some ideas, ask questions or raise concerns. Check out (this page)[http://dargeluetz.weebly.com/netzwerktreffen.html] (German) for more details!
+
+Come to one, come to both and/or tell your friends.
+
 ## About the heartbeat.
 The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
