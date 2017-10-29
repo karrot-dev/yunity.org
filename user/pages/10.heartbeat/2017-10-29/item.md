@@ -27,12 +27,13 @@ _by Janina_
 
 ## Karrot
 
+![](karrotalpha.jpg)
 
 ## Foodsharing.de development
 
 
 ## Ukuvota
-- Ukuvota has a new results page with tab layout to switch between the emoji view and the data table. 
+- Ukuvota has a new results page with tab layout to switch between the emoji view and the data table.
 -  Also Ukuvota now has vuex as its state management improving developer experience and allowing states to be synchronized between multiple components.
 - Voters in the results page can be deselected in the emoji view.
 -  Multiple tooltips have been added to make it clearer what buttons do
