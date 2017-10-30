@@ -27,10 +27,16 @@ _by Janina_
 
 ## Karrot
 
+We updated our road map that describes the next tasks to discuss and work on. You can [view it here](https://github.com/yunity/karrot-frontend/blob/6850450e5410e1aae02339a0f1db0d5259ad9de3/ROADMAP.md). Nick is currently working on group roles and [agreements](https://github.com/yunity/karrot-frontend/pull/660), as well as a hybrid app for Android and iOS. Chandi works [on store statuses](https://github.com/yunity/karrot-frontend/issues/628) to show if a store is ready to co-operate. Tilmann is busy with form validation error handling, API simplification and added a shortcut button to [add groups and store location](https://github.com/yunity/karrot-frontend/pull/664). Lars wants to refine the design of the soon-to-be-released website.
+
 ![](karrotalpha.jpg)
+![](https://user-images.githubusercontent.com/4410802/32148220-d379c71a-bcf3-11e7-8448-722f7d7cf6c6.png)
 
-## Foodsharing.de development
+With all that progress, we are coming closer to release the rewritten client. We added a hint to the current deployment:
 
+> We developed a new version of foodsaving.world. Use your existing password to login to alpha.foodsaving.world and gives us feedback via (e-mail)[mailto:karrot@foodsaving.world]. The new version will go online around mid of November 2017.
+
+_by Tilmann_
 
 ## Ukuvota
 - Ukuvota has a new results page with tab layout to switch between the emoji view and the data table.
@@ -54,9 +60,9 @@ This weekend until Tuesday 31st the Germany-wide foodsharing festival season 201
 _by Janina_
 
 ## Solidarity economy Wuppdays + Community meet-up
-At the end of November there will be two events back-to-back at Dargelütz, an intentional community in the Northeast of Germany. The first event is a Wuppdays on the theme of Solidarity Economy. A 'Wuppdays' is something like running an interactive conference on top of a camp: events are organized by the people who go there, accommodation and food are collectively arranged. The theme, Solidarity Economy, is a broad term to describe ways of working together and sharing resources which serve everyones interests as far as possible. Check out (this page)[http://dargeluetz.weebly.com/yunity-wuppdays.html] for more details!
+At the end of November there will be two events back-to-back at Dargelütz, an intentional community in the Northeast of Germany. The first event is a Wuppdays on the theme of Solidarity Economy. A 'Wuppdays' is something like running an interactive conference on top of a camp: events are organized by the people who go there, accommodation and food are collectively arranged. The theme, Solidarity Economy, is a broad term to describe ways of working together and sharing resources which serve everyones interests as far as possible. Check out [this page](http://dargeluetz.weebly.com/yunity-wuppdays.html) for more details!
 
-The second event is a meeting about communities. It's an opportunity for people already in communities to present them and communicate information, experience or needs. It's also an opportunity for people interesting in joining/starting communities to get some ideas, ask questions or raise concerns. Check out (this page)[http://dargeluetz.weebly.com/netzwerktreffen.html] (German) for more details!
+The second event is a meeting about communities. It's an opportunity for people already in communities to present them and communicate information, experience or needs. It's also an opportunity for people interesting in joining/starting communities to get some ideas, ask questions or raise concerns. Check out (this page)[http://dargeluetz.weebly.com/gemeinschafts--vernetzungstreffen.html] (German) for more details!
 
 Come to one, come to both and/or tell your friends.
 
