@@ -34,7 +34,7 @@ We updated our road map that describes the next tasks to discuss and work on. Yo
 
 With all that progress, we are coming closer to release the rewritten client. We added a hint to the current deployment:
 
-> We developed a new version of foodsaving.world. Use your existing password to login to alpha.foodsaving.world and gives us feedback via (e-mail)[mailto:karrot@foodsaving.world]. The new version will go online around mid of November 2017.
+> We developed a new version of foodsaving.world. Use your existing password to login to alpha.foodsaving.world and gives us feedback via [e-mail](mailto:karrot@foodsaving.world). The new version will go online around mid of November 2017.
 
 _by Tilmann_
 
