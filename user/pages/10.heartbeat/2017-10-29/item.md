@@ -38,6 +38,16 @@ With all that progress, we are coming closer to release the rewritten client. We
 
 _by Tilmann_
 
+## foodsharing.de
+
+We managed our first release with the new structured approach with contributions from 7 people, here are the [release notes](https://devblog.foodsharing.de/2017/10/18/release.html). I'm really impressed with the progress, even if there is not much to see for users of the site.
+
+We also [put out a request](https://devblog.foodsharing.de/2017/10/15/we-need-your-help.html) for a developer to help us out with a new landing page design. [@TimFoe](https://gitlab.com/TimFoe) was able to help us out with a vagrant development setup (it runs the docker-compose setup inside it and is useful if you cannot run docker-compose directly, should be helpful for Windows users especially). [@thinkround](https://gitlab.com/thinkround) has continued enthusiastically and it's been great to see the [really active discussion](https://gitlab.com/foodsharing-dev/issues0/issues/247) bringing in a wider set of people. I feel very positive we get a solution here now, thanks everyone!
+
+Matthias also worked on getting us towards a really crucial milestone for the refactoring by [moving one of the existing modules into the new PSR4 structure](https://gitlab.com/foodsharing-dev/foodsharing/merge_requests/168).
+
+_by Nick_
+
 ## Ukuvota
 - Ukuvota has a new results page with tab layout to switch between the emoji view and the data table.
 -  Also Ukuvota now has vuex as its state management improving developer experience and allowing states to be synchronized between multiple components.
