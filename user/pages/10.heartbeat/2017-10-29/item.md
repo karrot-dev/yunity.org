@@ -27,7 +27,7 @@ _by Janina_
 
 ## Karrot
 
-![](0karrotalpha.jpg)
+![](karrotalpha.jpg)
 
 We updated our road map that describes the next tasks to discuss and work on. You can [view it here](https://github.com/yunity/karrot-frontend/blob/6850450e5410e1aae02339a0f1db0d5259ad9de3/ROADMAP.md). Nick is currently working on group roles and [agreements](https://github.com/yunity/karrot-frontend/pull/660), as well as a hybrid app for Android and iOS. Chandi works [on store statuses](https://github.com/yunity/karrot-frontend/issues/628) to show if a store is ready to co-operate. Tilmann is busy with form validation error handling, API simplification and added a shortcut button to [add groups and store location](https://github.com/yunity/karrot-frontend/pull/664). Lars wants to refine the design of the soon-to-be-released website.
 
@@ -66,7 +66,7 @@ On Thursday 26th the second monthly foodsharing Wurzen meeting was held and the 
 
 This weekend until Tuesday 31st the Germany-wide foodsharing festival season 2017 retrospective meeting also takes place at Kanthaus. It's the first bigger event and we are all very excited how it will play out. Our nice neighbor Sven provided electricity for this important weekend and hopefully the weather will stay warm, so that we won't miss heating too much... ;)
 
-![](fsfestivalmeeting.jpg)
+![](2017festivalmeeting.jpg)
 
 _by Janina_
 
@@ -76,6 +76,8 @@ At the end of November there will be two events back-to-back at Dargelütz, an i
 The second event is a meeting about communities. It's an opportunity for people already in communities to present them and communicate information, experience or needs. It's also an opportunity for people interesting in joining/starting communities to get some ideas, ask questions or raise concerns. Check out [this page](http://dargeluetz.weebly.com/gemeinschafts--vernetzungstreffen.html) (German) for more details!
 
 Come to one, come to both and/or tell your friends.
+
+_by Doug_
 
 ## About the heartbeat.
 The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
