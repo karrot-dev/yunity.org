@@ -15,7 +15,13 @@ Launch of a new version!
 
 ## Kanthaus
 
-Lots of wood, heating system, many people.
+After the foodsharing festival meeting we talked about in the last issue, the group staying at Kanthaus slowly but steadily grew sammer again. Right now we are only six people and it feels like the houses are pretty much empty.
+
+Last week we got the opportunity to save lots of old floorboards from a skip just a few hundred meters from our doorstep and we made good use of it! Over two days we moved wood into our yard and over two more days we removed quite some nails from the old boards. This task is not yet finished but out shed is pretty full with good, usable wood already!
+
+![](woodworks.jpg)
+
+The most memorable day for all of us was probably last wednesday, when finally our heating system got connected! To appropriately test it we got electricity from our nice neighbor again and that led to radiadors, which actually _created heat_! Without our own power connection this was only temporarily working, but it still warmed up our hearts and minds - and when the day will finally come, on which we will connected to the power grid, we know that we can directly use central heating.
 
 ## Ukuvota
 
