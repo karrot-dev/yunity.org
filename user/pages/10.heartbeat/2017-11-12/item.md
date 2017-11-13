@@ -40,12 +40,13 @@ _by Tilmann_
 
 ## [Foodsaving.world](https://foodsaving.world)
 
-The new project info page was launched on Sunday, replacing the previous karrot deployment.
-You can still use the same login from "foodsaving.world" on karrot.world - only the domain has moved, the data stays the same.
+The new project info page was launched on Sunday, replacing the previous karrot deployment on foodsaving.world. You can still use the same login from "foodsaving.world" on karrot.world - only the domain has moved, the data stays the same.
 
 ![](fsww.png)
 
-It will provide information to foodsaving groups worldwide: how to contact stores, how to improve your community life, how to get new members...
+The new info page provides an overview about all the topics relevant to foodsaving groups: how to contact stores, how to improve your community life, how to find new members and so on. It is English only for now but in the future we hope to be able to offer our knowledge in many languages and that you can help us with the translations. :)
+
+_by Tilmann & Janina_
 
 ## Kanthaus
 
