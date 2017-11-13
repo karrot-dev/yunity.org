@@ -15,7 +15,8 @@ image: cherrygirl_smallwithpadding.png
 
 ![](luisa_fsww.jpg)
 
-* Public website: [foodsaving.today](https://foodsaving.today/en?target=_blank)
+* Public website: [foodsaving.world](https://foodsaving.world?target=_blank)
+* Stories from foodsaving groups: [foodsaving.today](https://foodsaving.today/en?target=_blank)
 * Wiki space: [yunity.atlassian.net/wiki/spaces/FSINT](https://yunity.atlassian.net/wiki/spaces/FSINT?target=_blank)
   * Guide: [How to build a foodsaving community](https://yunity.atlassian.net/wiki/display/FSINT/How+to+build+a+foodsaving+community)
 * Public facebook group: [facebook.com/groups/foodsaving.worldwide](https://www.facebook.com/groups/foodsaving.worldwide/?target=_blank)
