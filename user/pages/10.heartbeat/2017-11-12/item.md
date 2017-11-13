@@ -24,7 +24,7 @@ Launch of a new version! After months of coding, we replace our good old Angular
 
 As developers, we are also very happy about the new internals. Here are some of them:
 
-- [VueJS](http://vuejs.org/) with it's reactivity system and one-file components
+- [VueJS](http://vuejs.org/) with its reactivity system and one-file components
 - [Quasar Framework](http://quasar-framework.org/) provides us with a nice dev environment and easy-to-use UI components
 - Flux-style centralized state management with [Vuex](https://vuex.vuejs.org/en/intro.html)
 - Powerful translation system with [vue-i18n](https://github.com/kazupon/vue-i18n)
@@ -34,7 +34,7 @@ As developers, we are also very happy about the new internals. Here are some of 
 - [Documentation page](http://docs.karrot.world/) for developers and users (soon more hopefully!)
 - Continous Integration and [deployment](http://dev.karrot.world/) via [CircleCI](https://circleci.com/gh/yunity/karrot-frontend)
 
-If that made you interested and would like to participate, have a look on [Github](https://github.com/yunity/karrot-frontend) and/or [join our Slack chat](https://slackin.yunity.org) (channel karrot-dev). We are looking forward to see you!
+If that made you interested and you would like to participate, have a look on [Github](https://github.com/yunity/karrot-frontend) and/or [join our Slack chat](https://slackin.yunity.org) (channel karrot-dev). We are looking forward to seeing you!
 
 _by Tilmann_
 
