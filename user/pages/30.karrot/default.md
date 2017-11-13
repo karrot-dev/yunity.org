@@ -15,7 +15,7 @@ image: 'fstoollogo_smallwithpadding.png'
 ![](fsworld.png)
 
 * Public website: [karrot.world](https://karrot.world/?target=_blank)
-* Blog: [blog.foodsaving.world](https://blog.karrot.world/?target=_blank)
+* Blog: [blog.karrot.world](https://blog.karrot.world/?target=_blank)
 * Test website:
 [dev.karrot.world](https://dev.karrot.world/?target=_blank)
 * Frontend code: [github.com/yunity/karrot-frontend](https://github.com/yunity/karrot-frontend?target=_blank)
