@@ -62,6 +62,12 @@ _by Janina_
 
 ## foodsharing.de development
 
+The foodsharing development continues slowly but steadily. A new contributor, [@inktrap](https://gitlab.com/inktrap), supports us in doing devops as well as implementation stuff, which makes me very happy as we are especially looking for people who can take on different fields - as our team is still very small and the work is broad.
+The implementation of the new landing page that should be ready for the foodsharing.de birthday party in december is progressing as well.
+I continued refactoring and get quite some enjoyment out of it. It is interesting to see the codebase slowly moving towards being modern PHP - at least structurally. I have big hope that this will also have implications on the ability to fix bugs and introduce new features soon. A first light on the horizon is that I recently added the first true unit tests - so that means, we start having testable units in our code!
+
+_by Matthias_
+
 ## Solidarity economy Wuppdays + Community meet-up
 
 Mark the date if you don't have already: **From November 20 to 27 we'll have our next WuppDays!**
