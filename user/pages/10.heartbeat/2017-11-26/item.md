@@ -11,8 +11,16 @@ taxonomy:
 
 ## [Karrot](https://karrot.world)
 
-funding!
-pick-up page!
+"Steady progress" could be an apt summary for the last two weeks. Nick got the Android app ready for testing and kept thinking about the best way to deliver automated builds to beta testers. Janina worked with Tilmann on the groups pickup page, fueled by user feedback. There's still [an ongoing discussion](https://github.com/yunity/karrot-frontend/issues/741) about which pickup dates to show in which place, input is highly welcome. Lukas finished his first [Karrot coding task](https://github.com/yunity/karrot-backend/issues/368), which was about improving the backend code structure. Tilmann spent most of his karrot coding time in refactoring, bringing the code into better shape. The focus lies on improving the backend API structure, the frontend state management, error handling code and data loading.
+
+![](karrot-pickups.png)
+_The new central pickup page (that doesn't satisfy all needs yet...)_
+
+Aside from all the coding, Nick and Lukas worked on an application for the [DIAL grant](http://www.osc.dial.community/), their notes can be found [here](https://pad.disroot.org/p/dial-funding-application).
+
+Nick deployed [another instance of karrot](https://tw.foodsaving.world) on request of Stefan from Foodsharing Taiwan. This puts more emphasis on the implementation of _branding_ features to be able to customize karrot to local needs.
+
+_by Tilmann_
 
 
 ## [Foodsaving.world](https://foodsaving.world)
@@ -33,8 +41,13 @@ _by Janina_
 
 ## Kanthaus
 
-funding!
-else..?
+Matthias held a workshop on Arduino programming, which resulted in a temperature and humidity sensor station for usage inside the Kanthaus. Followed by suggestions from Rosina and Björn, a room-planning meeting about K22 will take place next week.
+
+Axel, Lise, Janina and Matthias were busy driving the SIL application forward. A lot of new ideas came up and much time was needed to put old and new ideas into nice paragraphs. Ideally, this will be followed by a "pitch" presentation.
+
+Other news: the big "random stuff storage" was nicely sorted into a DIY shelf - Investigation showed that the floor wood in K22 attic is fine - looking for somebody to open the windows in K20 basement, despite heavy spider presence
+
+_by Tilmann_
 
 ## About the heartbeat.
 The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
