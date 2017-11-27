@@ -27,14 +27,14 @@ _by Tilmann_
 
 Foodsharing Quito is expanding! The group in the capital of Ecuador already has 3 cooperations running and is in contact with two more stores. On top of that they saved food at a vegan food festival and have an active group with 50 members on facebook. Keep going strong! :)
 
-Foodsharing Taiwan hold their first event on Friday 11/24 in Yonghe District (永和) of Taipei City for a cooking activity that turned leftover food into lovely little dishes.
-They teamned up with three other local groups, that work on waste cooking, ugly fruits and upcycling. 
-About 20 people took part in the event, in which participants were encouraged to bring surplus food to cook or exchange with other people. Furthermore, Ann Huang (黃尹宣) from Pick Food Up kitchen. had contacted restaurants and food suppliers to gather some of their surplus food before the event.
-It was great to see a happy crowd of people getting active on food waste and the event was nice start with hopefully lots more to come soon!
+Foodsharing Taiwan held their first event on Friday 11/24 in Yonghe District (永和) of Taipei City for a cooking activity that turned leftover food into lovely little dishes.
+They teamed up with three other local groups that work on waste cooking, ugly fruits and upcycling.
+About 20 people took part in the event, where participants were encouraged to bring surplus food to cook or exchange with other people. Furthermore, Ann Huang (黃尹宣) from Pick Food Up kitchen, had contacted restaurants and food suppliers to gather some of their surplus food before the event.
+It was great to see a happy crowd of people getting active on food waste and the event was a nice start with hopefully lots more to come soon!
 
-![](https://raw.githubusercontent.com/foodsharing-taiwan/foodsharing.tw/master/assets/images/23799945_867812803401181_9048026681724072545_o.jpg)
+![](1.taiwan-group.jpg)
 
-At the same time Foodsharing Taiwan is working on setting up more public fridges and store cooperations in Taiwan. For the public fridges you can now find a list on [foodsharing.tw](https://foodsharing.tw/fridges/) (in Chinese), which is steadily growing and will be kept up to date. 
+At the same time Foodsharing Taiwan is working on setting up more public fridges and store cooperations in Taiwan. For the public fridges you can now find a list on [foodsharing.tw](https://foodsharing.tw/fridges/) (in Chinese), which is steadily growing and will be kept up to date.
 They are also making progress in approaching new stores, while some of the stores are worrying, that they might lose customers because of their cooperation. One bakery apparently even reported that some of the foodsavers were customers before and now buy less. This is not easy to resolve, but we'll do our best to work on a solution together!
 
 _by Janina and Stefan_
