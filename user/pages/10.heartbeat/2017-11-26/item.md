@@ -43,6 +43,8 @@ _by Janina and Stefan_
 
 Over the course of the last week the [WuppDays Dargelütz](http://dargeluetz.weebly.com/solidarity-economy-wuppdays.html) took place! The focus lay on community and the question of how to organize communal economy in a way that fits the value of solidarity. We were a group of around 10 people, who gathered in the tiny village of Dargelütz, where the [VFS](http://dargeluetz.weebly.com/der-vfs-ev.html) has property and commits it to experiments of community since more than 20 years.
 
+![](0.dargeluetz.jpg)
+
 There were talks and workshops about alternative currencies, experiences with different communities and how they chose to organize their economies, as well as warm baths - heated up sustainably via the newly-built [Biomeiler](https://de.wikipedia.org/wiki/Biomeiler) - and vegan food. It was small, cozy and surprisingly chill WuppDays this time... ;)
 
 _by Janina_
