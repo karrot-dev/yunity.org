@@ -67,6 +67,13 @@ By now he is preparing everything that this yunity-ish subproject can start with
 
 _by Steffen_
 
+## [WurzenerWinterTage](https://kanthaus.online/events/2017wuwita/)
+Winter time should be chilling time. It is spend best with good friends: Cuddling, sharing feelings, sharing knowledge.
+
+The WurzenerWinterTage will take place at Kanthaus and provide the opportunity to reflect on the recent year as well as meet again with friends and nice new people.
+
+Not only will we spend a lot of time in bed together, but we will also have different workshops to share our experiences and just enjoy a good time together.
+
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
