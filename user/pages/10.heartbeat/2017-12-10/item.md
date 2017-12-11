@@ -32,8 +32,12 @@ Easily accessible electricity raises some more sustainability and efficiency que
 - Does it make more sense to operate a dryer than to dry laundry in heated rooms? (The answer is a clear yes!)
 - Does it make more sense to boil water in a pot on a gas stove or in an electric kettle? (The answer is not clear and depends on how well the pot fits the flame and such. In general the stove is the slightly better choice. We will still operate an electric kettle in the downstairs office soon, since the difference is really not big.)
 
+Since we had a lot of problems with and discussions about humidity, Matthias installed a sensor in the hallway of K20-1. It now logs temperature, humidity and dewpoint and transmits it to the yunity server, where a nice graph is created by grafana. This graph then gets displayed on an old smartphone in K20-1 again, so that everyone in the house can have an overview. This is what it looks like:
+
+![](tempsensor171210.png)
+
 ## About the heartbeat.
-The heartbeat is a biweekly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
 ### How to contribute?
 Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback! ^_^
