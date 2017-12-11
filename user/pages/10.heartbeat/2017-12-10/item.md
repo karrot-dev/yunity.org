@@ -48,7 +48,7 @@ Easily accessible electricity raises some more sustainability and efficiency que
 - Does it make more sense to operate a dryer than to dry laundry in heated rooms? (The answer is a clear yes!)
 - Does it make more sense to boil water in a pot on a gas stove or in an electric kettle? (The answer is not clear and depends on how well the pot fits the flame and such. In general the stove is the slightly better choice. We will still operate an electric kettle in the downstairs office soon, since the difference is really not big.)
 
-Since we had a lot of problems with and discussions about humidity, Matthias installed a sensor in the hallway of K20-1. It now logs temperature, humidity and dewpoint and transmits it to the yunity server, where a nice graph is created by grafana. This graph then gets displayed on an old smartphone in K20-1 again, so that everyone in the house can have an overview. This is what it looks like:
+Since we had a lot of problems with and discussions about humidity, Tilmann installed a sensor in the hallway of K20-1. It now logs temperature, humidity and dewpoint and transmits it to the yunity server, where a nice graph is created by grafana. This graph then gets displayed on an old smartphone in K20-1 again, so that everyone in the house can have an overview. This is what it looks like:
 
 ![](0tempsensor171210.png)
 
