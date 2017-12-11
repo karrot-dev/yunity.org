@@ -11,13 +11,13 @@ taxonomy:
 
 ## [foodsharing](https://foodsharing.de)-dev
 
-Happy Birthday, foodsharing! The 12.12.2012 was a big date - when lebensmittelretten.de and foodsharing.de merged into what you know of as foodsharing.de.
-This date was also chosen as the launch date for a new media campaign to spread the word about foodsaving and sharing even more.
+Happy Birthday, foodsharing! The 12.12.2012 was a big date - when lebensmittelretten.de and foodsharing.de merged into what you know of as foodsharing.de today.
+This date was also chosen as the launch date for a new media campaign to spread the word about foodsaving and foodsharing even more.
 This is why a new landing page is published at the same time as this heartbeat.
 
 The new page should make foodsharing.de more newcomer friendly. Thanks to [@thinkaround](https://gitlab.com/thinkround) for all the work around the landing page! To me, it is very worth it.
 
-At the same time, this date reminds me of my own start of foodsharing. I joined the team shortly before the websites got merged, for the 12.12.2014 - and quickly became the maintainer of it. 
+At the same time, this date reminds me of my own start of foodsharing. I joined the team shortly before the websites got merged for the 12.12.2014 - and quickly became the maintainer of it.
 
 The changes since the last release on 18.10.2017 are mostly related to spelling (Thanks to [@peter.toennies](https://gitlab.com/thinkround) for always keeping up on this topic!), as well as a lot of refactoring and testing sent emails.
 
@@ -36,8 +36,6 @@ Carlo jumped in to push the start of foodsharing Valencia. He connected some int
 Lotta is a German foodsaver, who currently spends a year abroad in Sweden. She lives in the small town of Boras, only an hour away from Gothenburg, and she is keen on starting foodsharing in Boras, too. She already connected to the [Solikyl](http://solikyl.se/about/) folks and is now in the process of gathering people to help her in this endeavor. More info to be coming!
 
 _by Janina_
-
-## [Karrot](https://karrot.world)
 
 ## [Kanthaus](https://kanthaus.online)
 
@@ -70,11 +68,13 @@ By now he is preparing everything that this yunity-ish subproject can start with
 _by Steffen_
 
 ## [WurzenerWinterTage](https://kanthaus.online/events/2017wuwita/)
-Winter time should be chilling time. It is spend best with good friends: Cuddling, sharing feelings, sharing knowledge.
+Winter time should be a relaxing time. It is spend best with good friends: Cuddling, sharing feelings, sharing knowledge.
 
-The WurzenerWinterTage will take place at Kanthaus and provide the opportunity to reflect on the recent year as well as meet again with friends and nice new people.
+The WurzenerWinterTage will take place at Kanthaus and provide the opportunity to reflect on the last year as well as meet again with friends and nice new people.
 
-Not only will we spend a lot of time in bed together, but we will also have different workshops to share our experiences and just enjoy a good time together.
+We will have different workshops to share our experiences, stay long in our cozy sleeping rooms and just enjoy a good time together.
+
+_by Matthias_
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
