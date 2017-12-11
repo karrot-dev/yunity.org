@@ -11,17 +11,19 @@ taxonomy:
 
 ## [foodsharing](https://foodsharing.de)-dev
 
-## [Karrot](https://karrot.world)
-
 ## [Foodsaving.world](https://foodsaving.world)
+
+Fausto is in Quito, the capital of Ecuador, since a while now and he [pretty successfully started foodsharing](https://www.facebook.com/groups/666293733578955/). Now the question is if it is going to be sustainable as well. In the beginning he built up everything on his own, did all the pick-ups and redistributions and lacked support of others in the daily foodsaving work. He will be leaving Quito in the end of December, so let's hope that he can make the sparks fly until then!
+
+![Fausto in action](faustosaves.jpg)
 
 Itai from Tel Aviv sent us a mail in which we were told that they already have a small foodsharing initiative going: They save food from a farmer's market and redistribute it via a FoodShare-Point. They now wrote to us to request some advice on how to expand and happily looked into our [manual on how to build and maintain cooperations with stores](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/46203075/How+to+build+and+maintain+cooperations+with+stores). We are looking forward to hearing about their progress!
 
 Carlo jumped in to push the start of foodsharing Valencia. He connected some interested individuals in the area and translated the [FSP rules sheet into Spanish](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/110428163/FoodShare+Point+Rules+Sheet+ES). While doing the latter he came across some conceptual differences with regards to use-by and best-before dates, which yet need to be figured out. If anybody out there has a good understanding of the Spanish system of declaring food, please [let us know](mailto:foodsaving@yunity.org)!
 
-Lotta is a German foodsaver, who currently spends a year abroad in Sweden. She lives in the small town of Boras, only an hour away from Gothenburg, and she is keen on starting foodsharing in Boras, too. She already connected to the Solikyl folks and is now in the process of gathering people to help her in this endeavor. More info to be coming!
+Lotta is a German foodsaver, who currently spends a year abroad in Sweden. She lives in the small town of Boras, only an hour away from Gothenburg, and she is keen on starting foodsharing in Boras, too. She already connected to the [Solikyl](http://solikyl.se/about/) folks and is now in the process of gathering people to help her in this endeavor. More info to be coming!
 
-Fausto is in Quito, the capital of Ecuador, since a while now and he pretty successfully started foodsharing. Now the question is if it is going to be sustainable as well. In the beginning he built up everything on his own, did all the pick-ups and redistributions and lacked support of others in the daily foodsaving work. He will be leaving Quito in the end of December, so let's hope that he can make the sparks fly until then!
+## [Karrot](https://karrot.world)
 
 ## [Kanthaus](https://kanthaus.online)
 
