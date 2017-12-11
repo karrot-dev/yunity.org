@@ -23,6 +23,8 @@ Carlo jumped in to push the start of foodsharing Valencia. He connected some int
 
 Lotta is a German foodsaver, who currently spends a year abroad in Sweden. She lives in the small town of Boras, only an hour away from Gothenburg, and she is keen on starting foodsharing in Boras, too. She already connected to the [Solikyl](http://solikyl.se/about/) folks and is now in the process of gathering people to help her in this endeavor. More info to be coming!
 
+_by Janina_
+
 ## [Karrot](https://karrot.world)
 
 ## [Kanthaus](https://kanthaus.online)
@@ -38,15 +40,20 @@ Since we had a lot of problems with and discussions about humidity, Matthias ins
 
 ![](0tempsensor171210.png)
 
+_by Janina_
+
 ## [Harzgerode](https://gemeinschaftsstifter.info)
 There’s something going on in Harzgerode.
 The ecovillage-like community is taking shape slowly but steadily. Currently a constitution is being written to provide a structure how to become a member or how decisions are being made.
 A big part of this ecovillage style is, that different groups with their yunique lifestyles are very much appreciated.
 So the plan is that one of the outbuildings (most probably Inspektorenhaus/Oberarzthaus) will be provided for a group of people interested in intense sharing, functional living etc.
-Harzgerode is ideal for such a project, because due to the main community (Gemeinschaftsstifter) there won’t be any paperwork do do or ground tax to pay.
-Currently Steffen is the only resident yuniteer. Well. Sharing doesn’t work THAT good while being alone 😉. So he’s always happy about visitors.
+Harzgerode is ideal for such a project, because due to the main community (Gemeinschaftsstifter) there won’t be any paperwork to do or ground tax to pay.
+Currently Steffen is the only resident yuniteer. Well. Sharing doesn’t work THAT well while being alone 😉. So he’s always happy about visitors.
 By now he is preparing everything that this yunity-ish subproject can start with full throttle at the very latest in springtime.
 
+![](hz_winter.jpg)
+
+_by Steffen_
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
