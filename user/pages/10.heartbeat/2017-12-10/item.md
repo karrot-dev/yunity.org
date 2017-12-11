@@ -15,11 +15,11 @@ Happy Birthday, foodsharing! The 12.12.2012 was a big date - when lebensmittelre
 This date was also chosen as the launch date for a new media campaign to spread the word about foodsaving and foodsharing even more.
 This is why a new landing page is published at the same time as this heartbeat.
 
-The new page should make foodsharing.de more newcomer friendly. Thanks to [@thinkaround](https://gitlab.com/thinkround) for all the work around the landing page! To me, it is very worth it.
+The new page should make foodsharing.de more newcomer friendly. Thanks to [@thinkround](https://gitlab.com/thinkround) for all the work around the landing page! To me, it is very worth it.
 
 At the same time, this date reminds me of my own start of foodsharing. I joined the team shortly before the websites got merged for the 12.12.2014 - and quickly became the maintainer of it.
 
-The changes since the last release on 18.10.2017 are mostly related to spelling (Thanks to [@peter.toennies](https://gitlab.com/thinkround) for always keeping up on this topic!), as well as a lot of refactoring and testing sent emails.
+The changes since the last release on 18.10.2017 are mostly related to spelling (Thanks to [@peter.toennies](https://gitlab.com/peter.toennies) for always keeping up on this topic!), as well as a lot of refactoring and testing sent emails.
 
 _by Matthias_
 
