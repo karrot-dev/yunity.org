@@ -38,6 +38,16 @@ Since we had a lot of problems with and discussions about humidity, Matthias ins
 
 ![](tempsensor171210.png)
 
+## [Harzgerode](https://gemeinschaftsstifter.info)
+There’s something going on in Harzgerode.
+The ecovillage-like community is taking shape slowly but steadily. Currently a constitution is being written to provide a structure how to become a member or how decisions are being made.
+A big part of this ecovillage style is, that different groups with their yunique lifestyles are very much appreciated.
+So the plan is that one of the outbuildings (most probably Inspektorenhaus/Oberarzthaus) will be provided for a group of people interested in intense sharing, functional living etc.
+Harzgerode is ideal for such a project, because due to the main community (Gemeinschaftsstifter) there won’t be any paperwork do do or ground tax to pay.
+Currently Steffen is the only resident yuniteer. Well. Sharing doesn’t work THAT good while being alone 😉. So he’s always happy about visitors.
+By now he is preparing everything that this yunity-ish subproject can start with full throttle at the very latest in springtime.
+
+
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
