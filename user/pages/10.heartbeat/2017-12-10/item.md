@@ -11,6 +11,18 @@ taxonomy:
 
 ## [foodsharing](https://foodsharing.de)-dev
 
+Happy Birthday, foodsharing! The 12.12.2012 was a big date - when lebensmittelretten.de and foodsharing.de merged into what you know of as foodsharing.de.
+This date was also chosen as the launch date for a new media campaign to spread the word about foodsaving and sharing even more.
+This is why a new landing page is published at the same time as this heartbeat.
+
+The new page should make foodsharing.de more newcomer friendly. Thanks to [@thinkaround](https://gitlab.com/thinkround) for all the work around the landing page! To me, it is very worth it.
+
+At the same time, this date reminds me of my own start of foodsharing. I joined the team shortly before the websites got merged, for the 12.12.2014 - and quickly became the maintainer of it. 
+
+The changes since the last release on 18.10.2017 are mostly related to spelling (Thanks to [@peter.toennies](https://gitlab.com/thinkround) for always keeping up on this topic!), as well as a lot of refactoring and testing sent emails.
+
+_by Matthias_
+
 ## [Foodsaving.world](https://foodsaving.world)
 
 Fausto is in Quito, the capital of Ecuador, since a while now and he [pretty successfully started foodsharing](https://www.facebook.com/groups/666293733578955/). Now the question is if it is going to be sustainable as well. In the beginning he built up everything on his own, did all the pick-ups and redistributions and lacked support of others in the daily foodsaving work. He will be leaving Quito in the end of December, so let's hope that he can make the sparks fly until then!
