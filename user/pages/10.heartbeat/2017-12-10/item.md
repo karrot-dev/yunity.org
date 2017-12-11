@@ -36,7 +36,7 @@ Easily accessible electricity raises some more sustainability and efficiency que
 
 Since we had a lot of problems with and discussions about humidity, Matthias installed a sensor in the hallway of K20-1. It now logs temperature, humidity and dewpoint and transmits it to the yunity server, where a nice graph is created by grafana. This graph then gets displayed on an old smartphone in K20-1 again, so that everyone in the house can have an overview. This is what it looks like:
 
-![](tempsensor171210.png)
+![](0tempsensor171210.png)
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
