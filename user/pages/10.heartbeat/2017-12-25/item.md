@@ -22,3 +22,5 @@ Apart from that Björn and Janina went to [Querbeet]() on Saturday 16 to help ou
 ![](0querbeet.jpg)
 
 You may have noticed that we had some problems regarding translations on our homepage so far. That's why Matthias recreated it using grav and now other language versions should work much more smoothly. It is not yet deployed to our main link, but you can have a peek already at [grav.kantaus.online](https://grav.kanthaus.online).
+
+_by Janina_
