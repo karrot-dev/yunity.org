@@ -33,7 +33,7 @@ On December 14 Lise, Bodhi, Matthias, Janina and Axel held a pitch at Social Imp
 
 ![](resourcePresi.png)
 
-Apart from that Björn and Janina went to [Querbeet]() on Saturday 16 to help out with a foodsharing KifA (Kitchen for All) at the sustainable Christmas market, that was taking place in this neighborhood garden on that day.
+Apart from that Björn and Janina went to [Querbeet](http://www.querbeet-leipzig.de/) on Saturday 16 to help out with a foodsharing KifA (Kitchen for All) at the sustainable Christmas market, that was taking place in this neighborhood garden on that day.
 
 ![](0querbeet.jpg)
 
