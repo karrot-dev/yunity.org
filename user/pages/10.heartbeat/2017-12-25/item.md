@@ -14,9 +14,11 @@ taxonomy:
 We're planning the first foodsaving worldwide hackweek at the end of February 2017 in Wurzen (close to Leipzig, Germany). If you're interested in joining us, be it as developer or communication manager, tell us [via e-mail](hackweek@foodsaving.world).
 Karrot will most likely also be part of the [one-day CivicTecGbg hackathon](http://civictechgbg.se/) at March 10th in Gothenburg, Sweden - thanks to Bruno for arranging this!
 
-Chinese translations were updated by _shangkuanlc_, we received praise from Kristijan:
+We received praise from Kristijan:
 
 > Nice work- haven‘t looked into karrot for a while- like the person sleeping in the bed if there are no pickups. Nice little new things here and there to explore
+
+Chinese translations were updated by _shangkuanlc_.
 
 Code-wise, also some things happened! Tilmann upgraded the server-side code to Django 2.0, contributed bugfixes to Django REST Framework and Django itself, refactored all frontend state management modules into a simpler style and added snapshot tests for frontend components.
 Lars started working on the [pickup feedback UI](https://github.com/yunity/karrot-frontend/pull/803), Janina adjusted the frontend code style to conform more with the VueJS style guide, Lukas started working on token-based actions for backend and Nick added an ansible-based configuration to our deployment on the _yuca_ server.
