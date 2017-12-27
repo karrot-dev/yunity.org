@@ -11,7 +11,7 @@ taxonomy:
 
 ## [Karrot](https://karrot.world)
 
-We're planning the first foodsaving worldwide hackweek of 2017 at the end of February at the [Kanthaus in Wurzen](https://kanthaus.online). If you're interested in joining us, be it as developer or communication manager, tell us [via e-mail](hackweek@foodsaving.world).
+We're planning the first foodsaving worldwide hackweek of 2018 at the end of February at the [Kanthaus in Wurzen](https://kanthaus.online). If you're interested in joining us, be it as developer or communication manager, tell us [via e-mail](hackweek@foodsaving.world).
 Karrot will most likely also be part of the [one-day CivicTecGbg hackathon](http://civictechgbg.se/) at March 10th in Gothenburg, Sweden - thanks to Bruno for arranging this!
 
 We received praise from Kristijan:
