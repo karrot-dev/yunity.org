@@ -46,7 +46,7 @@ Still, the planning is in full swing! There have been already a lot of meetings 
 
 #### Challenges/help needed
 
-* As stated above, the Berlin event is going to be huge! So help is needed at every corner: Planning, organizing, promoting, securing food, etc. etc. If you want to get involved, please contact [Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) , join [#wuppdays_xxl_berlin](https://yunity.slack.com/messages/wuppdays_xxl_berlin/) on Slack or simply [write us an email](https://yunity.atlassian.netmailto:mail@yunity.org) .
+* As stated above, the Berlin event is going to be huge! So help is needed at every corner: Planning, organizing, promoting, securing food, etc. etc. If you want to get involved, please contact [Paul Free](https://yunity.atlassian.net/wiki/display/~Paul+Free) , join [#wuppdays_xxl_berlin](https://yunity.slack.com/messages/wuppdays_xxl_berlin/) on Slack or simply [write us an email](mailto:mail@yunity.org) .
 
 ## Structure.
 
@@ -87,7 +87,7 @@ Still, the planning is in full swing! There have been already a lot of meetings 
 
 #### Challenges/help needed
 
-* Do you know anything about alternative methods of healing or how a health network following the values of sharing can be established? Please let us know! In case you don't know how to contact us, just [write us a mail](https://yunity.atlassian.netmailto:mail@yunity.org) and we'll forward it to [Lara Earthling](https://yunity.atlassian.net/wiki/display/~rose+earthling) .
+* Do you know anything about alternative methods of healing or how a health network following the values of sharing can be established? Please let us know! In case you don't know how to contact us, just [write us a mail](mailto:mail@yunity.org) and we'll forward it to [Lara Earthling](https://yunity.atlassian.net/wiki/display/~rose+earthling) .
 
 ## About the heartbeat.
 
