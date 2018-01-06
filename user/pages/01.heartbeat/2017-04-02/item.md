@@ -8,9 +8,7 @@ taxonomy:
 published: true
 ---
 
-The yunity heartbeat - what has each team done, what are they doing and what do they need help with.
-
-* * *
+**The yunity heartbeat** - what has each team done, what are they doing and what do they need help with.
 
 ## Wurzen Planning.
 
