@@ -8,33 +8,31 @@ taxonomy:
 published: true
 ---
 
-The yunity heartbeat - what has each team done, what are they doing and what do they need help with.
-
-* * *
+**The yunity heartbeat** - what has each team done, what are they doing and what do they need help with.
 
 ## Foodsaving Worldwide.
 
-*   We started a new small project to help people save food on every occasion: The foodsaving language guide. [So far it's just a pad](https://pad.disroot.org/p/fslanguageguide) , where we collect useful phrases, that can be used to talk to shop owners. We hope to come up with a nice collection, that will then be translated into as many languages as possible, to on the one hand help foodsaving groups to build up cooperations and on the other to enable freegan travelers to live off the surplus of abundant consumer societies, in which dumpster diving proves difficult.
+* We started a new small project to help people save food on every occasion: The foodsaving language guide. [So far it's just a pad](https://pad.disroot.org/p/fslanguageguide) , where we collect useful phrases, that can be used to talk to shop owners. We hope to come up with a nice collection, that will then be translated into as many languages as possible, to on the one hand help foodsaving groups to build up cooperations and on the other to enable freegan travelers to live off the surplus of abundant consumer societies, in which dumpster diving proves difficult.
 
 ### News from foodsaving groups
 
-*   foodsharing Bilbao had [its first distribution event](https://www.facebook.com/events/445975849075194/) at Karmela on April 27th.
-*   Did you know that on April 29th there was World Disco Soup Day? Well the foodsharing groups in Maastricht and Copenhagen did, and so they did what was due: Hosting disco soup events! ![](/user/themes/twentyfifteen/images/emoticons/biggrin.png)
-*   foodsharing Poland and its ever-growing army of Food-Share Points has now been featured in an article in a magazine! See the Polish original [here](http://cojestgrane24.wyborcza.pl/cjg24/1,13,21634177,147811,Jadlodzielnie-w-Polsce--Uczymy-sie-nie-wyrzucac-je.html) . (We already did a raw text-only translation in a pad, which you can access [here](https://pad.riseup.net/p/fspolskaarticle) , and are still waiting for permission to publish the translated version on foodsaving.today.)
-*   [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) recently stumbled upon this [video about foodsharing Madrid](http://laaventuradeaprender.educalab.es/-/foodsharing-espana) . Unable to tell how old it is, she added Luis Tamayo on facebook and is now hoping to hear the whole story from him. It hopefully is one, that is still ongoing! ![](/user/themes/twentyfifteen/images/emoticons/wink.png)
-*   [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) is also in contact with a motivated guy named Angel from Valencia, who is wondering why there is a foodsharing Valencia facebook group, but no activity. Maybe he can be coached - just like Unai was - and enabled to reactivate the foodsharing project of Valencia. And maybe that will be a reason to revisit this beautiful city, Janina and Tilmann just came by in February... ![](/user/themes/twentyfifteen/images/emoticons/wink.png)
-*   The last piece of intel from the Spain research is, that there apparently is a foodsharing group in León. Alvaro Saiz Ruiz - the man behind Nevera Solidaria, who [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) and [Unai Gaztelu](https://yunity.atlassian.net/wiki/display/~Mettodo) visited in Galdako - said so, but we have not been in contact with them so far. We found [a page from 2015](http://www.recuore.com/foodsharing-leon/) , where they apparently took part in the Recuore Festival (there also is [a video](https://www.youtube.com/watch?v=F8sUjt-B8DM) , that shows a whole hour of discussion about food waste!) and [another page](https://www.deotramanera.co/ayudar/economicamente-dinero/foodsharing-disco-sopa-cuando-repartir-comida-es-cosa-todos) from around the same time lists even more interesting parties, that work for the same goal as we do, but there's nothing more recent to find as of now. What happened there? Who are or have been the main people behind these initiatives? What became of them? Foodsaving research can be like a detective story sometimes...^^
+* foodsharing Bilbao had [its first distribution event](https://www.facebook.com/events/445975849075194/) at Karmela on April 27th.
+* Did you know that on April 29th there was World Disco Soup Day? Well the foodsharing groups in Maastricht and Copenhagen did, and so they did what was due: Hosting disco soup events! :D
+* foodsharing Poland and its ever-growing army of Food-Share Points has now been featured in an article in a magazine! See the Polish original [here](http://cojestgrane24.wyborcza.pl/cjg24/1,13,21634177,147811,Jadlodzielnie-w-Polsce--Uczymy-sie-nie-wyrzucac-je.html). (We already did a raw text-only translation in a pad, which you can access [here](https://pad.riseup.net/p/fspolskaarticle), and are still waiting for permission to publish the translated version on foodsaving.today.)
+* [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) recently stumbled upon this [video about foodsharing Madrid](http://laaventuradeaprender.educalab.es/-/foodsharing-espana). Unable to tell how old it is, she added Luis Tamayo on facebook and is now hoping to hear the whole story from him. It hopefully is one, that is still ongoing! ;)
+* [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) is also in contact with a motivated guy named Angel from Valencia, who is wondering why there is a foodsharing Valencia facebook group, but no activity. Maybe he can be coached - just like Unai was - and enabled to reactivate the foodsharing project of Valencia. And maybe that will be a reason to revisit this beautiful city, Janina and Tilmann just came by in February... ;)
+* The last piece of intel from the Spain research is, that there apparently is a foodsharing group in León. Alvaro Saiz Ruiz - the man behind Nevera Solidaria, who [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) and [Unai Gaztelu](https://yunity.atlassian.net/wiki/display/~Mettodo) visited in Galdako - said so, but we have not been in contact with them so far. We found [a page from 2015](http://www.recuore.com/foodsharing-leon/) , where they apparently took part in the Recuore Festival (there also is [a video](https://www.youtube.com/watch?v=F8sUjt-B8DM), that shows a whole hour of discussion about food waste!) and [another page](https://www.deotramanera.co/ayudar/economicamente-dinero/foodsharing-disco-sopa-cuando-repartir-comida-es-cosa-todos) from around the same time lists even more interesting parties, that work for the same goal as we do, but there's nothing more recent to find as of now. What happened there? Who are or have been the main people behind these initiatives? What became of them? Foodsaving research can be like a detective story sometimes...^^
 
 ### [foodsaving.today](https://foodsaving.today/)
 
-*   The second part of the series of blog posts from Gothenburg was published. This time it's all about the practical challenges a foodsaving project is confronted with when trying to get stores to cooperate. [Read here](https://foodsaving.today/en/blog/2017/04/21/foodsharing-gothenburg-part2) how the people of Gothenburg chose to deal with them!
+* The second part of the series of blog posts from Gothenburg was published. This time it's all about the practical challenges a foodsaving project is confronted with when trying to get stores to cooperate. [Read here](https://foodsaving.today/en/blog/2017/04/21/foodsharing-gothenburg-part2) how the people of Gothenburg chose to deal with them!
 
 ### [foodsaving.world](https://foodsaving.world/)
 
 Our project constantly attracts the interest of developers; we only need to find out how to grow the core group, currently consisting of Tilmann, Lars, Nick and Janina. Other than that, bits of progress were made:
 
-*   added a link to [our facebook group](https://www.facebook.com/groups/foodsaving.worldwide/) - thanks to [Pablo Carmona](https://github.com/PabloCarmona)
-*   proper templating support for e-mails - thanks to [ShababShahriar aka s2k](https://github.com/ShababShahriar)
+* added a link to [our facebook group](https://www.facebook.com/groups/foodsaving.worldwide/) - thanks to [Pablo Carmona](https://github.com/PabloCarmona)
+* proper templating support for e-mails - thanks to [ShababShahriar aka s2k](https://github.com/ShababShahriar)
 
 The changes will be online soon. For the brave and curious: you can already try them out on [dev.foodsaving.world](https://dev.foodsaving.world) .
 
@@ -42,11 +40,10 @@ The changes will be online soon. For the brave and curious: you can already try 
 
 There is a new post on the foodsharing devblog concerning [the recent developments at the Easter hackathon](https://devblog.foodsharing.de/2017/04/18/easter-foodsharing-hackathon.html) in Berlin. [Matthias Larisch](https://yunity.atlassian.net/wiki/display/~matthias) and Raphel Wintrich came to [Nick Sellen](https://yunity.atlassian.net/wiki/display/~nicksellen) 's place and the three of them were coding together productively, writing more than 120 messages in #foodsharing-dev on Slack and inspired some enthusiastic feedback:
 
-![](2017-04-30/petertonnies_wow.png)
+![](petertonnies_wow.png)
 
-![](2017-04-30/unicorned_wow.png)
+![](unicorned_wow.png)
 
-* * *
 
 ## Harzgerode.
 
@@ -54,19 +51,17 @@ Since the beginning of 2017 Harzgerode has been a place for yuniteers to go to. 
 
 But it's not only or mainly yunity folks, who populate the building and compound. Since it is such a great area, this year's [undjetzt?! conference](http://www.undjetzt-konferenz.de/) will take place in Harzgerode and maybe even the [Utopival](http://www.utopival.org/) . Those two events are very close to yunity, be it thematically or personally, so synergies will definitely form! For example, compost toilets and solar showers are already being built to serve all of the events.
 
-* * *
-
 ## yunity Website.
 
-As announced in [the last heartbeat](https://yunity.atlassian.net/wiki/display/YUN/2017/04/16/yunity+heartbeat+2017-04-16) , [Nick Sellen](https://yunity.atlassian.net/wiki/display/~nicksellen) started working on a new and pretty minimal website for [yunity.org](http://yunity.org) . [Tilmann](https://yunity.atlassian.net/wiki/display/~tiltec) and [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) are supporting him in this endeavor and now what's mostly missing is feedback from other yuniteers if we want to exchange the good old [project.yunity.org](https://project.yunity.org/) homepage with the proposed [new.yunity.org](https://new.yunity.org/en) one - which is still a work in progress of course.
+As announced in [the last heartbeat](https://yunity.org/en/heartbeat/2017-04-16) , [Nick Sellen](https://yunity.atlassian.net/wiki/display/~nicksellen) started working on a new and pretty minimal website for [yunity.org](http://yunity.org). [Tilmann](https://yunity.atlassian.net/wiki/display/~tiltec) and [Janina Abels](https://yunity.atlassian.net/wiki/display/~Janina) are supporting him in this endeavor and now what's mostly missing is feedback from other yuniteers if we want to exchange the good old [project.yunity.org](https://project.yunity.org/) homepage with the proposed [new.yunity.org](https://new.yunity.org/en) one - which is still a work in progress of course.
 
 If we can get to any kind of agreement the next heartbeat will already be published on [yunity.org](http://yunity.org) directly (no 'project' or 'new' will compromise the simple beauty of the url anymore then...).
 
 These are two proposals of how it could look like:
 
-![](2017-04-30/newyunityorg_white.png) ![](2017-04-30/newyunityorg_brown.png)
+![](newyunityorg_white.jpg)
 
-* * *
+![](newyunityorg_brown.jpg)
 
 ## About the heartbeat.
 
