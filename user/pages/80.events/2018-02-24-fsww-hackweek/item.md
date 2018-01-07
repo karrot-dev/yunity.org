@@ -1,5 +1,5 @@
 ---
-title: "Foodsaving worldwide hackweek & networking meet-up"
+title: "Hackweek & networking meet-up February 2018"
 date: "2018-02-24"
 continue_link: false
 taxonomy:
@@ -8,7 +8,7 @@ published: true
 ---
 
 Hackweeks are becoming a tradition and we're proud of that! :D  
-Our last [hackweek in September](../2017-09-24-neuried-hackweek), as well as our [hackathon in July](../2017-06-14-hackathon) was enjoyed by everyone (you can read about September in [this heartbeat](/heartbeat/2017-09-17) and about July in [this one](/heartbeat/2017-07-23)). Now we thought it was time for the next one!
+Our last [hackweek in September](../2017-09-13-neuried-hackweek), as well as our [hackathon in July](../2017-06-14-hackathon) was enjoyed by everyone (you can read about September in [this heartbeat](/heartbeat/2017-09-17) and about July in [this one](/heartbeat/2017-07-23)). Now we thought it was time for the next one!
 
 To further progress [karrot.world](https://karrot.world) and the foodsaving worldwide network, the next hackweek & networking meet-up is planned for the end of February.
 
@@ -22,13 +22,13 @@ The **foodsaving worldwide hackweek & networking meet-up** will take place from 
 
 To strengthen the bonds between contributors of all kinds: No matter if you're a foodsaving enthusiast who...
 - likes to code on [karrot](https://karrot.world),
-- relaxes while reporting bugs,
-- loves to discuss features,
-- thrives by building up local communities
+- wants to try out the software and is up for [reporting bugs](https://slackin.yunity.org),
+- loves to [discuss features](https://github.com/yunity/karrot-frontend/issues),
+- thrives by building up local communities,
 - maintains active cooperations,
-- cares for the glocal network of foodsavers,
-- is passionate about translating content
-- wants to improve and organize the knowledge library
+- cares for the [worldwide network of foodsavers](https://www.facebook.com/groups/foodsaving.worldwide/),
+- is passionate about [translating content](https://www.transifex.com/yunity-1/),
+- wants to improve and organize the [knowledge library](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/50069535/Material+to+get+started)
 
 **Everybody is welcome!**
 
@@ -38,7 +38,7 @@ We will:
 - improve communication inside and outside of the karrot and foodsaving worldwide team
 - think about how to present the extensive knowledge library we created
 
-If you want to know more about karrot.world and foodsaving worldwide, our informational website [foodsaving.world](https://foodsaving.world) might be helpful.
+If you want to know more about karrot.world and foodsaving worldwide, our info page [foodsaving.world](https://foodsaving.world) might be helpful.
 
 Besides that, expect to have a great time in the nice city of Wurzen together with lovely people!
 
@@ -46,13 +46,12 @@ If you have another idea what you would like to do with us, please get in contac
 
 ## So how will we...
 
-Some questions you can ask yourself to find out if this event it for you.
+Some questions you can ask yourself to find out if this event is for you.
 
 ### ... work?
 
 - Are you willing and able to focus for at least 6 hours per day (except for the first and the last day)?
 - Are you excited to self-organize together with people who are as passionate about foodsaving and technology as you are?
-- Can you bring your laptop? ;)
 
 ### ... eat?
 
@@ -72,7 +71,7 @@ Some questions you can ask yourself to find out if this event it for you.
 
 ### ... get there?
 
-[Kanthaus](https://kanthaus.online) is located at [Kantstraße 20 in Wurzen](https://www.openstreetmap.org/way/99897633#map=19/51.36711/12.74075), which is approx. 30 km East of Leipzig and not even 10 minutes by foot from the train station in Wurzen.
+[Kanthaus](https://kanthaus.online) is located at [Kantstraße 20 in Wurzen](https://www.openstreetmap.org/way/99897633#map=19/51.36711/12.74075), which is approximately 30 km east of Leipzig and not even 10 minutes by foot from the train station in Wurzen.
 
 **By train/bus**: From Leipzig central, there are two kinds of trains to Wurzen: one that takes 17 minutes (RE) and one that takes 40 minutes (S-Bahn). Both go once an hour. Use the travel planner of [mdv](https://www.mdv.de/fahren/fahrtenplaner) or [Deutsche Bahn](http://www.deutschebahn.com/).
 
