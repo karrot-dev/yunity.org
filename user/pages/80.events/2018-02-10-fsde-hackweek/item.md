@@ -1,5 +1,5 @@
 ---
-title: "Foodsharing.de Hackweek February 2018
+title: "Foodsharing.de Hackweek February 2018"
 date: "2018-02-10"
 continue_link: false
 taxonomy:
