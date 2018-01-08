@@ -12,6 +12,8 @@ Our last [hackweek in September](../2017-09-13-neuried-hackweek), as well as our
 
 To further progress [karrot.world](https://karrot.world) and the foodsaving worldwide network, the next hackweek & networking meet-up is planned for the end of February.
 
+**As always the whole event is completely free of charge!**
+
 ## When and where?
 
 The **foodsaving worldwide hackweek & networking meet-up** will take place from _2018-02-24 to 2018-03-04_ at [Kanthaus](https://kanthaus.online) in Wurzen near Leipzig.
