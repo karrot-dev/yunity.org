@@ -50,7 +50,7 @@ _by Tilmann & Janina_
 
 ## Kanthaus
 
-After the foodsharing festival meeting we talked about in the last issue, the group staying at Kanthaus slowly but steadily grew sammer again. Right now we are only six people and it feels like the houses are pretty much empty.
+After the foodsharing festival meeting we talked about in the last issue, the group staying at Kanthaus slowly but steadily grew smaller again. Right now we are only six people and it feels like the houses are pretty much empty.
 
 Last week we got the opportunity to save lots of old floorboards from a skip just a few hundred meters from our doorstep and we made good use of it! Over two days we moved wood into our yard and over two more days we removed quite some nails from the old boards. This task is not yet finished but out shed is pretty full with good, usable wood already!
 
@@ -64,7 +64,7 @@ _by Janina_
 
 The foodsharing development continues slowly but steadily. A new contributor, [@inktrap](https://gitlab.com/inktrap), supports us in doing devops as well as implementation stuff, which makes me very happy as we are especially looking for people who can take on different fields - as our team is still very small and the work is broad.
 
-The implementation of the new landing page, that should be ready for the foodsharing.de birthday party in december, is progressing as well.
+The implementation of the new landing page, that should be ready for the foodsharing.de birthday party in December, is progressing as well.
 
 I continued refactoring and get quite some enjoyment out of it. It is interesting to see the codebase slowly moving towards being modern PHP - at least structurally. I have big hope that this will also have implications on the ability to fix bugs and introduce new features soon.
 
