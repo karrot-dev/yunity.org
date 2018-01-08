@@ -21,7 +21,7 @@ To get more information on the status and the different software projects, pleas
 
 ## When and where?
 
-The **foodsharing.de hackweek & networking meet-up** will take place from _2018-02-10 to 2018-03-18_ at [Kanthaus](https://kanthaus.online) in Wurzen near Leipzig.
+The **foodsharing.de hackweek & networking meet-up** will take place from _2018-02-10 to 2018-02-18_ at [Kanthaus](https://kanthaus.online) in Wurzen near Leipzig.
 
 ![Kantstraße in summer](kantstrasse.jpg)
 
