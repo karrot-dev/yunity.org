@@ -25,7 +25,7 @@ The **foodsharing.de hackweek** will take place from _2018-02-10 to 2018-02-18_ 
 
 ## Who and why?
 
-To strengthen the bonds between code-contributors of all kinds: No matter if you're a foodsaving enthusiast who...
+To strengthen the bonds between code-contributors of all kinds: No matter if you're a foodsharing enthusiast who...
 - likes to code in legacy PHP applications
 - wants to try out shiny new things in vue.js or django
 - would like to get in contact with the developer team to start contributing more easily
@@ -41,6 +41,8 @@ Besides that, expect to have a great time in the nice city of Wurzen together wi
 
 If you have another idea what you would like to do with us, please get in contact. (See end of this article)
 
+![Laptop work in the office](laptopWork.jpg)
+
 ## So how will we...
 
 Some questions you can ask yourself to find out if this event is for you.
@@ -48,7 +50,7 @@ Some questions you can ask yourself to find out if this event is for you.
 ### ... work?
 
 - Are you willing and able to focus for at least 6 hours per day (except for the first and the last day)?
-- Are you excited to self-organize together with people who are as passionate about foodsaving and technology as you are?
+- Are you excited to self-organize together with people who are as passionate about foodsharing and technology as you are?
 
 ### ... eat?
 
