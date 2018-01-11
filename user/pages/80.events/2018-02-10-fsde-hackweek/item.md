@@ -7,7 +7,7 @@ taxonomy:
 published: true
 ---
 
-We have had good success in progress as well as socializing in our hackathons that took place over the last years, so what about doing a whole week of focussed coding on our beloved foodsharing.de?
+We've had good success in progressing the code as well as in socializing on our hackathons that took place over the last years, so what about doing a whole week of focused coding on our beloved foodsharing.de?
 
 The goal is to further progress refactoring of [foodsharing.de](https://foodsharing.de).
 Side topics that might come up depending on the participants are
@@ -15,26 +15,22 @@ Side topics that might come up depending on the participants are
   * migrate the mail system to new accounts
   * start work on [foodsharing light](https://beta.light.foodsharing.de) again ([Github Backend](https://github.com/foodsharing-dev/foodsharing-django-api), [Github Frontend](https://github.com/foodsharing-dev/foodsharing-light)
 
-To get more information on the status and the different software projects, please read in our [Devblog](https://devblog.foodsharing.de), the [New contributor notes](https://devblog.foodsharing.de/2017/10/12/new-contributor-notes.html).
+To get more information on the status and the different software projects, please read in our [Devblog](https://devblog.foodsharing.de). Especially the [New contributor notes](https://devblog.foodsharing.de/2017/10/12/new-contributor-notes.html) will be of interest if you never coded on foodsharing.de before.
 
 **As always the whole event is completely free of charge!**
 
 ## When and where?
 
-The **foodsharing.de hackweek & networking meet-up** will take place from _2018-02-10 to 2018-02-18_ at [Kanthaus](https://kanthaus.online) in Wurzen near Leipzig.
-
-![Kantstraße in summer](kantstrasse.jpg)
+The **foodsharing.de hackweek** will take place from _2018-02-10 to 2018-02-18_ at [Kanthaus](https://kanthaus.online) in Wurzen near Leipzig.
 
 ## Who and why?
 
-To strengthen the bonds between contributors of all kinds: No matter if you're a foodsaving enthusiast who...
+To strengthen the bonds between code-contributors of all kinds: No matter if you're a foodsaving enthusiast who...
 - likes to code in legacy PHP applications
 - wants to try out shiny new things in vue.js or django
-- would like to get in contact with the developer team
+- would like to get in contact with the developer team to start contributing more easily
 
-If you are interested in foodsaving in a more general term, the [Foodsaving worldwide hackweek](../2018-02-24-fsww-hackweek) might be more relevant to you.
-
-**Everybody is welcome!**
+If you are interested in foodsaving on a more general term, the [Foodsaving worldwide hackweek](../2018-02-24-fsww-hackweek) might be more relevant to you.
 
 We will:
 - improve existing functionality of foodsharing.de by refactoring
