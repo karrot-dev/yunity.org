@@ -1,9 +1,10 @@
 ---
 title: "Hackathon - Coding for Change"
 date: "2017-06-14"
-continue_link: false
+continue_link: true
 taxonomy:
     category: events
+    tag: [event]
 published: true
 ---
 
@@ -13,6 +14,8 @@ last October at [co-up](http://co-up.de) (thanks co-up!) and it was a great succ
 [our retrospective](https://yunity.atlassian.net/wiki/display/YUN/Hackathon+Retrospective) for the details.
 
 It's time for the next one!
+
+===
 
 ### Why?
 

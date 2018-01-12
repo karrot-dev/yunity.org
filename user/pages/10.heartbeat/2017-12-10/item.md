@@ -11,9 +11,10 @@ taxonomy:
 
 ## [foodsharing](https://foodsharing.de)-dev
 
-Happy Birthday, foodsharing! The 12.12.2012 was a big date - when lebensmittelretten.de and foodsharing.de merged into what you know of as foodsharing.de today.
-This date was also chosen as the launch date for a new media campaign to spread the word about foodsaving and foodsharing even more.
-This is why a new landing page is published at the same time as this heartbeat.
+Happy Birthday, foodsharing! The 12.12.2012 was a big date - when lebensmittelretten.de and foodsharing.de merged into what you know of as foodsharing.de today.  
+This date was also chosen as the launch date for a new media campaign to spread the word about foodsaving and foodsharing even more. This is why a new landing page is published at the same time as this heartbeat.
+
+===
 
 The new page should make foodsharing.de more newcomer friendly. Thanks to [@thinkround](https://gitlab.com/thinkround) for all the work around the landing page! To me, it is very worth it.
 

@@ -15,6 +15,8 @@ The [Hackweek](../2017-09-17) is over and we are back to working together in a r
 * Our hosted instance of the Karrot software will move to app.foodsaving.world (_to be decided_) to make it more clear that foodsaving worldwide and Karrot are _not_ the same
 * Karrot-frontend gets steadily rewritten and foodsharing.de development sees a surge of activity. Read more about these two topics down below:
 
+===
+
 ## Karrot
 
 After the end of the Hackweek, progress on the new VueJS-based frontend slowed down. Still, Nick, Lars and Tilmann have been working on the [_Megalist_](https://github.com/yunity/karrot-frontend/issues/619) tasks. Tests were added, the state management was improved, group conversations were enabled and the pick-up list got a nice fancy design.

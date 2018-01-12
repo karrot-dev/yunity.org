@@ -12,6 +12,8 @@ taxonomy:
 ## Foodsaving Worldwide Summer Camp / Hackweek
 The whole of the [foodsaving tool team](https://blog.foodsaving.world/team.en.html) and more gathered in Neuried to work on progressing code, improving structure and clarifying questions of identity with regards to [foodsharing.de](https://foodsharing.de). Productivity is high and the event is going on still!
 
+===
+
 ![Group picture](groupPic.jpg)
 
 ## [foodsaving.world](https://foodsaving.world)

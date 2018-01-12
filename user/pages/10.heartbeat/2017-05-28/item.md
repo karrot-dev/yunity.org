@@ -15,11 +15,14 @@ taxonomy:
 
 We said it was on a hiatus, but thanks to Mandy and Curtis there is still progress in the old train station of Bad Dürrenberg. Mandy recently shared some pictures with us in [#wupphaus-badue](https://yunity.slack.com/messages/C0KPUD3L7/) on [Slack](https://slackin.yunity.org/). The ones below are just a preview, all of them can be found [on our wiki](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=91131426).
 ![Living room on 1st floor](livingroom.jpg)
+
+===
+
 ![Sleeping room on ground floor](sleepingroom.jpg)
 
 ### Wurzen
 
-After a lot of dreaming and talking the plannings for the housing project in Wurzen are becoming more concrete, as [Matthias](https://github.com/NerdyProjects) pointed out with his recent post in [#wupphouse-planning](https://yunity.slack.com/messages/C3RS56Z38/) on [Slack](https://slackin.yunity.org/), which was directed at everyone interested: 
+After a lot of dreaming and talking the plannings for the housing project in Wurzen are becoming more concrete, as [Matthias](https://github.com/NerdyProjects) pointed out with his recent post in [#wupphouse-planning](https://yunity.slack.com/messages/C3RS56Z38/) on [Slack](https://slackin.yunity.org/), which was directed at everyone interested:
 
 TL;DR Update wupphouse wurzen:
 - doug/frank/me, august, 6months+
@@ -50,7 +53,7 @@ I will personally step out of the projekt Wurzen and communicate the lack of mon
 
 ### Dargelütz
 
-[Joachim](https://yunity.atlassian.net/wiki/display/~Joachim+Thome) recently took the lead of an already existing housing project in Dargelütz (a tiny village in Brandenburg). Now they are building with clay, learn about e.g. non-violent communication and systemic consensus together and enjoy their time at the construction site. Read more about the general circumstances [on this wiki page](https://yunity.atlassian.net/wiki/display/YUN/Dargeluetz+near+Parchim) and about the current proceedings on [Joachim's German project blog](http://dargeluetz.weebly.com/blog) 
+[Joachim](https://yunity.atlassian.net/wiki/display/~Joachim+Thome) recently took the lead of an already existing housing project in Dargelütz (a tiny village in Brandenburg). Now they are building with clay, learn about e.g. non-violent communication and systemic consensus together and enjoy their time at the construction site. Read more about the general circumstances [on this wiki page](https://yunity.atlassian.net/wiki/display/YUN/Dargeluetz+near+Parchim) and about the current proceedings on [Joachim's German project blog](http://dargeluetz.weebly.com/blog)
 
 ### Research
 
@@ -58,7 +61,7 @@ I will personally step out of the projekt Wurzen and communicate the lack of mon
 
 ## Foodsaving Worldwide
 
-### News from foodsaving groups 
+### News from foodsaving groups
 
 - On May 18-19 the [REFRESH Food Waste 2017 conference](http://eu-refresh.org/conference2017) was held in Berlin. It was an event that brought together people from various backgrounds to develop strategies to minimize food waste. [Janina](https://yunity.atlassian.net/wiki/spaces/~Janina) took part on behalf of foodsharing.de and helped out in the disco soup event on the 18th. It was an interesting evening and she mostly enjoyed getting to know the other volunteers from [The Real Junk Food Project Berlin](https://realjunkfoodberlin.wordpress.com/about/) and [Feedback](http://feedbackglobal.org/), while having real contact on eye-level with the more business-minded participants proved difficult. We _do_ have a different perspective after all...
 - Especially Feedback has already achieved quite a lot and offers resources to other motivated people, like this [guide to holding a 'Feeding the 5000' event](http://feedbackglobal.org/wp-content/uploads/2016/12/F5K-The-Introductory-Toolkit-1.pdf) or [this one](http://feedbackglobal.org/wp-content/uploads/2016/12/F5K-Disco-Chop-Small-Scale-Event-Toolkit.pdf) that helps you organize a normal, small disco soup evening.

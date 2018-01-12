@@ -13,7 +13,7 @@ taxonomy:
 
 From July 14 to 16 we spent two and a half productive days at [coup](http://co-up.de/), ate saved food and worked on our projects. Read more details below!
 
-![Chris at work](DSC02957.JPG)
+===
 
 ![Food!](DSC02972.JPG)
 

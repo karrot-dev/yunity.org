@@ -1,13 +1,15 @@
 ---
 title: "Foodsharing.de Hackweek February 2018"
 date: "2018-02-10"
-continue_link: false
+continue_link: true
 taxonomy:
     category: events
 published: true
 ---
 
 We've had good success in progressing the code as well as in socializing on our hackathons that took place over the last years, so what about doing a whole week of focused coding on our beloved foodsharing.de?
+
+===
 
 The goal is to further progress refactoring of [foodsharing.de](https://foodsharing.de).
 Side topics that might come up depending on the participants are

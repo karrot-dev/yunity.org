@@ -13,6 +13,8 @@ taxonomy:
 
 "Steady progress" could be an apt summary for the last two weeks. Nick got the Android app ready for testing and kept thinking about the best way to deliver automated builds to beta testers. Janina worked with Tilmann on the groups pickup page, fueled by user feedback. There's still [an ongoing discussion](https://github.com/yunity/karrot-frontend/issues/741) about which pickup dates to show in which place, input is highly welcome. Lukas finished his first [Karrot coding task](https://github.com/yunity/karrot-backend/issues/368), which was about improving the backend code structure. Tilmann spent most of his karrot coding time in refactoring, bringing the code into better shape. The focus lies on improving the backend API structure, the frontend state management, error handling code and data loading.
 
+===
+
 ![](karrot-pickups.png)
 _The new central pickup page (that doesn't satisfy all needs yet...)_
 

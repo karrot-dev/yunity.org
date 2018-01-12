@@ -11,10 +11,13 @@ taxonomy:
 
 ## Foodsaving Worldwide
 
-### News from foodsaving groups 
+### News from foodsaving groups
 
 * We renewed the contact to foodsharing Edinburgh, just to find out that it already is [foodsharing Scotland](http://www.foodsharing.scot/) - with active foodsaving projects in Aberdeen, Glasgow and Dumfries as well! In Edinburgh they maintain cooperations with 17 businesses, hold various distribution events every week and up to three Disco Soup events a year. On top of that they received government funding and are holding workshops now to educate students about sustainable cooking. Way to go, Scottish foodsavers! :D
 * On the 12th foodsharing Warsaw [celebrated their first anniversary](https://www.facebook.com/events/129721877573917/) with a little get-together of foodsavers and supporters. There was saved food and shared pride in all the success that was already reached over the past year. Congratulations foodsharing Warsaw! :D
+
+===
+
 ![Invitation to the anniversary event in Warsaw](fswarsaw_anniversary.jpg)
 * [Janina](https://yunity.atlassian.net/wiki/spaces/~Janina) met up with Hangshuen, who started [foodsharing Hong Kong](https://www.facebook.com/foodsharinghk/), and will hopefully soon get to read the complete report that she wrote about this endeavor - if we're lucky we'll even get permission to translate and publish it on [foodsaving.today](https://foodsaving.today).
 * Stefan from [foodsharing Taiwan](https://www.facebook.com/foodsharingtaiwan/) was also part of the little gathering and will go back to Taiwan soon. The plan is, that him rearriving at the island and putting in some energy will speed up the growth of the local foodsharing project again.

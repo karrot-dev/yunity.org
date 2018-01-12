@@ -18,6 +18,8 @@ Launch of a new version! After months of coding, we replace our good old Angular
 - Better mobile navigation with tabs on top and bottom navbar
 - Profile pages are much richer
 
+===
+
 ![](karrot-wall.png)
 ![](karrot-mobile.png)
 ![](karrot-profile.png)

@@ -19,6 +19,8 @@ As announced in the [last heartbeat](../2017-06-25), our hackathon will take pla
 
 Additionally, there will be people who are interested in having a look at the projects or will support the hackathon with food deliveries and cooking. Speaking of food: we will pick up food from lots of [foodsharing.de](https://foodsharing.de) cooperations in Berlin and made an agreement with [Wilmersburger](https://www.wilmersburger.de), who will send us a packet of vegan cheese.
 
+===
+
 For further promotion of the foodsaving tool at the hackathon, Laurina converted the logo into a stencil. Now we can print on shirts and other surfaces :)
 
 ![](0.fsworld_stencil.jpg?resize=400,400)
@@ -27,7 +29,7 @@ We are looking forward to meeting you in the evening of July 14th!
 
 ## [foodsharing.de](https://foodsharing.de)
 
-Next steps towards converting foodsharing.de PHP backend code into the Laravel framework have been done by Raphael W. He created a new Laravel project to try out a possible code structure. After feedback from Nick he plans to use the gained knowledge to integrate those ideas into the main foodsharing.de repository. It is unclear yet how Laravel's _Eloquent_ ORM will relate to the recently introduced [foodsharing-api](https://github.com/foodsharing-dev/foodsharing-api), which uses the _Doctrine_ ORM. 
+Next steps towards converting foodsharing.de PHP backend code into the Laravel framework have been done by Raphael W. He created a new Laravel project to try out a possible code structure. After feedback from Nick he plans to use the gained knowledge to integrate those ideas into the main foodsharing.de repository. It is unclear yet how Laravel's _Eloquent_ ORM will relate to the recently introduced [foodsharing-api](https://github.com/foodsharing-dev/foodsharing-api), which uses the _Doctrine_ ORM.
 
 ## [foodsaving.today](https://foodsaving.today)
 
@@ -56,7 +58,7 @@ In a later meeting, the [roadmap](https://github.com/yunity/foodsaving-frontend/
 
 ## WuppHaus Wurzen
 
-After some doubts regarding specific phrasings in the contract could be cleared, the two houses in Wurzen are finally being bought! The first yuniteers will go there next week already and after the hackathon work on the houses will really start! 
+After some doubts regarding specific phrasings in the contract could be cleared, the two houses in Wurzen are finally being bought! The first yuniteers will go there next week already and after the hackathon work on the houses will really start!
 
 ## Harzgerode
 

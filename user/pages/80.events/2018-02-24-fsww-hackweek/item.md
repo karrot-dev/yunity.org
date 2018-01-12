@@ -1,7 +1,7 @@
 ---
 title: "Hackweek & networking meet-up February 2018"
 date: "2018-02-24"
-continue_link: false
+continue_link: true
 taxonomy:
     category: events
 published: true
@@ -9,6 +9,8 @@ published: true
 
 Hackweeks are becoming a tradition and we're proud of that! :D  
 Our last [hackweek in September](../2017-09-13-neuried-hackweek), as well as our [hackathon in July](../2017-06-14-hackathon) was enjoyed by everyone (you can read about September in [this heartbeat](/heartbeat/2017-09-17) and about July in [this one](/heartbeat/2017-07-23)). Now we thought it was time for the next one!
+
+===
 
 To further progress [karrot.world](https://karrot.world) and the foodsaving worldwide network, the next hackweek & networking meet-up is planned for the end of February.
 

@@ -1,7 +1,7 @@
 ---
 title: "Foodsaving worldwide summer camp & hackweek"
 date: "2017-08-22"
-continue_link: false
+continue_link: true
 taxonomy:
     category: events
 published: true
@@ -10,6 +10,8 @@ published: true
 Our last [hackathon in July](../2017-06-14-hackathon) was enjoyed by everyone. You can read a retrospective about it in [this heartbeat](/heartbeat/2017-07-23).
 
 To further fuel progress on [foodsaving.world](https://foodsaving.world) and the foodsaving worldwide network, we plan a summer camp & hackweek in the mid of September.
+
+===
 
 ## Why?
 

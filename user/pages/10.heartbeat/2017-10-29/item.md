@@ -12,6 +12,8 @@ taxonomy:
 ## Foodsaving Worldwide
 Sooo many mails! You guys out there are really amazing! And all of a sudden you all reach out to us! :D This is exactly what we wanted, but lately we really feel a shortage of (wo)manpower to handle all the communication needed to answer everybody's questions. So if you wrote a mail to us and have not yet received an answer, please don't be disappointed: We will definitely get back to you, it may just take a while. Sorry!
 
+===
+
 ### foodsaving.world
 The huge influx of emails motivated us, however, to speed up the process to put the new landing page for foodsaving.world online. It will make much more information directly accessible to people, who just come by and want some answers to questions like:
 - How to start a foodsaving group?

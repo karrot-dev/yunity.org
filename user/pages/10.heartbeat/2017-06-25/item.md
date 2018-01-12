@@ -14,6 +14,8 @@ taxonomy:
 The discussion about a better software platform for sharing is going on! Bruno is working on [research on existing platforms](https://yunity.atlassian.net/wiki/pages/viewpage.action?pageId=91267179) and we want to collect feedback on [features that we deem important](https://yunity.atlassian.net/wiki/display/MULTI/Features).
 We had discussions about [P2P architecture](https://yunity.slack.com/messages/C5FFR125V/convo/C5FFR125V-1497623179.189265/), the user *unic0rned* presented us his [ideas of the *Karma* gift website](https://yunity.slack.com/archives/C5FFR125V/p1497680699352423) and Nick provided insight on [how to create a productive work environment](https://yunity.slack.com/archives/C5FFR125V/p1498296473141521).
 
+===
+
 *Note*: If you can't visit some of the links above, you might need to [join our Slack chat](https://slackin.yunity.org) first.
 
 ## Hackathon plannings
@@ -30,7 +32,7 @@ Matthias also had a productive phone call with Manuel from foodsharing.de in whi
 The [fourth and last part of the Foodsharing Gothenburg blog post series](https://foodsaving.today/en/blog/2017/06/27/foodsharing-gothenburg-part4) was released!
 
 > What happens here is that this food sharing point, with the fridge, the shelves and the big IKEA boxes [...] constituted a very basic infrastructure that people could use to engage in the act of sharing whatever food excess they have or find.
-> 
+>
 > There is no need for constant supervision of the fridge by any kind of formal organization (a company, a charity or public authorities), which would be responsible for the giving and taking happening on this food sharing point. There is no need either for a boss, whether from a company or from a non-profit, to organize or dictate how these interactions are going to take place.
 
 Happy reading!
@@ -47,7 +49,7 @@ The last two weeks have been rather quiet for the foodsaving tool that powers fo
 
 ## yunity.org website
 
-Tilmann finally pulled the plug on the old yunity.org website and migrated the existing content onto different places. Existing links will be redirected to the new locations. 
+Tilmann finally pulled the plug on the old yunity.org website and migrated the existing content onto different places. Existing links will be redirected to the new locations.
 
 ## Plannings for WuppHaus Wurzen
 

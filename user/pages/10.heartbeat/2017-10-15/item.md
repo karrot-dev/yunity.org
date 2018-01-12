@@ -12,6 +12,9 @@ taxonomy:
 ## Foodsaving Worldwide
 We recently received quite some mails again! <br>
 Christopher wants to carry the foodsaving and foodsharing movement to Canada, Patrycja to Hamar in Norway, Nana to Manchester in the UK and Alice to Besançon in France. On that note, here's some updates about already existing projects:
+
+===
+
 - **Copenhagen** is going strong as always. They just recently announced their very first community kitchen event. Visit their [facebook page](https://www.facebook.com/FoodsharingCopenhagen) for more details.
 - **Taiwan** received the g0v grant and now sees a surge of activity: They got a [new website](http://foodsharing.tw/) and are eager to help improve Karrot to a point they feel comfortable using it. The plan is to have a nice digital infrastructure to be able to grow bigger. As of now there are daily pick-ups at a bakery and two food-share points.
 - **Warsaw** already is home of 8 (!) food-share points! A sustainability blogger recently created a [pretty map](http://www.nanowosmieci.pl/wp-content/uploads/2017/10/jad%C5%82odzielnie-warszawa_ulotka.jpg) of all the Warsovian FSPs - or jadłodzielni as they're called in Polish. Their [facebook group](https://www.facebook.com/FoodsharingWarszawa/) reached 5000 likes just some days ago and they regularly appear in Polish media. There are more foodsharing projects in different Polish cities and if anyone can provide more info about those, I'd be happy to hear it! :)

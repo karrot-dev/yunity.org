@@ -5,6 +5,7 @@ continue_link: true
 taxonomy:
     category: blog
     tag: [heartbeat]
+published: true
 ---
 
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
@@ -12,6 +13,8 @@ taxonomy:
 ## [Kanthaus](https://kanthaus.online)
 
 Kanthaus becomes more and more cozy and more and more things are happening here, which is why for the first time it gets its own _subsections_ on the heartbeat. What a start into 2018! ;)
+
+===
 
 ### WuWiTa 2017
 
