@@ -13,7 +13,7 @@ image: cherrygirl_smallwithpadding.png
 
 > Networking, sharing experiences and supporting each other to make more of the edible food that currently goes to waste
 
-![](luisa_fsww.jpg)
+![](fsww_tinyppl.jpg)
 
 * Public website: [foodsaving.world](https://foodsaving.world?target=_blank)
 * Stories from foodsaving groups: [foodsaving.today](https://foodsaving.today/en?target=_blank)
