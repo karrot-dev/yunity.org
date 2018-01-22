@@ -38,10 +38,12 @@ Last week we hosted a [direct action training](https://kanthaus.online/events/20
 
 More events will follow over the next weeks, the first being a [building week](https://kanthaus.online/events/2018-01-29_building-week) starting on January 29. ([Click here](https://kanthaus.online/events/upcoming) to get an overview of upcoming events.)
 
+![](couplesTable.jpg)
+
 As you have probably guessed due to all those events, our basic infrastructure is ready! So now we need to figure out how to sustain it in the long run. Water, gas, electricity, internet and some building material are things we did not yet figure out how to get through non-monetary sharing alone, and let's not talk about health insurances...
-Since none of us is currently working for money, we had several meetings about different ways to finance what we do (like two meetings about aquiring public or foundation money, one [business proposal party](https://gitlab.com/kanthaus/kanthaus-public/blob/master/2018-01-13_businessParty.md) and of course many more casual talks about the general topic in smaller groups). We all share the opinion that events at Kanthaus should always be free of charge and that we don't want to take money from people who need it, but we also realized that we made it quite hard for people who _do_ have enough and _want_ to give money to us. We're working on that and in the meantime: If you happen to be a wealthy person and want to be a benefactor of the sharing culture at Kanthaus, please transfer your donation to our association's bank account:
-IBAN: DE85 8605 0200 1041 0436 90
-BIC: SOLADES1GRM
+Since none of us is currently working for money, we had several meetings about different ways to finance what we do (like two meetings about aquiring public or foundation money, one [business proposal party](https://gitlab.com/kanthaus/kanthaus-public/blob/master/2018-01-13_businessParty.md) and of course many more casual talks about the general topic in smaller groups). We all share the opinion that events at Kanthaus should always be free of charge and that we don't want to take money from people who need it, but we also realized that we made it quite hard for people who _do_ have enough and _want_ to give money to us. We're working on that and in the meantime: If you happen to be a wealthy person and want to be a benefactor of the sharing culture at Kanthaus, please transfer your donation to our association's bank account:  
+IBAN: DE85 8605 0200 1041 0436 90  
+BIC: SOLADES1GRM  
 Thank you! :)
 
 ## About the heartbeat.
