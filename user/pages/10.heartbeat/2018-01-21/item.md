@@ -46,6 +46,8 @@ IBAN: DE85 8605 0200 1041 0436 90
 BIC: SOLADES1GRM  
 Thank you! :)
 
+_by Janina_
+
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
