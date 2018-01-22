@@ -10,6 +10,30 @@ published: true
 
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
+## [Karrot](https://karrot.world)
+
+The possibility to upload user profile photos was added to [Karrot's development version](https://dev.karrot.world) by Tilmann, based on work by Nick.
+
+Lars submitted a design improvement with lots of changes and added group banners, Tilmann added editing of feedback and and made it possible to set a location just by clicking on the map.
+
+Lukas refactored the e-mail verification code and will use the same data models for other verification purposes next.
+
+Arnaud, a new contributor, worked on fixing the cancel buttons in the store edit form.
+
+![](karrot-profile-pictures.png)
+_Profile photos_
+
+![](karrot-group-banner.png)
+_Group banners_
+
+![](karrot-feedback-editing.png)
+_Editing of given feedback_
+
+As usual, this is just a rough overview and misses out all the small contributions that are needed to keep karrot running!
+
+_by Tilmann_
+
+
 ## [Kanthaus](https://kanthaus.online)
 Last week we hosted a [direct action training](https://kanthaus.online/events/2018-01-15_direct-action) with [Jörg Bergstedt](https://de.wikipedia.org/wiki/J%C3%B6rg_Bergstedt). The participants practiced to think freely and to find creative ways to go about situations of injustice: Chalk, humor and a little boldness are often enough to make a difference and there's no need for special occasions or expensive material as long as you know how to make use of what you have. It was definitely an inspiring seminar that was enjoyed by all participants.
 
