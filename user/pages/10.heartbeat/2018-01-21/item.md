@@ -21,13 +21,13 @@ Lukas refactored the e-mail verification code and will use the same data models 
 Arnaud, a new contributor, worked on fixing the cancel buttons in the store edit form.
 
 ![](1karrot-profile-pictures.png)
-_Profile photos_
+<br>_Profile photos_
 
 ![](2karrot-group-banner.png)
-_Group banners_
+<br>_Group banners_
 
 ![](3karrot-feedback-editing.png)
-_Editing of given feedback_
+<br>_Editing of given feedback_
 
 As usual, this is just a rough overview and misses out all the small contributions that are needed to keep karrot running!
 
