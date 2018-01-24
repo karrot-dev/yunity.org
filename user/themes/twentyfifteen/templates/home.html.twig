@@ -1,0 +1,21 @@
+{% extends 'partials/base.html.twig' %}
+{% block content %}
+  <article class="post-2 page type-page status-publish hentry {% if page.header.image %}has-post-thumbnail{% endif %}">
+    {% if page.header.image %}
+    <div class="post-thumbnail">
+            {{ page.media[page.header.image].html(page.title, page.title, 'attachment-post-thumbnail wp-post-image') }}
+    </div>
+    {% endif %}
+    <div class="entry-content">
+     {{ page.content }}
+   </div>
+ </article>
+
+  {% for post in page.find('/events').children.dateRange('now', '+10 years').order('date', 'desc').slice(0, 1) %}
+    {% include 'partials/blog_item.html.twig' with {'page':post, 'truncate':true, 'headline':'Next Event'} %}
+  {% endfor %}
+
+  {% for post in page.find('/heartbeat').children.order('date', 'desc').slice(0, 1) %}
+    {% include 'partials/blog_item.html.twig' with {'page':post, 'truncate':true, 'headline':'Last Heartbeat'} %}
+  {% endfor %}
+{% endblock %}

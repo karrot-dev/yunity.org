@@ -6,6 +6,9 @@ image: "header.jpg"
 metadata:
   'og:type': 'website'
   description: 'yunity is a network to promote sharing'
+twig_first: true
+process:
+    twig: true
 ---
 
 # yunity
