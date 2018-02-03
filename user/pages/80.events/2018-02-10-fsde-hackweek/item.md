@@ -15,7 +15,7 @@ The goal is to further progress refactoring of [foodsharing.de](https://foodshar
 Side topics that might come up depending on the participants are
   * fixing some easy to fix, but annoying bugs
   * migrate the mail system to new accounts
-  * start work on [foodsharing light](https://beta.light.foodsharing.de) again ([Github Backend](https://github.com/foodsharing-dev/foodsharing-django-api), [Github Frontend](https://github.com/foodsharing-dev/foodsharing-light)
+  * start work on [foodsharing light](https://beta.light.foodsharing.de) again ([Github Backend](https://github.com/foodsharing-dev/foodsharing-django-api), [Github Frontend](https://github.com/foodsharing-dev/foodsharing-light))
 
 To get more information on the status and the different software projects, please read in our [Devblog](https://devblog.foodsharing.de). Especially the [New contributor notes](https://devblog.foodsharing.de/2017/10/12/new-contributor-notes.html) will be of interest if you never coded on foodsharing.de before.
 
