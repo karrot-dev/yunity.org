@@ -44,7 +44,7 @@ _by Janina_
 
 - Joakim from Straßbourg is reaching out to get more information about the legal situation of foodsharing. Generally people seem to expect contracts between stores and foodsavers and are quite surprised in most cases when they find out that in Germany the waiver is signed by the foodsavers only: It is an agreement the foodsavers commit to, the stores don't have to worry about anything.
 
-- Robin and Betty from [DeKaskantine](http://www.kaskantine.nl/) in Amsterdam contacted us to find out ways to distribute a surplus of saved food. We gladly forwarded them to the existing initiatives in Amsterdam, namely [Taste before you Waste](http://amsterdam.tastebeforeyouwaste.org/) and Robin Food(https://robinfoodkollektief.nl/). We really hope to get a better, more personal contact to the foodsavers of the Dutch capital now! :)
+- Robin and Betty from [DeKaskantine](http://www.kaskantine.nl/) in Amsterdam contacted us to find out ways to distribute a surplus of saved food. We gladly forwarded them to the existing initiatives in Amsterdam, namely [Taste before you Waste](http://amsterdam.tastebeforeyouwaste.org/) and [Robin Food](https://robinfoodkollektief.nl/). We really hope to get a better, more personal contact to the foodsavers of the Dutch capital now! :)
 
 - Students from Malmö, Sweden, contacted us to ask us for our opinion on peer-to-peer foodsharing apps and told us that they'd do one as a project
 
