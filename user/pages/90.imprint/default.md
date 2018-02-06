@@ -12,9 +12,9 @@ E-Mail: [mail@yunity.org](mailto:mail@yunity.org)
 
 # Imprint
 
-> Share and Care e.V.<br>
-> Emmerweg 9<br>
-> 91056 Erlangen<br>
+> Wandel würzen e.V.<br>
+> Kantstraße 20<br>
+> 04808 Wurzen<br>
 > GERMANY
 
 The website presents some topics of yunity, but does not speak for the yunity network itself.
