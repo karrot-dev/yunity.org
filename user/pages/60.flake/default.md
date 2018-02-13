@@ -17,4 +17,4 @@ image: 'flakewithoutbg.jpg'
 
 ![](flakeCounsel.jpg)
 
-* Public website in German: [flake.world](https://flake.world/)
+* Public website in German: [flake.world](http://flake.world/)
