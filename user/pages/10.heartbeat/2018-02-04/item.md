@@ -20,7 +20,7 @@ _by Janina_
 ## [Kanthaus](https://kanthaus.online)
 During our [building week](https://kanthaus.online/events/2018-01-29_building-week) we managed to get quite some embellishments done! Silvan (our newest Volunteer) painted the hallway of K20 in white and orange, Björn the one of K22 in white and green and Nancy painted some beautiful birch trees in the free shop. But there's also new useful features: Bodhi and Rosina put the bathtub in the washing room a meter higher, so that things can be cleaned with a straight back now. Tilmann built a new storage shelf in the dry food storage and Doug removed moldy wallpaper and made the shower waterproof again. Matthias and Bodhi fixed a lot of bikes, Matthias and Tilmann continued their work on the greywater system and Tilmann installed more light.
 
-Apart from that the Foodsharing February started and Björn and Janina already made 3 rounds through the city to put up posters and talk to people. So far resonance is great and we hope that many people will show up for our events this month - the first being the [monthly metting of foodsharing Wurzen](https://kanthaus.online/events/2018-02-08_fs-monthly-meeting) on February 8.
+Apart from that the Foodsharing February started and Björn and Janina already made 3 rounds through the city to put up posters and talk to people. So far resonance is great and we hope that many people will show up for our events this month - the first being the [monthly meeting of foodsharing Wurzen](https://kanthaus.online/events/2018-02-08_fs-monthly-meeting) on February 8.
 
 ![Foodsharing February poster](fs_wu-Feb.jpg)
 
