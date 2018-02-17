@@ -16,7 +16,9 @@ A whole week of hacking and thinking about foodsharing.de lies behind us. We can
 - Kristijan and Jörg discussed data privacy issues
 
 ## [Kanthaus](https://kanthaus.online)
-The first ever [foodsharing leftover brunch]() brought some people to our house.
+Apart from hosting the foodsharing.de hackweek, the foodsharing February continued. Björn and Janina talked to quite some people in the streets of Wurzen, Laura - a foodsharing ambassador from Leipzig - came to our [monthly meeting](https://kanthaus.online/events/2018-02-08_fs-monthly-meeting) and the first ever [foodsharing leftover brunch](https://kanthaus.online/events/2018-02-11_fs-brunch) brought some people to our house. Also, thanks to Silvan we now have a facebook page, which makes us way more visible to a lot of Wurzeners.
+
+![Björn and Janina on Jacobsplatz](wu_bjani,jpg)
 
 ## [Karrot](https://karrot.world)
 Because of the foodsharing.de Hackweek Karrot was a little neglected. Still, all the new Rails Girls eagerly started contributing and it seems we need to think of new starter tasks soon...
