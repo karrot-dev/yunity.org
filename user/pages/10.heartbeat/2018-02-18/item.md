@@ -23,6 +23,9 @@ Apart from hosting the foodsharing.de hackweek, the foodsharing February continu
 ## [Karrot](https://karrot.world)
 Because of the foodsharing.de Hackweek Karrot was a little neglected. Still, all the new Rails Girls eagerly started contributing and it seems we need to think of new starter tasks soon...
 
+## [Foodsaving worldwide](https://foodsaving.world)
+There is a really nice new blog page maintained by the foodsavers of Gothenburg! They [document their pickups on steemit](https://steemit.com/@solikyl) now, so that even more people can witness the sheer amounts of waste and what can be done about that right here and right now.
+
 ## [Flake](http://flake.world)
 We are happy to announce that we finally could include the Flake in the list of yunity projects! :D
 
