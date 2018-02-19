@@ -16,9 +16,9 @@ A whole week of hacking and thinking about foodsharing.de lies behind us. We can
 - Kristijan and Jörg discussed data privacy issues
 
 ## [Kanthaus](https://kanthaus.online)
-Apart from hosting the foodsharing.de hackweek, the foodsharing February continued. Björn and Janina talked to quite some people in the streets of Wurzen, Laura - a foodsharing ambassador from Leipzig - came to our [monthly meeting](https://kanthaus.online/events/2018-02-08_fs-monthly-meeting) and the first ever [foodsharing leftover brunch](https://kanthaus.online/events/2018-02-11_fs-brunch) brought some people to our house. Also, thanks to Silvan we now have a [facebook page], which makes us way more visible to a lot of Wurzeners.
+Apart from hosting the foodsharing.de hackweek, the foodsharing February continued. Björn and Janina talked to quite some people in the streets of Wurzen, Laura - a foodsharing ambassador from Leipzig - came to our [monthly meeting](https://kanthaus.online/events/2018-02-08_fs-monthly-meeting) and the first ever [foodsharing leftover brunch](https://kanthaus.online/events/2018-02-11_fs-brunch) brought some people to our house. Also, thanks to Silvan we now have a [facebook page](https://www.facebook.com/kanthaus.online/), which makes us way more visible to a lot of Wurzeners.
 
-![Björn and Janina on Jacobsplatz](wu_bjani,jpg)
+![Björn and Janina on Jacobsplatz](wu_bjani.jpg)
 
 We also had many people visiting again this week. A group from [living utopia](https://livingutopia.org) came by, as well as many other personal friends. There was a surpsiring amount of birthdays and cakes and it was generally lively in Kanthaus again. :)
 
@@ -33,17 +33,16 @@ _by Janina_
 The start of the project is closing in!
 
 Haus X is gonna be a place of "directly lived sustainability". A place to try unconventional ways of living, sharing, upcycling and saving the environment in a stunning place amidst beautiful nature.
-Read the full initial vision in German [here](https://etherpad.net/p/Eingangsvision_Haus_X)
+Read the full initial vision in German [here](https://etherpad.net/p/Eingangsvision_Haus_X) (English version can be made on request).
 
-![Haus X from the outside](HausX.jpg)
+![Haus X from the outside](0HausX.jpg)
 
 The plan is, to live in the smaller _Inspektorenhaus_ for a few months, while making the first floor of _Haus X (Oberarzthaus)_ habitable.
 
 When finished with that (~June) we'll move there and get the ground floor ready for hosting groups of guests for different workshops during the summer. For example building a Biomeiler, ShowerLoop  or whatever we come up with.
 This project is an almost blank page, your creativity is very much appreciated and all kinds of skills are needed.
 
-Interested? Fancy a visit?
-
+Interested? Fancy a visit? <br>
 Contact @steffen on [Slack](https://slackin.yunity.org)!
 
 _by Steffen_
