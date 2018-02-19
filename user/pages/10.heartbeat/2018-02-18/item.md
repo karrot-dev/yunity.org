@@ -11,9 +11,29 @@ published: true
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
 ## [foodsharing.de](https://foodsharing.de)-dev
-A whole week of hacking and thinking about foodsharing.de lies behind us. We can proudly say that a lot has happened:
-- Tilmann created seeders, so that devs have some fake data to populate the software with when trying out things
-- Kristijan and Jörg discussed data privacy issues
+Wow, what a week!
+Long ago, that we had 7 people working on [foodsharing.de](https://foodsharing.de) [software platform](https://gitlab.com/foodsharing-dev/issues0/issues) related topics in a room.
+We can proudly say, that a lot has happened:
+- Matthias, Nick and Tilmann were mostly focussing on refactoring the foodsharing.de codebase.
+- Basti and Chandi stepped into the codebase getting an insight and working on smaller features.
+- Kristijan and Jörg discussed data privacy issues.
+
+Tilmann tried hard to dive deep into the data model of the software platform and managed to create seeders, that provide developers with lots of test data for different parts of the platform.
+Nick thought about how to progress the structure of the platform in a more separated, modular, testable way and shew us the right steps to get rid of global dependencies.
+Matthias spent most of the time moving globally called functions into instance methods as well as step by step getting rid of globally used data in favor of a more functional programming style.
+In the last day, we have been lucky to find a nasty error in our [CI-Scripts](https://en.wikipedia.org/wiki/Continuous_integration) that silently stopped updating the code before running the tests, resulting in tests always passing and in the result deploying broken code. After some minutes, the reasons were tracked down and we had a good story of that day :-)
+
+All in all, we had a great time together and really felt progress again.
+Unfortunately, the past has shown that progress and motivation got slower after the hackathons again.
+We would like to keep it up at least a little bit, so we will have regular slack calls on every last friday of a month at 7pm to update each other on what we have been doing and speak about future work.
+
+If you are interested in helping out the development of a project with
+- a legacy PHP codebase, that gets refactored into modern architecture using bleeding edge PHP technology
+- more than 20000 regular users
+- more than 1 million page views per month
+- a team that likes technology
+
+get in contact with us via the [yunity slack](https://slackin.yunity.org)!
 
 ## [Kanthaus](https://kanthaus.online)
 Apart from hosting the foodsharing.de hackweek, the foodsharing February continued. Björn and Janina talked to quite some people in the streets of Wurzen, Laura - a foodsharing ambassador from Leipzig - came to our [monthly meeting](https://kanthaus.online/events/2018-02-08_fs-monthly-meeting) and the first ever [foodsharing leftover brunch](https://kanthaus.online/events/2018-02-11_fs-brunch) brought some people to our house. Also, thanks to Silvan we now have a [facebook page](https://www.facebook.com/kanthaus.online/), which makes us way more visible to a lot of Wurzeners.
