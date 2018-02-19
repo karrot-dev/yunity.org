@@ -49,6 +49,27 @@ There is a really nice new blog page maintained by the foodsavers of Gothenburg!
 
 _by Janina_
 
+## [Karrot](https://karrot.world)
+
+New karrot version is deployed to [karrot.world](https://karrot.world), containing all changes since mid of January:
+
+- Profile photos
+- Immediate updates when data was changed by other users
+- Group banners
+- Hindi and Gujarati language
+- "Back to top" button
+
+![](karrot-hindi.png)
+_Karrot translated to Hindi_
+
+Furthermore, the deployment of karrot.world and dev.karrot.world (our staging site) is now [managed via Ansible Playbooks](https://github.com/yunity/yuca). This should make it easier to set up a new deployment from scratch and should eventually help other groups who want to maintain their own karrot instance.
+
+Lots of interested newcomers, mainly from Rails Girls Summer of Code, are working on our [starter tasks](https://github.com/yunity/karrot-frontend/labels/starter-task) and are looking forward to contributing more in future.
+
+We're always looking for more translations for karrot - if you speak a language that isn't in karrot yet, maybe [you are up to contributing a translation](https://www.transifex.com/yunity-1/karrot)?
+
+_by Tilmann_
+
 ## Haus X Harzgerode
 The start of the project is closing in!
 
