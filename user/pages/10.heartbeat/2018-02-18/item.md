@@ -19,21 +19,23 @@ We can proudly say, that a lot has happened:
 - Kristijan and Jörg discussed data privacy issues.
 
 Tilmann tried hard to dive deep into the data model of the software platform and managed to create seeders, that provide developers with lots of test data for different parts of the platform.
-Nick thought about how to progress the structure of the platform in a more separated, modular, testable way and shew us the right steps to get rid of global dependencies.
+Nick thought about how to progress the structure of the platform in a more separated, modular, testable way and showed us the right steps to get rid of global dependencies.
 Matthias spent most of the time moving globally called functions into instance methods as well as step by step getting rid of globally used data in favor of a more functional programming style.
-In the last day, we have been lucky to find a nasty error in our [CI-Scripts](https://en.wikipedia.org/wiki/Continuous_integration) that silently stopped updating the code before running the tests, resulting in tests always passing and in the result deploying broken code. After some minutes, the reasons were tracked down and we had a good story of that day :-)
+In the last day, we have been lucky to find a nasty error in our [CI-Scripts](https://en.wikipedia.org/wiki/Continuous_integration) that silently stopped updating the code before running the tests, resulting in tests always passing and that leading to us deploying broken code. After some minutes, the reasons were tracked down and we had a good story of that day :)
 
 All in all, we had a great time together and really felt progress again.
-Unfortunately, the past has shown that progress and motivation got slower after the hackathons again.
-We would like to keep it up at least a little bit, so we will have regular slack calls on every last friday of a month at 7pm to update each other on what we have been doing and speak about future work.
+Unfortunately, the past has shown that progress and motivation gets slower after a hackathon ends.
+We would like to keep it up at least a little bit, so we will have regular slack calls on every last Friday of a month at 7pm to update each other on what we have been doing and speak about future work.
 
 If you are interested in helping out the development of a project with
 - a legacy PHP codebase, that gets refactored into modern architecture using bleeding edge PHP technology
-- more than 20000 regular users
+- more than 20.000 regular users
 - more than 1 million page views per month
 - a team that likes technology
 
 get in contact with us via the [yunity slack](https://slackin.yunity.org)!
+
+_by Matthias_
 
 ## [Kanthaus](https://kanthaus.online)
 Apart from hosting the foodsharing.de hackweek, the foodsharing February continued. Björn and Janina talked to quite some people in the streets of Wurzen, Laura - a foodsharing ambassador from Leipzig - came to our [monthly meeting](https://kanthaus.online/events/2018-02-08_fs-monthly-meeting) and the first ever [foodsharing leftover brunch](https://kanthaus.online/events/2018-02-11_fs-brunch) brought some people to our house. Also, thanks to Silvan we now have a [facebook page](https://www.facebook.com/kanthaus.online/), which makes us way more visible to a lot of Wurzeners.
@@ -66,7 +68,7 @@ Furthermore, the deployment of karrot.world and dev.karrot.world (our staging si
 
 Lots of interested newcomers, mainly from Rails Girls Summer of Code, are working on our [starter tasks](https://github.com/yunity/karrot-frontend/labels/starter-task) and are looking forward to contributing more in future.
 
-We're always looking for more translations for karrot - if you speak a language that isn't in karrot yet, maybe [you are up to contributing a translation](https://www.transifex.com/yunity-1/karrot)?
+We're always looking for more translations for karrot - maybe [you are up for contributing a new translation or update an existing one](https://www.transifex.com/yunity-1/karrot)?
 
 _by Tilmann_
 
@@ -74,7 +76,7 @@ _by Tilmann_
 The start of the project is closing in!
 
 Haus X is gonna be a place of "directly lived sustainability". A place to try unconventional ways of living, sharing, upcycling and saving the environment in a stunning place amidst beautiful nature.
-Read the full initial vision in German [here](https://etherpad.net/p/Eingangsvision_Haus_X) (English version can be made on request).
+Read the full initial vision in German [here](https://etherpad.net/p/Eingangsvision_Haus_X) (English version can be provided on request).
 
 ![Haus X from the outside](0HausX.jpg)
 
