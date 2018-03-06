@@ -62,6 +62,8 @@ Due to no networking people showing up for the [karrot and fsww event](https://y
 
 And we held our very first karrot user call! It was organized via the [foodsaving worldwide facebook group](https://www.facebook.com/groups/foodsaving.worldwide/) and took place on discord. The info that was collected beforehand, as well as a write up of the most important topics can be found [here](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/177078273/Karrot+user+call+1).
 
+_by Janina_
+
 ## [Kanthaus](https://kanthaus.online)
 
 On the day the Karrot hackweek started, the Foodsharing February officially came to an end and was celebrated with our biggest public event so far: The pancake KifA!
@@ -72,4 +74,4 @@ More and more people start coming by because they've heard of us and want to say
 
 Other noteworthy events were the hosting of our first [official couchsurfer](https://www.couchsurfing.com/people/hopefullyunique), who spent the night and left a nice reference, and our first [workawayer](https://www.workaway.info/367874778735-en.html), who just arrived and will probably stay for some weeks. And for people more interested in structural matters the most important news could be that our Constitution saw its first major amendment, which prescribes member revaluations, adds a visitor section and a completely rewritten evaluation paragraph, as well as some minor changes in phrasing. Bear with us though, because there are still mistakes (!), the German version is not updated yet and we are planning the next big amendment already...
 
-## [foodsharing.de](https://foodsharing.de)-dev
+_by Janina_
