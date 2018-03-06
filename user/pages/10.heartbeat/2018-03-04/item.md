@@ -14,6 +14,8 @@ published: true
 
 Just two weeks ago we had the [foodsharing.de](https://foodsharing.de) hackweek and now it was karrot's turn!
 
+![](karrot-hackweek.jpg)
+
 During the hackweek, we worked on many things, including
 
 - emoji reactions to group messages @mrkvon
@@ -72,6 +74,12 @@ Around 25 Wurzeners came to our house and spend the afternoon/evening with us! W
 
 More and more people start coming by because they've heard of us and want to say hi. That's awesome! [Our facebook page](https://www.facebook.com/kanthaus.online/) has almost a hundred likes already and posts on there regularly elicit quite some reactions. On the other hand does this make us realize that most of us actually are introverted nerds and that we'd _really_ like to have more people in the house who actually enjoy talking to visitors on a regular basis. Do you feel addressed? Then please [get in contact](mailto:hello@kanthaus.online)!
 
-Other noteworthy events were the hosting of our first [official couchsurfer](https://www.couchsurfing.com/people/hopefullyunique), who spent the night and left a nice reference, and our first [workawayer](https://www.workaway.info/367874778735-en.html), who just arrived and will probably stay for some weeks. And for people more interested in structural matters the most important news could be that our Constitution saw its first major amendment, which prescribes member revaluations, adds a visitor section and a completely rewritten evaluation paragraph, as well as some minor changes in phrasing. Bear with us though, because there are still mistakes (!), the German version is not updated yet and we are planning the next big amendment already...
+Other noteworthy events were the hosting of our first [official couchsurfer](https://www.couchsurfing.com/people/hopefullyunique), who spent the night and left a nice reference, and our first [workawayer](https://www.workaway.info/367874778735-en.html), who just arrived and will probably stay for some weeks. His name is Kurtis and he's an awesome artist, as you can see here:
+
+![](trashbanana.jpg)
+
+And for people more interested in structural matters the most important news could be that [our Constitution](https://kanthaus.online/en/governance/constitution) saw its first major amendment, which prescribes member revaluations, adds a visitor section and a completely rewritten evaluation paragraph, as well as some minor changes in phrasing. Bear with us though, because there are still mistakes (!), the German version is not updated yet and we are planning the next big amendment already...
+
+![](dinnerdiscussion.jpg)
 
 _by Janina_
