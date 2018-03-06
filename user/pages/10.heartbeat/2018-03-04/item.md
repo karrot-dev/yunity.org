@@ -51,13 +51,16 @@ Besides the hackweek, there was also lots of activity:
 - Map view for group gallery page @D0nPiano
 - Translation updates for Chinese, Spanish and Polish languages
 
+_by Tilmann_
+
 ## [Foodsaving Worldwide](https://foodsaving.world)
 
 Due to no networking people showing up for the [karrot and fsww event](https://yunity.org/events/2018-02-24-fsww-hackweek), Janina mostly concentrated on karrot. Still, some communicative tasks were tackled as well:
 
 - Basically all the people we're already in touch with were contacted again and news were exchanged.
 - We finally put the [English version of the article about Foodsharing Poland](https://foodsaving.today/en/blog/2018/02/27/fsps-in-poland), which was first published by cojestgrane24 a year ago, on foodsaving.today.
--
+
+And we held our very first karrot user call! It was organized via the [foodsaving worldwide facebook group](https://www.facebook.com/groups/foodsaving.worldwide/) and took place on discord. The info that was collected beforehand, as well as a write up of the most important topics can be found [here](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/177078273/Karrot+user+call+1).
 
 ## [Kanthaus](https://kanthaus.online)
 
