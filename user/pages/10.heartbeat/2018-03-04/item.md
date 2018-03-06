@@ -14,6 +14,43 @@ published: true
 
 Just two weeks ago we had the [foodsharing.de](https://foodsharing.de) hackweek and now it was karrot's turn!
 
+During the hackweek, we worked on many things, including
+
+- emoji reactions to group messages @mrkvon
+- e-mail notifications for group messages with reply-by-email feature @tiltec
+- Markdown formatting support for group messages @tiltec
+- weekly group summary e-mail and notification settings page @nicksellen
+- request-to-join for groups (will eventually replace the group password feature) @NerdyProjects
+- removal of inactive users from groups @djembejohn
+- site usage statistics @nicksellen
+- e-mail authentication for sensitive account actions @mr-kojo
+- HTML e-mails @nicksellen @tiltec @djahnie
+- Rewrite and improve backend setup instructions @mr-kojo @tiltec
+- add huey, a runner for background tasks @NerdyProjects
+
+![](karrot-sensitive-action.jpg)
+_Authentication for sensitive actions_
+
+![](karrot-weekly-summary.png)
+_Weekly group summary e-mails_
+
+We had an extensive discussion about user roles in groups and permissions. @djembejohn wrote an in-depth description of current features and possible changes. It was posted in the yunity Slack, but we plan to publish it somewhere else too. As quick overview, these were points we talked about:
+
+- Keep revisions when data changes and offer undo (Wikipedia model)
+- Self-chosen roles in groups that come with additional rights but also requirements
+- Require approval from equal group members for sensitive actions
+- Voting system for most sensitive actions (e.g. removal of users)
+- Kamikaze system for most sensitive actions: you can remove someone but get removed yourself; requires request-to-join to get back into the group
+- Web of trust with explicitly expressed trust between group members
+
+Besides the hackweek, there was also lots of activity:
+
+- Add phone number field to user profiles @DevipriyaSarkar @swekshajha12
+- Edit button in user profile page @agarwalpooja
+- Search box for group gallery @searchingfor
+- Map view for group gallery page @D0nPiano
+- Translation updates for Chinese, Spanish and Polish languages
+
 ## [Foodsaving Worldwide](https://foodsaving.world)
 
 Due to no networking people showing up for the karrot hackweek, Janina mostly concentrated on karrot. Still, some communicative tasks were tackled as well:
