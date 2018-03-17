@@ -36,9 +36,23 @@ The [foodsavers of Lund](https://www.facebook.com/groups/829765127111133/) also 
 _by Janina_
 
 ## [Karrot](https://karrot.world)
+
+topics?
+
 - playground group
 - emoji reactions
 - statistics?
+- app improves
+- mark inactive users
+- show archived stores
+- Polish
+- pickup notification emails
+- feedback in weekly summary emails
+- plans for new changelog
+
+![](karrot-stats.png)
+![](karrot-playground.png)
+![](karrot-reactions.png)
 
 ## [Kanthaus](https://kanthaus.online)
 
