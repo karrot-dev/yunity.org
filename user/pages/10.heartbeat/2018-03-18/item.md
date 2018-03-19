@@ -56,6 +56,53 @@ _Statistics_
 
 ## [Kanthaus](https://kanthaus.online)
 
+Matthias installed a canbus system in the house some time back to collect various data about the house - the idea is to collect gas/water/electricity usage, room temperatures, humidity, etc.
+
+There seem to be two main goals:
+1. making people more aware of the resources they consume
+2. having fun playing with some cool things :)
+
+For a while the sensors have been up and running, but we have not been collecting the data anywhere.
+
+Matthias gave Nick and Silvan a crash course in [canbus](https://en.wikipedia.org/wiki/CAN_bus) / [uavcan](http://uavcan.org/) and we got started with a python tool to collect the data and write it to influxdb. We built a tool called [uavcan-influxdb-writer](https://github.com/yunity/uavcan-influxdb-writer) to do this.
+
+![](kanthaus-custom-board.jpg)
+_Custom circuit board designed by Matthias and manufactured in China (I didn't even know that was a thing you could just do!). Here it is being a canbus to usb adapter, but can also have sensors connected to it._
+
+![](kanthaus-pi.jpg)
+_Raspberry pi to collect the data from the USB interface, and send it to influxdb_
+
+The next part is to visualize the data from influxdb, we already have a [grafana](https://grafana.com/) installation and it was easy to add our new data into it and make a pretty dashboard.
+
+![](kanthaus-grafana.png)
+_Pretty dashboard!_
+
+Not all the numbers are quite right yet though.
+
+The gas is read by detecting a magnetic pulse as the counter rotates, and the water by using an infrared beam to detect the fast rotation of the dial. The difficulty is getting from the messy world of physical/analogue/electrical things into the nice clean digital environment.
+
+The temperature sensors and greywater tank full detection are working nicely though!
+
+We put our pi setup into an [ansible configuration](https://gitlab.com/kanthaus/kanthaus-ansible) so we can configure it from fresh whenever we need to. We used some cool systemd techniques to start the software automatically when you plug the USB device in, hopefully this will increase reliability of the data sending.
+
+You can read more about the infrastructure in our new [kanthaus handbook](https://handbook.kanthaus.online/).
+
+Aside from that we enjoyed the brief respite from the winter and hosted a foodsharing brunch outside:
+
+![](DSC05466.JPG)
+_Felt like spring had arrived!_
+
+Work also started on the garden, and we had some stuff to burn!
+
+![](DSC05464.JPG)
+_The "kebab" in Matthias' hand is actually bread baked in the fire :)_
+
+For now though, back to winter...
+
+![](DSC05498.JPG)
+
+_by Nick_
+
 ## Haus X Harzgerode
 Winter came back to Harzgerode with full force and made us delay the practical part of the project a bit. But there's a lot of planning and thinking to do anyways. Haus X is not just a house project. It will be one of many groups building the future ecovillage in Harzgerode.
 - Which tasks will be our part?
