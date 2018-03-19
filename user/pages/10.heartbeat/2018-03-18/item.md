@@ -37,22 +37,22 @@ _by Janina_
 
 ## [Karrot](https://karrot.world)
 
-topics?
+After the hackweek end of February, lots of started work had to be finished and merged. The playground group is ready (@tiltec), as well as reactions to messages (@mrkvon). The group member list separates active from inactive users and the store list optionally shows archived stores too (@tiltec). The karrot mobile app is not released yet, but it's already quite usable with the new feature to pull fresh data when it switches from background to foreground (@nicksellen).
 
-- playground group
-- emoji reactions
-- statistics?
-- app improves
-- mark inactive users
-- show archived stores
-- Polish
-- pickup notification emails
-- feedback in weekly summary emails
-- plans for new changelog
+There's another type of notification email: if there's a pickup with free slots on the next day, you will get an email in the evening before. We added pickup feedback to the weekly summary email (@nicksellen).
+
+We started collect internal statistics about group activity to find out more about how Karrot is used (@nicksellen). In future, we plan to display some of those statistics on karrot itself.
+
+The foodsavers from Poland updated their language, which fits together with their plans to use karrot in the coming months.
+
+![](karrot-reactions.png)
+_Message reactions_
+
+![](karrot-playground.png)
+_Playground group_
 
 ![](karrot-stats.png)
-![](karrot-playground.png)
-![](karrot-reactions.png)
+_Statistics_
 
 ## [Kanthaus](https://kanthaus.online)
 
