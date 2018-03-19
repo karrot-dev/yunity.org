@@ -14,6 +14,7 @@ published: true
 Organized by Bruno and others in [Digidem Lab](http://digidemlab.org/en/) in Gothenburg, Sweden, Civictech is going to be a series of hackdays and networking events to bring active people from civil society closer together and to thus form a coherent movement to tackle the problems of our current times in an open, collaborative and non-commercial way. The first event took place on March 10 at Viktoriahuset in Gothenburg.
 
 ![The very first CivicTechGbg event in Viktoriahuset](techcivic.jpg)
+_The very first CivicTechGbg event in Viktoriahuset_
 
 Karrot (and foodsaving in general) was one of four projects participating, the others were:
 - [Hyresrättskollen](http://hyresrattskollen.se/) - collecting data to counter gentrification
@@ -27,7 +28,8 @@ Thanks to CivicTechGbg Janina and Tilmann finally managed to meet the foodsavers
 
 Being already in the area, visiting Lotta in Borås was the logical thing to do. She is still planning on starting a foodsaving group in the smaller Swedish city as well and got a boost of new motivation after doing an epic dumpster dive together with Tilmann and Janina. On top of that she already arranged a networking meetup with Taras - our contact in Stockholm - and will drop by Solikyl's friday hang-outs once in a while.
 
-![Lots of saved food in Borås](dd_after-full.jpg)
+![Some food that was saved in Borås](dd_after-full.jpg)
+_Some food that was saved in Borås_
 
 But there's even more foodsaving going on in Sweden!
 
@@ -53,6 +55,8 @@ _Playground group_
 
 ![](karrot-stats.png)
 _Statistics_
+
+_by Tilmann_
 
 ## [Kanthaus](https://kanthaus.online)
 
@@ -94,7 +98,7 @@ _Felt like spring had arrived!_
 
 Work also started on the garden, and we had some stuff to burn!
 
-![](DSC05464.JPG)
+![](ADSC05464.JPG)
 _The "kebab" in Matthias' hand is actually bread baked in the fire :)_
 
 For now though, back to winter...
