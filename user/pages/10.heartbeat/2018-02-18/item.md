@@ -103,3 +103,9 @@ The basic idea is that of a sharing board, but the implications go much further:
 Over the course of 2017 the Flake team traveled from festival to festival and from conference to conference and promoted sharing towards all the people on their way. Do you want to be a part of it in 2018? Then be sure to join the first videocall of the Flake season on February 19: Just write a mail with your Skype name to [info@flake.world](mailto:info@flake.world) and become a member of the Flake team!
 
 _by Janina_
+
+## About the heartbeat.
+The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### How to contribute?
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback! ^_^

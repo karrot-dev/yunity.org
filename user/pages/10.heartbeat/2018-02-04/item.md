@@ -51,3 +51,9 @@ _by Janina_
 - Karolina from Warsaw told us that they have 10 FSPs in the capital now and 30 in all of Poland! She wanted to know when there's gonna be user roles and notifications for empty slots in Karrot, because these features are the ones they are still missing painfully.
 
 _by Janina_
+
+## About the heartbeat.
+The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### How to contribute?
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback! ^_^
