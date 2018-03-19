@@ -19,7 +19,7 @@ _The very first CivicTechGbg event in Viktoriahuset_
 Karrot (and foodsaving in general) was one of four projects participating, the others were:
 - [Hyresrättskollen](http://hyresrattskollen.se/) - collecting data to counter gentrification
 - [DinRiksdag](https://www.dinriksdag.se/) - adapting [consul](http://consulproject.org/en/) to make the Swedish democracy more interactive
-- Jetabörg - a multisharing plattform for Gothenburg
+- [Getaborg](https://getaborg.se/) - a multisharing plattform for Gothenburg
 
 _by Janina_
 
