@@ -17,7 +17,7 @@ Leticia from Uruguay came to our house via [workaway](https://www.workaway.info/
 ![The spring roadmap issues, which are already on Gitlab](springroadmap18.png)
 _The spring roadmap issues, which are already on Gitlab_
 
-Last weekend we hosted the [foodsharing board meeting](https://kanthaus.online/events/2018-03-23_fsde-board-meeting). You can read a more detailed summary of what happened in [this German blog article](https://foodsharing.de/?page=blog&sub=read&id=231) written by board member Miriam.
+Last weekend we hosted the [foodsharing board meeting](https://kanthaus.online/events/2018-03-23_fsde-board-meeting). You can read a more detailed summary of what happened in [this German blog article](https://foodsharing.de/?page=blog&sub=read&id=231&noprocess) written by board member Miriam.
 
 ![The board of the German foodsharing e.V. on Wurzen's market square](fsdeBoard18.jpg)
 _The board of the German foodsharing e.V. on Wurzen's market square_
