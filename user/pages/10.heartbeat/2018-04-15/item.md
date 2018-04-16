@@ -68,6 +68,7 @@ _by Tilmann_
 Spring has arrived at Harzgerode. Some weeks ago Bodhi, Lise, Josi and Steffen met and discussed some basic conditions of the project regarding the rest of the Harzgerode community. Since then, Josi and Steffen started first steps to make the house habitable and to build up an temporary kitchen which should be ready to use the upcoming weekend, when some more people will join the four for further planning and working. By the way, the solar shower is back in service and enhanced wit the PV panels on the compost toilet for faster heating up.
 
 ![](hz_shower1.jpg)
+
 ![](hz_shower2.jpg)
 _You can shower at 30°C already!_
 
