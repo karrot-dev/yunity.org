@@ -37,12 +37,34 @@ This gives us about 1.3 kW at ideal conditions and usually still more then 100 W
 ![The boiler](boiler.jpg)
 _A huge boiler of water heated by the sun!_
 
-This is still a very improvised installation. Within the next weeks Matthias and Tilmann will build a system (using [the house-bus already in place](https://handbook.kanthaus.online/housebus.html)) to control the energy flow according to the current weather conditions and energy consumption. When that's done we will probably also install more boilers in the other floors of K20. We will then have hot water in the ground floor (for dumpster washing and washing machine) and the first floor (for dish washing and cooking)!
+This is still a very improvised installation. Within the next weeks Matthias and Tilmann will build a system (using [the house-bus already in place](https://handbook.kanthaus.online/housebus.html)) to control the energy flow according to the current weather conditions and energy consumption. When that's done we will probably also install more boilers in the other floors of K20. We will then have hot water in the ground floor (for food washing and washing machine) and the first floor (for dish washing and cooking)!
 
 ![Matthias and Tilmann working in the Silent Office](mati_pointing.jpg)
 _Matthias and Tilmann working in the [Silent Office](https://handbook.kanthaus.online/silentoffice.html)_
 
 _by Bodhi_
+
+## [Karrot](https://karrot.world)
+
+We reached Github [issue number 1000](https://github.com/yunity/karrot-frontend/pull/1000)! Actually, it's a pull request... but it does not matter. It just shows that a project with a significant number of contributors needs a lot of synchronization and organization.
+
+After some weeks without new release to [karrot.world](https://karrot.world), a new one is approaching and should be ready within the next days. It will include:
+
+- the new authentication system for sensitive actions (you can delete your account now!) by @mr-kojo
+- upgrade to Font Awesome 5 by @ananya-agrawal
+- upgrade to Quasar 0.15 by @tiltec
+- pickup notification bugfix by @nicksellen
+
+[@ananya-agrawal](https://medium.com/@ananyaagrawal125/how-i-started-contributing-for-rgsoc-638c01738329) wrote up a nice article about her experience contributing to Karrot as part of RGSoC 2018. We are happy about her motivation!
+
+> The reason why I decided to contribute to karrot was its idea itself. The project is meant to provide web support to food saving groups worldwide. I was really interested to witness how technology can help solve a very basic problem. Moreover, the project is based on Python thus perfectly suits my and Neha’s previous experience and interest.
+
+Two students from the University of Michigan got the assignment to contribute to an open-source project and chose Karrot. They have been working on _editing of conversation messages_ and _showing a message to users of unsupported browsers_. We are happy that we got their attention. Maybe they even continue contributing after their assignement is done, who knows...
+
+## Harzgerode
+
+Spring has arrived at Harzgerode. Some weeks ago Bodhi, Lise, Josi and Steffen met and discussed some basic conditions of the project regarding the rest of the Harzgerode community. Since then Josi and Steffen started first steps of making the House habitable and building up an temporary kitchen wich should be ready for use at the upcoming weekend, when  some more people will join the four for further planning and working. By the way the solar shower is back in service and enhanced wit the photovoltaic panels on the compost toilet for faster heating up.
+
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
