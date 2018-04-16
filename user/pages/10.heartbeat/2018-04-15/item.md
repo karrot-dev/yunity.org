@@ -61,9 +61,13 @@ After some weeks without new release to [karrot.world](https://karrot.world), a 
 
 Two students from the University of Michigan got the assignment to contribute to an open-source project and chose Karrot. They have been working on _editing of conversation messages_ and _showing a message to users of unsupported browsers_. We are happy that we got their attention. Maybe they even continue contributing after their assignement is done, who knows...
 
+_by Tilmann_
+
 ## Harzgerode
 
 Spring has arrived at Harzgerode. Some weeks ago Bodhi, Lise, Josi and Steffen met and discussed some basic conditions of the project regarding the rest of the Harzgerode community. Since then Josi and Steffen started first steps of making the House habitable and building up an temporary kitchen wich should be ready for use at the upcoming weekend, when  some more people will join the four for further planning and working. By the way the solar shower is back in service and enhanced wit the photovoltaic panels on the compost toilet for faster heating up.
+
+_by Steffen_
 
 
 ## About the heartbeat.
