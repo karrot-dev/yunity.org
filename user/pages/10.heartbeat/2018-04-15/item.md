@@ -59,13 +59,17 @@ After some weeks without new release to [karrot.world](https://karrot.world), a 
 
 > The reason why I decided to contribute to karrot was its idea itself. The project is meant to provide web support to food saving groups worldwide. I was really interested to witness how technology can help solve a very basic problem. Moreover, the project is based on Python thus perfectly suits my and Neha’s previous experience and interest.
 
-Two students from the University of Michigan got the assignment to contribute to an open-source project and chose Karrot. They have been working on _editing of conversation messages_ and _showing a message to users of unsupported browsers_. We are happy that we got their attention. Maybe they even continue contributing after their assignement is done, who knows...
+Two students from the University of Michigan got the assignment to contribute to an open-source project and chose Karrot. They have been working on _editing of conversation messages_ and _showing a message to users of unsupported browsers_. We are happy that we got their attention. Maybe they even continue contributing after their assignment is done, who knows...
 
 _by Tilmann_
 
-## Harzgerode
+## Haus X
 
-Spring has arrived at Harzgerode. Some weeks ago Bodhi, Lise, Josi and Steffen met and discussed some basic conditions of the project regarding the rest of the Harzgerode community. Since then Josi and Steffen started first steps of making the House habitable and building up an temporary kitchen wich should be ready for use at the upcoming weekend, when  some more people will join the four for further planning and working. By the way the solar shower is back in service and enhanced wit the photovoltaic panels on the compost toilet for faster heating up.
+Spring has arrived at Harzgerode. Some weeks ago Bodhi, Lise, Josi and Steffen met and discussed some basic conditions of the project regarding the rest of the Harzgerode community. Since then, Josi and Steffen started first steps to make the house habitable and to build up an temporary kitchen which should be ready to use the upcoming weekend, when some more people will join the four for further planning and working. By the way, the solar shower is back in service and enhanced wit the PV panels on the compost toilet for faster heating up.
+
+![](hz_shower1.jpg)
+![](hz_shower2.jpg)
+_You can shower at 30°C already!_
 
 _by Steffen_
 
