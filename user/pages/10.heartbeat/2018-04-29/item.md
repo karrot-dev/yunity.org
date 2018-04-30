@@ -42,3 +42,14 @@ A rather sad piece of news is that - even though we were one of the most popular
 _by Janina_
 
 ## [Kanthaus](https://kanthaus.online)
+
+## Haus X
+We had a very nice week in Harzgerode with Steffen, Josi, Micha, Julia, Bodhi, Anna and Lise. We did lots of chatting, discussing and dreaming. All of us are in different stages in our lives. Some of us are involved (with time and heart) in other projects. Still, the time together and the deep exchange of ideas has been quite overwhelming and feels very much like we are a "we" now :)
+
+But of course we did not only talk but also did some first work on the house: we worked on the solar installation and the very temporary operation of our fridge, on remaking the back yard terrace, making a nice fireplace with a fire bowl that should even please the authorities and the setup of our propane-oven and inauguration by Micha with gratinated cheese!
+
+Most of the functions and rooms that are to be united in the Oberartzhaus / Haus X are still spread across the premises of the old children's clinic. The solar shower next to the compost toilet and the communal office in the main building. Sleeping and brushing teeth happens in the Inspektorenhaus, also a part of the communal closet has been moved there from the main building. Kitchen and food storage have already been moved to the Oberarzthaus. In the following year we plan on living on the ground floor with more temporary installations while we make the upper floor really nice. Then we move up there next spring and make the ground floor nice.
+
+To get some work done we began to write a todo catalog which will also be worked off in the planned building weeks, the first of which is to take place May 18 to 25. We are looking forward to many helping hands to progress renovation and also start creative tasks! Contact @lise via slack or email (lisemen@gmx.de) to take part.
+
+_by Lise_
