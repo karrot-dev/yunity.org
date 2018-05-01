@@ -10,7 +10,7 @@ published: true
 
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
-## [Foodsaving Worldwide](https://foodsaving,world)
+## [Foodsaving Worldwide](https://foodsaving.world)
 - The [World Disco Soup Day 2018](https://www.slowfood.com/what-we-do/international-events/world-disco-soup-day/) is coming up! In less than two weeks, on April 28 [Slow Food Youth Network](https://www.facebook.com/slowfoodyouthnetwork/)'s 2nd global event will take place - so there's still time to take part! It's easy, really, and an amazing way to reach out to people about food waste, while having a lot of fun at the same time! Just [join the organizer's group in facebook](https://www.facebook.com/groups/339657459716739/) or directly [follow the instructions](https://docs.google.com/document/d/1ejcoJ4ccw-PhqzMNuPi3kQ-VpvO2_yK6450UxSp9pq4/edit) and join in a distributed but global anti food waste party!
 
 ![](discosoup18.jpg)

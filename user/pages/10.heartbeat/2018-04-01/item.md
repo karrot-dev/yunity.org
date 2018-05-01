@@ -32,7 +32,7 @@ In a [Mini Roadmap Meeting](https://yunity.atlassian.net/wiki/spaces/FSINT/pages
 
 _by Janina_
 
-## [Foodsaving Worldwide](https://foodsaving,world)
+## [Foodsaving Worldwide](https://foodsaving.world)
 
 There is a [blog page made in Russia](https://foodsharing.ru/blog/) and it's just like [foodsaving.today](https://foodsaving.today)! The main girl behind it - Anna - is happy to collaborate and lets us translate and repost all her articles, like [this first one about foodsharing Germany](https://foodsaving.today/blog/2018/03/23/fsde-from-russian-perspective)! [This one about the UK](https://foodsaving.today/en/blog/2018/03/31/fsuk) is also already translated and put live. But there's a lot more to come over the coming weeks!
 
