@@ -23,13 +23,13 @@ _Soweto, South Africa_
 ![](wdsd18vermontUSA.jpg)
 _Vermont orgnized a true party in a club!_
 
-![](wdsd18bi.jpg)
+![](wdsd18bi.jpg)</br>
 _Janina made sure that Bielefeld participated, too... ;)_
 
 ![](0wdsd18iran.jpg)
 _Iran hosted three events, this is on one of them._
 
-![](wdsd18paris.jpg)
+![](wdsd18paris.jpg)</br>
 _More than 600kg of food were saved in Paris!_
 
 _by Janina_
