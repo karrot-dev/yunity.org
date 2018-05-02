@@ -42,7 +42,7 @@ A rather sad piece of news is that - even though we were one of the most popular
 _by Janina_
 
 ## [Kanthaus](https://kanthaus.online)
-Two weekends since the last heartbeat and two groups stayed with us! First a group of psychology students who are in the process of forming an initiative to develop a critical perspective towards modern-day psychology. They focused on group building activities and were very grateful for the spirit of community and sharing, which they encountered at Kanthaus.
+Two weekends since the last heartbeat and two groups stayed with us! First, [Kritische Psychologie Dresden](https://kritpsydd.noblogs.org/) ([facebook](https://www.facebook.com/kritischepsy)), a group of psychology students who are in the process of forming an initiative to develop a critical perspective towards modern-day psychology. They focused on group building activities and were very grateful for the spirit of community and sharing, which they encountered at Kanthaus.
 
 ![](critpsy.jpg)
 _Some of the critical psychologists in our garden_
