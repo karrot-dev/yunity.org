@@ -3,7 +3,7 @@ title: Karrot
 route: karrot
 metadata:
     'og:image': 'https://yunity.org/user/pages/30.karrot/fstoollogo_smallwithpadding.png'
-    description: 'We provide non-German-speaking foodsaving groups with a software to manage their store pick-ups'
+    description: 'We provide foodsaving groups a software to manage their food pick-ups'
 menu_description: A new tool for emerging foodsaving communities
 image: 'fstoollogo_smallwithpadding.png'
 ---
