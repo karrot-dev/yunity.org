@@ -13,8 +13,6 @@ image: 'kanthausIcon_small.png'
 
 > Living with equality, self-determination and acceptability
 
-![](dougintheyard.jpg)
-
-![](wurzenfront.jpg)
+![](kanthausFolk1.jpg)
 
 * Public website: [kanthaus.online](https://kanthaus.online/)
