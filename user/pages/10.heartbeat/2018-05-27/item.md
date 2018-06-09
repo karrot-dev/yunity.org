@@ -49,3 +49,9 @@ _Read more about these pioneers of Russian foodsharing on [foodsaving.today](htt
 We got lots of useful user feedback from foodsharing Warsaw, who recently started organizing their actions with Karrot. Some bugs were pointed out and some problems that occurred on iPhones (which is mainly due to nobody in our team actually owning an apple device...), but the overall message was 'works great' and 'thank you'. :)
 
 _by Janina_
+
+## About the heartbeat.
+The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### How to contribute?
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback! ^\_^
