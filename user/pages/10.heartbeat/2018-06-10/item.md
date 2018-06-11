@@ -26,6 +26,13 @@ For all these foodsavers from all over the world we created a discourse forum an
 _by Janina_
 
 ## [foodsharing.de](https://foodsharing.de)-dev
+Foodsharing.de developers are desparately looking forward to the next hackathon that will happen likely within july.
+There is still a lot of hard-to-test changed undergoing as we are moving all the frontend javascript into modularized, modern javascript.
+While we theoretically could test everything, the test suites would just be massive as there would be so many things to test.
+
+Little contributitions from new developers as well as more contributions from developers, that are already for some time with the project, seem to happen steadily now, which is very nice.
+
+_by Matthias_
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
