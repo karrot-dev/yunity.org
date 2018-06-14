@@ -1,6 +1,6 @@
 ---
-title: "yunity heartbeat 2018-06-10"
-date: "2018-06-10"
+title: "yunity heartbeat 2018-06-17"
+date: "2018-06-17"
 continue_link: true
 taxonomy:
     category: blog
@@ -11,6 +11,16 @@ published: true
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
 ## [Kanthaus](https://kanthaus.online)
+It's summer and lots of stuff is happening! But also people are very “flowy” which is one reason why this is the first heartbeat to not be published on time :( You are very welcome to blame Bodhi and Nick!
+
+Anyway: The spring review had a positive outcome, there were a lot of things we achieved :) There was a vision dreaming session and the [summer roadmap planning](https://kanthaus.online/governance/minutes/2018-06-06_roadmap) lead to some [clear tasks for the next 3 months](https://gitlab.com/kanthaus/kanthaus-public/milestones/7) as well as a good estimation of who is here for what time.
+
+And there are lots of cherries in our garden! Some (or maybe now all?) have been harvested. I don’t know because i’m not there :)
+
+![](randomcherrytree.jpg) </br>
+_..but here is a picture of a random cherry tree!_
+
+_by Bodhi_
 
 ## [Foodsaving Worldwide](https://foodsaving.world) & [Karrot](https://karrot.world)
 The folks behind [Foodsharing Copenhagen](http://foodsharingcph.org/) started a new project called [Madbroen](https://www.facebook.com/madbroen/). It's a separate thing because it delivers saved food to charities (which is not _unconditional_ sharing, even though it's cool nevertheless... ;)). These pickups may very well be organized using Karrot soon!
@@ -26,11 +36,9 @@ For all these foodsavers from all over the world we created a discourse forum an
 _by Janina_
 
 ## [foodsharing.de](https://foodsharing.de)-dev
-Foodsharing.de developers are desparately looking forward to the next hackathon that will happen likely within july.
-There is still a lot of hard-to-test changed undergoing as we are moving all the frontend javascript into modularized, modern javascript.
-While we theoretically could test everything, the test suites would just be massive as there would be so many things to test.
+Foodsharing.de developers are desparately looking forward to the next hackathon that will happen likely within July. There is still a lot of hard-to-test changes undergoing as we are moving all the frontend javascript into modularized, modern javascript. While we theoretically could test everything, the test suites would just be massive as there would be so many things to test.
 
-Little contributitions from new developers as well as more contributions from developers, that are already for some time with the project, seem to happen steadily now, which is very nice.
+Little contributions from new developers, as well as more contributions from developers that are with the project for some time already seem to happen steadily now, which is very nice.
 
 _by Matthias_
 
