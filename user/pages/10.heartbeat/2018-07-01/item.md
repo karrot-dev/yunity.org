@@ -14,6 +14,8 @@ published: true
 
 ## [Kanthaus](https://kanthaus.online)
 
+We have been on the radio in an amazing feature of 30 minutes length! This is what Jörg Wunderlich worked on for more than a year and we are very happy with the result. You can [listen to the full thing](https://kanthaus.online/de/about/press/2018-06-30_mdrgraswurzener) on our website.
+
 ## [Foodsaving Worldwide](https://foodsaving.world) & [Karrot](https://karrot.world)
 
 Our [new forum](https://community.foodsaving.world) is now officially open and we'd love to read you there! :)
