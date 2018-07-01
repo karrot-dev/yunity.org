@@ -29,8 +29,54 @@ _So many topics, but all just created by me - please help me make this forum mor
 
 _by Janina_
 
+## [Karrot](https://karrot.world)
+
+In the last two-and-a-half weeks, Karrot received lots of developer attention. Mostly @tiltec and @nicksellen worked on new features and improvements.
+
+Most notably, two new types of conversations were added: for people who joined a pickup and private conversations to other users. Both conversations support the existing email and app push notifications, but in addition to that, there's a new experimental feature: browser push notifications. This allows us to notify you via your web browser even if you don't have the karrot website open.
+
+![](karrot-user-conversation.png){.blog-image .tall-image}
+_The mobile user conversation view_
+
+![](karrot-browser-push.png){.blog-image}
+_Experimental browser push feature, to be discovered by you in the settings menu_
+
+For all those messaging features, it's also handy to have editing capabilities. We added a new pencil icon in the first two days after the message has been sent. It allows you to modify your previous message and fix all spelling mistakes :)
+
+![](karrot-edit-message.png){.blog-image}
+_The pencil icon allows you to edit your conversation message_
+
+Other noteworthy changes in a quick list:
+
+- speed up initial loading and rendering @nicksellen
+- sorting and search for the group member list @tiltec
+- show failed email notifications @tiltec
+- filter controls and back button for fullscreen group map @tiltec
+- context menu to create new store in group map @tiltec
+- unify color usage @tiltec
+- rework of feedback form to allow feedback without weight @tiltec
+- refresh most data when karrot app wakes up @tiltec
+- mobile "pull-to-refresh" in group wall @tiltec
+- automatically mark group as active or inactive @oldPadavan
+- send correct email template on resend verification code @pogopaule @tiltec
+
+![](https://user-images.githubusercontent.com/4410802/41982943-fbffbe00-7a2c-11e8-99eb-d0a37bcbb2b1.png){.blog-image}
+_New map controls on Karrot's fullscreen group map_
+
+_by Tilmann_
+
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
 ### How to contribute?
 Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback! ^\_^
+
+<style>
+.blog-image {
+    display: block;
+    width: 100%;
+}
+.tall-image {
+    max-width: 300px !important;
+}
+</style>
