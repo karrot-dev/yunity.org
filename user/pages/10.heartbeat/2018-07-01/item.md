@@ -12,6 +12,20 @@ published: true
 
 ## [foodsharing.de](https://foodsharing.de)-dev
 
+We are having another hackweek having found it's one of the best ways to get some more focused work completed.
+
+We didn't advertise it very widely and our focus is more for the existing contributors to make progress (as opposed to introducing new people to the project).
+
+As Kanthaus is quite empty at the moment we are even collecting and preparing our own meals, and doing our best to get outside from time to time.
+
+We're also very happy to have a new contributor, Theo, who has has popped down from Berlin to join us for a few days. He's working on adding our first RESTful endpoints, which is very impressive with our slightly confusing codebase. We are happy and looking forward to expanding this approach further :)
+
+![](_MG_8700.JPG)
+_Matthias and Tilmann's co-ordinated thinking, Wolfi reads something related to serial killers :/_
+
+![](_MG_8701.JPG)
+_Theo types text into a black box, that's what we like to see :)_
+
 ## [Kanthaus](https://kanthaus.online)
 
 We have been on the radio in an amazing feature of 30 minutes length! This is what Jörg Wunderlich worked on for more than a year and we are very happy with the result. You can [listen to the full thing](https://kanthaus.online/de/about/press/2018-06-30_mdrgraswurzener) on our website.
