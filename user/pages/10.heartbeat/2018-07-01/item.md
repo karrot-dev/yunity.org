@@ -81,6 +81,11 @@ _So many topics, but all just created by me - please help me make this forum mor
 
 _by Janina_
 
+## [Ukuvota](https://gitlab.com/yunity/ukuvota)
+The mission of a collaborative decision making platform is in development again. The platform is being written from scratch using vuejs and currently is focused on developing well designed ui components.
+
+_by Wolfi_
+
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
