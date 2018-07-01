@@ -26,22 +26,11 @@ _Matthias and Tilmann's co-ordinated thinking, Wolfi reads something related to 
 ![](_MG_8701.JPG)
 _Theo types text into a black box, that's what we like to see :)_
 
+_by Nick_
+
 ## [Kanthaus](https://kanthaus.online)
 
 We have been on the radio in an amazing feature of 30 minutes length! This is what Jörg Wunderlich worked on for more than a year and we are very happy with the result. You can [listen to the full thing](https://kanthaus.online/de/about/press/2018-06-30_mdrgraswurzener) on our website.
-
-## [Foodsaving Worldwide](https://foodsaving.world) & [Karrot](https://karrot.world)
-
-Our [new forum](https://community.foodsaving.world) is now officially open and we'd love to read you there! :)
-
-It's the new home to our [knowledge library](https://community.foodsaving.world/c/knowledge) and we're continously working on moving _everything_ [from the wiki](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/50069535/Material+to+get+started). The aim is to make it easier for people to discuss articles and to find different language versions - because we created subforums for different languages, so that monolinguals have an easier time navigating things. Still, we need you to populate this place, so please be a part of it!
-
-To get things started you could have a look at some questions and share your thoughts on e.g. [legal agreements](https://community.foodsaving.world/t/legal-agreements/75), [food bank cooperations](https://community.foodsaving.world/t/food-bank-cooperations/76), [the press](https://community.foodsaving.world/t/impact-of-the-press/77) or [Karrot's new pickup conversation feature](https://community.foodsaving.world/t/pickup-conversations/73).
-
-![](commfsww.png)
-_So many topics, but all just created by me - please help me make this forum more diverse! :)_
-
-_by Janina_
 
 ## [Karrot](https://karrot.world)
 
@@ -78,6 +67,19 @@ Other noteworthy changes in a quick list:
 _New map controls on Karrot's fullscreen group map_
 
 _by Tilmann_
+
+## [Foodsaving Worldwide](https://foodsaving.world)
+
+Our [new forum](https://community.foodsaving.world) is now officially open and we'd love to read you there! :)
+
+It's the new home to our [knowledge library](https://community.foodsaving.world/c/knowledge) and we're continously working on moving _everything_ [from the wiki](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/50069535/Material+to+get+started). The aim is to make it easier for people to discuss articles and to find different language versions - because we created subforums for different languages, so that monolinguals have an easier time navigating things. Still, we need you to populate this place, so please be a part of it!
+
+To get things started you could have a look at some questions and share your thoughts on e.g. [legal agreements](https://community.foodsaving.world/t/legal-agreements/75), [food bank cooperations](https://community.foodsaving.world/t/food-bank-cooperations/76), [the press](https://community.foodsaving.world/t/impact-of-the-press/77) or [Karrot's new pickup conversation feature](https://community.foodsaving.world/t/pickup-conversations/73).
+
+![](commfsww.png)
+_So many topics, but all just created by me - please help me make this forum more diverse! :)_
+
+_by Janina_
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
