@@ -82,7 +82,7 @@ _So many topics, but all just created by me - please help me make this forum mor
 _by Janina_
 
 ## [Ukuvota](https://gitlab.com/yunity/ukuvota)
-The mission of a collaborative decision making platform is in development again. The platform is being written from scratch using VueJs and currently is focused on developing well designed UI components.
+The mission of a collaborative decision making platform is in development again. The platform is being written from scratch using Fable+Elmish+React and currently is focused on developing well designed UI components.
 
 _by Wolfi_
 
