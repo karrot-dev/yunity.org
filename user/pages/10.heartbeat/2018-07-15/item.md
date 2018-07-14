@@ -29,7 +29,8 @@ published: true
 
 
 ## [Ukuvota](https://gitlab.com/yunity/ukuvota)
-The past week was consuming by getting used to F# and figuring out how things work with the fable stack that is used in Ukuvota.
+The past weeks were consuming by getting used to F# and figuring out how things work with the fable - the compiler that turns F# into Js.
+
 Ukuvota has a new navigation bar and can now parse markdown files! The next task is to create the interface for a Group view and possibly add some input fields.
 
 ![](ukuvota-progress.png)
