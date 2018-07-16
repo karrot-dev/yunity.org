@@ -42,14 +42,19 @@ As a last note, markdown formatting is now possible in feedback comments!
 
 _by Tilmann_
 
-
 ## [Foodsaving Worldwide](https://foodsaving.world)
 
+Currently the last steps are being take to replace our info page with a new one. For visitors of the site the difference will be small, but for people adding or changing content it will be huge and awesome! That means that this could very well lead to more frequent updates and generally more maintenance.
 
+The overall structure is already starting to change and in the future [foodsaving.world](https://foodsaving.world) should be a very lean, concise page that only gives an overview; all the template texts and guides from [yunity's confluence wiki]() is to be transferred into our new [community forum](https://community.foodsaving.world) and directly sorted by language.
+
+That's right, we have language-specific sub-forums and we'd love you to use them for your foodsaving group's topics!
+
+_by Janina_
 
 ## [Ukuvota](https://gitlab.com/yunity/ukuvota)
 
-The past weeks were consuming by getting used to F# and figuring out how things work with the fable - the compiler that turns F# into Js.
+The past weeks were consumed by getting used to F# and figuring out how things work with the fable - the compiler that turns F# into Js.
 
 Ukuvota has a new navigation bar and can now parse markdown files! The next task is to create the interface for a Group view and possibly add some input fields.
 
