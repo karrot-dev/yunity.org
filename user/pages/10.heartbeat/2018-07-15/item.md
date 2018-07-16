@@ -12,12 +12,30 @@ published: true
 
 ## [foodsharing.de](https://foodsharing.de)-dev
 
+We finished our hackweek with some really great outcomes:
+1. All JavaScript moved into es6/webpack environment - thanks to Matthias
+1. The first [VueJS](https://vuejs.org/) component (using [BootstrapVue](https://bootstrap-vue.js.org/) for UI components) - thanks to Chandi
+1. The first RESTful API endpoint - thanks to Theo
+1. One of the large classes in the Model hierarchy refactored into more logical places - thanks to Tilmann
+1. Emoji reactions added to forum posts - thanks to Matthias
 
+It wasn't quite possible to get all this working in beta by the end of the week - and then Matthias left for a well-earned break. He has returned again now though and energised to fix all the bugs again! Phew!
+
+So after fixing the bugs in beta, we're aiming for a production deployment next week (before Matthias leaves again).
+
+We were enthusiastic to start planning the next hackweek (maybe as far away as January 2019 though...).
+
+We had another great milestone though, whilst Matthias was away we had the need to change the penis picture on the homepage, and we managed a very collaborative deployment to production: Michi made the changes, Chandi fixed the git branch target, Tilmann approved the changes, and I fixed a secondary error. All without Matthias!
+
+![](pica_foodporn.png)
+_The controversial homepage picture_
+
+_by Nick_
 
 ## [Kanthaus](https://kanthaus.online)
 
-
-
+![](bodhis-bum.jpg)
+_Bodhi slides along the wet slidey thing_
 
 ## [Karrot](https://karrot.world)
 
