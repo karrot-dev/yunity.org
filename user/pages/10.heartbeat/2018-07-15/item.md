@@ -28,7 +28,7 @@ We were enthusiastic to start planning the next hackweek (maybe as far away as J
 We had another great milestone though, whilst Matthias was away we had the need to change the penis picture on the homepage, and we managed a very collaborative deployment to production: Michi made the changes, Chandi fixed the git branch target, Tilmann approved the changes, and I fixed a secondary error. All without Matthias!
 
 ![](pica_foodporn.png)
-_The controversial homepage picture_
+_The controversial homepage picture (hover to reveal)_
 
 _by Nick_
 
