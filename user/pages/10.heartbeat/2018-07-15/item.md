@@ -34,9 +34,9 @@ _by Nick_
 
 ## [Kanthaus](https://kanthaus.online)
 
-Birthday! Kanthaus reached 1 year old and we celebrated with cake and the major and sparkling wine and other people from Wurzen.
+Birthday! Kanthaus reached 1 year old and we celebrated with cake and the mayor and sparkling wine and other people from Wurzen.
 
-Other things that happened - we found loads of cool stuff at *&(£*&£)), a waterslide amoungst other things (see picture!).
+Other things that happened: we found loads of cool stuff at *&(£*&£)), a waterslide amongst other things (see picture!).
 
 We also had a Foodsharing Wurzen meeting with 4 and a half participants!
 
@@ -70,9 +70,9 @@ _by Tilmann_
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
 
-Currently the last steps are being take to replace our info page with a new one. For visitors of the site the difference will be small, but for people adding or changing content it will be huge and awesome! That means that this could very well lead to more frequent updates and generally more maintenance.
+Currently the last steps are being taken to replace our info page with a new one. For visitors of the site the difference will be small, but for people adding or changing content it will be huge and awesome! That means that this could very well lead to more frequent updates and generally more maintenance.
 
-The overall structure is already starting to change and in the future [foodsaving.world](https://foodsaving.world) should be a very lean, concise page that only gives an overview; all the template texts and guides from [yunity's confluence wiki]() is to be transferred into our new [community forum](https://community.foodsaving.world) and directly sorted by language.
+The overall structure is already starting to change and in the future [foodsaving.world](https://foodsaving.world) should be a very lean, concise page that only gives an overview; all the template texts and guides from [yunity's confluence wiki](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/50069535/Material+to+get+started) is to be transferred into our new [community forum](https://community.foodsaving.world) and directly sorted by language.
 
 That's right, we have language-specific sub-forums and we'd love you to use them for your foodsaving group's topics!
 
