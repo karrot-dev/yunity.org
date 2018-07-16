@@ -34,8 +34,16 @@ _by Nick_
 
 ## [Kanthaus](https://kanthaus.online)
 
+Birthday! Kanthaus reached 1 year old and we celebrated with cake and the major and sparkling wine and other people from Wurzen.
+
+Other things that happened - we found loads of cool stuff at *&(£*&£)), a waterslide amoungst other things (see picture!).
+
+We also had a Foodsharing Wurzen meeting with 4 and a half participants!
+
 ![](bodhis-bum.jpg)
 _Bodhi slides along the wet slidey thing_
+
+_by Bodhi_
 
 ## [Karrot](https://karrot.world)
 
