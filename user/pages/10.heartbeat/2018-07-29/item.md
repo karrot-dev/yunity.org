@@ -12,9 +12,44 @@ published: true
 
 ## [foodsharing.de](https://foodsharing.de)-dev
 
+Peter has issued a new call for developers in the foodsharing forums and - alas - new people are flooding the #foodsharing-dev channel on Slack!
+
+![](foodsharingdevInflux.jpg)
+_Caring and polite Peter is taking care of welcoming all the new devs_
+
+After the last hackweek we had some user-facing changes, like the new forum component, and motivation is high to progress further. Finally all the refactoring brought us to a stage in which tangible advantages emerge and new devs can more easily participate. We're looking forward to stable activity levels and maybe the next hackweek in Zurich? :)
+
+_by Janina_
+
+## [Auerworld Festival](https://auerworld-festival.de/)
+
+The Auerworld Festival is taking place right now (July 27 to 29)! Most Kanthausers help Silvan on his friendly and sustainable but nevertheless huge festival. As you can read on their German [facebook page](https://www.facebook.com/auerworld.festival/) Auerworld has everything:
+- a big diversity of workshops: from yoga to electronics you can try out everything
+- creative - and sometimes interactive - art installations
+- a decomposable playground made of hay
+- a sharing station called 'TraumTauschBaum' (= dream swap tree)
+- lots of great food but no disposable dishes (!)
+- a dome made from living willow trees
+- a chill space to enjoy audio books all day long
+- and of course dozens of bands and musicians
+
+![](auerworld17.jpg)
+_An impression from last year's Auerworld - this year will be even better! ;)_
+
+I'm already looking forward to giving you the whole summary of what happened in the next issue of the heartbeat! ;)
+
+_by Janina_
 
 ## [Kanthaus](https://kanthaus.online)
 
+Due to Auerworld, Kanthaus is almost empty right now. Only 5 developers are left and enjoy the silence in front of their laptops. Our self-organized 'Summer of Karrot' is almost over and Tais and Janina have made a lot of progress!
+
+Apart from that we suffered from the heat (too warm to cuddle...), found new recipes for old bread (chunks of old bread and kimchi fried together in a pan, chunks of old bread mixed with plums, milk and sugar and then put in the oven - both super yummy!) and put more thought into our governance and positions system. We'll probably introduce a host system for visitors and change our website to put more emphasis on project work and less on communal living. And Nick wrote a nice new script that posts the evaluation statuses in a dedicated Slack channel just before the coordination meeting. Look how fancily he formatted it:
+
+![](residenceNotifier.png)
+_You can't see it, but the female judge icon actually moves!_
+
+_by Janina_
 
 ## [Karrot](https://karrot.world)
 
@@ -36,8 +71,6 @@ _by Tilmann_
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
 
-
-## [Auerworld Festival](http)
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
