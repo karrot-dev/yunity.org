@@ -14,6 +14,15 @@ published: true
 
 ## [foodsharing.de](https://foodsharing.de)-dev
 
+Over a spontaneous hack-weekend myself and Matthias sat down to wrap up various loose ends and release a new, shiny build. One of the most noticeable features is the new, responsive navbar courtesy of Chandi.
+
+![](newNavbar.jpg)
+_On top: the new navbar with expanded info panel_
+
+The navbar makes use of Vue, a very modern javascript framework. Vue is a great fit for projects like foodsharing due it's philosophy around 'incremental adoption', small pieces of UI can be built in isolation and gradually introduced to an application. This paired with our recently introduced RESTful json endpoints means we're able to build and refactor areas of foodsharing more quickly and safely. We've also put Vue to work on a new sortable stores list, backend reports system and in our forum. Due to the nature of the release and the amount of frontend code touched we naturally introduced a few regressions, however with our patient and dedicated beta users we're able to find and fix bugs :bug: before they make it to production. Thanks to Peter's call for new developers we've also welcomed quite a few new people to our slack and had some great merge requests submitted.
+
+_by Theo_
+
 ## [Ukuvota](https://ukuvota.world)
 
 Creating good decision making processes is important. There are different ideas and models that can be used to achieve decisions in groups. At yunity we started to use a decision making process called [Systemic Consensus](https://douginamug.gitbooks.io/a-systemic-consensus-manual-testing/content/sysCon.html) (also called syscon). This lead to a small software project to create an open source app for exactly that.
@@ -36,7 +45,7 @@ _by Wolfi_
 
 ## [Kanthaus](https://kanthaus.online)
 
-We have a new and more projet-oriented landing page for [kanthaus.online](https://kanthaus.online), as well as more blog posts: One from Janina about the [Summer of Karrot](https://kanthaus.online/blog/2018-08-06_summer-of-karrot) and one from Kaja about [fruit kvass](https://kanthaus.online/blog/2018-08-15_fruit-kvass). We finally started to use the nice display cabinet that Benji made and can now easily communicate stuff to people passing by. More nice flyers to be put in there are still to me made but Silvan already expressed motivation for helping with that.
+We have a new and more project-oriented landing page for [kanthaus.online](https://kanthaus.online), as well as more blog posts: One from Janina about the [Summer of Karrot](https://kanthaus.online/blog/2018-08-06_summer-of-karrot) and one from Kaja about [fruit kvass](https://kanthaus.online/blog/2018-08-15_fruit-kvass). We finally started to use the nice display cabinet that Benji made and can now easily communicate stuff to people passing by. More nice flyers to be put in there are still to me made but Silvan already expressed motivation for helping with that.
 
 ![](displayCabinet.jpg) <br>
 _Now we only need to keep it updated... ;)_
