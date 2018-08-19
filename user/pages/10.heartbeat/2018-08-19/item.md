@@ -12,18 +12,18 @@ published: true
 
 ## [Karrot](https://karrot.world)
 
-After the Summer of Karrot ended three weeks ago, there were still things left to do until the new Karrot version could be released into production. We had one major task - adding the group application chat into the frontend - and some minor tasks - creating a conversation overview page, adding a email notification option for new applications.
+After the Summer of Karrot ended three weeks ago, there were still things left to do until the new Karrot version could be released into production. We had one major task - adding the group application chat into the frontend - and some minor tasks - creating a conversation overview page, adding an email notification option for new applications.
 
 Janina and Tilmann sat together to kickstart the group application chat. The [Pull Request](https://github.com/yunity/karrot-frontend/pull/1082) is in its final stage, so you can expect to test this out on [dev.karrot.world](https://dev.karrot.world) within the next week!
 
 Tilmann was busy with the group editors implementation, where especially the frontend turned out to be tricky. With the new trust system, the group membership plays a much bigger role than before. This affects the user profile page, which could either list all memberships, or only the one for the currently selected group. It seems better to go for the latter version, and add a button to switch between the groups.
 
-![](https://user-images.githubusercontent.com/4410802/44313169-b565b980-a403-11e8-9e92-6a09395471db.png)
+![](https://user-images.githubusercontent.com/4410802/44313169-b565b980-a403-11e8-9e92-6a09395471db.png) <br>
 _This is how the user profile page could look like, notice the new trust karrot button!_
 
 Besides that, there was quite a lot of bugfixing to do: wrong group application emails, broken email subjects, failing websocket connection in the app, incorrect unread message counts... the list is long!
 
-![](https://user-images.githubusercontent.com/4410802/44313142-1e98fd00-a403-11e8-95ac-69ac242ab12c.png)
+![](https://user-images.githubusercontent.com/4410802/44313142-1e98fd00-a403-11e8-95ac-69ac242ab12c.png) <br>
 _Draft for the conversations overview page_
 
 _by Tilmann_
