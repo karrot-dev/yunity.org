@@ -39,3 +39,13 @@ On the more social and/or philosophical side, we got two more blog posts, this t
 _by Janina_
 
 ## [Karrot](https://karrot.world)
+
+_A personal review from Tilmann_
+
+After months of work, group applications, replies to wall messages, the conversation overview page and the new sidenav were finally released. We got [feedback from Karolina](https://community.foodsaving.world/t/new-user-levels-proposed-for-karrot-newcomers-and-editors/95/4) on community.foodsaving.world about the planned trust system feature. I continued working on it and hope to release it into production this September.
+
+I discovered [a bug in the channels_redis library](https://github.com/django/channels_redis/issues/125) that caused karrot.world having hundreds of redis connections open, until the server didn't allow to open more. Before I could track it down to channels_redis, I spent hours trying out different combinations of settings. My final contribution to this problem is this [minimal reproduction](https://github.com/tiltec/channels-redis-sync-repro/) that should make it easier for channels_redis maintainers to fix the problem.
+
+It was a disaster trying to upgrade [Cordova](https://cordova.apache.org/) (a tool to write native smartphone apps in JavaScript) from version 6 to 7. Almost every Cordova plugin we use isn't maintained anymore and I kept hunting for forks that are compatible with Cordova 7. In the end, I asked myself why I'm even upgrading when nobody else wants to. I guess there are not many advantages going from version 6 to 7, so I stopped and reverted. Another lesson learned: don't just upgrade out of habit, it either needs to be painless or there should be great advantage.
+
+I consider this summer a success for Karrot and expect more quiet times in autumn and winter, at least feature-wise. We still have [some refactoring to do](https://github.com/yunity/karrot-frontend/issues/1066) to have a nice codebase again...
