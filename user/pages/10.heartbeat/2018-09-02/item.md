@@ -49,3 +49,9 @@ I discovered [a bug in the channels_redis library](https://github.com/django/cha
 It was a disaster trying to upgrade [Cordova](https://cordova.apache.org/) (a tool to write native smartphone apps in JavaScript) from version 6 to 7. Almost every Cordova plugin we use isn't maintained anymore and I kept hunting for forks that are compatible with Cordova 7. In the end, I asked myself why I'm even upgrading when nobody else wants to. I guess there are not many advantages going from version 6 to 7, so I stopped and reverted. Another lesson learned: don't just upgrade out of habit, it either needs to be painless or there should be great advantage.
 
 I consider this summer a success for Karrot and expect more quiet times in autumn and winter, at least feature-wise. We still have [some refactoring to do](https://github.com/yunity/karrot-frontend/issues/1066) to have a nice codebase again...
+
+## About the heartbeat.
+The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### How to contribute?
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback! ^\_^
