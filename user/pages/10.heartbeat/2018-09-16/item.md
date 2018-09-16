@@ -21,7 +21,7 @@ I visited the [KPCafe](http://www.kinningparkcomplex.org/kpcafe/) project at the
 ![](image1-min-768x576.jpeg)
 _The food counter at the KPCafe_
 
-I kept trying though! I went to the [sustainability freshers festival](https://www.facebook.com/events/200331514160123/) on the tip that someone would be there interested in foodsharing. It seems foodsharing Glasgow has been active on campus more recently distributing excess bread, but perhaps the activity follows the university semesters closely. Taïs is in contact with the [GUEST](https://www.gla.ac.uk/myglasgow/sustainability/guest/) team who are involved with that.
+I kept trying though! I went to the Glasgow uni [sustainability freshers festival](https://www.facebook.com/events/200331514160123/) on the tip that someone would be there interested in foodsharing. It seems foodsharing Glasgow has been active on campus more recently distributing excess bread, but perhaps the activity follows the university semesters closely. Taïs is in contact with the [GUEST](https://www.gla.ac.uk/myglasgow/sustainability/guest/) team who are involved with that.
 
 I also met a very enthusiasic guy from a foodsaving group based at Strathclyde University (also in Glasgow). They have about 4 stores they pickup from, they then bring the food back to the campus to share it further. He struggles to get enough reliable people to do pickups. I showed him Karrot on my phone and before I even got home he was SMSing me to ask how to create a group, pickups, etc. I've also signed up to do a pickup myself! (Despite my involvment in these foodsaving software projects, I've never actually done a pickup...).
 
@@ -33,17 +33,17 @@ I also went over to Edinburgh to see if foodsharing Edinburgh would have a use f
 
 So, seems positive, but a bit longer to see if it works out.
 
-Me and Lise replied to enthusiasic people wanting to start food saving groups in São Paulo, Brazil and in Turkey, lets hope they find some energy to get started.
+Me and Lise replied to more enthusiasic people wanting to start food saving groups in São Paulo, Brazil and in Turkey, lets hope they find some energy to get started.
 
 _by Nick_
 
 ## [foodsharing.de](https://foodsharing.de)
 
-It's long been discussed to get a proper app for foodsharing, and some good steps towards that were recently made. I recent newcomer, Diego, created a skeleton android application written in Kotlin. I reworked a few bits and added a couple of extra API calls then moved it into our GitLab organization - you can find it at [gitlab.com/foodsharing-dev/foodsharing-android-kotlin](https://gitlab.com/foodsharing-dev/foodsharing-android-kotlin). It's still a proof of concept really, but a nice step forwards.
+It's long been discussed to get a proper app for foodsharing, and some good steps towards that were recently made. A recent newcomer, Diego, created a skeleton android application written in Kotlin. I reworked a few bits and added a couple of extra API calls then moved it into our GitLab organization - you can find it at [gitlab.com/foodsharing-dev/foodsharing-android-kotlin](https://gitlab.com/foodsharing-dev/foodsharing-android-kotlin). It's still a proof of concept really, but a nice step forwards.
 
-One of our recent contributors Theo also started exporing mobile apps for iOS and created an experimental client. You can find the project at [github.com/theolampert/foodsharing-ios](https://github.com/theolampert/foodsharing-ios).
+One of our newer contributors, Theo, also started exploring a mobile app for iOS and created an experimental client. You can find the project at [github.com/theolampert/foodsharing-ios](https://github.com/theolampert/foodsharing-ios).
 
-Me and Peter also discussed switching to use npm instead of yarn - mostly to take advantage of the fact that the [nodesecurity](https://nodesecurity.io/) project is now part of npm and included via the [npm audit](https://docs.npmjs.com/cli/audit) command. But also I feel that the bugs that were in the earlier v5 releases (with the new `package-lock.json`) are probably fixed by now.
+Me and Peter discussed switching to use npm instead of yarn - mostly to take advantage of the fact that the [nodesecurity](https://nodesecurity.io/) project is now part of npm and included via the [npm audit](https://docs.npmjs.com/cli/audit) command. But also I feel that the bugs that were in the earlier v5 releases (with the new `package-lock.json`) are probably fixed by now.
 
 I started working on adding [persistent cookie support](https://gitlab.com/foodsharing-dev/foodsharing/merge_requests/543) (so you don't have to login so frequently). I thought it would be a 2 character change, but ran into many difficulties - EU cookie law means we would have to get consent (where we don't for the existing session cookies), which could be in the form a of "remember me" checkbox (so now I have a UI design task), also the Symfony dependency injection got more complicated as I wanted to avoid setting cookies unless you are actually logged in. Such is the life of a software developer!
 
@@ -53,18 +53,18 @@ _by Nick_
 
 ## [Karrot](https://karrot.world)
 
-Since Janina and Tilmann left for their bike trip activity is quietened down somewhat, but not to zero!
+Since Janina and Tilmann left for their bike trip activity has quietened down somewhat, but not to zero!
 
-Despite being on a bike trip, Tilmann managed to start work on [adding proper notifications](https://github.com/yunity/karrot-frontend/pull/1099) (a bit like the "bell" in foodsharing.de).
+Despite this, Tilmann managed to start work on [adding proper notifications](https://github.com/yunity/karrot-frontend/pull/1099) (a bit like the "bell" in foodsharing.de).
 
 Me and Taïs [started thinking about](https://github.com/yunity/karrot-frontend/issues/354#issuecomment-421329381) how to implement more types of locations (fair share points, drop off points, etc.).
 
 ![](45586325-e646ea80-b8ec-11e8-9055-b221dc5d81a3.png)
 _Taïs did a bit of wireframing_
 
-Taïs also translated the rest of the frontend into French - and got her instant karma for doing it as someone from the uni came and gave us 10 or so packs of sandwiches leftover that they needed to get rid of :) ... we now need to work out how to put the translations into the app properly (so far Tilmann has always done it).
+Taïs also translated the rest of the frontend into French - and got her instant karma as someone from the uni came and gave us 10 or so packs of sandwiches that they needed to get rid of :) ... we now need to work out how to put the translations into the app (so far Tilmann has always done it).
 
-I [fixed a bug](https://github.com/yunity/karrot-frontend/issues/1097) that was making it difficult to manage the group application chat, there was [a bit of dreaming](https://community.foodsaving.world/t/occupy-both-spots-feature-suggestion/111) about whether it should be possible to take all the slots for a pickup, some [more thoughts](https://github.com/yunity/karrot-frontend/issues/1096) about how to improve email reply parsing, and probably more!
+I [fixed a bug](https://github.com/yunity/karrot-frontend/issues/1097) that was making it difficult to manage the group application chat, there was [a bit of dreaming](https://community.foodsaving.world/t/occupy-both-spots-feature-suggestion/111) about whether it should be possible to take _all_ the slots for a pickup, some [more thoughts](https://github.com/yunity/karrot-frontend/issues/1096) about how to improve email reply parsing, and probably more!
 
 _by Nick_
 
