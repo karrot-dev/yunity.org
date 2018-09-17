@@ -19,6 +19,8 @@ Since a few days Kanthaus is hosting the foodsharing co-working-week with about 
 ![](mat_chan_soldering.jpg)
 _copper-soldering with a very sophisticated pressure control-system for the gas burner - don’t try this at home!_
 
+_by Bodhi_
+
 ## Harzgerode / Haus X
 
 After some long radio silence from Harzgerode, here's the comeback.
@@ -31,6 +33,8 @@ Until now it was unsure if the project can continue next year. This time of worr
 We even have a new homepage [freiefeldlage.de](http://freiefeldlage.de).
 
 Now we are preparing for the upcoming winter and could use some help. There's a building-week from 01 to 07. of October to make Haus X ready for the cold.
+
+_by Steffen_
 
 ![](Luftbild-Home-FF-1.2.jpg)
 
