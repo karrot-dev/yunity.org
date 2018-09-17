@@ -12,7 +12,7 @@ published: true
 
 ## [Kanthaus](https://kanthaus.online)
 
-he past two weeks at Kanthaus have been more quite, with few people and lots of construction things going on. The heating-connection of K22 is commencing with just a few things left to completion, indoor compost toilets are being prepared and many small thing are happening.
+The past two weeks at Kanthaus have been more quite, with few people and lots of construction things going on. The heating-connection of K22 is commencing with just a few things left to completion, indoor compost toilets are being prepared and many small thing are happening.
 
 Since a few days Kanthaus is hosting the foodsharing co-working-week with about 6 participants wupping for foodsharing. Since even more people are arriving begining of next week, the quiet times are soon to be over!
 
