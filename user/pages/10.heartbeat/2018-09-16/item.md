@@ -12,6 +12,26 @@ published: true
 
 ## [Kanthaus](https://kanthaus.online)
 
+he past two weeks at Kanthaus have been more quite, with few people and lots of construction things going on. The heating-connection of K22 is commencing with just a few things left to completion, indoor compost toilets are being prepared and many small thing are happening. Since a few days Kanthaus is hosting the foodsharing co-working-week with about 6 participants wupping for foodsharing. Since even more people are arriving begining of next week, the quite times are soon to be over!
+
+![](mat_chan_soldering.jpg)
+_copper-soldering with a very sophisticated pressure control-system for the gas burner - don’t try this at home!_
+
+## Harzgerode / Haus X
+
+After some long radio silence from Harzgerode, here's the comeback.
+
+The main project changed its direction to more solidarity and way less conventional view on money. Since then Haus X is just one flat (WG) inside the project instead of the formerly planned subproject within the conventional ecovillage.
+
+We have been busy to get everything legal (Bauanträge), did a lot of community building (with success. By now we are a fix group of eight inhabitants). Even the financing of the porperty is taking shape. 
+
+Until now it was unsure if the project can continue next year. This time of worries is now over.
+We even have a new homepage [freiefeldlage.de](http://freiefeldlage.de).
+
+Now we are preparing for the upcoming winter and could use some help. There's a building-week from 01 to 07. of October to make Haus X ready for the cold.
+
+![](Luftbild-Home-FF-1.2.jpg)
+
 ## [foodsaving worldwide](https://foodsaving.world)
 
 I moved to Glasgow and have been trying to get in contact with as many foodsharing initiatives here as possible. There is [Foodsharing Glasgow](https://foodsharing.scot), but I didn't get any email replies, and when I visited the address whatever was happening there before has long since stopped. I went to the weekly [unity world cafe](https://unityinthecommunityglasgow.wordpress.com/unity-world-cafe-food-bank/) at the [Glasgow Autonomous Space](http://glasgowautonomous.weebly.com/) but the building was closed and no reply to my email.
