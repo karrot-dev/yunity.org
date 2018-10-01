@@ -12,36 +12,48 @@ published: true
 
 ## [Kanthaus](https://kanthaus.online)
 
-- dishwashing policy
-- discussion about communal sleeping room
-- new blog posts
-- upcoming events
-- oil painting plans
+Doug wrote a guide for how to do dishes the thrifty way after encountering one too many wasteful washers in the kitchen. [Read the whole thing here](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/2018-09-28_doug_cleaningKitchenThings.md) and step up your washing game! There is a [new blog post about our weekly repair cafe](https://kanthaus.online/de/blog/2018-09-25_repaircaf%C3%A9) written by Laurina. It tells you not only that our repair cafe is happening every week, but also that it's fun and empowering to learn new things!
 
-## Harzgerode / Haus X
+![](laurinaLaptop.jpg)<br>
+_Laurina happily disassembling her laptop_
 
-- building week
+Soon there will be a lot of painting going on, to gather experience with different kinds of (self-made) paints: Doug will use oil paint to fix the window frames and Matthias is [already doing research](https://gitlab.com/kanthaus/kanthaus-public/issues/158) on how to make this kind of paint at home.
 
-## [foodsaving worldwide](https://foodsaving.world)
+_by Janina_
 
-Tilmann and Janina met up with foodsavers from foodsharing Warszawa. Things are going well, but some problems exist, similar to other foodsaving initiatives. You can read more about it in the [meeting summary](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/55607369/Existing+initiatives#Existinginitiatives-POLAND-FoodsharingWarsaw).
+## [Harzgerode / Haus X](http://freiefeldlage.de/)
 
-Nick visited [FareShare](https://en.wikipedia.org/wiki/FareShare) on their open day in Glasgow and wrote some comments about them in a [blog post](http://nicksellen.co.uk/2018/09/23/updates.html). They save lots of food that doesn't even make it into stores and provide it to the poor. In contrast to other initiatives we mention here usually, they seem to have a strong charity aspect and are managed in a less grassrootsy way.
+After a birthday party lured many people to Haus X anyways, Steffen called for a spontaneous building week:
 
-- foodsharing festival
+> Hey spontaneous Folks, we'll have a construction week in Harzgerode to get Haus X ready for the winter.
+> Wanna lern some plumbing, stone- or woodworks or do creative stuff like painting or designing a food storage concept and meet some people?
+> We've got plenty of saved food. Join us in the upcoming week (October 01-07).
 
-_by Tilmann_
+_by Janina_
 
 ## [foodsharing.de](https://foodsharing.de)
 
 Nick worked more on the native Android app for foodsharing - it's still in a very experimental phase, but the screenshot seems promising!
 
-![](http://nicksellen.co.uk/images/photo_2018-09-23_19-38-22.small.jpg)
+![](http://nicksellen.co.uk/images/photo_2018-09-23_19-38-22.small.jpg)<br>
 _Native foodsharing.de app with an evening tint..._
 
 If you are interested in joining development, have a look in [Slack](https://slackin.yunity.org), in the channel #fs-dev-android
 
 _by Tilmann_
+
+## [foodsaving worldwide](https://foodsaving.world)
+
+The big, annual [foodsharing festival](http://www.foodsharing-festival.org/) was happening in Berlin from the 21st to the 23rd of September and once again brought hundreds of people together: Foodsavers from all over Germany, Austria, Switzerland, Poland and tons of interested visitors. There were many workshops and seminars happening and great meals from saved food were served over the whole weekend.
+
+![](fsplAtBerlinFestival.jpg)<br>
+_The Polish delegation at the Berlin festival_
+
+One week later, Tilmann and Janina met up with foodsavers from foodsharing Warszawa. Things are going well, but some problems exist, similar to other foodsaving initiatives. You can read more about it in the [meeting summary](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/55607369/Existing+initiatives#Existinginitiatives-POLAND-FoodsharingWarsaw).
+
+Nick visited [FareShare](https://en.wikipedia.org/wiki/FareShare) on their open day in Glasgow and wrote some comments about them in a [blog post](http://nicksellen.co.uk/2018/09/23/updates.html). They save lots of food that doesn't even make it into stores and provide it to the poor. In contrast to other initiatives we mention here usually, they seem to have a strong charity aspect and are managed in a less grassrootsy way.
+
+_by Tilmann and Janina_
 
 ## [Karrot](https://karrot.world)
 
@@ -52,7 +64,7 @@ Other new ideas include a min and max setting for pickup slots and the possibili
 
 The Bike Kitchen in Gothenburg wants to [try out Karrot](https://community.foodsaving.world/t/test-karrot-for-bike-kitchen/120) for their non-foodsaving related use case. But this fits in with the idea of Bruno and Nick to make Karrot more multi-purpose.
 
-![](https://community.foodsaving.world/uploads/default/original/1X/c6e4c804c811d3fcebb340439b1d89dd302dbe73.jpeg)
+![](https://community.foodsaving.world/uploads/default/original/1X/c6e4c804c811d3fcebb340439b1d89dd302dbe73.jpeg)<br>
 _Is Karrot a good bike-saving platform?_
 
 _by Tilmann_
