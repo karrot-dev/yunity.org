@@ -12,7 +12,7 @@ published: true
 
 ## [Kanthaus](https://kanthaus.online)
 
-Doug wrote a guide for how to do dishes the thrifty way after encountering one too many wasteful washers in the kitchen. [Read the whole thing here](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/2018-09-28_doug_cleaningKitchenThings.md) and step up your washing game! There is a [new blog post about our weekly repair cafe](https://kanthaus.online/de/blog/2018-09-25_repaircaf%C3%A9) written by Laurina. It tells you not only that our repair cafe is happening every week, but also that it's fun and empowering to learn new things!
+Doug wrote a guide for how to do dishes the thrifty way after encountering one too many wasteful washers in the kitchen. [Read the whole thing here](https://gitlab.com/kanthaus/kanthaus-public/blob/master/drafts/2018-09-28_doug_cleaningKitchenThings.md) and step up your washing game! There is a [new blog post about our weekly repair cafe](https://kanthaus.online/blog/2018-09-25_repaircaf%C3%A9) written by Laurina. It tells you not only that our repair cafe is happening every week, but also that it's fun and empowering to learn new things!
 
 ![](laurinaLaptop.jpg)<br>
 _Laurina happily disassembling her laptop_
