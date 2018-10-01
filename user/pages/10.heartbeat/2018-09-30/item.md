@@ -24,18 +24,31 @@ published: true
 
 ## [foodsaving worldwide](https://foodsaving.world)
 
-- meeting with foodsharign warszawa
-- something from nicks blog
+Tilmann and Janina met up with foodsavers from foodsharing Warszawa. Things are going well, but some problems exist, similar to other foodsaving initiatives. You can read more about it in the [meeting summary](https://yunity.atlassian.net/wiki/spaces/FSINT/pages/55607369/Existing+initiatives#Existinginitiatives-POLAND-FoodsharingWarsaw).
+
+Nick visited [FareShare](https://en.wikipedia.org/wiki/FareShare) on their open day in Glasgow and wrote some comments about them in a [blog post](http://nicksellen.co.uk/2018/09/23/updates.html). They save lots of food that doesn't even make it into stores and provide it to the poor. In contrast to other initiatives we mention here usually, they seem to have a strong charity aspect and are managed in a less grassrootsy way.
+
 - foodsharing festival
+
+_by Tilmann_
 
 ## [foodsharing.de](https://foodsharing.de)
 
-- progress with app
+Nick worked more on the native Android app for foodsharing - it's still in a very experimental phase, but the screenshot seems promising!
+
+![](http://nicksellen.co.uk/images/photo_2018-09-23_19-38-22.small.jpg)
+_Native foodsharing.de app with an evening tint..._
+
+If you are interested in joining development, have a look in [Slack](https://slackin.yunity.org), in the channel #fs-dev-android
+
+_by Tilmann_
 
 ## [Karrot](https://karrot.world)
 
-- new release
-- bike kitchen gothenburg wants to try
+Karrot has a new release! It includes the newcomer role, the trust system and on-site notifications. Also, the Android app got deployed to the Play Store, you can [test it here](https://play.google.com/store/apps/details?id=world.karrot). Before we release it officially, there are some bugs to be fixed and some legal requirements to fulfill.
+
+The Bike Kitchen in Gothenburg wants to try out Karrot for their non-foodsaving related use case. But this fits in with the idea of Bruno and Nick to make Karrot more multi-purpose.
+
 - app in play store
 - new ideas from meeting with warsaw foodsavers
 
