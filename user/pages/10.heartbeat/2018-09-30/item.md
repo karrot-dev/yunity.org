@@ -45,12 +45,17 @@ _by Tilmann_
 
 ## [Karrot](https://karrot.world)
 
-Karrot has a new release! It includes the newcomer role, the trust system and on-site notifications. Also, the Android app got deployed to the Play Store, you can [test it here](https://play.google.com/store/apps/details?id=world.karrot). Before we release it officially, there are some bugs to be fixed and some legal requirements to fulfill.
+Karrot has [a new release](https://github.com/yunity/karrot-frontend/blob/master/CHANGELOG.md#620---2018-08-27)! It includes the newcomer role, the trust system and on-site notifications. Also, the Android app got deployed to the Play Store, you can [test it here](https://play.google.com/store/apps/details?id=world.karrot). Before we release it officially, there are some bugs to be fixed and some legal requirements to fulfill.
 
-The Bike Kitchen in Gothenburg wants to try out Karrot for their non-foodsaving related use case. But this fits in with the idea of Bruno and Nick to make Karrot more multi-purpose.
+From the meeting with foodsharing Warszawa we gathered more ideas for future Karrot features. One typical problem of foodsaving groups is the "first come, first served" behavior of joining pickups. The idea is to either limit how often new people can join a pickup per week or implement a "pickup lottery" in the first day after a pickup has been created. This should increase fairness amongst foodsavers.
+Other new ideas include a min and max setting for pickup slots and the possibility to set a pickup to "missed" if somebody didn't show up (in contrast to just assuming everything would go fine after clicking "join").
 
-- app in play store
-- new ideas from meeting with warsaw foodsavers
+The Bike Kitchen in Gothenburg wants to [try out Karrot](https://community.foodsaving.world/t/test-karrot-for-bike-kitchen/120) for their non-foodsaving related use case. But this fits in with the idea of Bruno and Nick to make Karrot more multi-purpose.
+
+![](https://community.foodsaving.world/uploads/default/original/1X/c6e4c804c811d3fcebb340439b1d89dd302dbe73.jpeg)
+_Is Karrot a good bike-saving platform?_
+
+_by Tilmann_
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
