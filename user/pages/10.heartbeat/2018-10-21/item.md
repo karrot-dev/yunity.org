@@ -24,6 +24,20 @@ _by Janina_
 
 ## [Karrot](https://karrot.world)
 
+*No big changes, but ongoing progress.* With 64 commits since the last heartbeat on 2018-09-30, the focus lies on small improvements, fixing bugs and improving the development workflow.
+
+There's a new type of notification if the connection to the server has been lost, to make it more visible to the user. It also allow us to react in certain ways, for example refreshing data after the connection has been restored.
+
+App push notifications have been fixed and the tray icon for Android has been replaced with one that resembles a carrot more closely (before, it looked like a bomb). Scrolling and focus behavior for message input on mobile clients has been improved, trying to keep the cursor on screen when the touch keyboard opens.
+
+![](karrot-push.png)
+
+Updated locales are now automatically checked and a Pull Request will be created in the Github repositories if there are updates from transifex. The release process of the Karrot App to the Play Store has been further automated, now also synchronizing description text and pictures.
+
+For more details, have a look in [our changelog](https://github.com/yunity/karrot-frontend/blob/master/CHANGELOG.md)!
+
+_by Tilmann_
+
 ## [foodsaving worldwide](https://foodsaving.world)
 
 ## [foodsharing.de](https://foodsharing.de)
