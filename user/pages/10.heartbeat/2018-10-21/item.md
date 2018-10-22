@@ -31,6 +31,7 @@ There's a new type of notification if the connection to the server has been lost
 App push notifications have been fixed and the tray icon for Android has been replaced with one that resembles a carrot more closely (before, it looked like a bomb). Scrolling and focus behavior for message input on mobile clients has been improved, trying to keep the cursor on screen when the touch keyboard opens.
 
 ![](karrot-push.png)
+_Push message on Android with a new monochrome logo_
 
 Updated locales are now automatically checked and a Pull Request will be created in the Github repositories if there are updates from transifex. The release process of the Karrot App to the Play Store has been further automated, now also synchronizing description text and pictures.
 
