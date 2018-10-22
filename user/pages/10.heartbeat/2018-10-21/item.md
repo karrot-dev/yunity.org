@@ -18,7 +18,7 @@ We have a new blog post about all things foodsharing that happen in our house: T
 The meeting to review the festival season from a foodsharing point of view took place over the last weekend. All organizers who led groups of foodsavers on different music festivals (such as Hurricane, Fusion, Feel and many more) were invited and a group of 12 met up at Kanthaus. We discussed the mission of foodsharing on festivals (raising awareness for food waste & hands-on foodsaving on camp grounds and from food stands), the scope of the working group, who is responsible for what and how we can even improve an already well-rehearsed work flow.
 
 ![](festivalSaving.jpg)<br>
-_The foodsavers at the Hurricane festival in June 2018_
+_Two foodsavers at the Hurricane festival in June 2018_
 
 _by Janina_
 
@@ -49,8 +49,6 @@ This and the fact that after the last building week there is now a cozy loft bed
 
 _by Lise_
 
-## [foodsaving worldwide](https://foodsaving.world)
-
 ## [foodsharing.de](https://foodsharing.de)
 It has been two months now, that I did my last [commit](https://en.wikipedia.org/wiki/Commit_(version_control)) to foodsharing.de, still there are 23 entries in the Changelog since then.
 
@@ -67,7 +65,7 @@ Amazing!
 
 And not only that.
 
-![](matthias_cooking_bike_trip.jpg)
+![](0matthias_cooking_bike_trip.jpg)
 
 A small group of people started creating an Android app, I heard.
 
