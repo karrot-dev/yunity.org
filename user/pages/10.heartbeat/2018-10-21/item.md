@@ -52,6 +52,42 @@ _by Lise_
 ## [foodsaving worldwide](https://foodsaving.world)
 
 ## [foodsharing.de](https://foodsharing.de)
+It has been two months now, that I did my last [commit](https://en.wikipedia.org/wiki/Commit_(version_control)) to foodsharing.de, still there are 23 entries in the Changelog since then.
+
+![](matthias_looking_at_bulb.jpg)
+
+Wait... Who else did them?
+
+Can it...?
+
+Yep!
+
+There is actually 9 contributors other than me who did changes to foodsharing in the last two months!
+Amazing!
+
+And not only that.
+
+![](matthias_cooking_bike_trip.jpg)
+
+A small group of people started creating an Android app, I heard.
+
+So I checked the repository just now and was able to download a working [apk](https://en.wikipedia.org/wiki/Android_application_package) which I could install on my phone, log into foodsharing and see my messages.
+
+Nice!
+
+Okay, you might say that our foodsharing light approach nearly two years ago reached the same state, but I see much more momentum in the current approach.
+
+I see 3-4 people contributing to the new app, while all of them are also doing necessary changes and additions to the running foodsharing.de backend.
+
+I am really glad about the recent developments and hope that I will soon find time and motivation to jump back to foodsharing development again :-)
+
+At least if other foodsharing responsibilities don't take all the time I am willing to spend. (Short forecast: We will change our internal email addresses soon, details will be published once they are known)
+
+![](matthias_explaining_things_to_people.jpg)
+
+I put random pictures like this one above of me doing other things in the article to proof that I really did not do anything on foodsharing.de in the last two months.
+
+_by Matthias_
 
 
 ## About the heartbeat.
