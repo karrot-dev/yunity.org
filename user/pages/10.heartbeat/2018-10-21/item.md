@@ -38,11 +38,17 @@ For more details, have a look in [our changelog](https://github.com/yunity/karro
 
 _by Tilmann_
 
+## [Harzgerode / Haus X](http://freiefeldlage.de/)
+On our way to Wurzen last week Anna, Bodhi and I stopped for one day in Harzgerode and brought the greatest competitor for Steffen in being our HausX multitalent. An oven. But what kind? This oven has a window, so you can sit in front of it, enjoy the warmth and watch the flames inside – an activity which is definitely one of my favorite activities in wintertime. In addition it heats water which will be used for the heating system in the ground floor and on top… (dramatical pause) …there is...the possibility...to….BAKE! Woaaah! Isn‘t that a reason to spent some winter weeks in HausX?!
+
+This and the fact that after the last building week there is now a cozy loft bed in the office, a lounge with comfortable armchairs beside the kitchen, a new communal sleeping room and beautifully drawn signs all around the house, which really make HausX a nice place to be.
+
+_by Lise_
+
 ## [foodsaving worldwide](https://foodsaving.world)
 
 ## [foodsharing.de](https://foodsharing.de)
 
-## [Harzgerode / Haus X](http://freiefeldlage.de/)
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
