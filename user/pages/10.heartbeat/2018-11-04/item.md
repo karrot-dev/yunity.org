@@ -80,8 +80,7 @@ Why?
 
 Stay tuned for a blog post about it...
 
-
-## [Karrot](https://karrot.world)
+_by Matthias_
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
 There is a new article on foodsaving.today about the foodsharing groups in Warsaw, Łódź and Wrocław. The [community forum](https://community.foodsaving,world) sees more and more activity, like [this discussion on Swedish networking](https://community.foodsaving.world/t/cooperation-to-kickstart-foodsaving-in-some-swedish-cities/128) and [this one about a potential Karrot/FSWW co-op](https://community.foodsaving.world/t/a-karrot-co-op/124/).
