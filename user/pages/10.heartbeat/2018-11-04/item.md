@@ -93,7 +93,7 @@ _The facebook post_
 _by Janina_
 
 ## [foodsharing.de](https://foodsharing.de)-dev
-Since the last release in August there have been 26 additions to the changelog's 'unreleased' section. And what's most exciting about is that next to 12 bug fixes, 2 bits of refactoring and 2 dev things, we also have 10 actual features! To experience them already, you can go to [foodsharing beta](https://beta.foodsharing.de/).
+Since the last release in August there have been 26 additions to the changelog's 'unreleased' section. And what's most exciting about it is that next to 12 bug fixes, 2 bits of refactoring and 2 dev things, we also have 10 actual features! To experience them already, you can go to [foodsharing beta](https://beta.foodsharing.de/).
 
 All these changes are possible because there is a nice and productive atmosphere in the new (and still growing!) developer group of foodsharing.de. Take this screenshot of a conversation last Thursday and get a taste of what I mean:
 
