@@ -23,6 +23,8 @@ _As you can see we still have some things to do..._
 
 Fitting to the topic of dreaming, I'm happy to announce that Alexandra Yepes, a filmmaker who recently started shooting "[a documentary about life outside of the monetary system, produced entirely under the sharing economy](https://chirimoyafilms.wixsite.com/fausto/)", will come to Kanthaus next weekend. She is mostly following her protagonist Fausto, but will of course also record some of what is going on in Kanthaus. (Unfortunately that won't be a lot during the time she'll be here... ^\_^')
 
+_by Janina_
+
 ## [Foodsaving Worldwide](https://foodsaving.world)
 Lódź celebrated the 1 year anniversary of their Food-Share Point last week with [a big event](https://www.facebook.com/events/256984375161501/). They also gave an [interview in a radio show](https://www.radiolodz.pl/broadcast_posts/48304-pierwsze-urodziny-lodzkiej-jadlodzielni-jestem-eko) (all in Polish, but a summary in English will follow shortly!), in which they showed a much brighter attitude than [during our visit in September](https://foodsaving.today/en/blog/2018/10/18/fspl-lodz-wroclaw).
 
@@ -30,6 +32,8 @@ Lódź celebrated the 1 year anniversary of their Food-Share Point last week wit
 _An impression from the anniversary party in Lódź_
 
 In Germany there is a lot of work done right now to strengthen the voice of foodsharing in media, politics and education: Next week there will be the [first session of the newfound "foodsharing academy"](https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf) in Kassel, where foodsavers can learn about how to educate others about issues related to food waste. And until the end of the year the [demands for Germany's politicians](https://wiki.foodsharing.de/images/c/c6/Forderugen_lang_2017-12.pdf) will be refined, renewed and represented towards the public.
+
+_by Janina_
 
 ## [Karrot](https://karrot.world)
 
@@ -58,6 +62,13 @@ _by Tilmann_
 ## [foodsharing.de](https://foodsharing.de)-dev
 
 ## [Harzgerode / Haus X](http://freiefeldlage.de/)
+Since yesterday the project in Harzgerode is way Way WAY more likely to keep existing in the next year(s).
+On saturday five people (Mareike, Josi, Theo, Julia, Steffen) founded the Genossenschaft “in der Heilstätte Harzgerode eG” i.Gr. wich is the biggest prerequisite for soonly buying the whole property and bring it into communal ownership of its inhabitants. This is a big milestone.
+Meanwhile the winter has arrived and the heating construction takes priority no 1. (deja vu? :wink: )
+At least the livign room in HausX is comfortably warm due to the woodstove. Replacing this small stove with a bigger water carrying one wich is capable to make the whole house cozy is paused until the heating in the main buildign is online.
+
+_by Steffen_
+
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
