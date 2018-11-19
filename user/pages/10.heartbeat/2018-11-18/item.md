@@ -60,6 +60,49 @@ _by Tilmann_
 ## Foodsavin today
 
 ## [foodsharing.de](https://foodsharing.de)-dev
+Saturday afternoon, 15:10, I wanted to do a little bit more foodsharing development again, because there is this really important Emailtopic coming soon...
+So, as I open Slack to talk to other people about what I am up to, I see:
+
+![](fs_beta_foodsharing_slower_today.png)<br>
+
+Oops, what is this?
+
+![](fsde_response_time.png)<br>
+
+Yep, they seem right, something wrong here! What is going on? Maybe media coverage, an attack or something?
+
+![](fsde_nginx.png)<br>
+
+I cannot spot any great difference here. For sure, I also checked [top](https://en.wikipedia.org/wiki/Top_(software)) on the server itself, not showing any suspicious processes using CPU. But I see a high IO load and [MySQL](https://en.wikipedia.org/wiki/MySQL) being responsible for a lot of everything. What does our monitoring say about that?
+
+![](fsde_database_activity.png)<br>
+
+(Different time scale here - Evening of the 16th up to the 17th is the time we are talking about; the regular peaks is the daily backup)
+
+Wow, this does not seem right. So I dived into our SQL activity a bit and did not find anything unusual. I learned about `SHOW ENGINE INNODB STATUS`, which gives a lot of information about what the database is doing (and has been doing in the last few seconds). I learned about the global log, which can log all queries happening, even to a database that can be queried and analysed with [phpMyAdmin](https://www.phpmyadmin.net/) (which so far is the only database administration tool we use).
+I played around with an increased buffer pool and sort buffer (as I know we have a bunch of queries that could use some optimisation). I expected some query to have jumped above a certain result size and not fitting into some buffer anymore. I still don't know if I am right.
+
+In the end, some traces were pointing me towards innocent looking queries of this type:
+
+```
+UPDATE `fs_foodsaver_has_bell` SET `seen` = 1 WHERE `bell_id` IN (1369457,1369000,1357929,1357286);
+```
+
+This marks your notification (somebody answered your post, a new store in your area is created, ...) as read and happens quite often: Lazily, whenever you see notifications.
+
+So, as this query runs very often and - as a write command - is IO intense, what happens when we disable it?
+
+The answer is already in the graphs you see above. I am sorry for your notifications staying unread for now...
+It is 18:35 and my computer time for that saturday is over.
+
+Fortunately, I opened the [important issue about the emailing](https://gitlab.com/foodsharing-dev/foodsharing/issues/385) already early while I was digging into the issue described above, otherwise I would not even have done what I absolutely wanted to...
+
+Some facts of this story where gathered just when I did this writeup, but it happened approximately as written. I shared this with you to show how life of a combined sysadmin/developer/project manager looks like and I seldomly end up doing in my time what I actually planned for.
+The unfortunate thing here is that the solution currently implemented needs to be revised. I hotfixed it in the production deployment, there is no answer yet to what actually caused this problem, not even clarity, that I "fixed" the actual bad query...
+
+In a developer constrained project like foodsharing.de, quirks like this will always be a part of, we just have to take care, that they don't come back to us and that we try to do them as properly as possible :-)
+
+_by Matthias_
 
 ## [Harzgerode / Haus X](http://freiefeldlage.de/)
 Since yesterday the project in Harzgerode is way Way WAY more likely to keep existing in the next year(s).
