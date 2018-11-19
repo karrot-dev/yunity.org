@@ -18,8 +18,16 @@ Kanthaus is still occupied with room planning. On coming Wednesday we will hold 
 
 On top of that our [Autumn Roadmap](https://kanthaus.online/governance/minutes/2018-09-04_roadmap) is coming to an end, which means that we are closing in on a planning phase for winter anyways – so what's a better time for dreaming? :)
 
+![](autumnRoadmap.jpg)<br>
+_As you can see we still have some things to do..._
+
+Fitting to the topic of dreaming, I'm happy to announce that Alexandra Yepes, a filmmaker who recently started shooting "[a documentary about life outside of the monetary system, produced entirely under the sharing economy](https://chirimoyafilms.wixsite.com/fausto/)", will come to Kanthaus next weekend. She is mostly following her protagonist Fausto, but will of course also record some of what is going on in Kanthaus. (Unfortunately that won't be a lot during the time she'll be here... ^\_^')
+
 ## [Foodsaving Worldwide](https://foodsaving.world)
 Lódź celebrated the 1 year anniversary of their Food-Share Point last week with [a big event](https://www.facebook.com/events/256984375161501/). They also gave an [interview in a radio show](https://www.radiolodz.pl/broadcast_posts/48304-pierwsze-urodziny-lodzkiej-jadlodzielni-jestem-eko) (all in Polish, but a summary in English will follow shortly!), in which they showed a much brighter attitude than [during our visit in September](https://foodsaving.today/en/blog/2018/10/18/fspl-lodz-wroclaw).
+
+![](0lodzAni.jpg)<br>
+_An impression from the anniversary party in Lódź_
 
 In Germany there is a lot of work done right now to strengthen the voice of foodsharing in media, politics and education: Next week there will be the [first session of the newfound "foodsharing academy"](https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf) in Kassel, where foodsavers can learn about how to educate others about issues related to food waste. And until the end of the year the [demands for Germany's politicians](https://wiki.foodsharing.de/images/c/c6/Forderugen_lang_2017-12.pdf) will be refined, renewed and represented towards the public.
 
