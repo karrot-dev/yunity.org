@@ -11,10 +11,17 @@ published: true
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
 ## [Kanthaus](https://kanthaus.online)
+Kanthaus is still occupied with room planning. On coming Wednesday we will hold the third bigger meeting on the topic to clarify the obvious questions:
+- What is the big, long-term masterplan for the layout of Kanthaus we all can agree on?
+- What are the obstacles we need to overcome to make it reality?
+- What steps towards these goals can be taken right now?
 
-## KeinMüllWagen
+On top of that our [Autumn Roadmap](https://kanthaus.online/governance/minutes/2018-09-04_roadmap) is coming to an end, which means that we are closing in on a planning phase for winter anyways – so what's a better time for dreaming? :)
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
+Lódź celebrated the 1 year anniversary of their Food-Share Point last week with [a big event](https://www.facebook.com/events/256984375161501/). They also gave an [interview in a radio show](https://www.radiolodz.pl/broadcast_posts/48304-pierwsze-urodziny-lodzkiej-jadlodzielni-jestem-eko) (all in Polish, but a summary in English will follow shortly!), in which they showed a much brighter attitude than [during our visit in September](https://foodsaving.today/en/blog/2018/10/18/fspl-lodz-wroclaw).
+
+In Germany there is a lot of work done right now to strenghthen the voice of foodsharing in media, politics and education: Next week there will be the [first session of the newfound "foodsharing academy"](https://wiki.foodsharing.de/images/6/6f/Seminarausschreibung_final.pdf) in Kassel, where foodsavers can learn about how to educate others about issues related to food waste. And until the end of the year the [demands for German's politicians](https://wiki.foodsharing.de/images/c/c6/Forderugen_lang_2017-12.pdf) will be refined, renewed and represented towards the public.
 
 ## [Karrot](https://karrot.world)
 
