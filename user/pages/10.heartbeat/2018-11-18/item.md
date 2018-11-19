@@ -25,6 +25,28 @@ In Germany there is a lot of work done right now to strengthen the voice of food
 
 ## [Karrot](https://karrot.world)
 
+Last heartbeat missed a Karrot contribution, so this one highlights activity since end of October:
+
+- We scheduled our [winter roadmap](https://community.foodsaving.world/t/collecting-feature-requests-for-karrot-winter-2018/134/8?u=tiltec)
+- 120 commits touching 15,000 lines of code
+- [4 new releases](https://github.com/yunity/karrot-frontend/blob/master/CHANGELOG.md)
+- significant improvements to the [Android app](https://play.google.com/store/apps/details?id=world.karrot)
+- the frontend code is now [organized in modules](https://docs.karrot.world/frontend-structure.html)
+
+![](Karrot-loading.png?resize=240,470)<br>
+_The new splash screen when loading Karrot; it makes Tilmann happy every time he improves the code_
+
+There was also some Karrot-related activity in the [community forum](https://community.foodsaving.world/):
+
+- Janina wrote a [call for beta testers](https://community.foodsaving.world/t/call-for-beta-testers/144)
+- Lukas started a discussion about a [funding concept for Karrot](https://community.foodsaving.world/t/funding-concept-for-karrot/136)
+- Bruno shared [his ideas how to send less emails](https://community.foodsaving.world/t/improving-notifications-e-mail-and-push/169)
+
+
+_by Tilmann_
+
+## Foodsavin today
+
 ## [foodsharing.de](https://foodsharing.de)-dev
 
 ## [Harzgerode / Haus X](http://freiefeldlage.de/)
