@@ -23,6 +23,11 @@ _As you can see we still have some things to do..._
 
 Fitting to the topic of dreaming, I'm happy to announce that Alexandra Yepes, a filmmaker who recently started shooting "[a documentary about life outside of the monetary system, produced entirely under the sharing economy](https://chirimoyafilms.wixsite.com/fausto/)", will come to Kanthaus next weekend. She is mostly following her protagonist Fausto, but will of course also record some of what is going on in Kanthaus. (Unfortunately that won't be a lot during the time she'll be here... ^\_^')
 
+And apart from all the dreaming and planning we also have a lot of ordinary house work to do, like sorting socks for ~15 people... This can be a task that requires more creativity and the ability to tolerate frustration than one might think... ;)
+
+![](socksorting.jpg)<br>
+_They're all almost the same... but just almost!_
+
 _by Janina_
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
