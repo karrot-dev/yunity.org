@@ -46,7 +46,17 @@ In two weeks the MOVE utopia orga team will join us for one weekend to plan next
 _by Steffen_
 
 ## [Kanthaus](https://kanthaus.online)
+Things that happened at Kanthaus:
 
+The workshop was moved to K22 and connected to this a separation in to workshop and electronics workshop took place (not yet complete, so pictures will follow).
+
+We had another room planing meeting that was very well prepared by Chandi and Janina and now we have the ultimate plan of the house that will surpass all time! Or in other words: We now have a rough draft of how the house could look if everything we imagine to change now would actually be combined and in place! We also now have a final more mid range plan that somehow turned into consensus in the last weeks and brought some clarity to the room situation.
+
+And last but not least the spice shelves have been alphabetically sorted and the the jars dualiformed (we didn't have enough small jars of one size to uniform).
+
+![](allSpices.jpg)
+
+_by Bodhi_
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
 - The summary of foodsharing Łódź's radio interview we promised [in the last issue](http://localhost:8000/en/heartbeat/2018-11-18) now is a [new article on foodsaving.today](https://foodsaving.today/en/blog/2018/11/23/fspl-radio) thanks to Nathalie.
