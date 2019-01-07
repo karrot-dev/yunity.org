@@ -10,7 +10,7 @@ published: true
 
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
-## [35c3](https://events.ccc.de/congress/2018/wiki/index.php/Main_Page)
+## [35C3](https://events.ccc.de/congress/2018/wiki/index.php/Main_Page)
 Some people anticipate Christmas, other (more nerdy) people celebrate _the Congress_ and this year we joined the latter category! ;)
 
 Basically all of Kanthaus moved their center of activities to [Leipzig Messe](https://en.wikipedia.org/wiki/Leipzig_Trade_Fair) from December 26 to 30. We had our very own base (also called assembly) where we could inform interested people about the various projects we work on.
@@ -34,7 +34,14 @@ _The Karrot team on stage_
 _by Janina_
 
 ## [Karrot](https://karrot.world)
-Winter of Karrot! Gothenburg funding!
+
+Some days after 35C3, the [Winter of Karrot](https://kanthaus.online/de/events/2019-01-01_winter-of-karrot) started. We quickly decided that we want to work on a tool for conflict resolution in groups, which should also allow user removal based on conversations and voting. Our team of 4 spent some days discussing and planning the feature. You can read more about the [current proposal on our forum](https://community.foodsaving.world/t/conflict-resolution-with-possibility-to-remove-user-from-group/201). Our plan is to implement this feature during the next weeks.
+
+The changes to pickups and recurring pickups are now documented in [a forum post](https://community.foodsaving.world/t/pickups-refreshed/199), can be tested on [dev.karrot.world](https://dev.karrot.world) and will be released into production next week.
+
+Bruno and Tomasz from Gothenburg involved us more with the project to use Karrot for organizing the work of a bike kitchen. A bike bitchen operates in a way that it saves bike parts from trash and reuses them to build new bikes. Great project, and we're happy to be part of this. The goal is to generalize Karrot beyond food saving and adapt it to bike kitchen structures.
+
+_by Tilmann_
 
 ## [Harzgerode / Haus X](http://freiefeldlage.de/)
 Quiet New Year's in the snow...
