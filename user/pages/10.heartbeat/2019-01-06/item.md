@@ -47,7 +47,14 @@ _by Tilmann_
 Quiet New Year's in the snow...
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
-Malta? Paris? News from existing groups? Some extra mention of Japan?
+A new person emerged from the past and is interested in foodsharing Paris. Now it's already three and they got connected! Let's hope for the best and maybe soon we'll have a new foodsaving group in the French capital! :D
+
+We also received mail from an experienced German foodsaver who is moving to Malta and is interested in importing the concept of foodsharing, too. As we all know this often is a pretty solid recipe for success if her motivation stays high for a while... ;)
+
+[Foodsharing Japan](https://www.facebook.com/%E3%83%95%E3%83%BC%E3%83%89%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3-Foodsharing-Japan-2014852785397936/) is continouusly savong food every week for months now. The pictures they publish on facebook indicate a growing amount of food that is saved and distributed to people who can make use of it. Keep up the good work, guys!
+
+![](japanFood.jpg)<br>
+_A small portion of the food saved in December in Japan_
 
 ## [Kanthaus](https://kanthaus.online)
 Anything..? xD
