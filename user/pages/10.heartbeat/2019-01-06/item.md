@@ -39,12 +39,9 @@ Some days after 35C3, the [Winter of Karrot](https://kanthaus.online/de/events/2
 
 The changes to pickups and recurring pickups are now documented in [a forum post](https://community.foodsaving.world/t/pickups-refreshed/199), can be tested on [dev.karrot.world](https://dev.karrot.world) and will be released into production next week.
 
-Bruno and Tomasz from Gothenburg involved us more with the project to use Karrot for organizing the work of a bike kitchen. A bike bitchen operates in a way that it saves bike parts from trash and reuses them to build new bikes. Great project, and we're happy to be part of this. The goal is to generalize Karrot beyond food saving and adapt it to bike kitchen structures.
+Bruno and Tomasz from Gothenburg involved us more in the project to use Karrot for organizing the work of a bike kitchen. A bike bitchen operates in the way that it saves bike parts from trash and reuses them to build new bikes. We think it's a great project, and we're happy to be part of this. The goal is to generalize Karrot beyond food saving and adapt it to bike kitchen structures.
 
 _by Tilmann_
-
-## [Harzgerode / Haus X](http://freiefeldlage.de/)
-Quiet New Year's in the snow...
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
 A new person emerged from the past and is interested in foodsharing Paris. Now it's already three and they got connected! Let's hope for the best and maybe soon we'll have a new foodsaving group in the French capital! :D
@@ -56,8 +53,12 @@ We also received mail from an experienced German foodsaver who is moving to Malt
 ![](japanFood.jpg)<br>
 _A small portion of the food saved in December in Japan_
 
+_by Janina_
+
 ## [Kanthaus](https://kanthaus.online)
-Anything..? xD
+Many people gathered in Kanthaus to celebrate the second version of wuwita - the 'Wurzen winter days' - and started the new year in a calm, communal and cozy way. There were some workshops and skill sharing sessions, some games and music and of course a lot of good conversations and amazing food. We did not advertize this event at all, because we really wanted it to be a small gathering of friends. Still, the interest was so high that in the end we were more than 20 people anyways...^^
+
+_by Janina_
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
