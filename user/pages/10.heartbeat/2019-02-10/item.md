@@ -11,6 +11,16 @@ published: true
 **The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
 
 ## [Kanthaus](https://kanthaus.online)
+We seem to have misnamed the 'Month of Calm', because in many ways it's been *more* intense! The energy freed up by not needing to induct new people has been invested in various sessions and discussions: Chandi held a '[cryptoparty](https://www.cryptoparty.in/)' to help people better protect their data, the Karrot Crew demonstrated the developments they made over their work month (more below) and Nick and Matthias presented the [HouseBus](https://github.com/NerdyProjects?utf8=%E2%9C%93&tab=repositories&q=house&type=&language=) system—a 'smart-home' project which respects data privacy.
+
+![](houseBus.jpg)<br>
+_Smart-homes without surveillance capitalism? Yes, it's possible!_ 
+
+One topic that got a lot of attention was money. Bodhi, Luisa and I organized 4 sessions to investigate how the principle of 'promote sharing, prevent waste' could apply to this strange resource in the Kanthaus context. I was impressed at how open and trusting people were to share their personal situations, hopes and fears on a topic which is normally taboo. Next week we'll be trying to convert the ideas into testable proposals.
+
+I get the general feeling the Month of Calm has been appreciated and that we'll want to hold a similar month next year.
+
+_Doug_
 
 ## [Harzgerode / Haus X](http://freiefeldlage.de/)
 
