@@ -40,7 +40,16 @@ One topic that got a lot of attention was money. Bodhi, Luisa and I organized 4 
 
 I get the general feeling the Month of Calm has been appreciated and that we'll want to hold a similar month next year.
 
-_Doug_
+_by Doug_
+
+## [Foodsaving Worldwide](https://foodsaving.world)
+
+Recently we had our first person from the U.S. sign up on our forum and immediately post super nice [Greetings from Savannah](https://community.foodsaving.world/t/greetings-from-savannah). The person called wutogui is part of the [Savannah chapter](https://www.facebook.com/SavannahFNB/) of [Food not Bombs](http://foodnotbombs.net) (FNB) and told us a lot about what they are doing with regards to saving food and sharing it with people in need. Interestingly FNB explicitly identifies _not_ as charity but as anarchic solidarity movement that fights waste and by that is completely in line with our vision of foodsaving. We hope to strengthen this relationship and find ways to support each other regularly! :)
+
+![](FNB_park.jpg)<br>
+_A vegan meal distribution event in a Savannah park._
+
+_by Janina_
 
 ## [foodsharing.de](https://foodsharing.de) dev
 
@@ -69,7 +78,7 @@ To make it more relatable the problem was the same as when a busy supermarket do
 
 The remaining mystery is noticing that the CPU usage went _down_ quite a lot (more idle time, shown in green). If you know why, maybe you should join the foodsharing dev team!
 
-_Nick_
+_by Nick_
 
 ## [Karrot](https://karrot.world)
 
@@ -91,15 +100,6 @@ Janina worked on the conflict resolution feature, which is dearly needed by some
 I spent my time mostly on implementing store conversations and store subscriptions. I already posted some pictures into the [issue](https://github.com/yunity/karrot-frontend/issues/986) and Bruno gave me useful feedback. As a kind of prerequisite for these, I added "open pickup chats" - now every group member can participate in the pickup chat, not only collectors.
 
 _by Tilmann_
-
-## [Foodsaving Worldwide](https://foodsaving.world)
-
-Recently we had our first person from the U.S. sign up on our forum and immediately post super nice [Greetings from Savannah](https://community.foodsaving.world/t/greetings-from-savannah). The person called wutogui is part of the [Savannah chapter](https://www.facebook.com/SavannahFNB/) of [Food not Bombs](http://foodnotbombs.net) (FNB) and told us a lot about what they are doing with regards to saving food and sharing it with people in need. Interestingly FNB explicitly identifies _not_ as charity but as anarchic solidarity movement that fights waste and by that is completely in line with our vision of foodsaving. We hope to strengthen this relationship and find ways to support each other regularly! :)
-
-![](FNB_park.jpg)<br>
-_A vegan meal distribution event in a Savannah park._
-
-_by Janina_
 
 ## About the heartbeat.
 The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
