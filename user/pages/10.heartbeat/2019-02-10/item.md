@@ -69,6 +69,8 @@ To make it more relatable the problem was the same as when a busy supermarket do
 
 The remaining mystery is noticing that the CPU usage went _down_ quite a lot (more idle time, shown in green). If you know why, maybe you should join the foodsharing dev team!
 
+_Nick_
+
 ## [Karrot](https://karrot.world)
 
 Welcome to the Karrot section, I'm Tilmann - your host! :)
