@@ -42,6 +42,33 @@ I get the general feeling the Month of Calm has been appreciated and that we'll 
 
 _Doug_
 
+## [foodsharing.de](https://foodsharing.de) dev
+
+There is lots going on in foodsharing development, but I'll share just one thing (mostly as it has a pretty picture to go with it).
+
+The site has been running quite slow, and there were lots of chats about how to improve it. The mystery was that the beta version of the
+site was still running fast on the same server. They use the same database and redis service so it wasn't related to that and they are both running with the same version of php. One of the main differences was the beta site had 2 php workers whereas the production site had 5. So perhaps we had not enough workers?
+
+If there aren't enough workers to serve the requests they are added to a queue, and we have been collecting the stats about the php-fpm queue
+length for some time now. However, it is always 0. Hmmm.
+
+But a spark of imagination later and we realised that there is another place it can queue. Between the nginx webserver and the php-fpm process is a unix socket and that has it's own queue. And despite the myriad of different stats we collect about the server and app, that was not one of them.
+
+The simple solution would be to just change the number of php-fpm workers, but I wanted to really know whether it makes a difference by collecting data and also make sure other things were not negatively affected.
+
+I added stat collection for two extra things (for both beta and production) - the unix socket queue length, and the home page response time (as measured from another server). I left that running for about 12 hours before adding another 2 php-fpm workers (so changing from 5 to 7). Here are the graphs showing the impact:
+
+![](fsperformancehb.png)
+_Top left is queue length (yellow prod, green beta), bottom left is response time (yellow prod, green beta), top right is swap usage, bottom right is CPU usage (green is idle/free), the vertical dotted blue line is when I made the configuration change_
+
+Our server does not have much spare memory so adding extra workers might have been an issue - one of potential issues would show if the system started using a lot of swap, so I included a graph for that, but fortunately swap usage didn't change much.
+
+The result, happy people!
+
+To make it more relatable the problem was the same as when a busy supermarket does not have enough checkouts open, the solution: open more checkouts!
+
+The remaining mystery is noticing that the CPU usage went _down_ quite a lot (more idle time, shown in green). If you know why, maybe you should join the foodsharing dev team!
+
 ## [Karrot](https://karrot.world)
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
