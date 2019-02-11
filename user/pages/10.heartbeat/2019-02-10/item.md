@@ -71,12 +71,31 @@ The remaining mystery is noticing that the CPU usage went _down_ quite a lot (mo
 
 ## [Karrot](https://karrot.world)
 
+Welcome to the Karrot section, I'm Tilmann - your host! :)
+
+There was quite some activity in the foodsaving worldwide forum about Karrot! Bruno received notable attention for a [feature proposal](https://community.foodsaving.world/t/invite-a-friend-to-a-pickup-feature-suggestion/229) to invite a friend to a pickup. He also wrote up a [comprehensive list of notifications in Karrot](https://community.foodsaving.world/t/comprehensive-list-of-notifications/224) and made [suggestions for improvements](https://community.foodsaving.world/t/improving-notifications-and-ux-draft/227). It's much appreciated input on the complex topic of notifications, and we will probably implement some of these improvements in the next weeks (...or months).
+
+Nick started renaming "stores" to "places - only in the code, as a user you should not see any changes yet. We are planning to add more "place" types in future, for example meeting places, distribution & sharing locations and possibly more.
+
+Also thanks to Nick, pickups can now have a duration. It looks like this, and you can test it yourself on [dev.karrot.world](https://dev.karrot.world):
+
+![](karrot-set-duration.png)
+
+![](karrot-duration.png)
+_Pickups with duration_
+
+Janina worked on the conflict resolution feature, which is dearly needed by some Karrot groups. Nick and me will join in to get it into beta soon, then we are looking forward to user feedback. I'm a bit afraid of user feedback at the same time, because it probably triggers another round of feature requests... ;)
+
+I spent my time mostly on implementing store conversations and store subscriptions. I already posted some pictures into the [issue](https://github.com/yunity/karrot-frontend/issues/986) and Bruno gave me useful feedback. As a kind of prerequisite for these, I added "open pickup chats" - now every group member can participate in the pickup chat, not only collectors.
+
+_by Tilmann_
+
 ## [Foodsaving Worldwide](https://foodsaving.world)
 
 Recently we had our first person from the U.S. sign up on our forum and immediately post super nice [Greetings from Savannah](https://community.foodsaving.world/t/greetings-from-savannah). The person called wutogui is part of the [Savannah chapter](https://www.facebook.com/SavannahFNB/) of [Food not Bombs](http://foodnotbombs.net) (FNB) and told us a lot about what they are doing with regards to saving food and sharing it with people in need. Interestingly FNB explicitly identifies _not_ as charity but as anarchic solidarity movement that fights waste and by that is completely in line with our vision of foodsaving. We hope to strengthen this relationship and find ways to support each other regularly! :)
 
 ![](FNB_park.jpg)<br>
-_A vegan meal distribution event in a Savannah park._  
+_A vegan meal distribution event in a Savannah park._
 
 _by Janina_
 
