@@ -53,4 +53,22 @@ _by Janina_
 
 ## [Harzgerode](http://freiefeldlage.de/)
 
-## [Karrot](https://karrot.world)
+At the time of the last heartbeat this was the image of Harzgerode: frosty temperatures, footsteps in the snow and stormy nights during which the wind howls through the many cracks of Haus X. Today the mood is completely different. A week ago spring woke the area from hibernation with a kiss and since then sun is shining everyday. With it comes motivation to work outdoors in a t-shirt.
+
+So last weekend we had our chainsaw course in the best possible weather. We learned how to cut trees the safe and professional way, how to repair damage done by storm and how to maintain the chainsaw itself. Now we're all set for the next winter, since we have tons of fire wood on the area of the Heilstätte which now can be cut into fitting pieces all year long.
+
+![](hz_lumberjacks.jpg)<br>
+_Professional tree cutting in the Heilstätte forest_
+
+The only thing keeping us from it is the neverending office work... but luckily it is carried by more and more shoulders. Just recently two newcomers joined the group permanently to help build up the community in Harzgerode. And to also enjoy nice, relaxing times together, we had fun with a sauna caravan, campfire and BBQ on the terrasse last week.
+
+![](hz_bbq.jpg)<br>
+_The leaves are still missing, but the bbq is hot already!_
+
+_by Lise_
+
+## About the heartbeat.
+The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### How to contribute?
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback! ^\_^
