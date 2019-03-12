@@ -14,7 +14,7 @@ published: true
 
 Time to celebrate!
 
-We finally got the information we waited for _soooo_ long: Harzgerode will get more than 100.000 € funding to reactivate the theater hall. It is quite unlikely, but still possible that the hall will be ready to use for the upcoming festival(s?) in summer. A part of the money also will be used for some urgent repairs of some roofs of other buildings.
+We finally got the information we awaited for _soooo_ long: Harzgerode will get more than 100.000 € funding to reactivate the theater hall. It is quite unlikely, but still possible that the hall will be ready to use for the upcoming festival(s?) in summer. A part of the money also will be used for some urgent repairs of some roofs of other buildings.
 
 ![](theaterHall.jpg)<br>
 _Celebration in the ruins of the theater hall_
@@ -44,3 +44,9 @@ The unfortunate turn our roof plans took when we met with the architect of our h
 _Nicely stacked tiles_
 
 _by Clara and Janina_
+
+## About the heartbeat.
+The heartbeat is a fortnightly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### How to contribute?
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback!
