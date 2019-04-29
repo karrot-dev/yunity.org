@@ -27,6 +27,41 @@ _by Janina_
 
 ## [Karrot](https://karrot.world)
 
+An ongoing topic for Karrot is improving usability, especially the navigation structure is sometimes unclear to users. When we introduced the store wall, many had a hard time finding it. The problem was that the sidenav changed when switching pages, which is not something that people are used to.
+To improve that, we moved the navigation into a uniform store header _on_ the page. That should improve visibility and also make clearer which page is currently shown. 
+
+![](karrot-store-navigation.png)<br>
+_Old store navigation in the sidenav_
+
+![](https://user-images.githubusercontent.com/4410802/56653712-8ab4ba80-668e-11e9-8249-f2ab8ff1a41c.png)<br>
+_New store tab navigation_
+
+Two students from the University of Michigan worked on Karrot as part of their final assignment. They chose to improve the emoji reaction picker. Before, the picker only showed 5 selected emoji. Now, users can search through the huge unicode emojie catalogue.
+We had to overcome a few issues when implementing it: 
+- emoji names are not standardized and sometimes two names for the same emoji exists. By defining one standard name for each emoji, we could properly merge equal reactions together.
+- Quasar, the user interface library that Karrot uses, has problems positioning the reaction popover when the size is not defined. We worked around that by always setting a fixed size that should fit all common screens.
+
+![](https://user-images.githubusercontent.com/4410802/43389579-5898289a-93ec-11e8-8acd-fdcfb4e935b8.png)<br>
+_Old emoji reaction picker_
+
+![](karrot-reactions.png?resize=300)<br>
+_Now you can search through a huge emoji catalogue when giving reactions_
+
+Another recent change was the addition of a group welcome message. When users get accepted into a group, they already receive an email. Now it's possible to specify a message that will get included into the email.
+
+![](https://user-images.githubusercontent.com/1835675/55658864-861f8380-57ff-11e9-8e84-0326defca298.png)<br>
+_Group welcome message form_
+
+Other recent activity:
+- a new voting about feature requests [has been started](https://community.foodsaving.world/t/collecting-and-voting-on-feature-requests-summer-2019/268)
+- there's a draft how [meetings could be implemented](https://github.com/yunity/karrot-frontend/pull/1450)
+- experiments with [public places](https://github.com/yunity/karrot-frontend/pull/1449)
+- a bug has been fixed that would cause trust to be removed
+- a lot of discussion in the [community forum](https://community.foodsaving.world), for example about [pickup statistics](https://community.foodsaving.world/t/statistics-about-the-amount-of-saved-food/85/12)
+
+_by Tilmann_
+
+
 ## [Foodsaving Worldwide](https://foodsaving.world)
 
 ## About the heartbeat.
