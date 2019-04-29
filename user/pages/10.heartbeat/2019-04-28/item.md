@@ -8,7 +8,7 @@ taxonomy:
 published: true
 ---
 
-**The yunity heartbeat** - news from the world of sharing, fresh every two weeks.
+**The yunity heartbeat** - news from the world of sharing, fresh every month.
 
 ## [Harzgerode](http://freiefeldlage.de/)
 

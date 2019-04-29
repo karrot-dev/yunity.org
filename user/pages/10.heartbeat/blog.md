@@ -2,9 +2,9 @@
 title: Heartbeat
 blog_url: heartbeat
 metadata:
-    description: 'The fortnightly summary of what happens inside the yunity network'
+    description: 'The monthly summary of what happens inside the yunity network'
 menu: Heartbeat
-menu_description: The heartbeat is a fortnightly summary of what happens in yunity
+menu_description: The heartbeat is a monthly summary of what happens in yunity
 routes:
   aliases:
     - '/blog'
