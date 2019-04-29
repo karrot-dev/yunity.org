@@ -106,9 +106,6 @@ Other recent activity:
 
 _by Tilmann_
 
-
-## [Foodsaving Worldwide](https://foodsaving.world)
-
 ## About the heartbeat.
 The heartbeat is a monthly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
