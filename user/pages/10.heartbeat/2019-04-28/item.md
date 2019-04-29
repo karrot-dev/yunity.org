@@ -32,6 +32,9 @@ After the drastic events at the utopival 2017, this year there is a new chance t
 
 A week of getting together with likeminded people and learning about important topics of social and environmental change. A week of finding new inspiration and motivation for actually becoming active. A week of making new connections and friends for life. A week of summer, dancing and music at the bonfire. A week of late starry nights and deep questions. A week that you won't forget so easily.
 
+![Utopival artwork](utopivalHeader.jpg)<br>
+_Artwork that puts the meaning of utopival into pictures._
+
 The time will be framed by the five values „vegan“, „exchangelogic-free“, „drugfree“, „solidary“ and „ecological“.
 A small group of people is currently committed to do everything within their power to make the utopival this year another unforgettable experience. On Tuesday evening it will be decided where and when exactly the utopival will happen. It's probably at the beginning of September but the exact date will soon be announced on the [website](utopival.de) immediately. The application will be open until the 30th of May and afterwards 100 people will be drawn lots for.
 
@@ -41,7 +44,13 @@ _by Findus_
 
 MOVE preparation is in full swing. Not only in Harzgerode, but also at Kanthaus busy times are lying ahead: On the upcoming weekend the next MOVE meeting will take place at Kanthaus. This includes a lot of discussions about values, typing drafts, sending emails, making phone calls and realizing smaller and bigger ideas, but also spending time with beautiful people that are growing together in the process of organizing such a huge event together.
 
+![Orga people cuddling](moveCuddle.jpg)<br>
+_Some orga people enjoying each others company._
+
 The [MOVE](move-utopia.de) is about various people, groups and initiatives coming together to support change towards a world in which people live according to their needs and abilities. There will be a colorful program consisting of topics like permaculture, commons, critique of domination, communal living, degrowth, (queer-)feminism and much more. The MOVE will be a place to learn from and with each other, to develop strategies for social change, to build up sustainable connections and structures, to discuss and, of course, also to dance, laugh, sit around bonfires exchanging dreams, make new friends and enjoy life.
+
+![Decoration production in progress](moveDeko.jpg)<br>
+_The decoration team at work!_
 
 Application will also start on Tuesday and ideas for workshops or other topics are always welcome! You can contact us via info@move-utopia.de.
 
