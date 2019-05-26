@@ -17,10 +17,18 @@ Keeping our spaces free of clutter is an ongoing battle at Kanthaus. The newest 
 ![](storageRoomShelf.jpg)<br>
 _The new shelf in the storage room_
 
-![](shelfPlanning.jpg)<br>
+![](0shelfPlanning.jpg)<br>
 _Scribbling paper from the planning of longer ones_
 
 More sorting and tidying up happened in parallel to the planning and building of new shelves - also because our free shop gains popularity by the day! Up until now it's awesome that people want to not only take stuff but also donate, but it's just a matter of time until there's too much. So we need as much space as possible, so that we're always able to do proper sorting and keep the overview of what we already have. Because no matter how valuable something is, if it is part of an unidentifiable pile, it's nothing more than a burden.
+
+_by Janina_
+
+## [Foodsaving Worldwide](https://foodsaving.world)
+
+There is momentum again in [foodsharing Luxembourg](https://www.foodsharing.lu/)! Judging from the activity in [their Karrot group](https://karrot.world/#/groupPreview/33) they hold meetings and plan how to get really active together.
+
+We got an email from Chile again, this time from a person who experienced foodsharing in Copenhagen and is now excited to start something similar in their home country. As always, we're happy to connect people and to support them with knowledge! :)
 
 _by Janina_
 
