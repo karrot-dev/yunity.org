@@ -40,6 +40,20 @@ This year we want to make it _really_ international and host an international me
 
 _by Janina_
 
+## [Karrot](https://karrot.world)
+
+This June was quiet in terms of Karrot development, but some progress still was being made.
+
+Bruno [proposed a sharing feature](https://community.foodsaving.world/t/sharing-feature/281) for Karrot, for encouraging users to share food and other things directly via Karrot.
+
+I added an option to [export pickup feedback as CSV](https://community.foodsaving.world/t/statistics-about-the-amount-of-saved-food/85/27?u=tiltec). This will hopefully help groups to calculate detailed statistics that can't be found on Karrot yet.
+
+Me and Janina added a button to the settings menu to unsubscribe from all notification emails from a group. This was possible before by clicking the "unsubscribe" option from the bottom of a notification email, but we thought it would be useful to have it in the settings menu, too.
+
+Lastly, we are going to have [recurring calls about Karrot development](https://community.foodsaving.world/t/weekly-call-about-karrot-development/289) from now on. We invite interested users and potential developers to join the call and we will document meeting minutes publicly in the forum thread.
+
+_by Tilmann_
+
 ## About the heartbeat.
 The heartbeat is a monthly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
