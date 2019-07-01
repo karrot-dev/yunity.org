@@ -55,6 +55,9 @@ I added an option to [export pickup feedback as CSV](https://community.foodsavin
 
 Me and Janina added a button to the settings menu to unsubscribe from all notification emails from a group. This was possible before by clicking the "unsubscribe" option from the bottom of a notification email, but we thought it would be useful to have it in the settings menu, too.
 
+![](unsubscribeAllButton.png)<br>
+_The new button is below the checkboxes on the user's settings page_
+
 Lastly, we are going to have [recurring calls about Karrot development](https://community.foodsaving.world/t/weekly-call-about-karrot-development/289) from now on. We invite interested users and potential developers to join the call and we will document meeting minutes publicly in the forum thread.
 
 _by Tilmann_
