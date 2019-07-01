@@ -11,11 +11,14 @@ published: true
 **The yunity heartbeat** - news from the world of sharing, fresh every month.
 
 ## [MOVE UTOPIA](https://move-utopia.de/)
-MOVE is about to start!
+MOVE is about to start!<br>
+[Come and be part of it](https://move-utopia.de/en/anmeldung) from July 10 to 14 in Harzgerode!
+
+In case you managed to not have heard about it before: It's the event of the year for (aspiring) activists of all kinds who want to create a world that provides a good life for everybody using a system that is based on skills and needs rather than on money and privilege. We will tackle the big questions and try and live as equals who treat each other with respect, even if we disagree. MOVE Utopia is a big playground, learning opportunity, networking hub, courageous experiment and conscious summer party all at the same time.
 
 The [program is ready](https://move-utopia.de/de/infos/programm/programm.pdf) and comprises of 46 (!) pages of awesome workshops. Maybe you want to take the time to come up with a personalized time table for yourself in advance..? ;)
 
-![](moveCloud.jpg)
+![](moveBanner.png)
 
 _by Janina_
 
@@ -23,7 +26,9 @@ _by Janina_
 ## [Kanthaus](https://kanthaus.online)
 The most notable change compared to last month is that Kanthaus now has **3** additional members! We are super happy that Nathalie, Thore and Clara feel so much connection and commitment towards Kanthaus that they chose to make this their main base for the months to come. :)
 
-June started with an [orga meeting](https://kanthaus.online/events/2019-05-31_fsde-festival-meeting) of the [foodsharing festival](https://www.foodsharing-festival.org) people. It took place in an otherwise quite empty Kanthaus and lead to a lot of community building among the team members.
+Another quite obvious innovation is our new logo! [This blog post](https://kanthaus.online/blog/2019-06-22_new-logo) describes the process of how we got it.
+
+Event-wise June started with an [orga meeting](https://kanthaus.online/events/2019-05-31_fsde-festival-meeting) of the [foodsharing festival](https://www.foodsharing-festival.org) people. It took place in an otherwise quite empty Kanthaus and lead to a lot of community building among the team members. At the end of the month we also quite spontaneously hosted the very last [MOVE prep meeting](https://kanthaus.online/de/events/2019-06-24_move-meeting). On top of that we had Open Tuesdays every week, a foodsharing leftover brunch and a foodsharing Wurzen planning session.
 
 ![](gulaschkanone.jpg)<br>
 _Thanks to the foodsharing festival meeting we had a disco soup during an Open Tuesday!_
