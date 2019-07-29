@@ -41,6 +41,14 @@ _by Janina_
 ## [Kanthaus](https://kanthaus.online)
 While many people had left for MOVE and Auerworld, Kanthaus was still only empty for a few days. Because from July 18 to 25 we hosted the [inventaire open data week](https://kanthaus.online/en/events/2019-07-18_inventaire-week). Not a lot of people participated, but those who did enjoyed a lot of talks about books, how to catalog them, the principles of [linked data](https://en.wikipedia.org/wiki/Linked_data) and some French pair programming.
 
+Apart from that Kanthaus is still mostly in summer slumber. Some pieces of furniture get moved from A to B now and then, the garden grows nicely, people come and go between festivals, camps and congresses and recently we had a nice [warmshowers](https://www.warmshowers.org/) guest. Janina and Tilmann finished a new private room where before there was the crap room and due to the heat there are thoughts of creating a communal sleeping room where there is the silent office right now. Unfortunately that comes with quite the dependency chain, because for this to work the desk spaces would need to move to the dragon room, the sewing stuff from the dragon room would need to move to the sorting room, lots of things from the sorting room would need to go to the free shop storage - and that requires a lot of time spent on sorting. So maybe we'll just put some mattresses in the free shop for now, it's closed until September anyways... ;)
+
+_by Janina_
+
+## [Harzgerode](http://freiefeldlage.de/)
+
+## [Karrot](https://karrot.world)
+
 ## About the heartbeat.
 The heartbeat is a monthly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
 
