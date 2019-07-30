@@ -24,9 +24,9 @@ MOVE definitely surfaced some tension between different world views and managed 
 
 ![](../2019-07-01/moveBanner.png)<br>
 
-This leads to another point that was not ideal: MOVE was organized in a way that relied on everybody helping out. Nobody had to pay money for accommodation, food, drinks or education. This was only possible because all the work done in advance and during the event was done voluntarily by people like you and me. There was a shift system in place that allowed everybody to contribute. Unfortunately it was always the same people doing the work, many of which belonged to or were affiliated with the orga team.
+This leads to another point that was not ideal: MOVE was organized in a way that relied on everybody helping out. Nobody had to pay money for accommodation, food, drinks or education. This was only possible because all the work done in advance and during the event was done voluntarily by people like you and me. There was a shift system in place that allowed everybody to contribute. Unfortunately it was always the same people doing the work, many of which belonged to or were affiliated with the orga team. If everybody had taken over only 1 shift we would have been good, but since this didn't work we had a festival where some enjoyed a carefree vacation full of of interesting input, nice discussions, new encounters and being taken care of while others were constantly busy with keeping everything running. 
 
-These two examples show why there needs to be more MOVEs to come: There's _so_ much to learn and figure out together! How can we solve conflicts most productively? How can we overcome the consumer's mindset that today's world taught us so successfully? How can we truly emancipate ourselves, be free people and create the world that allows everybody to have a good life?s Let's come together again next year and do more steps into the direction of finding out! :)
+These two examples show why there needs to be more MOVEs to come: There's _so_ much to learn and figure out together! How can we solve conflicts most productively? How can we overcome the consumer's mindset that today's world taught us so successfully? How can we truly emancipate ourselves, be free people and create the world that allows everybody to have a good life? Let's come together again next year and do more steps into the direction of finding out! :)
 
 _by Janina_
 
@@ -38,16 +38,32 @@ Also, the foodsharing festival in Berlin is drawing nearer and as you may know t
 
 _by Janina_
 
+## [Harzgerode](http://freiefeldlage.de/)
+A lot of shit happened at MOVE Utopia, this shit needs to go somewhere! <br>
+The biodegradables need to compost for up to 3 years. There are some requirements for the composting system to be viable. These include:
+- no contaminated liquid seeps into the ground
+- no rainwater gets inside
+- some sort of oxygen supply
+- enough warmth
+
+To meet these requirements we started building a series of wooden compartments with sturdy tarp below. Liquid dripping out will be led into a drain via a constant slope. To make it easier to fill and empty the compartments, the front wooden planks are removable individually.
+
+![](compartmentsInside.jpg)<br>
+_Still under construction..._
+
+The first compartment is done now and 3 IBC tanks worth of shit got transferred. There's still space and the whole construction plan foresees 12 of these compartments in a row. Imagine all the shit that can go down there!
+
+![](shitCompartment.jpg)<br>
+_Fulfilling its purpose!_
+
+_by Bodhi & Tilmann_
+
 ## [Kanthaus](https://kanthaus.online)
 While many people had left for MOVE and Auerworld, Kanthaus was still only empty for a few days. Because from July 18 to 25 we hosted the [inventaire open data week](https://kanthaus.online/en/events/2019-07-18_inventaire-week). Not a lot of people participated, but those who did enjoyed a lot of talks about books, how to catalog them, the principles of [linked data](https://en.wikipedia.org/wiki/Linked_data) and some French pair programming.
 
-Apart from that Kanthaus is still mostly in summer slumber. Some pieces of furniture get moved from A to B now and then, the garden grows nicely, people come and go between festivals, camps and congresses and recently we had a nice [warmshowers](https://www.warmshowers.org/) guest. Janina and Tilmann finished a new private room where before there was the crap room and due to the heat there are thoughts of creating a communal sleeping room where there is the silent office right now. Unfortunately that comes with quite the dependency chain, because for this to work the desk spaces would need to move to the dragon room, the sewing stuff from the dragon room would need to move to the sorting room, lots of things from the sorting room would need to go to the free shop storage - and that requires a lot of time spent on sorting. So maybe we'll just put some mattresses in the free shop for now, it's closed until September anyways... ;)
+Apart from that Kanthaus is still mostly in summer slumber. Some pieces of furniture get moved from A to B now and then, the garden grows nicely, people come and go between festivals, camps and congresses and recently we had a nice [warmshowers](https://www.warmshowers.org/) guest. Janina and Tilmann finished a new private room where before there was the crap room and due to the heat there are thoughts of creating a communal sleeping room where there is the silent office right now. Unfortunately that comes with quite the dependency chain, because for this to work the desk spaces would need to move to the dragon room, the sewing stuff from the dragon room would need to move to the sorting room, lots of things from the sorting room would need to go to the free shop storage - and that requires a lot of time spent on sorting. So maybe we'll just put some mattresses on the floor of the free shop for now; it's on the ground level and closed until September anyways... ;)
 
 _by Janina_
-
-## [Harzgerode](http://freiefeldlage.de/)
-
-## [Karrot](https://karrot.world)
 
 ## About the heartbeat.
 The heartbeat is a monthly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
