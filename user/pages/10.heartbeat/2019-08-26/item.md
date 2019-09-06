@@ -14,12 +14,12 @@ published: true
 Almost tradition the foodsharing festival took place from 16th to 18th August for the 4th time in „Malzfabrik“, an old malt factory in the south of Berlin. Thanks to a beautiful location, pleasant weather and around 600 lovely people connected to the foodsharing movement, the idea of a foodsharing gathering became reality again.
 
 ![](fsfestival19.jpg)<br>
-_This year's group picture_
+_This year's group picture. Copyright: Luis Filippo Welz/Offenblen.de_
 
 But what exactly is the idea behind the festival? You can either call it a summer party, a festival or a great get-together. Once a year people already active on foodsharing.de finally meet in person - in contrast to the sometimes challenging online communication. Foodsharers und foodsavers from different cities exchange ideas, experiences and connect. But that's not it: welcoming all kinds of people, who didn't necessarily hear about foodsharing before, creates a vibrant environment – best ground for discussions, finding new friends and opening up to wider topics in the context of sustainability. While the core topic is still food waste, it's inevitable to think about consumerism, environment, politics and finance as well.
 
 ![](fsOvens.jpg)<br>
-_Two of the six small ovens that were used to cook for everybody_
+_Two of the six small ovens that were used to cook for everybody. Copyright: Jens Kaesemann_
 
 During day-time different workshops took place – from a panel discussion with guests from politics and industry to yoga. In the evening you could listen to live music. And in between many volunteers helped cooking and provided food for all visitors. As people differ so do the experiences how the festival was perceived: being in the orga team you mainly try to keep things running, belonging to the foodsharing board you see the opportunity to schedule a meeting, living in Berlin you come by for a few hours, discovering foodsharing you're keen on volunteering as much as possible between your favorite workshops. And that's the actual idea of the festival: coming together as a community.
 
@@ -43,7 +43,7 @@ _by findus_
 The foodsharing Festival in Berlin saw its very first really international meetup this year! We had a group from [Solikyl Gothenburg](http://solikyl.se/about/) (Sweden) and one from [Cucina Brigante Padua](https://www.facebook.com/CucinaBrigante/) (Italy), as well as individuals from different groups in Poland explicitly visiting the festival for this - and I was a little nervous how it would turn out to be.
 
 ![](fsfestivalInt.jpg)<br>
-_The meetup before the invited groups were even there!_
+_The meetup before the invited groups were even there! Copyright: Matthias Stange_
 
 But it was great! There were a lot more people interested in the topic than I had thought and everybody made great use of this networking opportunity. We talked about common problems and how the different groups solved them, shared perceptions and experiences with the legal situation, the differentiation from classic charity work and how to set to food-share points. I really enjoyed seeing the different active people networking between and helping each other, and the best was when I heard that one guy from Padua spontaneously decided to travel to Gothenburg and deepen the connection between the two foodsaving groups! :)
 
