@@ -25,7 +25,7 @@ During day-time different workshops took place – from a panel discussion with 
 
 _by Nathalie_
 
-## [Utopival](https://ww.utopival.de)
+## [Utopival](https://utopival.de)
 Countdown for utopival has started and with that also final preparations.
 
 A weekend ago almost the entire team came to Ganderkesee for some last days of laptop work and finalizing some thoughts, but also for good food and to enjoy the beautiful place where in less than a week the utopival will start.
