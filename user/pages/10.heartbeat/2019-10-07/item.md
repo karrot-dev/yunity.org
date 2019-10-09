@@ -58,6 +58,26 @@ In the last issue I already mentioned that we review our processes right now. On
 ![](mcm_needs.jpg)<br>
 _Gathering needs and wishes was the 1st step_
 
-After I accidentally broke our website by removing two pairs of double quotes, Tilmann built a service that automatically tries to access every single subpage on kanthaus.online before applying any changes. Because no, I was definitely not the first or only one to break stuff - this was just the moment where action was taken... ;)
+After I accidentally broke our website by removing two pairs of double quotes, Tilmann built [a service](https://github.com/kanthaus/kanthaus.online/blob/master/test.sh) that automatically tries to access every single subpage on kanthaus.online before applying any changes. Because no, I was definitely not the first or only one to break stuff - this was just the moment where action was taken... ;)
 
 _by Janina_
+
+## [Karrot](https://karrot.world)
+
+Finally, after months of preparation (and sometimes desparation), I released the redesign based on the first non-beta version of the [Quasar UI framework](https://quasar.dev). But it wasn't just about upgrading Quasar, I also fixed and improved some smaller things while I was at it. For example, the topbar search now shows profile pictures next to user names!
+
+With the new release also came major translation updates: Czech, Spanish and Esperanto are on 100%, while German reached 89% - many thanks to the translators, especially Carlos and Jirka!
+
+![](karrot-landing.png)<br>
+_A screenshot from the slightly redesigned wall. Actually it looks very similar to before!_
+
+[Our weekly call](https://community.foodsaving.world/t/weekly-call-about-karrot-development/289/27) continues since we started it in July. We're usually 3-5 people discussing bits and bobs about Karrot, foodsaving worldwide and sometimes politics. A typical call takes around an hour and is guided through by the facilitator - one of us who volunteered the week before. I think we all find this format helpful to establish more human contact and get some focus on Karrot topics once in a while.
+
+Also in September, I moved Karrot away from the Sparkpost email service provider because they reduced their free plan dramatically. I went through a week-long journey of finding a good self-hosted solution, setting it up and keeping it running. But it seems worth it! So far, we sent around 14k emails with the new setup. Occasionally I keep an eye on failed email deliveries to see if we ended up on some blacklist, but it seems still fine. If you're interested in more details, you might want to read [my blog post](https://blog.karrot.world/2019/09/25/setting-up-email-service.html).
+
+![](karrot-postal.png)<br>
+_This is how our new self-hosted email system looks in the web browser. Pretty exciting, if you ask me ;)_
+
+This winter, we are planning to have a "Month of Karrot" in January at [Kanthaus](https://kanthaus.online/). I expect the same cozy and productive atmosphere as last time! :)
+
+_by Tilmann_
