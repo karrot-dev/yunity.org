@@ -42,7 +42,7 @@ If you know people that could share their knowledge, moderate parts of the writi
 _by findus_
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
-Two very motivated people from Czech Republic stumbled across our project recently. One immediately started contributing translations and bug reports to Karrot (thank you very much!) and the other would like to import foodsharing. We're happy to encounter so much energy and are looking forward to seeing where this might lead!
+Two very motivated people from Czech Republic stumbled across our project recently. One immediately started contributing translations and bug reports to Karrot (thank you very much!) and the other is getting ready to import foodsharing as a whole. We're happy to encounter so much energy and are looking forward to seeing where this might lead!
 
 In Leuven, Belgium, there also is an active foodsaving group that now wants to start using Karrot. Next year they will have a hackathon organized by [FoodWIN](https://foodwin.org/) where Bianca - who wrote to us - is interested in pitching ideas to progress Karrot. This already sounds like a fruitful partnership!
 
@@ -85,3 +85,9 @@ _This is how our new self-hosted email system looks in the web browser. Pretty e
 This winter, we are planning to have a "Month of Karrot" in January at [Kanthaus](https://kanthaus.online/). I expect the same cozy and productive atmosphere as last time! :)
 
 _by Tilmann_
+
+## About the heartbeat.
+The heartbeat is a monthly summary of what happens in yunity. It is meant to give an overview over our currents actions and topics.
+
+### How to contribute?
+Talk to us in [#heartbeat](https://yunity.slack.com/messages/heartbeat/) on [Slack](https://slackin.yunity.org) if you want to add content, change the layout or any other heartbeat related issues and ideas! We are also happy about any kind of feedback!
