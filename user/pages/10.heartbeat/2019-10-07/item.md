@@ -42,9 +42,13 @@ If you know people that could share their knowledge, moderate parts of the writi
 _by findus_
 
 ## [Foodsaving Worldwide](https://foodsaving.world)
-Czech Republic
-Belgium
-Stockholm
+Two very motivated people from Czech Republic stumbled across our project recently. One immediately started contributing translations and bug reports to Karrot (thank you very much!) and the other would like to import foodsharing. We're happy to encounter so much energy and are looking forward to seeing where this might lead!
+
+In Leuven, Belgium, there also is an active foodsaving group that now wants to start using Karrot. Next year they will have a hackathon organized by [FoodWIN](https://foodwin.org/) where Bianca - who wrote to us - is interested in pitching ideas to progress Karrot. This already sounds like a fruitful partnership!
+
+In Stockholm the foodsaving plans get more and more concrete. Bruno is in contact with Naomi, who we know from old yunity days, and apparently there's quite some people wanting to help. The first meeting took place already in April and now the group is getting ready to initiate their first cooperations. We wish them all the best and wait for good news!
+
+_by Janina_
 
 
 ## [Kanthaus](https://kanthaus.online)
@@ -64,14 +68,14 @@ _by Janina_
 
 ## [Karrot](https://karrot.world)
 
-Finally, after months of preparation (and sometimes desparation), I released the redesign based on the first non-beta version of the [Quasar UI framework](https://quasar.dev). But it wasn't just about upgrading Quasar, I also fixed and improved some smaller things while I was at it. For example, the topbar search now shows profile pictures next to user names!
+Finally, after months of preparation (and sometimes desperation), I released the redesign based on the first non-beta version of the [Quasar UI framework](https://quasar.dev). But it wasn't just about upgrading Quasar, I also fixed and improved some smaller things while I was at it. For example, the topbar search now shows profile pictures next to user names!
 
 With the new release also came major translation updates: Czech, Spanish and Esperanto are on 100%, while German reached 89% - many thanks to the translators, especially Carlos and Jirka!
 
 ![](karrot-landing.png)<br>
 _A screenshot from the slightly redesigned wall. Actually it looks very similar to before!_
 
-[Our weekly call](https://community.foodsaving.world/t/weekly-call-about-karrot-development/289/27) continues since we started it in July. We're usually 3-5 people discussing bits and bobs about Karrot, foodsaving worldwide and sometimes politics. A typical call takes around an hour and is guided through by the facilitator - one of us who volunteered the week before. I think we all find this format helpful to establish more human contact and get some focus on Karrot topics once in a while.
+[Our weekly call](https://community.foodsaving.world/t/weekly-call-about-karrot-development/289/27) continues since we started it in July. We're usually 3-5 people discussing bits and bobs about Karrot, foodsaving worldwide and sometimes politics. A typical call takes around an hour and is guided through by the facilitator - one of us who volunteered the week before. I think we all find this format helpful to establish more human contact and get some focus on Karrot topics once in a while. If you're interested in joining as well, please feel free to do so!
 
 Also in September, I moved Karrot away from the Sparkpost email service provider because they reduced their free plan dramatically. I went through a week-long journey of finding a good self-hosted solution, setting it up and keeping it running. But it seems worth it! So far, we sent around 14k emails with the new setup. Occasionally I keep an eye on failed email deliveries to see if we ended up on some blacklist, but it seems still fine. If you're interested in more details, you might want to read [my blog post](https://blog.karrot.world/2019/09/25/setting-up-email-service.html).
 
