@@ -50,6 +50,14 @@ Stockholm
 ## [Kanthaus](https://kanthaus.online)
 Maybe it was a bit late, but we had our very first ever Kanthaus Sommerfest on September 28! Many people came from Wurzen and Leipzig, helped cutting saved veggies in the disco soup, participated in one of the three house tours, listened to us presenting our projects, ate, talked and generally had a good time. We even had live music and fancy light installations next to the obligatory open fires when it got dark. To get a more detailed impression, please read [Lise's blog post](https://kanthaus.online/blog/2019-10-02_sommerfest) about this really successful event!
 
-![](sommerfest.jpg)<br>
+![](sf_concert.jpg)<br>
+_Concert by Oh No Noh next to the fire_
 
-MCM
+In the last issue I already mentioned that we review our processes right now. One pretty concrete outcome is the new MCM - which translates to mega, meta or master coordination meeting. It is a meeting with a completely new structure, it takes a whole day and is meant to provide a plan for the coming year of Kanthaus-related work. We had our first MCM on September 22 and it was a very positive experience: All present Kanthausians took part (8 people in total) and in the end everybody described it as a nice communal day of dreaming and planning. The detailed structure can be reviewed [here](https://gitlab.com/kanthaus/kanthaus-public/blob/master/2019-MCM/mcmStructureProposal.md). The result of the day is that we now have a dedicated roof team (Tilmann and Silvan), stuff team (Bodhi, Matthias and Thore) and room team (Nathalie and Janina), which take care of pushing their topics, give information about the current status at every CoMe (coordination meeting, Mondays at 10 am) and gather and integrate other people's opinions. We're all pretty happy to have clearer responsibilities and hope for good progress over the winter!
+
+![](mcm_needs.jpg)<br>
+_Gathering needs and wishes was the 1st step_
+
+After I accidentally broke our website by removing two pairs of double quotes, Tilmann built a service that automatically tries to access every single subpage on kanthaus.online before applying any changes. Because no, I was definitely not the first or only one to break stuff - this was just the moment where action was taken... ;)
+
+_by Janina_
