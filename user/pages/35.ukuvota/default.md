@@ -15,4 +15,4 @@ image: 'logo.png'
 ![](ukuvota-screenshot.png)
 
 * App: [https://ukuvota.world](https://ukuvota.world?target=_blank)
-* Code: [https://gitlab.com/yunity/ukuvota](https://gitlab.com/yunity/ukuvota?target=_blank)
+* Code: [https://github.com/waotzi/ukuvota](https://github.com/waotzi/ukuvota)
