@@ -1,0 +1,11 @@
+#!/bin/bash
+
+set -eu
+
+rsync \
+  -av \
+  --delete \
+  --info=progress2 \
+  --rsync-path="sudo -u yunity-org rsync" \
+  archive/out/localhost\:8765/ \
+  yuca:/var/www/yunity-org/www/
