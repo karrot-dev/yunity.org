@@ -1,0 +1,5 @@
+localhost:9090 {
+	root archive/out/localhost:8765
+	try_files {path} {path}.html
+	file_server
+}

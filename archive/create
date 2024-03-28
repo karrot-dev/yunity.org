@@ -1,0 +1,59 @@
+#!/bin/bash
+
+set -eux
+
+image="yunity-org-archive"
+container="yunity-org-archive"
+port="8765"
+
+echo "Building image"
+docker build -t "$image" .
+
+echo "Removing existing container, if exists"
+docker rm -f "$container"
+
+echo "Installing composer dependencies"
+docker run \
+  --name "$container" \
+  --rm -it \
+  -v $(pwd):/site \
+  --network host \
+  --user $(id -u) \
+  "$image" \
+  composer install
+
+echo "Running server"
+docker run \
+  --name "$container" \
+  --rm -it \
+  --detach \
+  -v $(pwd):/site \
+  --network host \
+  --user $(id -u) \
+  "$image" \
+  php -S "127.0.0.1:$port" system/router.php
+
+echo "Waiting for start"
+sleep 3
+
+echo "Removing existing archive"
+rm -rf achive/out
+
+echo "Creating archive"
+wget -P archive/out \
+  --mirror \
+  --adjust-extension \
+  "http://localhost:$port" || true
+
+echo "Finished archive $?"
+
+pushd "archive/out/localhost:$port"
+echo "Fixing a few links"
+grep -R http://localhost:8765 -l | xargs -I{} sed -i 's/http:\/\/localhost:8765//g' '{}'
+echo "Fix /en page"
+cp index.html en.html
+popd
+
+
+echo "Removing container $container"
+docker rm -f "$container"

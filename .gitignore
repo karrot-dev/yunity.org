@@ -7,3 +7,4 @@ images/*
 node_modules
 
 !*/KEEP_THIS_DIRECTORY
+archive/out
