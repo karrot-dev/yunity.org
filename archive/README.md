@@ -36,3 +36,11 @@ caddy run
 ```
 
 Which will listen on http://localhost:9090
+
+**Note**: it requires a webserver config that can serve up blah.html when you request blah
+
+Assuming you have sufficient access, you can deploy it with:
+
+```bash
+./archive/deploy
+```
